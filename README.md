@@ -6,10 +6,10 @@ Proposal on OSM Wiki - [Dakota County Building Import] (http://wiki.openstreetma
 
 ## Downloads
 OSM sample area files
-[NE2811519.zip] (https://github.com/DcJoeS/dakota-county-osm-building-import/osm/NE2811519.zip)
+[NE2811519.zip] (https://github.com/DcJoeS/dakota-county-osm-building-import/blob/master/osm/NE2811519.zip)
 
 Shapefile sample area file
-[NE2811519.zip] (https://github.com/DcJoeS/dakota-county-osm-building-import/shp/NE2811519.zip)
+[NE2811519.zip] (https://github.com/DcJoeS/dakota-county-osm-building-import/blob/master/shp/NE2811519.zip)
 
 ## WMS 2016 Aerial Photography
 Feel free to access Dakota County's 2015 Aerial Photography by adding a WMS to JOSM.  Not sure why it throws errors/warnings because it looks just fine.
