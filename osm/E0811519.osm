@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-2" lat="44.77536096" lon="-93.123117868" visible="true"/>
+<node id="-3" lat="44.775373845" lon="-93.12308236" visible="true"/>
+<node id="-4" lat="44.775354623" lon="-93.12306864" visible="true"/>
+<node id="-5" lat="44.775374088" lon="-93.123014974" visible="true"/>
+<node id="-6" lat="44.775305711" lon="-93.122966107" visible="true"/>
+<node id="-7" lat="44.775267984" lon="-93.123070199" visible="true"/>
+<node id="-8" lat="44.77529149" lon="-93.123087024" visible="true"/>
+<node id="-9" lat="44.775256219" lon="-93.123184331" visible="true"/>
+<node id="-10" lat="44.775378719" lon="-93.123271869" visible="true"/>
+<node id="-11" lat="44.775419395" lon="-93.123159643" visible="true"/>
+<node id="-13" lat="44.775606894" lon="-93.118849873" visible="true"/>
+<node id="-14" lat="44.77557889" lon="-93.118855894" visible="true"/>
+<node id="-15" lat="44.775583244" lon="-93.11889579" visible="true"/>
+<node id="-16" lat="44.775610969" lon="-93.118887236" visible="true"/>
+<node id="-18" lat="44.775479316" lon="-93.118479869" visible="true"/>
+<node id="-19" lat="44.775478942" lon="-93.118517298" visible="true"/>
+<node id="-20" lat="44.775411167" lon="-93.118516028" visible="true"/>
+<node id="-21" lat="44.775409749" lon="-93.118663241" visible="true"/>
+<node id="-22" lat="44.775478291" lon="-93.118664508" visible="true"/>
+<node id="-23" lat="44.775477569" lon="-93.118738557" visible="true"/>
+<node id="-24" lat="44.775616958" lon="-93.118741163" visible="true"/>
+<node id="-25" lat="44.775619444" lon="-93.118482509" visible="true"/>
+<node id="-27" lat="44.775734481" lon="-93.120339824" visible="true"/>
+<node id="-28" lat="44.77567503" lon="-93.120355782" visible="true"/>
+<node id="-29" lat="44.77559603" lon="-93.12037889" visible="true"/>
+<node id="-30" lat="44.775638655" lon="-93.120684444" visible="true"/>
+<node id="-31" lat="44.775673681" lon="-93.120673516" visible="true"/>
+<node id="-32" lat="44.775683629" lon="-93.120669649" visible="true"/>
+<node id="-33" lat="44.775774692" lon="-93.120646083" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="12055"/><tag k="addr:city" v="Rosemount"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55068"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Dodd Boulevard"/></way>
+<way id="-12" visible="true"><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-13"/><tag k="building" v="shed"/></way>
+<way id="-17" visible="true"><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-18"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="2625"/><tag k="addr:city" v="Rosemount"/><tag k="addr:postcode" v="55068"/><tag k="addr:state" v="MN"/><tag k="name" v="Rosemount Vfw Post 9433"/><tag k="addr:country" v="US"/><tag k="addr:street" v="120th Street West"/></way>
+<way id="-26" visible="true"><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-27"/><tag k="building" v="garage"/></way>
+</osm>

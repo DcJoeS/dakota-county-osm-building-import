@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-2" lat="44.835435476" lon="-93.198558807" visible="true"/>
+<node id="-3" lat="44.835410844" lon="-93.198578998" visible="true"/>
+<node id="-4" lat="44.835389826" lon="-93.198537829" visible="true"/>
+<node id="-5" lat="44.835358149" lon="-93.198559976" visible="true"/>
+<node id="-6" lat="44.835333814" lon="-93.198524599" visible="true"/>
+<node id="-7" lat="44.835293151" lon="-93.198558339" visible="true"/>
+<node id="-8" lat="44.835255432" lon="-93.19859592" visible="true"/>
+<node id="-9" lat="44.835200868" lon="-93.198628621" visible="true"/>
+<node id="-10" lat="44.835164666" lon="-93.19863731" visible="true"/>
+<node id="-11" lat="44.835142348" lon="-93.198637409" visible="true"/>
+<node id="-12" lat="44.835115913" lon="-93.198633951" visible="true"/>
+<node id="-13" lat="44.835096915" lon="-93.198629085" visible="true"/>
+<node id="-14" lat="44.835100206" lon="-93.198607338" visible="true"/>
+<node id="-15" lat="44.834548644" lon="-93.198446668" visible="true"/>
+<node id="-16" lat="44.8349222" lon="-93.199263927" visible="true"/>
+<node id="-17" lat="44.835628411" lon="-93.198618193" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-2"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="1800"/><tag k="addr:city" v="Eagan"/><tag k="addr:postcode" v="55121"/><tag k="addr:state" v="MN"/><tag k="name" v="Bcbs River Park 2 Customer Srvc"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Yankee Doodle Road"/></way>
+</osm>

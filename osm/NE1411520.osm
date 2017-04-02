@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-2" lat="44.770462025" lon="-93.17902151" visible="true"/>
+<node id="-3" lat="44.770461592" lon="-93.1790537" visible="true"/>
+<node id="-4" lat="44.770490354" lon="-93.179054463" visible="true"/>
+<node id="-5" lat="44.770490786" lon="-93.17902227" visible="true"/>
+<node id="-7" lat="44.770802167" lon="-93.185425171" visible="true"/>
+<node id="-8" lat="44.770757214" lon="-93.185430542" visible="true"/>
+<node id="-9" lat="44.770763666" lon="-93.185670187" visible="true"/>
+<node id="-10" lat="44.77080453" lon="-93.185667345" visible="true"/>
+<node id="-12" lat="44.77103237" lon="-93.185658692" visible="true"/>
+<node id="-13" lat="44.770991582" lon="-93.185670184" visible="true"/>
+<node id="-14" lat="44.771002478" lon="-93.185755329" visible="true"/>
+<node id="-15" lat="44.771042226" lon="-93.185746748" visible="true"/>
+<node id="-17" lat="44.771201994" lon="-93.185929442" visible="true"/>
+<node id="-18" lat="44.771162748" lon="-93.185929088" visible="true"/>
+<node id="-19" lat="44.771162919" lon="-93.185968083" visible="true"/>
+<node id="-20" lat="44.771203016" lon="-93.185969679" visible="true"/>
+<node id="-22" lat="44.771223416" lon="-93.186079097" visible="true"/>
+<node id="-23" lat="44.771154384" lon="-93.186090279" visible="true"/>
+<node id="-24" lat="44.771163834" lon="-93.186213506" visible="true"/>
+<node id="-25" lat="44.771234192" lon="-93.186201323" visible="true"/>
+<node id="-27" lat="44.771400081" lon="-93.185464816" visible="true"/>
+<node id="-28" lat="44.771282995" lon="-93.185460756" visible="true"/>
+<node id="-29" lat="44.771276672" lon="-93.185557577" visible="true"/>
+<node id="-30" lat="44.771273698" lon="-93.185831159" visible="true"/>
+<node id="-31" lat="44.771363715" lon="-93.185834241" visible="true"/>
+<node id="-32" lat="44.771367026" lon="-93.185549854" visible="true"/>
+<node id="-33" lat="44.771400607" lon="-93.185550809" visible="true"/>
+<node id="-35" lat="44.773774919" lon="-93.180726167" visible="true"/>
+<node id="-36" lat="44.773684455" lon="-93.180760292" visible="true"/>
+<node id="-37" lat="44.773715889" lon="-93.180924535" visible="true"/>
+<node id="-38" lat="44.773806359" lon="-93.180890467" visible="true"/>
+<node id="-40" lat="44.774452461" lon="-93.186500335" visible="true"/>
+<node id="-41" lat="44.774349902" lon="-93.186524912" visible="true"/>
+<node id="-42" lat="44.774367629" lon="-93.186670753" visible="true"/>
+<node id="-43" lat="44.774470191" lon="-93.186646179" visible="true"/>
+<node id="-45" lat="44.774587221" lon="-93.184411731" visible="true"/>
+<node id="-46" lat="44.77449616" lon="-93.18441068" visible="true"/>
+<node id="-47" lat="44.774475035" lon="-93.184497531" visible="true"/>
+<node id="-48" lat="44.774603582" lon="-93.184504258" visible="true"/>
+<node id="-50" lat="44.774778946" lon="-93.186369499" visible="true"/>
+<node id="-51" lat="44.774750765" lon="-93.186378241" visible="true"/>
+<node id="-52" lat="44.774737387" lon="-93.186407134" visible="true"/>
+<node id="-53" lat="44.774748343" lon="-93.186461328" visible="true"/>
+<node id="-54" lat="44.774790076" lon="-93.186448392" visible="true"/>
+<node id="-56" lat="44.775130537" lon="-93.178961441" visible="true"/>
+<node id="-57" lat="44.775125965" lon="-93.179001081" visible="true"/>
+<node id="-58" lat="44.775151509" lon="-93.17900689" visible="true"/>
+<node id="-59" lat="44.775156078" lon="-93.178967249" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="building" v="shed"/></way>
+<way id="-6" visible="true"><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-7"/><tag k="building" v="garage"/></way>
+<way id="-11" visible="true"><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-12"/><tag k="building" v="shed"/></way>
+<way id="-16" visible="true"><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-17"/><tag k="building" v="shed"/></way>
+<way id="-21" visible="true"><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-22"/><tag k="building" v="garage"/></way>
+<way id="-26" visible="true"><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-27"/><tag k="building" v="house"/><tag k="addr:housenumber" v="12294"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55124"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Johnny Cake Ridge Road"/></way>
+<way id="-34" visible="true"><nd ref="-35"/><nd ref="-36"/><nd ref="-37"/><nd ref="-38"/><nd ref="-35"/><tag k="building" v="garage"/></way>
+<way id="-39" visible="true"><nd ref="-40"/><nd ref="-41"/><nd ref="-42"/><nd ref="-43"/><nd ref="-40"/><tag k="building" v="garage"/></way>
+<way id="-44" visible="true"><nd ref="-45"/><nd ref="-46"/><nd ref="-47"/><nd ref="-48"/><nd ref="-45"/><tag k="building" v="garage"/></way>
+<way id="-49" visible="true"><nd ref="-50"/><nd ref="-51"/><nd ref="-52"/><nd ref="-53"/><nd ref="-54"/><nd ref="-50"/><tag k="building" v="shed"/></way>
+<way id="-55" visible="true"><nd ref="-56"/><nd ref="-57"/><nd ref="-58"/><nd ref="-59"/><nd ref="-56"/><tag k="building" v="shed"/></way>
+</osm>

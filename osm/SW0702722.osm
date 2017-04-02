@@ -1,0 +1,948 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-2" lat="44.83385409" lon="-93.097309658" visible="true"/>
+<node id="-3" lat="44.833725928" lon="-93.0974119" visible="true"/>
+<node id="-4" lat="44.833774153" lon="-93.097530435" visible="true"/>
+<node id="-5" lat="44.833820707" lon="-93.097493642" visible="true"/>
+<node id="-6" lat="44.833835313" lon="-93.097529819" visible="true"/>
+<node id="-7" lat="44.833850649" lon="-93.097517812" visible="true"/>
+<node id="-8" lat="44.833866633" lon="-93.097557453" visible="true"/>
+<node id="-9" lat="44.833932904" lon="-93.097504588" visible="true"/>
+<node id="-11" lat="44.833870069" lon="-93.098207688" visible="true"/>
+<node id="-12" lat="44.833783814" lon="-93.098280863" visible="true"/>
+<node id="-13" lat="44.833862607" lon="-93.098465194" visible="true"/>
+<node id="-14" lat="44.833949136" lon="-93.09839202" visible="true"/>
+<node id="-16" lat="44.833925062" lon="-93.09871203" visible="true"/>
+<node id="-17" lat="44.833884629" lon="-93.098795825" visible="true"/>
+<node id="-18" lat="44.833868143" lon="-93.098779697" visible="true"/>
+<node id="-19" lat="44.833821246" lon="-93.098877521" visible="true"/>
+<node id="-20" lat="44.833921168" lon="-93.098971837" visible="true"/>
+<node id="-21" lat="44.833974715" lon="-93.098861783" visible="true"/>
+<node id="-22" lat="44.833952458" lon="-93.098840281" visible="true"/>
+<node id="-23" lat="44.833986061" lon="-93.098770389" visible="true"/>
+<node id="-25" lat="44.833941797" lon="-93.098427123" visible="true"/>
+<node id="-26" lat="44.833894514" lon="-93.098513254" visible="true"/>
+<node id="-27" lat="44.833954018" lon="-93.098578942" visible="true"/>
+<node id="-28" lat="44.834002262" lon="-93.098492807" visible="true"/>
+<node id="-30" lat="44.83408156" lon="-93.104048738" visible="true"/>
+<node id="-31" lat="44.834034431" lon="-93.104073194" visible="true"/>
+<node id="-32" lat="44.83402946" lon="-93.10405471" visible="true"/>
+<node id="-33" lat="44.834022589" lon="-93.104047027" visible="true"/>
+<node id="-34" lat="44.833872162" lon="-93.10412544" visible="true"/>
+<node id="-35" lat="44.833878239" lon="-93.10414893" visible="true"/>
+<node id="-36" lat="44.833814672" lon="-93.104182311" visible="true"/>
+<node id="-37" lat="44.833842846" lon="-93.104289747" visible="true"/>
+<node id="-38" lat="44.83389792" lon="-93.104260637" visible="true"/>
+<node id="-39" lat="44.833906207" lon="-93.104292599" visible="true"/>
+<node id="-40" lat="44.834056634" lon="-93.104213801" visible="true"/>
+<node id="-41" lat="44.834072654" lon="-93.104274644" visible="true"/>
+<node id="-42" lat="44.834133209" lon="-93.104243201" visible="true"/>
+<node id="-44" lat="44.834546857" lon="-93.096151453" visible="true"/>
+<node id="-45" lat="44.834473384" lon="-93.096167151" visible="true"/>
+<node id="-46" lat="44.834484002" lon="-93.09626887" visible="true"/>
+<node id="-47" lat="44.83455775" lon="-93.096253171" visible="true"/>
+<node id="-49" lat="44.834845919" lon="-93.097780397" visible="true"/>
+<node id="-50" lat="44.834794934" lon="-93.097795622" visible="true"/>
+<node id="-51" lat="44.834800771" lon="-93.097835687" visible="true"/>
+<node id="-52" lat="44.834851756" lon="-93.097820847" visible="true"/>
+<node id="-54" lat="44.834860663" lon="-93.097530374" visible="true"/>
+<node id="-55" lat="44.834867193" lon="-93.097519445" visible="true"/>
+<node id="-56" lat="44.834872329" lon="-93.097506763" visible="true"/>
+<node id="-57" lat="44.834875752" lon="-93.097492955" visible="true"/>
+<node id="-58" lat="44.834877357" lon="-93.097478487" visible="true"/>
+<node id="-59" lat="44.834877079" lon="-93.097463849" visible="true"/>
+<node id="-60" lat="44.834874934" lon="-93.097449536" visible="true"/>
+<node id="-61" lat="44.834870992" lon="-93.097436034" visible="true"/>
+<node id="-62" lat="44.834865387" lon="-93.097423797" visible="true"/>
+<node id="-63" lat="44.834858307" lon="-93.09741324" visible="true"/>
+<node id="-64" lat="44.834849994" lon="-93.097404718" visible="true"/>
+<node id="-65" lat="44.834840728" lon="-93.09739852" visible="true"/>
+<node id="-66" lat="44.834830826" lon="-93.097394861" visible="true"/>
+<node id="-67" lat="44.834820615" lon="-93.097393855" visible="true"/>
+<node id="-68" lat="44.834810449" lon="-93.097395548" visible="true"/>
+<node id="-69" lat="44.834800663" lon="-93.09739987" visible="true"/>
+<node id="-70" lat="44.834791598" lon="-93.097406686" visible="true"/>
+<node id="-71" lat="44.834783552" lon="-93.097415758" visible="true"/>
+<node id="-72" lat="44.834776801" lon="-93.097426781" visible="true"/>
+<node id="-73" lat="44.834771573" lon="-93.097439382" visible="true"/>
+<node id="-74" lat="44.834768045" lon="-93.097453136" visible="true"/>
+<node id="-75" lat="44.834766337" lon="-93.097467582" visible="true"/>
+<node id="-76" lat="44.834766505" lon="-93.097482221" visible="true"/>
+<node id="-77" lat="44.834768545" lon="-93.097496568" visible="true"/>
+<node id="-78" lat="44.834772386" lon="-93.097510128" visible="true"/>
+<node id="-79" lat="44.834777901" lon="-93.097522451" visible="true"/>
+<node id="-80" lat="44.834784902" lon="-93.097533116" visible="true"/>
+<node id="-81" lat="44.834793149" lon="-93.097541765" visible="true"/>
+<node id="-82" lat="44.834802368" lon="-93.097548098" visible="true"/>
+<node id="-83" lat="44.834812243" lon="-93.097551911" visible="true"/>
+<node id="-84" lat="44.834822446" lon="-93.097553067" visible="true"/>
+<node id="-85" lat="44.834829875" lon="-93.097565374" visible="true"/>
+<node id="-86" lat="44.834821117" lon="-93.097575814" visible="true"/>
+<node id="-87" lat="44.834836526" lon="-93.097601581" visible="true"/>
+<node id="-88" lat="44.834847348" lon="-93.097595373" visible="true"/>
+<node id="-89" lat="44.834879695" lon="-93.09756313" visible="true"/>
+<node id="-91" lat="44.834916951" lon="-93.097413141" visible="true"/>
+<node id="-92" lat="44.834883523" lon="-93.097425983" visible="true"/>
+<node id="-93" lat="44.834898254" lon="-93.097500748" visible="true"/>
+<node id="-94" lat="44.834931652" lon="-93.097487752" visible="true"/>
+<node id="-96" lat="44.834978929" lon="-93.097637874" visible="true"/>
+<node id="-97" lat="44.834865561" lon="-93.097665121" visible="true"/>
+<node id="-98" lat="44.834879681" lon="-93.097777689" visible="true"/>
+<node id="-99" lat="44.834992638" lon="-93.097750539" visible="true"/>
+<node id="-101" lat="44.834896665" lon="-93.101544541" visible="true"/>
+<node id="-102" lat="44.83487054" lon="-93.101653336" visible="true"/>
+<node id="-103" lat="44.835062699" lon="-93.101745132" visible="true"/>
+<node id="-104" lat="44.835088825" lon="-93.101636336" visible="true"/>
+<node id="-106" lat="44.835165966" lon="-93.104911261" visible="true"/>
+<node id="-107" lat="44.835165877" lon="-93.105011096" visible="true"/>
+<node id="-108" lat="44.835209211" lon="-93.105010937" visible="true"/>
+<node id="-109" lat="44.8352093" lon="-93.104911103" visible="true"/>
+<node id="-111" lat="44.835328828" lon="-93.099757118" visible="true"/>
+<node id="-112" lat="44.835327815" lon="-93.099801449" visible="true"/>
+<node id="-113" lat="44.83537225" lon="-93.099803982" visible="true"/>
+<node id="-114" lat="44.835373264" lon="-93.09975965" visible="true"/>
+<node id="-116" lat="44.835332962" lon="-93.097675265" visible="true"/>
+<node id="-117" lat="44.835219065" lon="-93.097744353" visible="true"/>
+<node id="-118" lat="44.835287121" lon="-93.097965952" visible="true"/>
+<node id="-119" lat="44.835401625" lon="-93.097898848" visible="true"/>
+<node id="-121" lat="44.835546543" lon="-93.097430738" visible="true"/>
+<node id="-122" lat="44.835488014" lon="-93.097467773" visible="true"/>
+<node id="-123" lat="44.835446105" lon="-93.097336973" visible="true"/>
+<node id="-124" lat="44.835295101" lon="-93.097432532" visible="true"/>
+<node id="-125" lat="44.835372691" lon="-93.097674706" visible="true"/>
+<node id="-126" lat="44.835498693" lon="-93.097597389" visible="true"/>
+<node id="-127" lat="44.835521177" lon="-93.097667565" visible="true"/>
+<node id="-128" lat="44.835605355" lon="-93.097614298" visible="true"/>
+<node id="-130" lat="44.835617367" lon="-93.097316088" visible="true"/>
+<node id="-131" lat="44.835572982" lon="-93.097340154" visible="true"/>
+<node id="-132" lat="44.835587616" lon="-93.097390979" visible="true"/>
+<node id="-133" lat="44.83563145" lon="-93.097366144" visible="true"/>
+<node id="-135" lat="44.83569659" lon="-93.099886027" visible="true"/>
+<node id="-136" lat="44.83560582" lon="-93.099892533" visible="true"/>
+<node id="-137" lat="44.835616565" lon="-93.100208569" visible="true"/>
+<node id="-138" lat="44.83569198" lon="-93.100203661" visible="true"/>
+<node id="-139" lat="44.835687619" lon="-93.100072622" visible="true"/>
+<node id="-140" lat="44.835702975" lon="-93.100071409" visible="true"/>
+<node id="-142" lat="44.835897433" lon="-93.104316908" visible="true"/>
+<node id="-143" lat="44.835899744" lon="-93.104232098" visible="true"/>
+<node id="-144" lat="44.835883561" lon="-93.104231387" visible="true"/>
+<node id="-145" lat="44.835886036" lon="-93.104161802" visible="true"/>
+<node id="-146" lat="44.8357792" lon="-93.10415622" visible="true"/>
+<node id="-147" lat="44.8357769" lon="-93.104247581" visible="true"/>
+<node id="-148" lat="44.835799941" lon="-93.104248653" visible="true"/>
+<node id="-149" lat="44.835796359" lon="-93.104387818" visible="true"/>
+<node id="-150" lat="44.835906078" lon="-93.104393583" visible="true"/>
+<node id="-151" lat="44.83590813" lon="-93.104317254" visible="true"/>
+<node id="-153" lat="44.83616407" lon="-93.10383255" visible="true"/>
+<node id="-154" lat="44.83614256" lon="-93.103834275" visible="true"/>
+<node id="-155" lat="44.836143793" lon="-93.103864649" visible="true"/>
+<node id="-156" lat="44.836165272" lon="-93.103862099" visible="true"/>
+<node id="-158" lat="44.836225847" lon="-93.099554476" visible="true"/>
+<node id="-159" lat="44.836150423" lon="-93.099554759" visible="true"/>
+<node id="-160" lat="44.836151063" lon="-93.099747872" visible="true"/>
+<node id="-161" lat="44.836126654" lon="-93.099747964" visible="true"/>
+<node id="-162" lat="44.836126844" lon="-93.099848568" visible="true"/>
+<node id="-163" lat="44.836226677" lon="-93.099848195" visible="true"/>
+<node id="-165" lat="44.836224488" lon="-93.097976591" visible="true"/>
+<node id="-166" lat="44.836148538" lon="-93.097988635" visible="true"/>
+<node id="-167" lat="44.836144604" lon="-93.097939697" visible="true"/>
+<node id="-168" lat="44.836053301" lon="-93.097953917" visible="true"/>
+<node id="-169" lat="44.836056951" lon="-93.097997847" visible="true"/>
+<node id="-170" lat="44.836048725" lon="-93.097999034" visible="true"/>
+<node id="-171" lat="44.836058189" lon="-93.098071658" visible="true"/>
+<node id="-172" lat="44.836069623" lon="-93.098170871" visible="true"/>
+<node id="-173" lat="44.836161201" lon="-93.098156264" visible="true"/>
+<node id="-174" lat="44.836157551" lon="-93.09811272" visible="true"/>
+<node id="-175" lat="44.836232952" lon="-93.098100871" visible="true"/>
+<node id="-177" lat="44.83624198" lon="-93.097945111" visible="true"/>
+<node id="-178" lat="44.836225252" lon="-93.097945945" visible="true"/>
+<node id="-179" lat="44.836243135" lon="-93.097975558" visible="true"/>
+<node id="-181" lat="44.836372406" lon="-93.104433504" visible="true"/>
+<node id="-182" lat="44.836286851" lon="-93.104442684" visible="true"/>
+<node id="-183" lat="44.836295643" lon="-93.104598764" visible="true"/>
+<node id="-184" lat="44.836381197" lon="-93.104589584" visible="true"/>
+<node id="-186" lat="44.836373663" lon="-93.099114879" visible="true"/>
+<node id="-187" lat="44.836254814" lon="-93.099210921" visible="true"/>
+<node id="-188" lat="44.836299178" lon="-93.09931984" visible="true"/>
+<node id="-189" lat="44.836418302" lon="-93.099223798" visible="true"/>
+<node id="-191" lat="44.836620114" lon="-93.099198372" visible="true"/>
+<node id="-192" lat="44.836510218" lon="-93.099243113" visible="true"/>
+<node id="-193" lat="44.836522674" lon="-93.099303197" visible="true"/>
+<node id="-194" lat="44.83663257" lon="-93.099258072" visible="true"/>
+<node id="-196" lat="44.836644516" lon="-93.102078323" visible="true"/>
+<node id="-197" lat="44.836626955" lon="-93.102075228" visible="true"/>
+<node id="-198" lat="44.83661179" lon="-93.102091106" visible="true"/>
+<node id="-199" lat="44.83660911" lon="-93.102117579" visible="true"/>
+<node id="-200" lat="44.83662303" lon="-93.102137213" visible="true"/>
+<node id="-201" lat="44.836640437" lon="-93.102142098" visible="true"/>
+<node id="-202" lat="44.836654489" lon="-93.10212689" visible="true"/>
+<node id="-203" lat="44.836656534" lon="-93.102101646" visible="true"/>
+<node id="-205" lat="44.83675669" lon="-93.101887161" visible="true"/>
+<node id="-206" lat="44.836757976" lon="-93.101868078" visible="true"/>
+<node id="-207" lat="44.836736266" lon="-93.101865369" visible="true"/>
+<node id="-208" lat="44.836732444" lon="-93.101875888" visible="true"/>
+<node id="-209" lat="44.836714307" lon="-93.101871064" visible="true"/>
+<node id="-210" lat="44.836716153" lon="-93.101829521" visible="true"/>
+<node id="-211" lat="44.836655961" lon="-93.101818488" visible="true"/>
+<node id="-212" lat="44.836652037" lon="-93.101839448" visible="true"/>
+<node id="-213" lat="44.836641728" lon="-93.10183885" visible="true"/>
+<node id="-214" lat="44.836642117" lon="-93.101825668" visible="true"/>
+<node id="-215" lat="44.836625944" lon="-93.101820811" visible="true"/>
+<node id="-216" lat="44.836617627" lon="-93.101831431" visible="true"/>
+<node id="-217" lat="44.836616003" lon="-93.101818205" visible="true"/>
+<node id="-218" lat="44.836598727" lon="-93.101801676" visible="true"/>
+<node id="-219" lat="44.836585315" lon="-93.10181875" visible="true"/>
+<node id="-220" lat="44.836575308" lon="-93.101807865" visible="true"/>
+<node id="-221" lat="44.836544973" lon="-93.101876927" visible="true"/>
+<node id="-222" lat="44.836569201" lon="-93.101906338" visible="true"/>
+<node id="-223" lat="44.836610157" lon="-93.101911324" visible="true"/>
+<node id="-224" lat="44.836611846" lon="-93.101955539" visible="true"/>
+<node id="-225" lat="44.836649004" lon="-93.101959723" visible="true"/>
+<node id="-226" lat="44.836681906" lon="-93.10196816" visible="true"/>
+<node id="-227" lat="44.836682831" lon="-93.102006815" visible="true"/>
+<node id="-228" lat="44.836710645" lon="-93.102009153" visible="true"/>
+<node id="-229" lat="44.836705919" lon="-93.102064315" visible="true"/>
+<node id="-230" lat="44.836747084" lon="-93.102069167" visible="true"/>
+<node id="-231" lat="44.8367538" lon="-93.102013103" visible="true"/>
+<node id="-232" lat="44.836790455" lon="-93.102016823" visible="true"/>
+<node id="-233" lat="44.83679564" lon="-93.101893626" visible="true"/>
+<node id="-235" lat="44.836781114" lon="-93.104017246" visible="true"/>
+<node id="-236" lat="44.836779648" lon="-93.104114389" visible="true"/>
+<node id="-237" lat="44.836844929" lon="-93.104116462" visible="true"/>
+<node id="-238" lat="44.836845709" lon="-93.1040199" visible="true"/>
+<node id="-240" lat="44.83689494" lon="-93.099177623" visible="true"/>
+<node id="-241" lat="44.836856805" lon="-93.09918238" visible="true"/>
+<node id="-242" lat="44.836859277" lon="-93.099213459" visible="true"/>
+<node id="-243" lat="44.836896908" lon="-93.099208765" visible="true"/>
+<node id="-245" lat="44.83696206" lon="-93.104274807" visible="true"/>
+<node id="-246" lat="44.836962642" lon="-93.104230923" visible="true"/>
+<node id="-247" lat="44.836940516" lon="-93.104230345" visible="true"/>
+<node id="-248" lat="44.836940025" lon="-93.104267359" visible="true"/>
+<node id="-249" lat="44.836919083" lon="-93.104264407" visible="true"/>
+<node id="-250" lat="44.836851963" lon="-93.104256869" visible="true"/>
+<node id="-251" lat="44.836850464" lon="-93.104370113" visible="true"/>
+<node id="-252" lat="44.836885916" lon="-93.10437104" visible="true"/>
+<node id="-253" lat="44.836885497" lon="-93.104402688" visible="true"/>
+<node id="-254" lat="44.836866969" lon="-93.104402205" visible="true"/>
+<node id="-255" lat="44.836866284" lon="-93.104453959" visible="true"/>
+<node id="-256" lat="44.836914571" lon="-93.104455224" visible="true"/>
+<node id="-257" lat="44.836913789" lon="-93.104514246" visible="true"/>
+<node id="-258" lat="44.836967537" lon="-93.104515649" visible="true"/>
+<node id="-259" lat="44.836968222" lon="-93.104463943" visible="true"/>
+<node id="-260" lat="44.836979432" lon="-93.104464238" visible="true"/>
+<node id="-261" lat="44.836981935" lon="-93.104275323" visible="true"/>
+<node id="-263" lat="44.837022191" lon="-93.102124631" visible="true"/>
+<node id="-264" lat="44.836986745" lon="-93.102128498" visible="true"/>
+<node id="-265" lat="44.836989349" lon="-93.102176092" visible="true"/>
+<node id="-266" lat="44.837024828" lon="-93.102172307" visible="true"/>
+<node id="-268" lat="44.83705159" lon="-93.103829818" visible="true"/>
+<node id="-269" lat="44.837050306" lon="-93.103953308" visible="true"/>
+<node id="-270" lat="44.83713924" lon="-93.103955135" visible="true"/>
+<node id="-271" lat="44.837140569" lon="-93.103827375" visible="true"/>
+<node id="-273" lat="44.83714238" lon="-93.098078553" visible="true"/>
+<node id="-274" lat="44.837150041" lon="-93.098068887" visible="true"/>
+<node id="-275" lat="44.837133811" lon="-93.098043894" visible="true"/>
+<node id="-276" lat="44.837126698" lon="-93.098053172" visible="true"/>
+<node id="-277" lat="44.837091487" lon="-93.097998182" visible="true"/>
+<node id="-278" lat="44.837068778" lon="-93.098026793" visible="true"/>
+<node id="-279" lat="44.837054473" lon="-93.098004489" visible="true"/>
+<node id="-280" lat="44.83706323" lon="-93.09799405" visible="true"/>
+<node id="-281" lat="44.837032145" lon="-93.097945598" visible="true"/>
+<node id="-282" lat="44.836983717" lon="-93.098007455" visible="true"/>
+<node id="-283" lat="44.837014803" lon="-93.098056292" visible="true"/>
+<node id="-284" lat="44.83703204" lon="-93.098034255" visible="true"/>
+<node id="-285" lat="44.837045519" lon="-93.098055405" visible="true"/>
+<node id="-286" lat="44.837028195" lon="-93.098078984" visible="true"/>
+<node id="-287" lat="44.837106413" lon="-93.098202039" visible="true"/>
+<node id="-288" lat="44.837169889" lon="-93.098121622" visible="true"/>
+<node id="-290" lat="44.837134709" lon="-93.098370382" visible="true"/>
+<node id="-291" lat="44.837097496" lon="-93.098416392" visible="true"/>
+<node id="-292" lat="44.837135462" lon="-93.098477153" visible="true"/>
+<node id="-293" lat="44.837172674" lon="-93.098431142" visible="true"/>
+<node id="-295" lat="44.837229842" lon="-93.106036026" visible="true"/>
+<node id="-296" lat="44.837198245" lon="-93.106070475" visible="true"/>
+<node id="-297" lat="44.837208655" lon="-93.106089332" visible="true"/>
+<node id="-298" lat="44.837240006" lon="-93.106055151" visible="true"/>
+<node id="-300" lat="44.837307293" lon="-93.10420372" visible="true"/>
+<node id="-301" lat="44.837283108" lon="-93.104209314" visible="true"/>
+<node id="-302" lat="44.837290767" lon="-93.104248611" visible="true"/>
+<node id="-303" lat="44.83731428" lon="-93.10423956" visible="true"/>
+<node id="-305" lat="44.837504549" lon="-93.106131781" visible="true"/>
+<node id="-306" lat="44.837479878" lon="-93.106134233" visible="true"/>
+<node id="-307" lat="44.837482884" lon="-93.106193954" visible="true"/>
+<node id="-308" lat="44.837507594" lon="-93.106192315" visible="true"/>
+<node id="-310" lat="44.837535929" lon="-93.102563563" visible="true"/>
+<node id="-311" lat="44.837511447" lon="-93.10281845" visible="true"/>
+<node id="-312" lat="44.837651374" lon="-93.102845302" visible="true"/>
+<node id="-313" lat="44.837654602" lon="-93.102811755" visible="true"/>
+<node id="-314" lat="44.837596985" lon="-93.102800788" visible="true"/>
+<node id="-315" lat="44.837603173" lon="-93.102736006" visible="true"/>
+<node id="-316" lat="44.837595216" lon="-93.102734494" visible="true"/>
+<node id="-317" lat="44.837606246" lon="-93.102619582" visible="true"/>
+<node id="-318" lat="44.837669351" lon="-93.102632069" visible="true"/>
+<node id="-319" lat="44.837673661" lon="-93.102590038" visible="true"/>
+<node id="-321" lat="44.83776525" lon="-93.104040992" visible="true"/>
+<node id="-322" lat="44.837761995" lon="-93.104085109" visible="true"/>
+<node id="-323" lat="44.837795907" lon="-93.104090113" visible="true"/>
+<node id="-324" lat="44.837799197" lon="-93.104045902" visible="true"/>
+<node id="-326" lat="44.83763534" lon="-93.100297009" visible="true"/>
+<node id="-327" lat="44.83762464" lon="-93.100440444" visible="true"/>
+<node id="-328" lat="44.837677715" lon="-93.100442752" visible="true"/>
+<node id="-329" lat="44.837780172" lon="-93.100452585" visible="true"/>
+<node id="-330" lat="44.837781515" lon="-93.10043716" visible="true"/>
+<node id="-331" lat="44.837841322" lon="-93.100446189" visible="true"/>
+<node id="-332" lat="44.837849876" lon="-93.100328203" visible="true"/>
+<node id="-334" lat="44.838085903" lon="-93.105838637" visible="true"/>
+<node id="-335" lat="44.838082939" lon="-93.105785477" visible="true"/>
+<node id="-336" lat="44.837999583" lon="-93.105785495" visible="true"/>
+<node id="-337" lat="44.837999515" lon="-93.105885469" visible="true"/>
+<node id="-338" lat="44.837985632" lon="-93.105885468" visible="true"/>
+<node id="-339" lat="44.837981884" lon="-93.10594456" visible="true"/>
+<node id="-340" lat="44.837978132" lon="-93.105991924" visible="true"/>
+<node id="-341" lat="44.837966967" lon="-93.105991927" visible="true"/>
+<node id="-342" lat="44.837966974" lon="-93.106050873" visible="true"/>
+<node id="-343" lat="44.837983449" lon="-93.106050871" visible="true"/>
+<node id="-344" lat="44.837983456" lon="-93.10609633" visible="true"/>
+<node id="-345" lat="44.8380666" lon="-93.106096314" visible="true"/>
+<node id="-346" lat="44.838069831" lon="-93.106014658" visible="true"/>
+<node id="-347" lat="44.838073065" lon="-93.105964308" visible="true"/>
+<node id="-348" lat="44.838064385" lon="-93.105964308" visible="true"/>
+<node id="-349" lat="44.83806438" lon="-93.105928871" visible="true"/>
+<node id="-350" lat="44.838088872" lon="-93.105928867" visible="true"/>
+<node id="-352" lat="44.838112193" lon="-93.100100564" visible="true"/>
+<node id="-353" lat="44.838058459" lon="-93.100112329" visible="true"/>
+<node id="-354" lat="44.838064319" lon="-93.100165501" visible="true"/>
+<node id="-355" lat="44.838048418" lon="-93.100169031" visible="true"/>
+<node id="-356" lat="44.838053998" lon="-93.100219122" visible="true"/>
+<node id="-357" lat="44.838123634" lon="-93.100204214" visible="true"/>
+<node id="-359" lat="44.838139507" lon="-93.105458342" visible="true"/>
+<node id="-360" lat="44.838139644" lon="-93.105409433" visible="true"/>
+<node id="-361" lat="44.838089353" lon="-93.105409158" visible="true"/>
+<node id="-362" lat="44.838089412" lon="-93.105388835" visible="true"/>
+<node id="-363" lat="44.838041138" lon="-93.105388567" visible="true"/>
+<node id="-364" lat="44.83804088" lon="-93.105482015" visible="true"/>
+<node id="-365" lat="44.838013519" lon="-93.105481864" visible="true"/>
+<node id="-366" lat="44.838013306" lon="-93.105559415" visible="true"/>
+<node id="-367" lat="44.838044026" lon="-93.105559584" visible="true"/>
+<node id="-368" lat="44.838043693" lon="-93.105679055" visible="true"/>
+<node id="-369" lat="44.838123392" lon="-93.105679494" visible="true"/>
+<node id="-370" lat="44.838125708" lon="-93.105635005" visible="true"/>
+<node id="-371" lat="44.838128556" lon="-93.105512511" visible="true"/>
+<node id="-372" lat="44.83814872" lon="-93.105512622" visible="true"/>
+<node id="-373" lat="44.838148873" lon="-93.105458393" visible="true"/>
+<node id="-375" lat="44.838210593" lon="-93.103132729" visible="true"/>
+<node id="-376" lat="44.838153572" lon="-93.103147589" visible="true"/>
+<node id="-377" lat="44.838146062" lon="-93.103090952" visible="true"/>
+<node id="-378" lat="44.838063" lon="-93.103112844" visible="true"/>
+<node id="-379" lat="44.838082475" lon="-93.10326118" visible="true"/>
+<node id="-380" lat="44.838151284" lon="-93.10324358" visible="true"/>
+<node id="-381" lat="44.838154901" lon="-93.103271322" visible="true"/>
+<node id="-382" lat="44.838226449" lon="-93.103252554" visible="true"/>
+<node id="-384" lat="44.838182687" lon="-93.103758846" visible="true"/>
+<node id="-385" lat="44.838180488" lon="-93.103904176" visible="true"/>
+<node id="-386" lat="44.838128924" lon="-93.103902824" visible="true"/>
+<node id="-387" lat="44.838126477" lon="-93.104061649" visible="true"/>
+<node id="-388" lat="44.838143482" lon="-93.104061972" visible="true"/>
+<node id="-389" lat="44.838142267" lon="-93.10414601" visible="true"/>
+<node id="-390" lat="44.838226197" lon="-93.104148401" visible="true"/>
+<node id="-391" lat="44.838230965" lon="-93.104057989" visible="true"/>
+<node id="-392" lat="44.83823647" lon="-93.103920933" visible="true"/>
+<node id="-393" lat="44.838267464" lon="-93.103921975" visible="true"/>
+<node id="-394" lat="44.838269909" lon="-93.103761608" visible="true"/>
+<node id="-396" lat="44.8382758" lon="-93.105158064" visible="true"/>
+<node id="-397" lat="44.838245374" lon="-93.105158196" visible="true"/>
+<node id="-398" lat="44.83824527" lon="-93.105109788" visible="true"/>
+<node id="-399" lat="44.83823047" lon="-93.10510985" visible="true"/>
+<node id="-400" lat="44.838230377" lon="-93.105066603" visible="true"/>
+<node id="-401" lat="44.83822178" lon="-93.105066638" visible="true"/>
+<node id="-402" lat="44.83822169" lon="-93.105024738" visible="true"/>
+<node id="-403" lat="44.838129691" lon="-93.105025124" visible="true"/>
+<node id="-404" lat="44.838129778" lon="-93.10506643" visible="true"/>
+<node id="-405" lat="44.838121317" lon="-93.105066466" visible="true"/>
+<node id="-406" lat="44.838121384" lon="-93.10509826" visible="true"/>
+<node id="-407" lat="44.838110507" lon="-93.105098307" visible="true"/>
+<node id="-408" lat="44.838110614" lon="-93.105148973" visible="true"/>
+<node id="-409" lat="44.8381436" lon="-93.105148836" visible="true"/>
+<node id="-410" lat="44.83814373" lon="-93.105209834" visible="true"/>
+<node id="-411" lat="44.838193432" lon="-93.105209626" visible="true"/>
+<node id="-412" lat="44.838193603" lon="-93.105290601" visible="true"/>
+<node id="-413" lat="44.838276798" lon="-93.105290252" visible="true"/>
+<node id="-415" lat="44.838303105" lon="-93.100257509" visible="true"/>
+<node id="-416" lat="44.838288302" lon="-93.100261035" visible="true"/>
+<node id="-417" lat="44.838286362" lon="-93.10025044" visible="true"/>
+<node id="-418" lat="44.838218097" lon="-93.100264766" visible="true"/>
+<node id="-419" lat="44.838229245" lon="-93.10035878" visible="true"/>
+<node id="-420" lat="44.838298604" lon="-93.100342716" visible="true"/>
+<node id="-421" lat="44.838293581" lon="-93.100297249" visible="true"/>
+<node id="-422" lat="44.838307563" lon="-93.100294498" visible="true"/>
+<node id="-424" lat="44.83822137" lon="-93.103423355" visible="true"/>
+<node id="-425" lat="44.838222523" lon="-93.103370978" visible="true"/>
+<node id="-426" lat="44.838071592" lon="-93.10336446" visible="true"/>
+<node id="-427" lat="44.838069366" lon="-93.103464773" visible="true"/>
+<node id="-428" lat="44.838164991" lon="-93.103468879" visible="true"/>
+<node id="-429" lat="44.838164405" lon="-93.103495788" visible="true"/>
+<node id="-430" lat="44.83821905" lon="-93.103498165" visible="true"/>
+<node id="-431" lat="44.838218298" lon="-93.103532307" visible="true"/>
+<node id="-432" lat="44.83832624" lon="-93.103536953" visible="true"/>
+<node id="-433" lat="44.838328619" lon="-93.103428005" visible="true"/>
+<node id="-435" lat="44.838417382" lon="-93.104773532" visible="true"/>
+<node id="-436" lat="44.838417499" lon="-93.104728817" visible="true"/>
+<node id="-437" lat="44.838409425" lon="-93.104728776" visible="true"/>
+<node id="-438" lat="44.838409541" lon="-93.104684049" visible="true"/>
+<node id="-439" lat="44.838430488" lon="-93.104684158" visible="true"/>
+<node id="-440" lat="44.838430664" lon="-93.104618256" visible="true"/>
+<node id="-441" lat="44.838336426" lon="-93.104617761" visible="true"/>
+<node id="-442" lat="44.838336244" lon="-93.104685512" visible="true"/>
+<node id="-443" lat="44.838324044" lon="-93.104685449" visible="true"/>
+<node id="-444" lat="44.838323889" lon="-93.104743823" visible="true"/>
+<node id="-445" lat="44.838335746" lon="-93.104743886" visible="true"/>
+<node id="-446" lat="44.838335494" lon="-93.1048377" visible="true"/>
+<node id="-447" lat="44.838348034" lon="-93.104837768" visible="true"/>
+<node id="-448" lat="44.838347807" lon="-93.104922754" visible="true"/>
+<node id="-449" lat="44.838429416" lon="-93.104923184" visible="true"/>
+<node id="-450" lat="44.838428378" lon="-93.104869167" visible="true"/>
+<node id="-451" lat="44.838440907" lon="-93.104869234" visible="true"/>
+<node id="-452" lat="44.838441161" lon="-93.104773658" visible="true"/>
+<node id="-454" lat="44.838543447" lon="-93.10587308" visible="true"/>
+<node id="-455" lat="44.83852514" lon="-93.105864478" visible="true"/>
+<node id="-456" lat="44.838523624" lon="-93.105875339" visible="true"/>
+<node id="-457" lat="44.838512694" lon="-93.105872329" visible="true"/>
+<node id="-458" lat="44.838521278" lon="-93.105816833" visible="true"/>
+<node id="-459" lat="44.838452767" lon="-93.105797953" visible="true"/>
+<node id="-460" lat="44.838444434" lon="-93.105835317" visible="true"/>
+<node id="-461" lat="44.838429953" lon="-93.105916764" visible="true"/>
+<node id="-462" lat="44.838469311" lon="-93.105927611" visible="true"/>
+<node id="-463" lat="44.838463833" lon="-93.105960471" visible="true"/>
+<node id="-464" lat="44.838455802" lon="-93.10601164" visible="true"/>
+<node id="-465" lat="44.838473751" lon="-93.106016585" visible="true"/>
+<node id="-466" lat="44.838468754" lon="-93.106052422" visible="true"/>
+<node id="-467" lat="44.838538419" lon="-93.106071616" visible="true"/>
+<node id="-468" lat="44.838564799" lon="-93.105882518" visible="true"/>
+<node id="-470" lat="44.838563158" lon="-93.104414011" visible="true"/>
+<node id="-471" lat="44.838459283" lon="-93.104414484" visible="true"/>
+<node id="-472" lat="44.838459224" lon="-93.104388877" visible="true"/>
+<node id="-473" lat="44.838415748" lon="-93.104394392" visible="true"/>
+<node id="-474" lat="44.838315134" lon="-93.104400172" visible="true"/>
+<node id="-475" lat="44.838315426" lon="-93.10452646" visible="true"/>
+<node id="-476" lat="44.838386735" lon="-93.104526138" visible="true"/>
+<node id="-477" lat="44.838386798" lon="-93.104554501" visible="true"/>
+<node id="-478" lat="44.838451678" lon="-93.104554205" visible="true"/>
+<node id="-479" lat="44.838451628" lon="-93.104532642" visible="true"/>
+<node id="-480" lat="44.838563985" lon="-93.10453213" visible="true"/>
+<node id="-482" lat="44.838594393" lon="-93.105457012" visible="true"/>
+<node id="-483" lat="44.838560485" lon="-93.105544667" visible="true"/>
+<node id="-484" lat="44.838555643" lon="-93.105563317" visible="true"/>
+<node id="-485" lat="44.838566326" lon="-93.105572206" visible="true"/>
+<node id="-486" lat="44.838512984" lon="-93.10569883" visible="true"/>
+<node id="-487" lat="44.838581177" lon="-93.105755577" visible="true"/>
+<node id="-488" lat="44.838677722" lon="-93.105526352" visible="true"/>
+<node id="-490" lat="44.838864154" lon="-93.102097236" visible="true"/>
+<node id="-491" lat="44.838695252" lon="-93.102121761" visible="true"/>
+<node id="-492" lat="44.838704259" lon="-93.102244696" visible="true"/>
+<node id="-493" lat="44.838873707" lon="-93.102218819" visible="true"/>
+<node id="-495" lat="44.83889039" lon="-93.103073559" visible="true"/>
+<node id="-496" lat="44.838871476" lon="-93.103079026" visible="true"/>
+<node id="-497" lat="44.83885646" lon="-93.102968834" visible="true"/>
+<node id="-498" lat="44.838776141" lon="-93.102991103" visible="true"/>
+<node id="-499" lat="44.838790877" lon="-93.103097825" visible="true"/>
+<node id="-500" lat="44.838770866" lon="-93.103103682" visible="true"/>
+<node id="-501" lat="44.838783925" lon="-93.103194029" visible="true"/>
+<node id="-502" lat="44.838902898" lon="-93.10316256" visible="true"/>
+<node id="-504" lat="44.838841901" lon="-93.104857039" visible="true"/>
+<node id="-505" lat="44.838801735" lon="-93.104952107" visible="true"/>
+<node id="-506" lat="44.83881472" lon="-93.104962942" visible="true"/>
+<node id="-507" lat="44.838800569" lon="-93.104987219" visible="true"/>
+<node id="-508" lat="44.83876156" lon="-93.105070334" visible="true"/>
+<node id="-509" lat="44.838845868" lon="-93.105139339" visible="true"/>
+<node id="-510" lat="44.83888929" lon="-93.105047093" visible="true"/>
+<node id="-511" lat="44.83893959" lon="-93.10493857" visible="true"/>
+<node id="-513" lat="44.838932701" lon="-93.101402582" visible="true"/>
+<node id="-514" lat="44.838648082" lon="-93.101441617" visible="true"/>
+<node id="-515" lat="44.83866643" lon="-93.101689458" visible="true"/>
+<node id="-516" lat="44.838949916" lon="-93.101650582" visible="true"/>
+<node id="-518" lat="44.838983064" lon="-93.105767548" visible="true"/>
+<node id="-519" lat="44.838983356" lon="-93.105726562" visible="true"/>
+<node id="-520" lat="44.838940939" lon="-93.105725962" visible="true"/>
+<node id="-521" lat="44.838940746" lon="-93.105753131" visible="true"/>
+<node id="-522" lat="44.838907388" lon="-93.105752659" visible="true"/>
+<node id="-523" lat="44.838907987" lon="-93.105668561" visible="true"/>
+<node id="-524" lat="44.838844724" lon="-93.105670838" visible="true"/>
+<node id="-525" lat="44.838811347" lon="-93.105673535" visible="true"/>
+<node id="-526" lat="44.838810486" lon="-93.105794154" visible="true"/>
+<node id="-527" lat="44.838855724" lon="-93.105794159" visible="true"/>
+<node id="-528" lat="44.838855028" lon="-93.105891357" visible="true"/>
+<node id="-529" lat="44.839003772" lon="-93.105893457" visible="true"/>
+<node id="-530" lat="44.839004668" lon="-93.105767856" visible="true"/>
+<node id="-532" lat="44.839021988" lon="-93.102603185" visible="true"/>
+<node id="-533" lat="44.838992908" lon="-93.102604796" visible="true"/>
+<node id="-534" lat="44.838995223" lon="-93.102655015" visible="true"/>
+<node id="-535" lat="44.839023398" lon="-93.102653454" visible="true"/>
+<node id="-537" lat="44.839078066" lon="-93.104509402" visible="true"/>
+<node id="-538" lat="44.83907988" lon="-93.104411851" visible="true"/>
+<node id="-539" lat="44.839003514" lon="-93.104409034" visible="true"/>
+<node id="-540" lat="44.839001867" lon="-93.104499034" visible="true"/>
+<node id="-541" lat="44.838967186" lon="-93.104497748" visible="true"/>
+<node id="-542" lat="44.838964938" lon="-93.104617906" visible="true"/>
+<node id="-543" lat="44.838982634" lon="-93.104618559" visible="true"/>
+<node id="-544" lat="44.838980728" lon="-93.10472055" visible="true"/>
+<node id="-545" lat="44.839038281" lon="-93.104722662" visible="true"/>
+<node id="-546" lat="44.8390388" lon="-93.104695589" visible="true"/>
+<node id="-547" lat="44.839093589" lon="-93.104697575" visible="true"/>
+<node id="-548" lat="44.839097075" lon="-93.104510098" visible="true"/>
+<node id="-550" lat="44.839152095" lon="-93.104134211" visible="true"/>
+<node id="-551" lat="44.839128511" lon="-93.104135068" visible="true"/>
+<node id="-552" lat="44.839126218" lon="-93.104033053" visible="true"/>
+<node id="-553" lat="44.839019173" lon="-93.104038713" visible="true"/>
+<node id="-554" lat="44.839025104" lon="-93.10427846" visible="true"/>
+<node id="-555" lat="44.839049236" lon="-93.104277216" visible="true"/>
+<node id="-556" lat="44.839050711" lon="-93.104333105" visible="true"/>
+<node id="-557" lat="44.839156843" lon="-93.10432809" visible="true"/>
+<node id="-559" lat="44.839164202" lon="-93.102096896" visible="true"/>
+<node id="-560" lat="44.839104431" lon="-93.102107525" visible="true"/>
+<node id="-561" lat="44.839109755" lon="-93.102167641" visible="true"/>
+<node id="-562" lat="44.839169526" lon="-93.102157396" visible="true"/>
+<node id="-564" lat="44.839186334" lon="-93.105039721" visible="true"/>
+<node id="-565" lat="44.839045691" lon="-93.105042843" visible="true"/>
+<node id="-566" lat="44.839046652" lon="-93.105118842" visible="true"/>
+<node id="-567" lat="44.838997927" lon="-93.105119922" visible="true"/>
+<node id="-568" lat="44.838998971" lon="-93.105213003" visible="true"/>
+<node id="-569" lat="44.839032828" lon="-93.105216608" visible="true"/>
+<node id="-570" lat="44.83905299" lon="-93.105220519" visible="true"/>
+<node id="-571" lat="44.839055632" lon="-93.105213862" visible="true"/>
+<node id="-572" lat="44.839083234" lon="-93.105214461" visible="true"/>
+<node id="-573" lat="44.839096828" lon="-93.105212377" visible="true"/>
+<node id="-574" lat="44.83909632" lon="-93.105167204" visible="true"/>
+<node id="-575" lat="44.839110359" lon="-93.105166895" visible="true"/>
+<node id="-576" lat="44.839110497" lon="-93.105179361" visible="true"/>
+<node id="-577" lat="44.839162594" lon="-93.105178203" visible="true"/>
+<node id="-578" lat="44.83916245" lon="-93.105165274" visible="true"/>
+<node id="-579" lat="44.83918774" lon="-93.105164711" visible="true"/>
+<node id="-581" lat="44.83920787" lon="-93.105772012" visible="true"/>
+<node id="-582" lat="44.839208484" lon="-93.105741213" visible="true"/>
+<node id="-583" lat="44.839170584" lon="-93.105739717" visible="true"/>
+<node id="-584" lat="44.839170245" lon="-93.105756651" visible="true"/>
+<node id="-585" lat="44.839144832" lon="-93.105755649" visible="true"/>
+<node id="-586" lat="44.839146339" lon="-93.10568024" visible="true"/>
+<node id="-587" lat="44.83908319" lon="-93.105681532" visible="true"/>
+<node id="-588" lat="44.839051155" lon="-93.105684052" visible="true"/>
+<node id="-589" lat="44.839048939" lon="-93.10579496" visible="true"/>
+<node id="-590" lat="44.839089877" lon="-93.105796877" visible="true"/>
+<node id="-591" lat="44.839088121" lon="-93.105884672" visible="true"/>
+<node id="-592" lat="44.839229911" lon="-93.10589027" visible="true"/>
+<node id="-593" lat="44.839232256" lon="-93.105772976" visible="true"/>
+<node id="-595" lat="44.839382715" lon="-93.105064538" visible="true"/>
+<node id="-596" lat="44.839382535" lon="-93.105077468" visible="true"/>
+<node id="-597" lat="44.83931535" lon="-93.105075616" visible="true"/>
+<node id="-598" lat="44.839315583" lon="-93.105058862" visible="true"/>
+<node id="-599" lat="44.839221362" lon="-93.105056264" visible="true"/>
+<node id="-600" lat="44.839219933" lon="-93.105158681" visible="true"/>
+<node id="-601" lat="44.839253691" lon="-93.105160372" visible="true"/>
+<node id="-602" lat="44.839326143" lon="-93.105166624" visible="true"/>
+<node id="-603" lat="44.83932547" lon="-93.105214827" visible="true"/>
+<node id="-604" lat="44.839345235" lon="-93.105215372" visible="true"/>
+<node id="-605" lat="44.839344858" lon="-93.105242442" visible="true"/>
+<node id="-606" lat="44.839379188" lon="-93.105243388" visible="true"/>
+<node id="-607" lat="44.839379366" lon="-93.105230751" visible="true"/>
+<node id="-608" lat="44.839414836" lon="-93.105231728" visible="true"/>
+<node id="-609" lat="44.839417156" lon="-93.105065487" visible="true"/>
+<node id="-611" lat="44.839471686" lon="-93.105713557" visible="true"/>
+<node id="-612" lat="44.839425889" lon="-93.105718908" visible="true"/>
+<node id="-613" lat="44.839408775" lon="-93.105723831" visible="true"/>
+<node id="-614" lat="44.839408684" lon="-93.105712143" visible="true"/>
+<node id="-615" lat="44.839381689" lon="-93.105712551" visible="true"/>
+<node id="-616" lat="44.839381388" lon="-93.105673069" visible="true"/>
+<node id="-617" lat="44.83931591" lon="-93.105677471" visible="true"/>
+<node id="-618" lat="44.839285411" lon="-93.105681345" visible="true"/>
+<node id="-619" lat="44.839286384" lon="-93.105809221" visible="true"/>
+<node id="-620" lat="44.839300161" lon="-93.105809287" visible="true"/>
+<node id="-621" lat="44.839300769" lon="-93.105889192" visible="true"/>
+<node id="-622" lat="44.839345116" lon="-93.105888525" visible="true"/>
+<node id="-623" lat="44.839344929" lon="-93.105864151" visible="true"/>
+<node id="-624" lat="44.839472819" lon="-93.105862229" visible="true"/>
+<node id="-626" lat="44.839389697" lon="-93.101683978" visible="true"/>
+<node id="-627" lat="44.839381778" lon="-93.101848995" visible="true"/>
+<node id="-628" lat="44.839491779" lon="-93.101859382" visible="true"/>
+<node id="-629" lat="44.839499698" lon="-93.101694365" visible="true"/>
+<node id="-631" lat="44.839497514" lon="-93.101407958" visible="true"/>
+<node id="-632" lat="44.83949086" lon="-93.101515532" visible="true"/>
+<node id="-633" lat="44.839560814" lon="-93.101524139" visible="true"/>
+<node id="-634" lat="44.839567194" lon="-93.101416565" visible="true"/>
+<node id="-636" lat="44.839554134" lon="-93.103802993" visible="true"/>
+<node id="-637" lat="44.839553795" lon="-93.103927628" visible="true"/>
+<node id="-638" lat="44.839513638" lon="-93.103926812" visible="true"/>
+<node id="-639" lat="44.83951495" lon="-93.103992379" visible="true"/>
+<node id="-640" lat="44.839516646" lon="-93.10402081" visible="true"/>
+<node id="-641" lat="44.839528325" lon="-93.104021043" visible="true"/>
+<node id="-642" lat="44.839527958" lon="-93.104056918" visible="true"/>
+<node id="-643" lat="44.839588405" lon="-93.104063196" visible="true"/>
+<node id="-644" lat="44.839625027" lon="-93.104068987" visible="true"/>
+<node id="-645" lat="44.839625534" lon="-93.104019727" visible="true"/>
+<node id="-646" lat="44.839637545" lon="-93.104019972" visible="true"/>
+<node id="-647" lat="44.839638011" lon="-93.103974533" visible="true"/>
+<node id="-648" lat="44.839608763" lon="-93.103973939" visible="true"/>
+<node id="-649" lat="44.839609412" lon="-93.103910536" visible="true"/>
+<node id="-650" lat="44.839639937" lon="-93.103911156" visible="true"/>
+<node id="-651" lat="44.839642807" lon="-93.103865601" visible="true"/>
+<node id="-652" lat="44.839645834" lon="-93.103804858" visible="true"/>
+<node id="-654" lat="44.839646074" lon="-93.104208361" visible="true"/>
+<node id="-655" lat="44.839642682" lon="-93.104166781" visible="true"/>
+<node id="-656" lat="44.839571884" lon="-93.104168455" visible="true"/>
+<node id="-657" lat="44.839572933" lon="-93.104271125" visible="true"/>
+<node id="-658" lat="44.839523481" lon="-93.104272293" visible="true"/>
+<node id="-659" lat="44.839525358" lon="-93.104429078" visible="true"/>
+<node id="-660" lat="44.839612256" lon="-93.104427025" visible="true"/>
+<node id="-661" lat="44.839610911" lon="-93.104314647" visible="true"/>
+<node id="-662" lat="44.839650227" lon="-93.104313716" visible="true"/>
+<node id="-664" lat="44.839645823" lon="-93.103446663" visible="true"/>
+<node id="-665" lat="44.839642547" lon="-93.103405368" visible="true"/>
+<node id="-666" lat="44.839578741" lon="-93.103406363" visible="true"/>
+<node id="-667" lat="44.839579815" lon="-93.103452735" visible="true"/>
+<node id="-668" lat="44.839529658" lon="-93.103453518" visible="true"/>
+<node id="-669" lat="44.839527418" lon="-93.103523337" visible="true"/>
+<node id="-670" lat="44.839525743" lon="-93.103664982" visible="true"/>
+<node id="-671" lat="44.839603435" lon="-93.103663772" visible="true"/>
+<node id="-672" lat="44.839602524" lon="-93.103548168" visible="true"/>
+<node id="-673" lat="44.839636425" lon="-93.103547639" visible="true"/>
+<node id="-674" lat="44.839636014" lon="-93.103495553" visible="true"/>
+<node id="-675" lat="44.839649155" lon="-93.10349535" visible="true"/>
+<node id="-677" lat="44.839566439" lon="-93.105082976" visible="true"/>
+<node id="-678" lat="44.839566352" lon="-93.105105873" visible="true"/>
+<node id="-679" lat="44.839479184" lon="-93.105105228" visible="true"/>
+<node id="-680" lat="44.839478307" lon="-93.105204848" visible="true"/>
+<node id="-681" lat="44.839505567" lon="-93.105207751" visible="true"/>
+<node id="-682" lat="44.839572402" lon="-93.10521095" visible="true"/>
+<node id="-683" lat="44.839572471" lon="-93.10519215" visible="true"/>
+<node id="-684" lat="44.839601005" lon="-93.105192361" visible="true"/>
+<node id="-685" lat="44.83960091" lon="-93.105217249" visible="true"/>
+<node id="-686" lat="44.839656976" lon="-93.105217664" visible="true"/>
+<node id="-687" lat="44.839657069" lon="-93.105193189" visible="true"/>
+<node id="-688" lat="44.839670524" lon="-93.105193291" visible="true"/>
+<node id="-689" lat="44.839670933" lon="-93.105083746" visible="true"/>
+<node id="-691" lat="44.839675033" lon="-93.10460934" visible="true"/>
+<node id="-692" lat="44.839674021" lon="-93.104563535" visible="true"/>
+<node id="-693" lat="44.839592724" lon="-93.104561129" visible="true"/>
+<node id="-694" lat="44.839591667" lon="-93.104631715" visible="true"/>
+<node id="-695" lat="44.839528302" lon="-93.104629604" visible="true"/>
+<node id="-696" lat="44.839526506" lon="-93.104749577" visible="true"/>
+<node id="-697" lat="44.839537038" lon="-93.104749889" visible="true"/>
+<node id="-698" lat="44.839535715" lon="-93.104838386" visible="true"/>
+<node id="-699" lat="44.839593049" lon="-93.10484008" visible="true"/>
+<node id="-700" lat="44.839593798" lon="-93.104790088" visible="true"/>
+<node id="-701" lat="44.839622313" lon="-93.104790931" visible="true"/>
+<node id="-702" lat="44.839623611" lon="-93.104704201" visible="true"/>
+<node id="-703" lat="44.839675289" lon="-93.104705731" visible="true"/>
+<node id="-705" lat="44.839657066" lon="-93.105735783" visible="true"/>
+<node id="-706" lat="44.839657038" lon="-93.105698368" visible="true"/>
+<node id="-707" lat="44.83961993" lon="-93.105698426" visible="true"/>
+<node id="-708" lat="44.839619916" lon="-93.105678994" visible="true"/>
+<node id="-709" lat="44.839558492" lon="-93.105682997" visible="true"/>
+<node id="-710" lat="44.839525838" lon="-93.105686957" visible="true"/>
+<node id="-711" lat="44.839525923" lon="-93.105797191" visible="true"/>
+<node id="-712" lat="44.839569231" lon="-93.105796678" visible="true"/>
+<node id="-713" lat="44.839565585" lon="-93.105809192" visible="true"/>
+<node id="-714" lat="44.839564973" lon="-93.10584102" visible="true"/>
+<node id="-715" lat="44.839568006" lon="-93.105858437" visible="true"/>
+<node id="-716" lat="44.839600585" lon="-93.105855315" visible="true"/>
+<node id="-717" lat="44.839690851" lon="-93.105852107" visible="true"/>
+<node id="-718" lat="44.839690759" lon="-93.10573573" visible="true"/>
+<node id="-720" lat="44.839601714" lon="-93.09835569" visible="true"/>
+<node id="-721" lat="44.839588954" lon="-93.098423968" visible="true"/>
+<node id="-722" lat="44.839639728" lon="-93.098442667" visible="true"/>
+<node id="-723" lat="44.83961828" lon="-93.098557236" visible="true"/>
+<node id="-724" lat="44.839680308" lon="-93.098580131" visible="true"/>
+<node id="-725" lat="44.839689541" lon="-93.098531911" visible="true"/>
+<node id="-726" lat="44.839723848" lon="-93.098544503" visible="true"/>
+<node id="-727" lat="44.839749099" lon="-93.098409872" visible="true"/>
+<node id="-729" lat="44.839788357" lon="-93.098142198" visible="true"/>
+<node id="-730" lat="44.839766963" lon="-93.098286065" visible="true"/>
+<node id="-731" lat="44.839839686" lon="-93.098307764" visible="true"/>
+<node id="-732" lat="44.839861078" lon="-93.09816351" visible="true"/>
+<node id="-734" lat="44.839935423" lon="-93.10566766" visible="true"/>
+<node id="-735" lat="44.839834672" lon="-93.105667493" visible="true"/>
+<node id="-736" lat="44.839771803" lon="-93.105668838" visible="true"/>
+<node id="-737" lat="44.83974197" lon="-93.105671992" visible="true"/>
+<node id="-738" lat="44.839743159" lon="-93.105768822" visible="true"/>
+<node id="-739" lat="44.839773935" lon="-93.105767723" visible="true"/>
+<node id="-740" lat="44.839774573" lon="-93.105819799" visible="true"/>
+<node id="-741" lat="44.839816227" lon="-93.105818789" visible="true"/>
+<node id="-742" lat="44.839816415" lon="-93.105834053" visible="true"/>
+<node id="-743" lat="44.839931629" lon="-93.105831262" visible="true"/>
+<node id="-744" lat="44.839934145" lon="-93.105792597" visible="true"/>
+<node id="-745" lat="44.839936618" lon="-93.105757841" visible="true"/>
+<node id="-747" lat="44.840010181" lon="-93.098399252" visible="true"/>
+<node id="-748" lat="44.840002852" lon="-93.098439372" visible="true"/>
+<node id="-749" lat="44.840034963" lon="-93.098450815" visible="true"/>
+<node id="-750" lat="44.840042018" lon="-93.098410697" visible="true"/>
+<node id="-752" lat="44.840046029" lon="-93.104223696" visible="true"/>
+<node id="-753" lat="44.840047644" lon="-93.104196058" visible="true"/>
+<node id="-754" lat="44.839980884" lon="-93.104194965" visible="true"/>
+<node id="-755" lat="44.839980081" lon="-93.104228217" visible="true"/>
+<node id="-756" lat="44.839978795" lon="-93.104319546" visible="true"/>
+<node id="-757" lat="44.840027292" lon="-93.104320339" visible="true"/>
+<node id="-758" lat="44.840023631" lon="-93.104350235" visible="true"/>
+<node id="-759" lat="44.840019997" lon="-93.104376397" visible="true"/>
+<node id="-760" lat="44.84000531" lon="-93.104376159" visible="true"/>
+<node id="-761" lat="44.840004827" lon="-93.104434215" visible="true"/>
+<node id="-762" lat="44.840026437" lon="-93.104434571" visible="true"/>
+<node id="-763" lat="44.840026139" lon="-93.104470588" visible="true"/>
+<node id="-764" lat="44.840068263" lon="-93.104471278" visible="true"/>
+<node id="-765" lat="44.840068386" lon="-93.104456405" visible="true"/>
+<node id="-766" lat="44.840110792" lon="-93.104457098" visible="true"/>
+<node id="-767" lat="44.840112181" lon="-93.104289486" visible="true"/>
+<node id="-768" lat="44.840138783" lon="-93.104289922" visible="true"/>
+<node id="-769" lat="44.840139318" lon="-93.104225223" visible="true"/>
+<node id="-771" lat="44.840033654" lon="-93.103593904" visible="true"/>
+<node id="-772" lat="44.840033679" lon="-93.103581865" visible="true"/>
+<node id="-773" lat="44.839974779" lon="-93.103581523" visible="true"/>
+<node id="-774" lat="44.839974496" lon="-93.103720462" visible="true"/>
+<node id="-775" lat="44.840037039" lon="-93.103720714" visible="true"/>
+<node id="-776" lat="44.840037087" lon="-93.103696439" visible="true"/>
+<node id="-777" lat="44.840077232" lon="-93.103696603" visible="true"/>
+<node id="-778" lat="44.840077158" lon="-93.103732231" visible="true"/>
+<node id="-779" lat="44.840140397" lon="-93.103732488" visible="true"/>
+<node id="-780" lat="44.84014068" lon="-93.10359434" visible="true"/>
+<node id="-782" lat="44.840175283" lon="-93.105679469" visible="true"/>
+<node id="-783" lat="44.840145351" lon="-93.105676157" visible="true"/>
+<node id="-784" lat="44.840090376" lon="-93.105673889" visible="true"/>
+<node id="-785" lat="44.840090947" lon="-93.105701106" visible="true"/>
+<node id="-786" lat="44.84006149" lon="-93.105702326" visible="true"/>
+<node id="-787" lat="44.840061177" lon="-93.105687374" visible="true"/>
+<node id="-788" lat="44.840026288" lon="-93.105688824" visible="true"/>
+<node id="-789" lat="44.840026995" lon="-93.105722455" visible="true"/>
+<node id="-790" lat="44.839984963" lon="-93.105724199" visible="true"/>
+<node id="-791" lat="44.839987513" lon="-93.105845438" visible="true"/>
+<node id="-792" lat="44.840087448" lon="-93.105841289" visible="true"/>
+<node id="-793" lat="44.840088148" lon="-93.10587457" visible="true"/>
+<node id="-794" lat="44.840144352" lon="-93.105872233" visible="true"/>
+<node id="-795" lat="44.840142531" lon="-93.105785613" visible="true"/>
+<node id="-796" lat="44.84017751" lon="-93.105785455" visible="true"/>
+<node id="-798" lat="44.840146621" lon="-93.104829406" visible="true"/>
+<node id="-799" lat="44.840122591" lon="-93.104823376" visible="true"/>
+<node id="-800" lat="44.840031674" lon="-93.104805522" visible="true"/>
+<node id="-801" lat="44.840015612" lon="-93.104935061" visible="true"/>
+<node id="-802" lat="44.840082152" lon="-93.104948664" visible="true"/>
+<node id="-803" lat="44.840125976" lon="-93.104956701" visible="true"/>
+<node id="-804" lat="44.840124207" lon="-93.104970974" visible="true"/>
+<node id="-805" lat="44.840193967" lon="-93.104988061" visible="true"/>
+<node id="-806" lat="44.840212862" lon="-93.104841253" visible="true"/>
+<node id="-808" lat="44.840256212" lon="-93.095800689" visible="true"/>
+<node id="-809" lat="44.840265581" lon="-93.095782988" visible="true"/>
+<node id="-810" lat="44.840219981" lon="-93.095723423" visible="true"/>
+<node id="-811" lat="44.840129531" lon="-93.095866457" visible="true"/>
+<node id="-812" lat="44.840228436" lon="-93.09598481" visible="true"/>
+<node id="-813" lat="44.840302607" lon="-93.095863899" visible="true"/>
+<node id="-815" lat="44.840340057" lon="-93.104236896" visible="true"/>
+<node id="-816" lat="44.840340039" lon="-93.104215343" visible="true"/>
+<node id="-817" lat="44.840289661" lon="-93.10421542" visible="true"/>
+<node id="-818" lat="44.84028967" lon="-93.104227147" visible="true"/>
+<node id="-819" lat="44.840264958" lon="-93.104227183" visible="true"/>
+<node id="-820" lat="44.840264933" lon="-93.104194126" visible="true"/>
+<node id="-821" lat="44.840203273" lon="-93.104197628" visible="true"/>
+<node id="-822" lat="44.840179436" lon="-93.104200516" visible="true"/>
+<node id="-823" lat="44.840179528" lon="-93.104316332" visible="true"/>
+<node id="-824" lat="44.840223946" lon="-93.104316262" visible="true"/>
+<node id="-825" lat="44.840223971" lon="-93.104349321" visible="true"/>
+<node id="-826" lat="44.840264974" lon="-93.104349255" visible="true"/>
+<node id="-827" lat="44.840264989" lon="-93.104368021" visible="true"/>
+<node id="-828" lat="44.840372979" lon="-93.104367853" visible="true"/>
+<node id="-829" lat="44.840372876" lon="-93.104236844" visible="true"/>
+<node id="-831" lat="44.840233056" lon="-93.103597592" visible="true"/>
+<node id="-832" lat="44.840232553" lon="-93.103621737" visible="true"/>
+<node id="-833" lat="44.840178968" lon="-93.103619529" visible="true"/>
+<node id="-834" lat="44.840176672" lon="-93.103729656" visible="true"/>
+<node id="-835" lat="44.840206529" lon="-93.103733014" visible="true"/>
+<node id="-836" lat="44.840274053" lon="-93.103738913" visible="true"/>
+<node id="-837" lat="44.840274374" lon="-93.103723627" visible="true"/>
+<node id="-838" lat="44.84030748" lon="-93.103727683" visible="true"/>
+<node id="-839" lat="44.840345023" lon="-93.103728853" visible="true"/>
+<node id="-840" lat="44.840369578" lon="-93.103726797" visible="true"/>
+<node id="-841" lat="44.840372153" lon="-93.103603322" visible="true"/>
+<node id="-843" lat="44.840417056" lon="-93.105650706" visible="true"/>
+<node id="-844" lat="44.840339276" lon="-93.10566311" visible="true"/>
+<node id="-845" lat="44.8403417" lon="-93.105712408" visible="true"/>
+<node id="-846" lat="44.840322734" lon="-93.105715435" visible="true"/>
+<node id="-847" lat="44.840325342" lon="-93.105747713" visible="true"/>
+<node id="-848" lat="44.840301027" lon="-93.105751591" visible="true"/>
+<node id="-849" lat="44.840298939" lon="-93.105725686" visible="true"/>
+<node id="-850" lat="44.840230366" lon="-93.10574032" visible="true"/>
+<node id="-851" lat="44.840199072" lon="-93.105749009" visible="true"/>
+<node id="-852" lat="44.840207706" lon="-93.105855958" visible="true"/>
+<node id="-853" lat="44.840311156" lon="-93.105839461" visible="true"/>
+<node id="-854" lat="44.840312708" lon="-93.105858706" visible="true"/>
+<node id="-855" lat="44.840344144" lon="-93.105853692" visible="true"/>
+<node id="-856" lat="44.840346619" lon="-93.105884342" visible="true"/>
+<node id="-857" lat="44.840385992" lon="-93.105878066" visible="true"/>
+<node id="-858" lat="44.840383674" lon="-93.105849333" visible="true"/>
+<node id="-859" lat="44.840411467" lon="-93.105844902" visible="true"/>
+<node id="-860" lat="44.84040302" lon="-93.105740218" visible="true"/>
+<node id="-861" lat="44.840424011" lon="-93.105736873" visible="true"/>
+<node id="-863" lat="44.840415149" lon="-93.095945936" visible="true"/>
+<node id="-864" lat="44.840384496" lon="-93.09593433" visible="true"/>
+<node id="-865" lat="44.840392474" lon="-93.095892552" visible="true"/>
+<node id="-866" lat="44.840341547" lon="-93.095866718" visible="true"/>
+<node id="-867" lat="44.840312589" lon="-93.096013741" visible="true"/>
+<node id="-868" lat="44.840299295" lon="-93.09600166" visible="true"/>
+<node id="-869" lat="44.840282938" lon="-93.096070986" visible="true"/>
+<node id="-870" lat="44.840335161" lon="-93.096096447" visible="true"/>
+<node id="-871" lat="44.840325962" lon="-93.096136044" visible="true"/>
+<node id="-872" lat="44.84036802" lon="-93.096152444" visible="true"/>
+<node id="-873" lat="44.840396273" lon="-93.096024525" visible="true"/>
+<node id="-874" lat="44.840438124" lon="-93.096054795" visible="true"/>
+<node id="-875" lat="44.840458641" lon="-93.09596391" visible="true"/>
+<node id="-877" lat="44.840442885" lon="-93.104979901" visible="true"/>
+<node id="-878" lat="44.840432293" lon="-93.104996378" visible="true"/>
+<node id="-879" lat="44.84041615" lon="-93.104975875" visible="true"/>
+<node id="-880" lat="44.840401353" lon="-93.104998892" visible="true"/>
+<node id="-881" lat="44.840353309" lon="-93.104937876" visible="true"/>
+<node id="-882" lat="44.840305334" lon="-93.105015446" visible="true"/>
+<node id="-883" lat="44.840323414" lon="-93.105042542" visible="true"/>
+<node id="-884" lat="44.840381314" lon="-93.105120214" visible="true"/>
+<node id="-885" lat="44.840404007" lon="-93.105084912" visible="true"/>
+<node id="-886" lat="44.840422948" lon="-93.105108968" visible="true"/>
+<node id="-887" lat="44.840413971" lon="-93.105122931" visible="true"/>
+<node id="-888" lat="44.840441266" lon="-93.105157595" visible="true"/>
+<node id="-889" lat="44.840447847" lon="-93.105147363" visible="true"/>
+<node id="-890" lat="44.840467626" lon="-93.105172484" visible="true"/>
+<node id="-891" lat="44.840524663" lon="-93.105083762" visible="true"/>
+<node id="-893" lat="44.840549631" lon="-93.10539755" visible="true"/>
+<node id="-894" lat="44.840507196" lon="-93.105397927" visible="true"/>
+<node id="-895" lat="44.84050664" lon="-93.105274403" visible="true"/>
+<node id="-896" lat="44.840437291" lon="-93.1052772" visible="true"/>
+<node id="-897" lat="44.840434277" lon="-93.105311486" visible="true"/>
+<node id="-898" lat="44.84043156" lon="-93.105411449" visible="true"/>
+<node id="-899" lat="44.840465181" lon="-93.10541115" visible="true"/>
+<node id="-900" lat="44.840465383" lon="-93.105456209" visible="true"/>
+<node id="-901" lat="44.840456554" lon="-93.105456286" visible="true"/>
+<node id="-902" lat="44.840452922" lon="-93.105475287" visible="true"/>
+<node id="-903" lat="44.840449472" lon="-93.105534362" visible="true"/>
+<node id="-904" lat="44.84045898" lon="-93.105534278" visible="true"/>
+<node id="-905" lat="44.840459096" lon="-93.105560105" visible="true"/>
+<node id="-906" lat="44.840540953" lon="-93.105559375" visible="true"/>
+<node id="-907" lat="44.840540438" lon="-93.105445199" visible="true"/>
+<node id="-908" lat="44.840549844" lon="-93.105445115" visible="true"/>
+<node id="-910" lat="44.840584026" lon="-93.104247408" visible="true"/>
+<node id="-911" lat="44.840547489" lon="-93.104247561" visible="true"/>
+<node id="-912" lat="44.840547441" lon="-93.104225029" visible="true"/>
+<node id="-913" lat="44.840515133" lon="-93.104225167" visible="true"/>
+<node id="-914" lat="44.840515069" lon="-93.104195368" visible="true"/>
+<node id="-915" lat="44.840452656" lon="-93.104198228" visible="true"/>
+<node id="-916" lat="44.840427142" lon="-93.104199971" visible="true"/>
+<node id="-917" lat="44.840427397" lon="-93.104317574" visible="true"/>
+<node id="-918" lat="44.840462118" lon="-93.104317428" visible="true"/>
+<node id="-919" lat="44.840462243" lon="-93.104375937" visible="true"/>
+<node id="-920" lat="44.840505692" lon="-93.104375755" visible="true"/>
+<node id="-921" lat="44.840505736" lon="-93.104394965" visible="true"/>
+<node id="-922" lat="44.840544029" lon="-93.1043948" visible="true"/>
+<node id="-923" lat="44.840543989" lon="-93.104376254" visible="true"/>
+<node id="-924" lat="44.840584303" lon="-93.104376083" visible="true"/>
+<node id="-926" lat="44.840490411" lon="-93.103567865" visible="true"/>
+<node id="-927" lat="44.840489686" lon="-93.103628984" visible="true"/>
+<node id="-928" lat="44.840412467" lon="-93.103627841" visible="true"/>
+<node id="-929" lat="44.840411275" lon="-93.103728586" visible="true"/>
+<node id="-930" lat="44.840443582" lon="-93.103732675" visible="true"/>
+<node id="-931" lat="44.84051138" lon="-93.103737593" visible="true"/>
+<node id="-932" lat="44.840511551" lon="-93.103723334" visible="true"/>
+<node id="-933" lat="44.840540729" lon="-93.103724013" visible="true"/>
+<node id="-934" lat="44.840540933" lon="-93.103706717" visible="true"/>
+<node id="-935" lat="44.840591375" lon="-93.103707893" visible="true"/>
+<node id="-936" lat="44.840593003" lon="-93.103570263" visible="true"/>
+<node id="-938" lat="44.840630166" lon="-93.095963186" visible="true"/>
+<node id="-939" lat="44.840566528" lon="-93.095963955" visible="true"/>
+<node id="-940" lat="44.840565539" lon="-93.095931843" visible="true"/>
+<node id="-941" lat="44.84049939" lon="-93.095932872" visible="true"/>
+<node id="-942" lat="44.840502399" lon="-93.096129328" visible="true"/>
+<node id="-943" lat="44.840592111" lon="-93.096131316" visible="true"/>
+<node id="-944" lat="44.840593141" lon="-93.096106611" visible="true"/>
+<node id="-945" lat="44.840631243" lon="-93.096107587" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7920"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Alberta Way"/></way>
+<way id="-10" visible="true"><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-11"/><tag k="building" v="garage"/></way>
+<way id="-15" visible="true"><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-16"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7940"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Alberta Way"/></way>
+<way id="-24" visible="true"><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-25"/><tag k="building" v="garage"/></way>
+<way id="-29" visible="true"><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-35"/><nd ref="-36"/><nd ref="-37"/><nd ref="-38"/><nd ref="-39"/><nd ref="-40"/><nd ref="-41"/><nd ref="-42"/><nd ref="-30"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7985"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Argenta Trail"/></way>
+<way id="-43" visible="true"><nd ref="-44"/><nd ref="-45"/><nd ref="-46"/><nd ref="-47"/><nd ref="-44"/><tag k="building" v="garage"/></way>
+<way id="-48" visible="true"><nd ref="-49"/><nd ref="-50"/><nd ref="-51"/><nd ref="-52"/><nd ref="-49"/><tag k="building" v="shed"/></way>
+<way id="-53" visible="true"><nd ref="-54"/><nd ref="-55"/><nd ref="-56"/><nd ref="-57"/><nd ref="-58"/><nd ref="-59"/><nd ref="-60"/><nd ref="-61"/><nd ref="-62"/><nd ref="-63"/><nd ref="-64"/><nd ref="-65"/><nd ref="-66"/><nd ref="-67"/><nd ref="-68"/><nd ref="-69"/><nd ref="-70"/><nd ref="-71"/><nd ref="-72"/><nd ref="-73"/><nd ref="-74"/><nd ref="-75"/><nd ref="-76"/><nd ref="-77"/><nd ref="-78"/><nd ref="-79"/><nd ref="-80"/><nd ref="-81"/><nd ref="-82"/><nd ref="-83"/><nd ref="-84"/><nd ref="-85"/><nd ref="-86"/><nd ref="-87"/><nd ref="-88"/><nd ref="-89"/><nd ref="-54"/><tag k="building" v="garage"/></way>
+<way id="-90" visible="true"><nd ref="-91"/><nd ref="-92"/><nd ref="-93"/><nd ref="-94"/><nd ref="-91"/><tag k="building" v="shed"/></way>
+<way id="-95" visible="true"><nd ref="-96"/><nd ref="-97"/><nd ref="-98"/><nd ref="-99"/><nd ref="-96"/><tag k="building" v="garage"/></way>
+<way id="-100" visible="true"><nd ref="-101"/><nd ref="-102"/><nd ref="-103"/><nd ref="-104"/><nd ref="-101"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7923"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Argenta Trail"/></way>
+<way id="-105" visible="true"><nd ref="-106"/><nd ref="-107"/><nd ref="-108"/><nd ref="-109"/><nd ref="-106"/><tag k="building" v="shed"/></way>
+<way id="-110" visible="true"><nd ref="-111"/><nd ref="-112"/><nd ref="-113"/><nd ref="-114"/><nd ref="-111"/><tag k="building" v="shed"/></way>
+<way id="-115" visible="true"><nd ref="-116"/><nd ref="-117"/><nd ref="-118"/><nd ref="-119"/><nd ref="-116"/><tag k="building" v="garage"/></way>
+<way id="-120" visible="true"><nd ref="-121"/><nd ref="-122"/><nd ref="-123"/><nd ref="-124"/><nd ref="-125"/><nd ref="-126"/><nd ref="-127"/><nd ref="-128"/><nd ref="-121"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7840"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Alberta Way"/></way>
+<way id="-129" visible="true"><nd ref="-130"/><nd ref="-131"/><nd ref="-132"/><nd ref="-133"/><nd ref="-130"/><tag k="building" v="shed"/></way>
+<way id="-134" visible="true"><nd ref="-135"/><nd ref="-136"/><nd ref="-137"/><nd ref="-138"/><nd ref="-139"/><nd ref="-140"/><nd ref="-135"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7875"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Alberta Way"/></way>
+<way id="-141" visible="true"><nd ref="-142"/><nd ref="-143"/><nd ref="-144"/><nd ref="-145"/><nd ref="-146"/><nd ref="-147"/><nd ref="-148"/><nd ref="-149"/><nd ref="-150"/><nd ref="-151"/><nd ref="-142"/><tag k="building" v="garage"/></way>
+<way id="-152" visible="true"><nd ref="-153"/><nd ref="-154"/><nd ref="-155"/><nd ref="-156"/><nd ref="-153"/><tag k="building" v="shed"/></way>
+<way id="-157" visible="true"><nd ref="-158"/><nd ref="-159"/><nd ref="-160"/><nd ref="-161"/><nd ref="-162"/><nd ref="-163"/><nd ref="-158"/><tag k="building" v="garage"/></way>
+<way id="-164" visible="true"><nd ref="-165"/><nd ref="-166"/><nd ref="-167"/><nd ref="-168"/><nd ref="-169"/><nd ref="-170"/><nd ref="-171"/><nd ref="-172"/><nd ref="-173"/><nd ref="-174"/><nd ref="-175"/><nd ref="-165"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7834"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Alberta Way"/></way>
+<way id="-176" visible="true"><nd ref="-177"/><nd ref="-178"/><nd ref="-165"/><nd ref="-179"/><nd ref="-177"/><tag k="building" v="shed"/></way>
+<way id="-180" visible="true"><nd ref="-181"/><nd ref="-182"/><nd ref="-183"/><nd ref="-184"/><nd ref="-181"/><tag k="building" v="garage"/></way>
+<way id="-185" visible="true"><nd ref="-186"/><nd ref="-187"/><nd ref="-188"/><nd ref="-189"/><nd ref="-186"/><tag k="building" v="garage"/></way>
+<way id="-190" visible="true"><nd ref="-191"/><nd ref="-192"/><nd ref="-193"/><nd ref="-194"/><nd ref="-191"/><tag k="building" v="garage"/></way>
+<way id="-195" visible="true"><nd ref="-196"/><nd ref="-197"/><nd ref="-198"/><nd ref="-199"/><nd ref="-200"/><nd ref="-201"/><nd ref="-202"/><nd ref="-203"/><nd ref="-196"/><tag k="building" v="shed"/></way>
+<way id="-204" visible="true"><nd ref="-205"/><nd ref="-206"/><nd ref="-207"/><nd ref="-208"/><nd ref="-209"/><nd ref="-210"/><nd ref="-211"/><nd ref="-212"/><nd ref="-213"/><nd ref="-214"/><nd ref="-215"/><nd ref="-216"/><nd ref="-217"/><nd ref="-218"/><nd ref="-219"/><nd ref="-220"/><nd ref="-221"/><nd ref="-222"/><nd ref="-223"/><nd ref="-224"/><nd ref="-225"/><nd ref="-226"/><nd ref="-227"/><nd ref="-228"/><nd ref="-229"/><nd ref="-230"/><nd ref="-231"/><nd ref="-232"/><nd ref="-233"/><nd ref="-205"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7755"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Argenta Trail"/></way>
+<way id="-234" visible="true"><nd ref="-235"/><nd ref="-236"/><nd ref="-237"/><nd ref="-238"/><nd ref="-235"/><tag k="building" v="garage"/></way>
+<way id="-239" visible="true"><nd ref="-240"/><nd ref="-241"/><nd ref="-242"/><nd ref="-243"/><nd ref="-240"/><tag k="building" v="shed"/></way>
+<way id="-244" visible="true"><nd ref="-245"/><nd ref="-246"/><nd ref="-247"/><nd ref="-248"/><nd ref="-249"/><nd ref="-250"/><nd ref="-251"/><nd ref="-252"/><nd ref="-253"/><nd ref="-254"/><nd ref="-255"/><nd ref="-256"/><nd ref="-257"/><nd ref="-258"/><nd ref="-259"/><nd ref="-260"/><nd ref="-261"/><nd ref="-245"/><tag k="building" v="garage"/></way>
+<way id="-262" visible="true"><nd ref="-263"/><nd ref="-264"/><nd ref="-265"/><nd ref="-266"/><nd ref="-263"/><tag k="building" v="shed"/></way>
+<way id="-267" visible="true"><nd ref="-268"/><nd ref="-269"/><nd ref="-270"/><nd ref="-271"/><nd ref="-268"/><tag k="building" v="garage"/></way>
+<way id="-272" visible="true"><nd ref="-273"/><nd ref="-274"/><nd ref="-275"/><nd ref="-276"/><nd ref="-277"/><nd ref="-278"/><nd ref="-279"/><nd ref="-280"/><nd ref="-281"/><nd ref="-282"/><nd ref="-283"/><nd ref="-284"/><nd ref="-285"/><nd ref="-286"/><nd ref="-287"/><nd ref="-288"/><nd ref="-273"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1644"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Courthouse Boulevard"/></way>
+<way id="-289" visible="true"><nd ref="-290"/><nd ref="-291"/><nd ref="-292"/><nd ref="-293"/><nd ref="-290"/><tag k="building" v="shed"/></way>
+<way id="-294" visible="true"><nd ref="-295"/><nd ref="-296"/><nd ref="-297"/><nd ref="-298"/><nd ref="-295"/><tag k="building" v="shed"/></way>
+<way id="-299" visible="true"><nd ref="-300"/><nd ref="-301"/><nd ref="-302"/><nd ref="-303"/><nd ref="-300"/><tag k="building" v="shed"/></way>
+<way id="-304" visible="true"><nd ref="-305"/><nd ref="-306"/><nd ref="-307"/><nd ref="-308"/><nd ref="-305"/><tag k="building" v="shed"/></way>
+<way id="-309" visible="true"><nd ref="-310"/><nd ref="-311"/><nd ref="-312"/><nd ref="-313"/><nd ref="-314"/><nd ref="-315"/><nd ref="-316"/><nd ref="-317"/><nd ref="-318"/><nd ref="-319"/><nd ref="-310"/><tag k="building" v="garage"/></way>
+<way id="-320" visible="true"><nd ref="-321"/><nd ref="-322"/><nd ref="-323"/><nd ref="-324"/><nd ref="-321"/><tag k="building" v="shed"/></way>
+<way id="-325" visible="true"><nd ref="-326"/><nd ref="-327"/><nd ref="-328"/><nd ref="-329"/><nd ref="-330"/><nd ref="-331"/><nd ref="-332"/><nd ref="-326"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7660"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Argenta Trail"/></way>
+<way id="-333" visible="true"><nd ref="-334"/><nd ref="-335"/><nd ref="-336"/><nd ref="-337"/><nd ref="-338"/><nd ref="-339"/><nd ref="-340"/><nd ref="-341"/><nd ref="-342"/><nd ref="-343"/><nd ref="-344"/><nd ref="-345"/><nd ref="-346"/><nd ref="-347"/><nd ref="-348"/><nd ref="-349"/><nd ref="-350"/><nd ref="-334"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1974"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="77th Street West"/></way>
+<way id="-351" visible="true"><nd ref="-352"/><nd ref="-353"/><nd ref="-354"/><nd ref="-355"/><nd ref="-356"/><nd ref="-357"/><nd ref="-352"/><tag k="building" v="garage"/></way>
+<way id="-358" visible="true"><nd ref="-359"/><nd ref="-360"/><nd ref="-361"/><nd ref="-362"/><nd ref="-363"/><nd ref="-364"/><nd ref="-365"/><nd ref="-366"/><nd ref="-367"/><nd ref="-368"/><nd ref="-369"/><nd ref="-370"/><nd ref="-371"/><nd ref="-372"/><nd ref="-373"/><nd ref="-359"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1970"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="77th Street West"/></way>
+<way id="-374" visible="true"><nd ref="-375"/><nd ref="-376"/><nd ref="-377"/><nd ref="-378"/><nd ref="-379"/><nd ref="-380"/><nd ref="-381"/><nd ref="-382"/><nd ref="-375"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1940"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="77th Street West"/></way>
+<way id="-383" visible="true"><nd ref="-384"/><nd ref="-385"/><nd ref="-386"/><nd ref="-387"/><nd ref="-388"/><nd ref="-389"/><nd ref="-390"/><nd ref="-391"/><nd ref="-392"/><nd ref="-393"/><nd ref="-394"/><nd ref="-384"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1952"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="77th Street West"/></way>
+<way id="-395" visible="true"><nd ref="-396"/><nd ref="-397"/><nd ref="-398"/><nd ref="-399"/><nd ref="-400"/><nd ref="-401"/><nd ref="-402"/><nd ref="-403"/><nd ref="-404"/><nd ref="-405"/><nd ref="-406"/><nd ref="-407"/><nd ref="-408"/><nd ref="-409"/><nd ref="-410"/><nd ref="-411"/><nd ref="-412"/><nd ref="-413"/><nd ref="-396"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1966"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="77th Street West"/></way>
+<way id="-414" visible="true"><nd ref="-415"/><nd ref="-416"/><nd ref="-417"/><nd ref="-418"/><nd ref="-419"/><nd ref="-420"/><nd ref="-421"/><nd ref="-422"/><nd ref="-415"/><tag k="building" v="garage"/></way>
+<way id="-423" visible="true"><nd ref="-424"/><nd ref="-425"/><nd ref="-426"/><nd ref="-427"/><nd ref="-428"/><nd ref="-429"/><nd ref="-430"/><nd ref="-431"/><nd ref="-432"/><nd ref="-433"/><nd ref="-424"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1946"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="77th Street West"/></way>
+<way id="-434" visible="true"><nd ref="-435"/><nd ref="-436"/><nd ref="-437"/><nd ref="-438"/><nd ref="-439"/><nd ref="-440"/><nd ref="-441"/><nd ref="-442"/><nd ref="-443"/><nd ref="-444"/><nd ref="-445"/><nd ref="-446"/><nd ref="-447"/><nd ref="-448"/><nd ref="-449"/><nd ref="-450"/><nd ref="-451"/><nd ref="-452"/><nd ref="-435"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1962"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="77th Street West"/></way>
+<way id="-453" visible="true"><nd ref="-454"/><nd ref="-455"/><nd ref="-456"/><nd ref="-457"/><nd ref="-458"/><nd ref="-459"/><nd ref="-460"/><nd ref="-461"/><nd ref="-462"/><nd ref="-463"/><nd ref="-464"/><nd ref="-465"/><nd ref="-466"/><nd ref="-467"/><nd ref="-468"/><nd ref="-454"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1973"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="77th Street West"/></way>
+<way id="-469" visible="true"><nd ref="-470"/><nd ref="-471"/><nd ref="-472"/><nd ref="-473"/><nd ref="-474"/><nd ref="-475"/><nd ref="-476"/><nd ref="-477"/><nd ref="-478"/><nd ref="-479"/><nd ref="-480"/><nd ref="-470"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1958"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="77th Street West"/></way>
+<way id="-481" visible="true"><nd ref="-482"/><nd ref="-483"/><nd ref="-484"/><nd ref="-485"/><nd ref="-486"/><nd ref="-487"/><nd ref="-488"/><nd ref="-482"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7673"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bennett Court"/></way>
+<way id="-489" visible="true"><nd ref="-490"/><nd ref="-491"/><nd ref="-492"/><nd ref="-493"/><nd ref="-490"/><tag k="building" v="garage"/></way>
+<way id="-494" visible="true"><nd ref="-495"/><nd ref="-496"/><nd ref="-497"/><nd ref="-498"/><nd ref="-499"/><nd ref="-500"/><nd ref="-501"/><nd ref="-502"/><nd ref="-495"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1845"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="77th Street West"/></way>
+<way id="-503" visible="true"><nd ref="-504"/><nd ref="-505"/><nd ref="-506"/><nd ref="-507"/><nd ref="-508"/><nd ref="-509"/><nd ref="-510"/><nd ref="-511"/><nd ref="-504"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7674"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bennett Court"/></way>
+<way id="-512" visible="true"><nd ref="-513"/><nd ref="-514"/><nd ref="-515"/><nd ref="-516"/><nd ref="-513"/><tag k="building" v="garage"/></way>
+<way id="-517" visible="true"><nd ref="-518"/><nd ref="-519"/><nd ref="-520"/><nd ref="-521"/><nd ref="-522"/><nd ref="-523"/><nd ref="-524"/><nd ref="-525"/><nd ref="-526"/><nd ref="-527"/><nd ref="-528"/><nd ref="-529"/><nd ref="-530"/><nd ref="-518"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7663"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bennett Court"/></way>
+<way id="-531" visible="true"><nd ref="-532"/><nd ref="-533"/><nd ref="-534"/><nd ref="-535"/><nd ref="-532"/><tag k="building" v="shed"/></way>
+<way id="-536" visible="true"><nd ref="-537"/><nd ref="-538"/><nd ref="-539"/><nd ref="-540"/><nd ref="-541"/><nd ref="-542"/><nd ref="-543"/><nd ref="-544"/><nd ref="-545"/><nd ref="-546"/><nd ref="-547"/><nd ref="-548"/><nd ref="-537"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1959"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="77th Street West"/></way>
+<way id="-549" visible="true"><nd ref="-550"/><nd ref="-551"/><nd ref="-552"/><nd ref="-553"/><nd ref="-554"/><nd ref="-555"/><nd ref="-556"/><nd ref="-557"/><nd ref="-550"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1955"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="77th Street West"/></way>
+<way id="-558" visible="true"><nd ref="-559"/><nd ref="-560"/><nd ref="-561"/><nd ref="-562"/><nd ref="-559"/><tag k="building" v="shed"/></way>
+<way id="-563" visible="true"><nd ref="-564"/><nd ref="-565"/><nd ref="-566"/><nd ref="-567"/><nd ref="-568"/><nd ref="-569"/><nd ref="-570"/><nd ref="-571"/><nd ref="-572"/><nd ref="-573"/><nd ref="-574"/><nd ref="-575"/><nd ref="-576"/><nd ref="-577"/><nd ref="-578"/><nd ref="-579"/><nd ref="-564"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7654"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bennett Court"/></way>
+<way id="-580" visible="true"><nd ref="-581"/><nd ref="-582"/><nd ref="-583"/><nd ref="-584"/><nd ref="-585"/><nd ref="-586"/><nd ref="-587"/><nd ref="-588"/><nd ref="-589"/><nd ref="-590"/><nd ref="-591"/><nd ref="-592"/><nd ref="-593"/><nd ref="-581"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7653"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bennett Court"/></way>
+<way id="-594" visible="true"><nd ref="-595"/><nd ref="-596"/><nd ref="-597"/><nd ref="-598"/><nd ref="-599"/><nd ref="-600"/><nd ref="-601"/><nd ref="-602"/><nd ref="-603"/><nd ref="-604"/><nd ref="-605"/><nd ref="-606"/><nd ref="-607"/><nd ref="-608"/><nd ref="-609"/><nd ref="-595"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7644"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bennett Court"/></way>
+<way id="-610" visible="true"><nd ref="-611"/><nd ref="-612"/><nd ref="-613"/><nd ref="-614"/><nd ref="-615"/><nd ref="-616"/><nd ref="-617"/><nd ref="-618"/><nd ref="-619"/><nd ref="-620"/><nd ref="-621"/><nd ref="-622"/><nd ref="-623"/><nd ref="-624"/><nd ref="-611"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7643"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bennett Court"/></way>
+<way id="-625" visible="true"><nd ref="-626"/><nd ref="-627"/><nd ref="-628"/><nd ref="-629"/><nd ref="-626"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7587"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Argenta Trail"/></way>
+<way id="-630" visible="true"><nd ref="-631"/><nd ref="-632"/><nd ref="-633"/><nd ref="-634"/><nd ref="-631"/><tag k="building" v="garage"/></way>
+<way id="-635" visible="true"><nd ref="-636"/><nd ref="-637"/><nd ref="-638"/><nd ref="-639"/><nd ref="-640"/><nd ref="-641"/><nd ref="-642"/><nd ref="-643"/><nd ref="-644"/><nd ref="-645"/><nd ref="-646"/><nd ref="-647"/><nd ref="-648"/><nd ref="-649"/><nd ref="-650"/><nd ref="-651"/><nd ref="-652"/><nd ref="-636"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7554"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Becker Trail"/></way>
+<way id="-653" visible="true"><nd ref="-654"/><nd ref="-655"/><nd ref="-656"/><nd ref="-657"/><nd ref="-658"/><nd ref="-659"/><nd ref="-660"/><nd ref="-661"/><nd ref="-662"/><nd ref="-654"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7558"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Becker Trail"/></way>
+<way id="-663" visible="true"><nd ref="-664"/><nd ref="-665"/><nd ref="-666"/><nd ref="-667"/><nd ref="-668"/><nd ref="-669"/><nd ref="-670"/><nd ref="-671"/><nd ref="-672"/><nd ref="-673"/><nd ref="-674"/><nd ref="-675"/><nd ref="-664"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7550"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Becker Trail"/></way>
+<way id="-676" visible="true"><nd ref="-677"/><nd ref="-678"/><nd ref="-679"/><nd ref="-680"/><nd ref="-681"/><nd ref="-682"/><nd ref="-683"/><nd ref="-684"/><nd ref="-685"/><nd ref="-686"/><nd ref="-687"/><nd ref="-688"/><nd ref="-689"/><nd ref="-677"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7634"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bennett Court"/></way>
+<way id="-690" visible="true"><nd ref="-691"/><nd ref="-692"/><nd ref="-693"/><nd ref="-694"/><nd ref="-695"/><nd ref="-696"/><nd ref="-697"/><nd ref="-698"/><nd ref="-699"/><nd ref="-700"/><nd ref="-701"/><nd ref="-702"/><nd ref="-703"/><nd ref="-691"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7562"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Becker Trail"/></way>
+<way id="-704" visible="true"><nd ref="-705"/><nd ref="-706"/><nd ref="-707"/><nd ref="-708"/><nd ref="-709"/><nd ref="-710"/><nd ref="-711"/><nd ref="-712"/><nd ref="-713"/><nd ref="-714"/><nd ref="-715"/><nd ref="-716"/><nd ref="-717"/><nd ref="-718"/><nd ref="-705"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7633"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bennett Court"/></way>
+<way id="-719" visible="true"><nd ref="-720"/><nd ref="-721"/><nd ref="-722"/><nd ref="-723"/><nd ref="-724"/><nd ref="-725"/><nd ref="-726"/><nd ref="-727"/><nd ref="-720"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7482"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Argenta Trail"/></way>
+<way id="-728" visible="true"><nd ref="-729"/><nd ref="-730"/><nd ref="-731"/><nd ref="-732"/><nd ref="-729"/><tag k="building" v="garage"/></way>
+<way id="-733" visible="true"><nd ref="-734"/><nd ref="-735"/><nd ref="-736"/><nd ref="-737"/><nd ref="-738"/><nd ref="-739"/><nd ref="-740"/><nd ref="-741"/><nd ref="-742"/><nd ref="-743"/><nd ref="-744"/><nd ref="-745"/><nd ref="-734"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7623"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bennett Court"/></way>
+<way id="-746" visible="true"><nd ref="-747"/><nd ref="-748"/><nd ref="-749"/><nd ref="-750"/><nd ref="-747"/><tag k="building" v="shed"/></way>
+<way id="-751" visible="true"><nd ref="-752"/><nd ref="-753"/><nd ref="-754"/><nd ref="-755"/><nd ref="-756"/><nd ref="-757"/><nd ref="-758"/><nd ref="-759"/><nd ref="-760"/><nd ref="-761"/><nd ref="-762"/><nd ref="-763"/><nd ref="-764"/><nd ref="-765"/><nd ref="-766"/><nd ref="-767"/><nd ref="-768"/><nd ref="-769"/><nd ref="-752"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7577"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bell Lane"/></way>
+<way id="-770" visible="true"><nd ref="-771"/><nd ref="-772"/><nd ref="-773"/><nd ref="-774"/><nd ref="-775"/><nd ref="-776"/><nd ref="-777"/><nd ref="-778"/><nd ref="-779"/><nd ref="-780"/><nd ref="-771"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7576"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bell Lane"/></way>
+<way id="-781" visible="true"><nd ref="-782"/><nd ref="-783"/><nd ref="-784"/><nd ref="-785"/><nd ref="-786"/><nd ref="-787"/><nd ref="-788"/><nd ref="-789"/><nd ref="-790"/><nd ref="-791"/><nd ref="-792"/><nd ref="-793"/><nd ref="-794"/><nd ref="-795"/><nd ref="-796"/><nd ref="-782"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7613"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bennett Court"/></way>
+<way id="-797" visible="true"><nd ref="-798"/><nd ref="-799"/><nd ref="-800"/><nd ref="-801"/><nd ref="-802"/><nd ref="-803"/><nd ref="-804"/><nd ref="-805"/><nd ref="-806"/><nd ref="-798"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7604"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bennett Court"/></way>
+<way id="-807" visible="true"><nd ref="-808"/><nd ref="-809"/><nd ref="-810"/><nd ref="-811"/><nd ref="-812"/><nd ref="-813"/><nd ref="-808"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1546"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="76th Street West"/></way>
+<way id="-814" visible="true"><nd ref="-815"/><nd ref="-816"/><nd ref="-817"/><nd ref="-818"/><nd ref="-819"/><nd ref="-820"/><nd ref="-821"/><nd ref="-822"/><nd ref="-823"/><nd ref="-824"/><nd ref="-825"/><nd ref="-826"/><nd ref="-827"/><nd ref="-828"/><nd ref="-829"/><nd ref="-815"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7567"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bell Lane"/></way>
+<way id="-830" visible="true"><nd ref="-831"/><nd ref="-832"/><nd ref="-833"/><nd ref="-834"/><nd ref="-835"/><nd ref="-836"/><nd ref="-837"/><nd ref="-838"/><nd ref="-839"/><nd ref="-840"/><nd ref="-841"/><nd ref="-831"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7566"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bell Lane"/></way>
+<way id="-842" visible="true"><nd ref="-843"/><nd ref="-844"/><nd ref="-845"/><nd ref="-846"/><nd ref="-847"/><nd ref="-848"/><nd ref="-849"/><nd ref="-850"/><nd ref="-851"/><nd ref="-852"/><nd ref="-853"/><nd ref="-854"/><nd ref="-855"/><nd ref="-856"/><nd ref="-857"/><nd ref="-858"/><nd ref="-859"/><nd ref="-860"/><nd ref="-861"/><nd ref="-843"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7609"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bennett Court"/></way>
+<way id="-862" visible="true"><nd ref="-863"/><nd ref="-864"/><nd ref="-865"/><nd ref="-866"/><nd ref="-867"/><nd ref="-868"/><nd ref="-869"/><nd ref="-870"/><nd ref="-871"/><nd ref="-872"/><nd ref="-873"/><nd ref="-874"/><nd ref="-875"/><nd ref="-863"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1552"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="76th Street West"/></way>
+<way id="-876" visible="true"><nd ref="-877"/><nd ref="-878"/><nd ref="-879"/><nd ref="-880"/><nd ref="-881"/><nd ref="-882"/><nd ref="-883"/><nd ref="-884"/><nd ref="-885"/><nd ref="-886"/><nd ref="-887"/><nd ref="-888"/><nd ref="-889"/><nd ref="-890"/><nd ref="-891"/><nd ref="-877"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7598"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bennett Court"/></way>
+<way id="-892" visible="true"><nd ref="-893"/><nd ref="-894"/><nd ref="-895"/><nd ref="-896"/><nd ref="-897"/><nd ref="-898"/><nd ref="-899"/><nd ref="-900"/><nd ref="-901"/><nd ref="-902"/><nd ref="-903"/><nd ref="-904"/><nd ref="-905"/><nd ref="-906"/><nd ref="-907"/><nd ref="-908"/><nd ref="-893"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7601"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bennett Court"/></way>
+<way id="-909" visible="true"><nd ref="-910"/><nd ref="-911"/><nd ref="-912"/><nd ref="-913"/><nd ref="-914"/><nd ref="-915"/><nd ref="-916"/><nd ref="-917"/><nd ref="-918"/><nd ref="-919"/><nd ref="-920"/><nd ref="-921"/><nd ref="-922"/><nd ref="-923"/><nd ref="-924"/><nd ref="-910"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7557"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bell Lane"/></way>
+<way id="-925" visible="true"><nd ref="-926"/><nd ref="-927"/><nd ref="-928"/><nd ref="-929"/><nd ref="-930"/><nd ref="-931"/><nd ref="-932"/><nd ref="-933"/><nd ref="-934"/><nd ref="-935"/><nd ref="-936"/><nd ref="-926"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7556"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bell Lane"/></way>
+<way id="-937" visible="true"><nd ref="-938"/><nd ref="-939"/><nd ref="-940"/><nd ref="-941"/><nd ref="-942"/><nd ref="-943"/><nd ref="-944"/><nd ref="-945"/><nd ref="-938"/><tag k="building" v="garage"/></way>
+</osm>

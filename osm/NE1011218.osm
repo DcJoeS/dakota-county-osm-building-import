@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-2" lat="44.522399952" lon="-92.960214046" visible="true"/>
+<node id="-3" lat="44.522327807" lon="-92.960217711" visible="true"/>
+<node id="-4" lat="44.522331204" lon="-92.960331599" visible="true"/>
+<node id="-5" lat="44.522333267" lon="-92.960347317" visible="true"/>
+<node id="-6" lat="44.52231603" lon="-92.960347771" visible="true"/>
+<node id="-7" lat="44.52231823" lon="-92.9605098" visible="true"/>
+<node id="-8" lat="44.52235613" lon="-92.960508797" visible="true"/>
+<node id="-9" lat="44.522356828" lon="-92.960560056" visible="true"/>
+<node id="-10" lat="44.522404631" lon="-92.96055879" visible="true"/>
+<node id="-12" lat="44.523501035" lon="-92.961232064" visible="true"/>
+<node id="-13" lat="44.523399032" lon="-92.961234428" visible="true"/>
+<node id="-14" lat="44.523402292" lon="-92.961356736" visible="true"/>
+<node id="-15" lat="44.523337184" lon="-92.961358097" visible="true"/>
+<node id="-16" lat="44.523339034" lon="-92.961502846" visible="true"/>
+<node id="-17" lat="44.523418109" lon="-92.961500748" visible="true"/>
+<node id="-18" lat="44.523417813" lon="-92.9614484" visible="true"/>
+<node id="-19" lat="44.523432317" lon="-92.961447652" visible="true"/>
+<node id="-20" lat="44.523442199" lon="-92.961460635" visible="true"/>
+<node id="-21" lat="44.523457612" lon="-92.961461375" visible="true"/>
+<node id="-22" lat="44.523465379" lon="-92.961448718" visible="true"/>
+<node id="-23" lat="44.523503978" lon="-92.961447809" visible="true"/>
+<node id="-25" lat="44.5235274" lon="-92.960430872" visible="true"/>
+<node id="-26" lat="44.523447742" lon="-92.960433689" visible="true"/>
+<node id="-27" lat="44.52345107" lon="-92.960532249" visible="true"/>
+<node id="-28" lat="44.523433712" lon="-92.960533921" visible="true"/>
+<node id="-29" lat="44.523423651" lon="-92.960535632" visible="true"/>
+<node id="-30" lat="44.52342224" lon="-92.960577921" visible="true"/>
+<node id="-31" lat="44.523423548" lon="-92.960639271" visible="true"/>
+<node id="-32" lat="44.523426996" lon="-92.960687308" visible="true"/>
+<node id="-33" lat="44.52344955" lon="-92.960683845" visible="true"/>
+<node id="-34" lat="44.523540079" lon="-92.960679386" visible="true"/>
+<node id="-36" lat="44.523587823" lon="-92.961547077" visible="true"/>
+<node id="-37" lat="44.523496207" lon="-92.961549014" visible="true"/>
+<node id="-38" lat="44.523496514" lon="-92.961701305" visible="true"/>
+<node id="-39" lat="44.523590626" lon="-92.961698074" visible="true"/>
+<node id="-41" lat="44.52372278" lon="-92.959876516" visible="true"/>
+<node id="-42" lat="44.523629885" lon="-92.959875848" visible="true"/>
+<node id="-43" lat="44.523631743" lon="-92.960021099" visible="true"/>
+<node id="-44" lat="44.523725229" lon="-92.960018001" visible="true"/>
+<node id="-46" lat="44.528975675" lon="-92.959602867" visible="true"/>
+<node id="-47" lat="44.528898849" lon="-92.959604009" visible="true"/>
+<node id="-48" lat="44.52890099" lon="-92.959885987" visible="true"/>
+<node id="-49" lat="44.528977819" lon="-92.959885281" visible="true"/>
+<node id="-51" lat="44.529094502" lon="-92.960721028" visible="true"/>
+<node id="-52" lat="44.529094607" lon="-92.960734336" visible="true"/>
+<node id="-53" lat="44.528966101" lon="-92.960736275" visible="true"/>
+<node id="-54" lat="44.528967653" lon="-92.960937326" visible="true"/>
+<node id="-55" lat="44.529240677" lon="-92.960933208" visible="true"/>
+<node id="-56" lat="44.529240731" lon="-92.960718822" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="29455"/><tag k="addr:city" v="Cannon Falls"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55009"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Gaylord Avenue"/></way>
+<way id="-11" visible="true"><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-12"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7099"/><tag k="addr:city" v="Cannon Falls"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55009"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="294th Street East"/></way>
+<way id="-24" visible="true"><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-25"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7117"/><tag k="addr:city" v="Cannon Falls"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55009"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="294th Street East"/></way>
+<way id="-35" visible="true"><nd ref="-36"/><nd ref="-37"/><nd ref="-38"/><nd ref="-39"/><nd ref="-36"/><tag k="building" v="garage"/></way>
+<way id="-40" visible="true"><nd ref="-41"/><nd ref="-42"/><nd ref="-43"/><nd ref="-44"/><nd ref="-41"/><tag k="building" v="garage"/></way>
+<way id="-45" visible="true"><nd ref="-46"/><nd ref="-47"/><nd ref="-48"/><nd ref="-49"/><nd ref="-46"/><tag k="building" v="garage"/></way>
+<way id="-50" visible="true"><nd ref="-51"/><nd ref="-52"/><nd ref="-53"/><nd ref="-54"/><nd ref="-55"/><nd ref="-56"/><nd ref="-51"/><tag k="building" v="garage"/></way>
+</osm>

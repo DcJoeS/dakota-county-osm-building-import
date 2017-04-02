@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-2" lat="44.775476651" lon="-93.245751176" visible="true"/>
+<node id="-3" lat="44.775425049" lon="-93.245779167" visible="true"/>
+<node id="-4" lat="44.775438411" lon="-93.245827506" visible="true"/>
+<node id="-5" lat="44.775489946" lon="-93.245799515" visible="true"/>
+<node id="-7" lat="44.775763762" lon="-93.247104645" visible="true"/>
+<node id="-8" lat="44.775731014" lon="-93.247108456" visible="true"/>
+<node id="-9" lat="44.775733028" lon="-93.2472046" visible="true"/>
+<node id="-10" lat="44.77576967" lon="-93.247204719" visible="true"/>
+<node id="-12" lat="44.775768198" lon="-93.24608178" visible="true"/>
+<node id="-13" lat="44.775748292" lon="-93.246083147" visible="true"/>
+<node id="-14" lat="44.775725866" lon="-93.246084692" visible="true"/>
+<node id="-15" lat="44.77572755" lon="-93.246132931" visible="true"/>
+<node id="-16" lat="44.775747633" lon="-93.246131547" visible="true"/>
+<node id="-17" lat="44.775769882" lon="-93.246130018" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="building" v="civic"/><tag k="addr:housenumber" v="2100"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Burnsville Parkway East"/></way>
+<way id="-6" visible="true"><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-7"/><tag k="building" v="shed"/></way>
+<way id="-11" visible="true"><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-12"/><tag k="building" v="shed"/></way>
+</osm>

@@ -1,0 +1,1321 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-2" lat="44.717371194" lon="-93.274249685" visible="true"/>
+<node id="-3" lat="44.717374478" lon="-93.274230449" visible="true"/>
+<node id="-4" lat="44.717299319" lon="-93.27420627" visible="true"/>
+<node id="-5" lat="44.71729648" lon="-93.274223892" visible="true"/>
+<node id="-6" lat="44.717282589" lon="-93.274310123" visible="true"/>
+<node id="-7" lat="44.717278247" lon="-93.274337074" visible="true"/>
+<node id="-8" lat="44.717415127" lon="-93.274380826" visible="true"/>
+<node id="-9" lat="44.717431861" lon="-93.274273503" visible="true"/>
+<node id="-11" lat="44.717455441" lon="-93.27584908" visible="true"/>
+<node id="-12" lat="44.717455194" lon="-93.27589571" visible="true"/>
+<node id="-13" lat="44.717481969" lon="-93.27589466" visible="true"/>
+<node id="-14" lat="44.71748222" lon="-93.275849358" visible="true"/>
+<node id="-16" lat="44.717629112" lon="-93.275602298" visible="true"/>
+<node id="-17" lat="44.717629104" lon="-93.275479284" visible="true"/>
+<node id="-18" lat="44.717516852" lon="-93.275479297" visible="true"/>
+<node id="-19" lat="44.717516864" lon="-93.275717679" visible="true"/>
+<node id="-20" lat="44.717656046" lon="-93.275717665" visible="true"/>
+<node id="-21" lat="44.717656037" lon="-93.275602294" visible="true"/>
+<node id="-23" lat="44.717548791" lon="-93.273598448" visible="true"/>
+<node id="-24" lat="44.717516924" lon="-93.273709914" visible="true"/>
+<node id="-25" lat="44.717662316" lon="-93.273791677" visible="true"/>
+<node id="-26" lat="44.717694183" lon="-93.273680213" visible="true"/>
+<node id="-28" lat="44.717653492" lon="-93.274890642" visible="true"/>
+<node id="-29" lat="44.717518797" lon="-93.274848528" visible="true"/>
+<node id="-30" lat="44.717498376" lon="-93.274977016" visible="true"/>
+<node id="-31" lat="44.717633094" lon="-93.275019137" visible="true"/>
+<node id="-32" lat="44.717634908" lon="-93.275007727" visible="true"/>
+<node id="-33" lat="44.717705648" lon="-93.275029845" visible="true"/>
+<node id="-34" lat="44.717722038" lon="-93.274926737" visible="true"/>
+<node id="-35" lat="44.717724216" lon="-93.274913056" visible="true"/>
+<node id="-37" lat="44.717672461" lon="-93.274288014" visible="true"/>
+<node id="-38" lat="44.717671166" lon="-93.274302597" visible="true"/>
+<node id="-39" lat="44.71758762" lon="-93.274288018" visible="true"/>
+<node id="-40" lat="44.717575274" lon="-93.27442719" visible="true"/>
+<node id="-41" lat="44.717715064" lon="-93.274451585" visible="true"/>
+<node id="-42" lat="44.717728704" lon="-93.274297828" visible="true"/>
+<node id="-44" lat="44.717708549" lon="-93.27622334" visible="true"/>
+<node id="-45" lat="44.717663628" lon="-93.276351867" visible="true"/>
+<node id="-46" lat="44.717646336" lon="-93.276339982" visible="true"/>
+<node id="-47" lat="44.717610176" lon="-93.276443446" visible="true"/>
+<node id="-48" lat="44.717696286" lon="-93.276502645" visible="true"/>
+<node id="-49" lat="44.717737385" lon="-93.276385041" visible="true"/>
+<node id="-50" lat="44.717755986" lon="-93.276353946" visible="true"/>
+<node id="-51" lat="44.7177836" lon="-93.276274934" visible="true"/>
+<node id="-53" lat="44.717782124" lon="-93.277492362" visible="true"/>
+<node id="-54" lat="44.71777799" lon="-93.277460223" visible="true"/>
+<node id="-55" lat="44.717789291" lon="-93.277455057" visible="true"/>
+<node id="-56" lat="44.71776924" lon="-93.277368743" visible="true"/>
+<node id="-57" lat="44.717699489" lon="-93.277400618" visible="true"/>
+<node id="-58" lat="44.717708754" lon="-93.277440499" visible="true"/>
+<node id="-59" lat="44.717664771" lon="-93.277460596" visible="true"/>
+<node id="-60" lat="44.717700849" lon="-93.277615912" visible="true"/>
+<node id="-61" lat="44.71779726" lon="-93.277571859" visible="true"/>
+<node id="-63" lat="44.717800679" lon="-93.276702527" visible="true"/>
+<node id="-64" lat="44.717744131" lon="-93.276741471" visible="true"/>
+<node id="-65" lat="44.717748849" lon="-93.276754943" visible="true"/>
+<node id="-66" lat="44.717722456" lon="-93.276773118" visible="true"/>
+<node id="-67" lat="44.717703553" lon="-93.276719126" visible="true"/>
+<node id="-68" lat="44.717619432" lon="-93.276777062" visible="true"/>
+<node id="-69" lat="44.71766038" lon="-93.276894025" visible="true"/>
+<node id="-70" lat="44.717672962" lon="-93.276934161" visible="true"/>
+<node id="-71" lat="44.717760976" lon="-93.276871861" visible="true"/>
+<node id="-72" lat="44.717745129" lon="-93.2768266" visible="true"/>
+<node id="-73" lat="44.717771705" lon="-93.276808292" visible="true"/>
+<node id="-74" lat="44.717777345" lon="-93.2768244" visible="true"/>
+<node id="-75" lat="44.717830525" lon="-93.276787773" visible="true"/>
+<node id="-77" lat="44.7178622" lon="-93.273093567" visible="true"/>
+<node id="-78" lat="44.717870507" lon="-93.273061987" visible="true"/>
+<node id="-79" lat="44.717842953" lon="-93.273047505" visible="true"/>
+<node id="-80" lat="44.717833484" lon="-93.273078984" visible="true"/>
+<node id="-81" lat="44.717763056" lon="-93.273037306" visible="true"/>
+<node id="-82" lat="44.717747724" lon="-93.273080878" visible="true"/>
+<node id="-83" lat="44.717716547" lon="-93.273064649" visible="true"/>
+<node id="-84" lat="44.71769379" lon="-93.273133642" visible="true"/>
+<node id="-85" lat="44.717730939" lon="-93.273152009" visible="true"/>
+<node id="-86" lat="44.717714633" lon="-93.27319559" visible="true"/>
+<node id="-87" lat="44.717779984" lon="-93.273236821" visible="true"/>
+<node id="-88" lat="44.717797705" lon="-93.273245985" visible="true"/>
+<node id="-89" lat="44.717808921" lon="-93.273203361" visible="true"/>
+<node id="-90" lat="44.717859443" lon="-93.27322951" visible="true"/>
+<node id="-91" lat="44.717891253" lon="-93.273108602" visible="true"/>
+<node id="-93" lat="44.717904573" lon="-93.276615261" visible="true"/>
+<node id="-94" lat="44.717884571" lon="-93.276624815" visible="true"/>
+<node id="-95" lat="44.717889427" lon="-93.276644417" visible="true"/>
+<node id="-96" lat="44.717910644" lon="-93.276636042" visible="true"/>
+<node id="-98" lat="44.717939512" lon="-93.273774007" visible="true"/>
+<node id="-99" lat="44.717889932" lon="-93.273774504" visible="true"/>
+<node id="-100" lat="44.717880009" lon="-93.273775748" visible="true"/>
+<node id="-101" lat="44.717877781" lon="-93.273744434" visible="true"/>
+<node id="-102" lat="44.717868558" lon="-93.273747337" visible="true"/>
+<node id="-103" lat="44.717845301" lon="-93.27374237" visible="true"/>
+<node id="-104" lat="44.717826632" lon="-93.273716459" visible="true"/>
+<node id="-105" lat="44.717812183" lon="-93.273735384" visible="true"/>
+<node id="-106" lat="44.717803749" lon="-93.273733718" visible="true"/>
+<node id="-107" lat="44.717776072" lon="-93.273734919" visible="true"/>
+<node id="-108" lat="44.717781972" lon="-93.273875074" visible="true"/>
+<node id="-109" lat="44.717817496" lon="-93.273874998" visible="true"/>
+<node id="-110" lat="44.717880531" lon="-93.273864085" visible="true"/>
+<node id="-111" lat="44.717940103" lon="-93.273863653" visible="true"/>
+<node id="-113" lat="44.717905011" lon="-93.2706187" visible="true"/>
+<node id="-114" lat="44.717885759" lon="-93.270664914" visible="true"/>
+<node id="-115" lat="44.717949483" lon="-93.270717134" visible="true"/>
+<node id="-116" lat="44.717967368" lon="-93.270669796" visible="true"/>
+<node id="-118" lat="44.71797239" lon="-93.271328419" visible="true"/>
+<node id="-119" lat="44.71795613" lon="-93.271346207" visible="true"/>
+<node id="-120" lat="44.717967777" lon="-93.271367124" visible="true"/>
+<node id="-121" lat="44.717983893" lon="-93.27134916" visible="true"/>
+<node id="-123" lat="44.717991098" lon="-93.272795232" visible="true"/>
+<node id="-124" lat="44.717976159" lon="-93.272788826" visible="true"/>
+<node id="-125" lat="44.717961876" lon="-93.272798138" visible="true"/>
+<node id="-126" lat="44.717958951" lon="-93.272818079" visible="true"/>
+<node id="-127" lat="44.717966381" lon="-93.272839091" visible="true"/>
+<node id="-128" lat="44.717978876" lon="-93.272843767" visible="true"/>
+<node id="-129" lat="44.717993006" lon="-93.272835005" visible="true"/>
+<node id="-130" lat="44.717995615" lon="-93.272814524" visible="true"/>
+<node id="-132" lat="44.718012358" lon="-93.277393385" visible="true"/>
+<node id="-133" lat="44.717997911" lon="-93.277345207" visible="true"/>
+<node id="-134" lat="44.717975536" lon="-93.277281466" visible="true"/>
+<node id="-135" lat="44.717936945" lon="-93.277308108" visible="true"/>
+<node id="-136" lat="44.717931397" lon="-93.277292294" visible="true"/>
+<node id="-137" lat="44.717859762" lon="-93.277341755" visible="true"/>
+<node id="-138" lat="44.717891323" lon="-93.277431666" visible="true"/>
+<node id="-139" lat="44.717909847" lon="-93.277418879" visible="true"/>
+<node id="-140" lat="44.717942061" lon="-93.277510659" visible="true"/>
+<node id="-141" lat="44.718031776" lon="-93.277448716" visible="true"/>
+<node id="-143" lat="44.717984555" lon="-93.275975897" visible="true"/>
+<node id="-144" lat="44.717920114" lon="-93.27603499" visible="true"/>
+<node id="-145" lat="44.717928966" lon="-93.276053899" visible="true"/>
+<node id="-146" lat="44.717907081" lon="-93.276070049" visible="true"/>
+<node id="-147" lat="44.717813417" lon="-93.276152302" visible="true"/>
+<node id="-148" lat="44.717867789" lon="-93.276268429" visible="true"/>
+<node id="-149" lat="44.717935658" lon="-93.276211985" visible="true"/>
+<node id="-150" lat="44.717961163" lon="-93.276194559" visible="true"/>
+<node id="-151" lat="44.717985828" lon="-93.276247234" visible="true"/>
+<node id="-152" lat="44.718043143" lon="-93.276194448" visible="true"/>
+<node id="-153" lat="44.71801657" lon="-93.276137696" visible="true"/>
+<node id="-154" lat="44.718047131" lon="-93.276109552" visible="true"/>
+<node id="-156" lat="44.718043609" lon="-93.274249678" visible="true"/>
+<node id="-157" lat="44.71794897" lon="-93.274269979" visible="true"/>
+<node id="-158" lat="44.71796008" lon="-93.274371871" visible="true"/>
+<node id="-159" lat="44.717902438" lon="-93.274384238" visible="true"/>
+<node id="-160" lat="44.717915422" lon="-93.274503289" visible="true"/>
+<node id="-161" lat="44.717925672" lon="-93.274501089" visible="true"/>
+<node id="-162" lat="44.717984975" lon="-93.274487437" visible="true"/>
+<node id="-163" lat="44.718038577" lon="-93.274475942" visible="true"/>
+<node id="-164" lat="44.718027547" lon="-93.274374803" visible="true"/>
+<node id="-165" lat="44.718056577" lon="-93.274368577" visible="true"/>
+<node id="-167" lat="44.718054421" lon="-93.276622385" visible="true"/>
+<node id="-168" lat="44.718046096" lon="-93.276628507" visible="true"/>
+<node id="-169" lat="44.718038502" lon="-93.276608195" visible="true"/>
+<node id="-170" lat="44.718047667" lon="-93.276601457" visible="true"/>
+<node id="-171" lat="44.718033394" lon="-93.276563264" visible="true"/>
+<node id="-172" lat="44.717926777" lon="-93.27664165" visible="true"/>
+<node id="-173" lat="44.717922323" lon="-93.276629735" visible="true"/>
+<node id="-174" lat="44.717848373" lon="-93.276684091" visible="true"/>
+<node id="-175" lat="44.717897371" lon="-93.276815173" visible="true"/>
+<node id="-176" lat="44.717959867" lon="-93.276767962" visible="true"/>
+<node id="-177" lat="44.71795061" lon="-93.276743196" visible="true"/>
+<node id="-178" lat="44.71798995" lon="-93.276714275" visible="true"/>
+<node id="-179" lat="44.717994265" lon="-93.276725824" visible="true"/>
+<node id="-180" lat="44.718041413" lon="-93.276688294" visible="true"/>
+<node id="-181" lat="44.718063033" lon="-93.276669533" visible="true"/>
+<node id="-182" lat="44.718058658" lon="-93.276657826" visible="true"/>
+<node id="-183" lat="44.718065727" lon="-93.276652628" visible="true"/>
+<node id="-185" lat="44.71806395" lon="-93.275113713" visible="true"/>
+<node id="-186" lat="44.718030002" lon="-93.275123397" visible="true"/>
+<node id="-187" lat="44.717993311" lon="-93.275139659" visible="true"/>
+<node id="-188" lat="44.717981446" lon="-93.275098123" visible="true"/>
+<node id="-189" lat="44.717969963" lon="-93.275099617" visible="true"/>
+<node id="-190" lat="44.717945276" lon="-93.275107093" visible="true"/>
+<node id="-191" lat="44.717935333" lon="-93.275128361" visible="true"/>
+<node id="-192" lat="44.717942167" lon="-93.275154352" visible="true"/>
+<node id="-193" lat="44.717859629" lon="-93.275182626" visible="true"/>
+<node id="-194" lat="44.717880029" lon="-93.27529478" visible="true"/>
+<node id="-195" lat="44.718018802" lon="-93.275239484" visible="true"/>
+<node id="-196" lat="44.718083092" lon="-93.275211595" visible="true"/>
+<node id="-198" lat="44.717922462" lon="-93.271502096" visible="true"/>
+<node id="-199" lat="44.717901474" lon="-93.271526936" visible="true"/>
+<node id="-200" lat="44.717900608" lon="-93.271548937" visible="true"/>
+<node id="-201" lat="44.717883097" lon="-93.271547581" visible="true"/>
+<node id="-202" lat="44.717879684" lon="-93.271634313" visible="true"/>
+<node id="-203" lat="44.717900667" lon="-93.271635934" visible="true"/>
+<node id="-204" lat="44.717899482" lon="-93.271666055" visible="true"/>
+<node id="-205" lat="44.717875513" lon="-93.271664201" visible="true"/>
+<node id="-206" lat="44.717870706" lon="-93.271786323" visible="true"/>
+<node id="-207" lat="44.71794341" lon="-93.271791949" visible="true"/>
+<node id="-208" lat="44.717946226" lon="-93.27172037" visible="true"/>
+<node id="-209" lat="44.717966262" lon="-93.27172192" visible="true"/>
+<node id="-210" lat="44.717967645" lon="-93.271686787" visible="true"/>
+<node id="-211" lat="44.717978056" lon="-93.27168759" visible="true"/>
+<node id="-212" lat="44.717980724" lon="-93.271619804" visible="true"/>
+<node id="-213" lat="44.718093087" lon="-93.271628498" visible="true"/>
+<node id="-214" lat="44.718097528" lon="-93.271515647" visible="true"/>
+<node id="-216" lat="44.718066025" lon="-93.271158849" visible="true"/>
+<node id="-217" lat="44.718013096" lon="-93.271156684" visible="true"/>
+<node id="-218" lat="44.717967472" lon="-93.271215659" visible="true"/>
+<node id="-219" lat="44.717966692" lon="-93.271275592" visible="true"/>
+<node id="-220" lat="44.717997375" lon="-93.271337886" visible="true"/>
+<node id="-221" lat="44.717996134" lon="-93.271424188" visible="true"/>
+<node id="-222" lat="44.718073287" lon="-93.271426372" visible="true"/>
+<node id="-223" lat="44.718073923" lon="-93.271332794" visible="true"/>
+<node id="-224" lat="44.718097911" lon="-93.271332815" visible="true"/>
+<node id="-225" lat="44.718098152" lon="-93.271215603" visible="true"/>
+<node id="-227" lat="44.718100075" lon="-93.270784976" visible="true"/>
+<node id="-228" lat="44.718029765" lon="-93.271011782" visible="true"/>
+<node id="-229" lat="44.718118399" lon="-93.271065833" visible="true"/>
+<node id="-230" lat="44.718188708" lon="-93.270839026" visible="true"/>
+<node id="-232" lat="44.718226383" lon="-93.272333821" visible="true"/>
+<node id="-233" lat="44.71821618" lon="-93.272331645" visible="true"/>
+<node id="-234" lat="44.718204162" lon="-93.272340159" visible="true"/>
+<node id="-235" lat="44.718200272" lon="-93.272356372" visible="true"/>
+<node id="-236" lat="44.718203182" lon="-93.272369856" visible="true"/>
+<node id="-237" lat="44.718210696" lon="-93.272379764" visible="true"/>
+<node id="-238" lat="44.718222781" lon="-93.272381805" visible="true"/>
+<node id="-239" lat="44.718232514" lon="-93.272371454" visible="true"/>
+<node id="-240" lat="44.718234716" lon="-93.272348994" visible="true"/>
+<node id="-242" lat="44.71818462" lon="-93.275708326" visible="true"/>
+<node id="-243" lat="44.718032547" lon="-93.275907845" visible="true"/>
+<node id="-244" lat="44.718094379" lon="-93.276000551" visible="true"/>
+<node id="-245" lat="44.718148597" lon="-93.275929421" visible="true"/>
+<node id="-246" lat="44.718174447" lon="-93.275898405" visible="true"/>
+<node id="-247" lat="44.718200039" lon="-93.275864828" visible="true"/>
+<node id="-248" lat="44.718191129" lon="-93.27585147" visible="true"/>
+<node id="-249" lat="44.718238574" lon="-93.27578922" visible="true"/>
+<node id="-251" lat="44.71818192" lon="-93.274809521" visible="true"/>
+<node id="-252" lat="44.718104662" lon="-93.274911244" visible="true"/>
+<node id="-253" lat="44.718119084" lon="-93.274932794" visible="true"/>
+<node id="-254" lat="44.71807812" lon="-93.274986733" visible="true"/>
+<node id="-255" lat="44.718124209" lon="-93.275055592" visible="true"/>
+<node id="-256" lat="44.718163674" lon="-93.275003947" visible="true"/>
+<node id="-257" lat="44.718242432" lon="-93.274899931" visible="true"/>
+<node id="-259" lat="44.718197259" lon="-93.277138685" visible="true"/>
+<node id="-260" lat="44.718175498" lon="-93.277154576" visible="true"/>
+<node id="-261" lat="44.718167336" lon="-93.277132585" visible="true"/>
+<node id="-262" lat="44.718062497" lon="-93.277209134" visible="true"/>
+<node id="-263" lat="44.718096025" lon="-93.277299464" visible="true"/>
+<node id="-264" lat="44.718141647" lon="-93.277266156" visible="true"/>
+<node id="-265" lat="44.718165067" lon="-93.277329249" visible="true"/>
+<node id="-266" lat="44.718246047" lon="-93.277270123" visible="true"/>
+<node id="-268" lat="44.718214456" lon="-93.270090816" visible="true"/>
+<node id="-269" lat="44.718163553" lon="-93.270148913" visible="true"/>
+<node id="-270" lat="44.718192639" lon="-93.270199038" visible="true"/>
+<node id="-271" lat="44.718243541" lon="-93.270140939" visible="true"/>
+<node id="-273" lat="44.718258405" lon="-93.273297372" visible="true"/>
+<node id="-274" lat="44.718269375" lon="-93.273276185" visible="true"/>
+<node id="-275" lat="44.718185218" lon="-93.273190479" visible="true"/>
+<node id="-276" lat="44.718177648" lon="-93.273205099" visible="true"/>
+<node id="-277" lat="44.71812756" lon="-93.273154088" visible="true"/>
+<node id="-278" lat="44.718074299" lon="-93.273256969" visible="true"/>
+<node id="-279" lat="44.718178722" lon="-93.273363319" visible="true"/>
+<node id="-280" lat="44.718166071" lon="-93.273387752" visible="true"/>
+<node id="-281" lat="44.718236999" lon="-93.273459983" visible="true"/>
+<node id="-282" lat="44.718299512" lon="-93.273339237" visible="true"/>
+<node id="-284" lat="44.718205912" lon="-93.270452773" visible="true"/>
+<node id="-285" lat="44.718121814" lon="-93.270668771" visible="true"/>
+<node id="-286" lat="44.718215284" lon="-93.270740362" visible="true"/>
+<node id="-287" lat="44.718268584" lon="-93.270603474" visible="true"/>
+<node id="-288" lat="44.718285799" lon="-93.270616659" visible="true"/>
+<node id="-289" lat="44.718316601" lon="-93.270537548" visible="true"/>
+<node id="-291" lat="44.718329753" lon="-93.27284446" visible="true"/>
+<node id="-292" lat="44.718316154" lon="-93.272898571" visible="true"/>
+<node id="-293" lat="44.718337903" lon="-93.272910996" visible="true"/>
+<node id="-294" lat="44.718351881" lon="-93.272855399" visible="true"/>
+<node id="-296" lat="44.718343988" lon="-93.272099417" visible="true"/>
+<node id="-297" lat="44.718209258" lon="-93.272139103" visible="true"/>
+<node id="-298" lat="44.718204971" lon="-93.27211047" visible="true"/>
+<node id="-299" lat="44.718136266" lon="-93.272130708" visible="true"/>
+<node id="-300" lat="44.718158119" lon="-93.272276638" visible="true"/>
+<node id="-301" lat="44.718264486" lon="-93.272245301" visible="true"/>
+<node id="-302" lat="44.718271452" lon="-93.272291819" visible="true"/>
+<node id="-303" lat="44.718327753" lon="-93.272275234" visible="true"/>
+<node id="-304" lat="44.718319385" lon="-93.272219362" visible="true"/>
+<node id="-305" lat="44.718359641" lon="-93.272207503" visible="true"/>
+<node id="-307" lat="44.718342964" lon="-93.276393626" visible="true"/>
+<node id="-308" lat="44.71833494" lon="-93.276398832" visible="true"/>
+<node id="-309" lat="44.718302945" lon="-93.276301861" visible="true"/>
+<node id="-310" lat="44.71818405" lon="-93.276378583" visible="true"/>
+<node id="-311" lat="44.718187562" lon="-93.276390056" visible="true"/>
+<node id="-312" lat="44.718203446" lon="-93.276441742" visible="true"/>
+<node id="-313" lat="44.718220892" lon="-93.276494619" visible="true"/>
+<node id="-314" lat="44.718266892" lon="-93.276464763" visible="true"/>
+<node id="-315" lat="44.718291229" lon="-93.276538516" visible="true"/>
+<node id="-316" lat="44.718373213" lon="-93.276485305" visible="true"/>
+<node id="-318" lat="44.718337877" lon="-93.274489404" visible="true"/>
+<node id="-319" lat="44.718289049" lon="-93.274591409" visible="true"/>
+<node id="-320" lat="44.718257335" lon="-93.274561546" visible="true"/>
+<node id="-321" lat="44.718227421" lon="-93.274624036" visible="true"/>
+<node id="-322" lat="44.718260455" lon="-93.27465514" visible="true"/>
+<node id="-323" lat="44.71823627" lon="-93.27470567" visible="true"/>
+<node id="-324" lat="44.718325763" lon="-93.274789938" visible="true"/>
+<node id="-325" lat="44.718363857" lon="-93.274710347" visible="true"/>
+<node id="-326" lat="44.718343115" lon="-93.274690817" visible="true"/>
+<node id="-327" lat="44.718407925" lon="-93.274555417" visible="true"/>
+<node id="-329" lat="44.718415442" lon="-93.275500632" visible="true"/>
+<node id="-330" lat="44.718330752" lon="-93.275619297" visible="true"/>
+<node id="-331" lat="44.718298223" lon="-93.275573631" visible="true"/>
+<node id="-332" lat="44.718223653" lon="-93.275678116" visible="true"/>
+<node id="-333" lat="44.718279064" lon="-93.27575591" visible="true"/>
+<node id="-334" lat="44.718293511" lon="-93.275735111" visible="true"/>
+<node id="-335" lat="44.718337546" lon="-93.275795275" visible="true"/>
+<node id="-336" lat="44.718479035" lon="-93.275591571" visible="true"/>
+<node id="-338" lat="44.718441645" lon="-93.276970434" visible="true"/>
+<node id="-339" lat="44.718371315" lon="-93.277019978" visible="true"/>
+<node id="-340" lat="44.718360273" lon="-93.276989141" visible="true"/>
+<node id="-341" lat="44.718266398" lon="-93.277055271" visible="true"/>
+<node id="-342" lat="44.718306915" lon="-93.277168415" visible="true"/>
+<node id="-343" lat="44.718319511" lon="-93.277159539" visible="true"/>
+<node id="-344" lat="44.718338642" lon="-93.277212958" visible="true"/>
+<node id="-345" lat="44.718409615" lon="-93.277162964" visible="true"/>
+<node id="-346" lat="44.718402411" lon="-93.27714285" visible="true"/>
+<node id="-347" lat="44.718483046" lon="-93.277086047" visible="true"/>
+<node id="-349" lat="44.718467287" lon="-93.27607861" visible="true"/>
+<node id="-350" lat="44.718431704" lon="-93.276104336" visible="true"/>
+<node id="-351" lat="44.718353102" lon="-93.276174775" visible="true"/>
+<node id="-352" lat="44.718390644" lon="-93.276257182" visible="true"/>
+<node id="-353" lat="44.718382086" lon="-93.276264851" visible="true"/>
+<node id="-354" lat="44.718425892" lon="-93.276360998" visible="true"/>
+<node id="-355" lat="44.718503311" lon="-93.276291613" visible="true"/>
+<node id="-356" lat="44.718470979" lon="-93.276220643" visible="true"/>
+<node id="-357" lat="44.7185143" lon="-93.276181819" visible="true"/>
+<node id="-359" lat="44.718495761" lon="-93.277844653" visible="true"/>
+<node id="-360" lat="44.718402614" lon="-93.277823685" visible="true"/>
+<node id="-361" lat="44.718399049" lon="-93.277855613" visible="true"/>
+<node id="-362" lat="44.718364003" lon="-93.278169479" visible="true"/>
+<node id="-363" lat="44.718395007" lon="-93.27817629" visible="true"/>
+<node id="-364" lat="44.718453003" lon="-93.278188065" visible="true"/>
+<node id="-365" lat="44.718481675" lon="-93.278194366" visible="true"/>
+<node id="-366" lat="44.718519828" lon="-93.277852656" visible="true"/>
+<node id="-368" lat="44.718502888" lon="-93.274213705" visible="true"/>
+<node id="-369" lat="44.718434183" lon="-93.274174932" visible="true"/>
+<node id="-370" lat="44.718354413" lon="-93.27417433" visible="true"/>
+<node id="-371" lat="44.718285481" lon="-93.274174475" visible="true"/>
+<node id="-372" lat="44.71828192" lon="-93.274276113" visible="true"/>
+<node id="-373" lat="44.718416977" lon="-93.27429778" visible="true"/>
+<node id="-374" lat="44.718417205" lon="-93.2742848" visible="true"/>
+<node id="-375" lat="44.718529265" lon="-93.274338209" visible="true"/>
+<node id="-376" lat="44.718547272" lon="-93.274257382" visible="true"/>
+<node id="-377" lat="44.718547606" lon="-93.274242537" visible="true"/>
+<node id="-379" lat="44.718562666" lon="-93.273595926" visible="true"/>
+<node id="-380" lat="44.718580639" lon="-93.273558537" visible="true"/>
+<node id="-381" lat="44.71850663" lon="-93.273488553" visible="true"/>
+<node id="-382" lat="44.718478521" lon="-93.273547026" visible="true"/>
+<node id="-383" lat="44.718383329" lon="-93.273454912" visible="true"/>
+<node id="-384" lat="44.718329663" lon="-93.273566552" visible="true"/>
+<node id="-385" lat="44.718383846" lon="-93.273617785" visible="true"/>
+<node id="-386" lat="44.718389073" lon="-93.273606914" visible="true"/>
+<node id="-387" lat="44.718433007" lon="-93.273648461" visible="true"/>
+<node id="-388" lat="44.718427134" lon="-93.273660671" visible="true"/>
+<node id="-389" lat="44.71848631" lon="-93.273716629" visible="true"/>
+<node id="-390" lat="44.718490774" lon="-93.273707339" visible="true"/>
+<node id="-391" lat="44.718525524" lon="-93.2737402" visible="true"/>
+<node id="-392" lat="44.71858481" lon="-93.273616866" visible="true"/>
+<node id="-394" lat="44.718606867" lon="-93.272098299" visible="true"/>
+<node id="-395" lat="44.718405086" lon="-93.272115742" visible="true"/>
+<node id="-396" lat="44.718410261" lon="-93.272233489" visible="true"/>
+<node id="-397" lat="44.718474847" lon="-93.272232494" visible="true"/>
+<node id="-398" lat="44.718475498" lon="-93.272247348" visible="true"/>
+<node id="-399" lat="44.71860043" lon="-93.272235051" visible="true"/>
+<node id="-400" lat="44.718612827" lon="-93.27223398" visible="true"/>
+<node id="-402" lat="44.718560132" lon="-93.275160557" visible="true"/>
+<node id="-403" lat="44.718508231" lon="-93.275240739" visible="true"/>
+<node id="-404" lat="44.718535045" lon="-93.275274883" visible="true"/>
+<node id="-405" lat="44.718449692" lon="-93.275406743" visible="true"/>
+<node id="-406" lat="44.718516721" lon="-93.27549209" visible="true"/>
+<node id="-407" lat="44.718606574" lon="-93.275353284" visible="true"/>
+<node id="-408" lat="44.718638143" lon="-93.27528627" visible="true"/>
+<node id="-409" lat="44.718647501" lon="-93.27527181" visible="true"/>
+<node id="-411" lat="44.718652701" lon="-93.271359755" visible="true"/>
+<node id="-412" lat="44.718520969" lon="-93.271371268" visible="true"/>
+<node id="-413" lat="44.718519663" lon="-93.271341863" visible="true"/>
+<node id="-414" lat="44.71845653" lon="-93.271347383" visible="true"/>
+<node id="-415" lat="44.718461874" lon="-93.271467705" visible="true"/>
+<node id="-416" lat="44.718513106" lon="-93.271463227" visible="true"/>
+<node id="-417" lat="44.718514919" lon="-93.271503987" visible="true"/>
+<node id="-418" lat="44.718658551" lon="-93.271491429" visible="true"/>
+<node id="-420" lat="44.718633785" lon="-93.270982983" visible="true"/>
+<node id="-421" lat="44.718554543" lon="-93.271042233" visible="true"/>
+<node id="-422" lat="44.718563132" lon="-93.271064826" visible="true"/>
+<node id="-423" lat="44.718539503" lon="-93.271082497" visible="true"/>
+<node id="-424" lat="44.718531221" lon="-93.271060704" visible="true"/>
+<node id="-425" lat="44.718450846" lon="-93.271120799" visible="true"/>
+<node id="-426" lat="44.718498852" lon="-93.271247095" visible="true"/>
+<node id="-427" lat="44.718682093" lon="-93.271110083" visible="true"/>
+<node id="-429" lat="44.71867327" lon="-93.270420622" visible="true"/>
+<node id="-430" lat="44.718590129" lon="-93.27043983" visible="true"/>
+<node id="-431" lat="44.718586197" lon="-93.270406342" visible="true"/>
+<node id="-432" lat="44.718447622" lon="-93.270438363" visible="true"/>
+<node id="-433" lat="44.718461672" lon="-93.27055797" visible="true"/>
+<node id="-434" lat="44.718495358" lon="-93.270554431" visible="true"/>
+<node id="-435" lat="44.718595198" lon="-93.270540831" visible="true"/>
+<node id="-436" lat="44.71868555" lon="-93.270525176" visible="true"/>
+<node id="-438" lat="44.718688966" lon="-93.270969684" visible="true"/>
+<node id="-439" lat="44.718673087" lon="-93.27098111" visible="true"/>
+<node id="-440" lat="44.718688494" lon="-93.271023236" visible="true"/>
+<node id="-441" lat="44.718704613" lon="-93.271012467" visible="true"/>
+<node id="-443" lat="44.718716165" lon="-93.271235973" visible="true"/>
+<node id="-444" lat="44.718641537" lon="-93.271290576" visible="true"/>
+<node id="-445" lat="44.718685213" lon="-93.271407999" visible="true"/>
+<node id="-446" lat="44.71875886" lon="-93.271350766" visible="true"/>
+<node id="-448" lat="44.718720467" lon="-93.275921892" visible="true"/>
+<node id="-449" lat="44.718687027" lon="-93.27586873" visible="true"/>
+<node id="-450" lat="44.718711631" lon="-93.275825455" visible="true"/>
+<node id="-451" lat="44.718669099" lon="-93.27577103" visible="true"/>
+<node id="-452" lat="44.718635713" lon="-93.27582235" visible="true"/>
+<node id="-453" lat="44.718645356" lon="-93.275834683" visible="true"/>
+<node id="-454" lat="44.718605611" lon="-93.275895784" visible="true"/>
+<node id="-455" lat="44.718578816" lon="-93.275861497" visible="true"/>
+<node id="-456" lat="44.71852937" lon="-93.275937505" visible="true"/>
+<node id="-457" lat="44.718625996" lon="-93.276061158" visible="true"/>
+<node id="-458" lat="44.718651455" lon="-93.276021991" visible="true"/>
+<node id="-459" lat="44.71869449" lon="-93.276077178" visible="true"/>
+<node id="-460" lat="44.718760935" lon="-93.27597381" visible="true"/>
+<node id="-462" lat="44.718732593" lon="-93.274839253" visible="true"/>
+<node id="-463" lat="44.718693144" lon="-93.274920687" visible="true"/>
+<node id="-464" lat="44.718685355" lon="-93.274913265" visible="true"/>
+<node id="-465" lat="44.718610756" lon="-93.275067256" visible="true"/>
+<node id="-466" lat="44.718677305" lon="-93.275130672" visible="true"/>
+<node id="-467" lat="44.718714479" lon="-93.275053937" visible="true"/>
+<node id="-468" lat="44.718751181" lon="-93.275088914" visible="true"/>
+<node id="-469" lat="44.718772273" lon="-93.275045379" visible="true"/>
+<node id="-470" lat="44.7187468" lon="-93.275019369" visible="true"/>
+<node id="-471" lat="44.71876333" lon="-93.274987318" visible="true"/>
+<node id="-472" lat="44.718802694" lon="-93.274906059" visible="true"/>
+<node id="-474" lat="44.718764325" lon="-93.276799942" visible="true"/>
+<node id="-475" lat="44.718795109" lon="-93.276768742" visible="true"/>
+<node id="-476" lat="44.718743072" lon="-93.276667745" visible="true"/>
+<node id="-477" lat="44.718662855" lon="-93.276749049" visible="true"/>
+<node id="-478" lat="44.718689087" lon="-93.276799966" visible="true"/>
+<node id="-479" lat="44.71859432" lon="-93.276896012" visible="true"/>
+<node id="-480" lat="44.718648323" lon="-93.277000829" visible="true"/>
+<node id="-481" lat="44.718724114" lon="-93.276924013" visible="true"/>
+<node id="-482" lat="44.718733228" lon="-93.276941707" visible="true"/>
+<node id="-483" lat="44.718752342" lon="-93.276922336" visible="true"/>
+<node id="-484" lat="44.718764582" lon="-93.27694609" visible="true"/>
+<node id="-485" lat="44.718813882" lon="-93.276896123" visible="true"/>
+<node id="-487" lat="44.71878504" lon="-93.271881772" visible="true"/>
+<node id="-488" lat="44.718643366" lon="-93.272060646" visible="true"/>
+<node id="-489" lat="44.718706698" lon="-93.272159325" visible="true"/>
+<node id="-490" lat="44.718806226" lon="-93.272033666" visible="true"/>
+<node id="-491" lat="44.718794768" lon="-93.272015814" visible="true"/>
+<node id="-492" lat="44.718836917" lon="-93.271962599" visible="true"/>
+<node id="-494" lat="44.718727588" lon="-93.27358559" visible="true"/>
+<node id="-495" lat="44.718690242" lon="-93.273794726" visible="true"/>
+<node id="-496" lat="44.718769964" lon="-93.27382273" visible="true"/>
+<node id="-497" lat="44.718786206" lon="-93.273731779" visible="true"/>
+<node id="-498" lat="44.718805394" lon="-93.273738516" visible="true"/>
+<node id="-499" lat="44.718802723" lon="-93.273753467" visible="true"/>
+<node id="-500" lat="44.718851785" lon="-93.273770698" visible="true"/>
+<node id="-501" lat="44.718855762" lon="-93.273748434" visible="true"/>
+<node id="-502" lat="44.718889438" lon="-93.273760261" visible="true"/>
+<node id="-503" lat="44.718909236" lon="-93.273649397" visible="true"/>
+<node id="-505" lat="44.718912214" lon="-93.270961926" visible="true"/>
+<node id="-506" lat="44.718819523" lon="-93.270985392" visible="true"/>
+<node id="-507" lat="44.718821589" lon="-93.271001446" visible="true"/>
+<node id="-508" lat="44.718767783" lon="-93.271015071" visible="true"/>
+<node id="-509" lat="44.718780738" lon="-93.271115744" visible="true"/>
+<node id="-510" lat="44.718927236" lon="-93.271078654" visible="true"/>
+<node id="-512" lat="44.718842025" lon="-93.274458812" visible="true"/>
+<node id="-513" lat="44.718807763" lon="-93.27457058" visible="true"/>
+<node id="-514" lat="44.718818569" lon="-93.274577096" visible="true"/>
+<node id="-515" lat="44.718769999" lon="-93.274735531" visible="true"/>
+<node id="-516" lat="44.718850702" lon="-93.274784197" visible="true"/>
+<node id="-517" lat="44.718933534" lon="-93.274513998" visible="true"/>
+<node id="-519" lat="44.718850862" lon="-93.275503132" visible="true"/>
+<node id="-520" lat="44.718780014" lon="-93.27568456" visible="true"/>
+<node id="-521" lat="44.718852944" lon="-93.275740583" visible="true"/>
+<node id="-522" lat="44.718881661" lon="-93.275667051" visible="true"/>
+<node id="-523" lat="44.718892323" lon="-93.275675239" visible="true"/>
+<node id="-524" lat="44.718934456" lon="-93.275567345" visible="true"/>
+<node id="-526" lat="44.718971409" lon="-93.27032885" visible="true"/>
+<node id="-527" lat="44.718777096" lon="-93.270365872" visible="true"/>
+<node id="-528" lat="44.718789545" lon="-93.2704944" visible="true"/>
+<node id="-529" lat="44.718909999" lon="-93.270476494" visible="true"/>
+<node id="-530" lat="44.718984816" lon="-93.270467286" visible="true"/>
+<node id="-532" lat="44.718973707" lon="-93.273442594" visible="true"/>
+<node id="-533" lat="44.718964407" lon="-93.27347553" visible="true"/>
+<node id="-534" lat="44.718978989" lon="-93.273483819" visible="true"/>
+<node id="-535" lat="44.718988335" lon="-93.273450715" visible="true"/>
+<node id="-537" lat="44.718974537" lon="-93.273294544" visible="true"/>
+<node id="-538" lat="44.718964527" lon="-93.273339024" visible="true"/>
+<node id="-539" lat="44.718981452" lon="-93.273346352" visible="true"/>
+<node id="-540" lat="44.718991427" lon="-93.273302021" visible="true"/>
+<node id="-542" lat="44.718972234" lon="-93.271644036" visible="true"/>
+<node id="-543" lat="44.718941342" lon="-93.271685883" visible="true"/>
+<node id="-544" lat="44.718930768" lon="-93.27167053" visible="true"/>
+<node id="-545" lat="44.718836672" lon="-93.271797987" visible="true"/>
+<node id="-546" lat="44.718905328" lon="-93.271890486" visible="true"/>
+<node id="-547" lat="44.718930507" lon="-93.271919843" visible="true"/>
+<node id="-548" lat="44.718980743" lon="-93.271851793" visible="true"/>
+<node id="-549" lat="44.718961234" lon="-93.271823461" visible="true"/>
+<node id="-550" lat="44.719030849" lon="-93.271729163" visible="true"/>
+<node id="-552" lat="44.719026152" lon="-93.27525284" visible="true"/>
+<node id="-553" lat="44.719036973" lon="-93.275227212" visible="true"/>
+<node id="-554" lat="44.719006334" lon="-93.27520177" visible="true"/>
+<node id="-555" lat="44.719028383" lon="-93.27514954" visible="true"/>
+<node id="-556" lat="44.718948296" lon="-93.275083036" visible="true"/>
+<node id="-557" lat="44.71892286" lon="-93.275143288" visible="true"/>
+<node id="-558" lat="44.718904894" lon="-93.27518639" visible="true"/>
+<node id="-559" lat="44.718870272" lon="-93.275268405" visible="true"/>
+<node id="-560" lat="44.718938342" lon="-93.275324931" visible="true"/>
+<node id="-561" lat="44.718931823" lon="-93.275340377" visible="true"/>
+<node id="-562" lat="44.719002398" lon="-93.275398988" visible="true"/>
+<node id="-563" lat="44.719054246" lon="-93.275276172" visible="true"/>
+<node id="-565" lat="44.719113187" lon="-93.276506174" visible="true"/>
+<node id="-566" lat="44.719008785" lon="-93.276532415" visible="true"/>
+<node id="-567" lat="44.719007231" lon="-93.276520241" visible="true"/>
+<node id="-568" lat="44.718860697" lon="-93.276557069" visible="true"/>
+<node id="-569" lat="44.718880969" lon="-93.276715743" visible="true"/>
+<node id="-570" lat="44.71893878" lon="-93.276701216" visible="true"/>
+<node id="-571" lat="44.71893282" lon="-93.27665457" visible="true"/>
+<node id="-572" lat="44.719125946" lon="-93.276606032" visible="true"/>
+<node id="-574" lat="44.719168477" lon="-93.277544288" visible="true"/>
+<node id="-575" lat="44.719124586" lon="-93.277549618" visible="true"/>
+<node id="-576" lat="44.719121517" lon="-93.277499935" visible="true"/>
+<node id="-577" lat="44.71908744" lon="-93.277502624" visible="true"/>
+<node id="-578" lat="44.719088393" lon="-93.277549004" visible="true"/>
+<node id="-579" lat="44.719047878" lon="-93.277550421" visible="true"/>
+<node id="-580" lat="44.718991362" lon="-93.277557287" visible="true"/>
+<node id="-581" lat="44.718999409" lon="-93.277687623" visible="true"/>
+<node id="-582" lat="44.719024145" lon="-93.277684618" visible="true"/>
+<node id="-583" lat="44.719027419" lon="-93.277737631" visible="true"/>
+<node id="-584" lat="44.719048702" lon="-93.277736764" visible="true"/>
+<node id="-585" lat="44.719087749" lon="-93.277735174" visible="true"/>
+<node id="-586" lat="44.719088502" lon="-93.277747374" visible="true"/>
+<node id="-587" lat="44.719153403" lon="-93.277737622" visible="true"/>
+<node id="-588" lat="44.71914968" lon="-93.277677343" visible="true"/>
+<node id="-589" lat="44.719176494" lon="-93.277674083" visible="true"/>
+<node id="-591" lat="44.719157484" lon="-93.274768011" visible="true"/>
+<node id="-592" lat="44.719172276" lon="-93.27476277" visible="true"/>
+<node id="-593" lat="44.7191511" lon="-93.274645217" visible="true"/>
+<node id="-594" lat="44.719039472" lon="-93.274684774" visible="true"/>
+<node id="-595" lat="44.719052329" lon="-93.274756136" visible="true"/>
+<node id="-596" lat="44.719066662" lon="-93.274814916" visible="true"/>
+<node id="-597" lat="44.719084509" lon="-93.27491399" visible="true"/>
+<node id="-598" lat="44.719177824" lon="-93.274880925" visible="true"/>
+<node id="-600" lat="44.719142025" lon="-93.27371124" visible="true"/>
+<node id="-601" lat="44.719058773" lon="-93.273703785" visible="true"/>
+<node id="-602" lat="44.719037213" lon="-93.273700965" visible="true"/>
+<node id="-603" lat="44.719026192" lon="-93.273866814" visible="true"/>
+<node id="-604" lat="44.719130182" lon="-93.273880409" visible="true"/>
+<node id="-605" lat="44.719133778" lon="-93.273826297" visible="true"/>
+<node id="-606" lat="44.719204173" lon="-93.2738355" visible="true"/>
+<node id="-607" lat="44.719211823" lon="-93.273720361" visible="true"/>
+<node id="-609" lat="44.719206585" lon="-93.270183647" visible="true"/>
+<node id="-610" lat="44.719157574" lon="-93.270194304" visible="true"/>
+<node id="-611" lat="44.719162989" lon="-93.270243281" visible="true"/>
+<node id="-612" lat="44.719013321" lon="-93.270275827" visible="true"/>
+<node id="-613" lat="44.719032076" lon="-93.270445502" visible="true"/>
+<node id="-614" lat="44.719063629" lon="-93.270442111" visible="true"/>
+<node id="-615" lat="44.719125029" lon="-93.27043223" visible="true"/>
+<node id="-616" lat="44.719123011" lon="-93.27041399" visible="true"/>
+<node id="-617" lat="44.719192581" lon="-93.27039681" visible="true"/>
+<node id="-618" lat="44.719228187" lon="-93.270379065" visible="true"/>
+<node id="-620" lat="44.719228316" lon="-93.273745669" visible="true"/>
+<node id="-621" lat="44.719218655" lon="-93.273785458" visible="true"/>
+<node id="-622" lat="44.71923889" lon="-93.273792398" visible="true"/>
+<node id="-623" lat="44.719247958" lon="-93.273755054" visible="true"/>
+<node id="-625" lat="44.719274571" lon="-93.27150041" visible="true"/>
+<node id="-626" lat="44.719096562" lon="-93.271577912" visible="true"/>
+<node id="-627" lat="44.719120398" lon="-93.271685605" visible="true"/>
+<node id="-628" lat="44.719298406" lon="-93.271608104" visible="true"/>
+<node id="-630" lat="44.71932863" lon="-93.270841327" visible="true"/>
+<node id="-631" lat="44.719167378" lon="-93.270871171" visible="true"/>
+<node id="-632" lat="44.719167552" lon="-93.270906335" visible="true"/>
+<node id="-633" lat="44.719105146" lon="-93.270920124" visible="true"/>
+<node id="-634" lat="44.719118509" lon="-93.271031376" visible="true"/>
+<node id="-635" lat="44.719145041" lon="-93.271026988" visible="true"/>
+<node id="-636" lat="44.719196016" lon="-93.271016381" visible="true"/>
+<node id="-637" lat="44.719194893" lon="-93.271001356" visible="true"/>
+<node id="-638" lat="44.719213866" lon="-93.271001497" visible="true"/>
+<node id="-639" lat="44.719241716" lon="-93.270998497" visible="true"/>
+<node id="-640" lat="44.719278279" lon="-93.270985822" visible="true"/>
+<node id="-641" lat="44.719342644" lon="-93.270968661" visible="true"/>
+<node id="-643" lat="44.719317266" lon="-93.268525565" visible="true"/>
+<node id="-644" lat="44.719302949" lon="-93.268597066" visible="true"/>
+<node id="-645" lat="44.71936777" lon="-93.268622597" visible="true"/>
+<node id="-646" lat="44.719382085" lon="-93.268551096" visible="true"/>
+<node id="-648" lat="44.719402165" lon="-93.269016833" visible="true"/>
+<node id="-649" lat="44.719403968" lon="-93.269039871" visible="true"/>
+<node id="-650" lat="44.719428825" lon="-93.269040508" visible="true"/>
+<node id="-651" lat="44.719429088" lon="-93.269017354" visible="true"/>
+<node id="-653" lat="44.719436828" lon="-93.277736504" visible="true"/>
+<node id="-654" lat="44.719427733" lon="-93.27771523" visible="true"/>
+<node id="-655" lat="44.719402403" lon="-93.277736527" visible="true"/>
+<node id="-656" lat="44.719392585" lon="-93.277744785" visible="true"/>
+<node id="-657" lat="44.719389057" lon="-93.277736536" visible="true"/>
+<node id="-658" lat="44.719370296" lon="-93.277692645" visible="true"/>
+<node id="-659" lat="44.719318042" lon="-93.277736584" visible="true"/>
+<node id="-660" lat="44.71929081" lon="-93.277759488" visible="true"/>
+<node id="-661" lat="44.719305058" lon="-93.277792818" visible="true"/>
+<node id="-662" lat="44.719272695" lon="-93.277820029" visible="true"/>
+<node id="-663" lat="44.719286953" lon="-93.277853381" visible="true"/>
+<node id="-664" lat="44.719336589" lon="-93.277969498" visible="true"/>
+<node id="-665" lat="44.719369409" lon="-93.277941898" visible="true"/>
+<node id="-666" lat="44.719379165" lon="-93.277964723" visible="true"/>
+<node id="-667" lat="44.719470274" lon="-93.277888109" visible="true"/>
+<node id="-668" lat="44.719455248" lon="-93.277852957" visible="true"/>
+<node id="-669" lat="44.719447544" lon="-93.277834939" visible="true"/>
+<node id="-670" lat="44.719470611" lon="-93.277815539" visible="true"/>
+<node id="-672" lat="44.719494004" lon="-93.27389894" visible="true"/>
+<node id="-673" lat="44.719379734" lon="-93.273798314" visible="true"/>
+<node id="-674" lat="44.719323662" lon="-93.273923573" visible="true"/>
+<node id="-675" lat="44.719480376" lon="-93.27406158" visible="true"/>
+<node id="-676" lat="44.719515006" lon="-93.273984225" visible="true"/>
+<node id="-677" lat="44.719533322" lon="-93.273939076" visible="true"/>
+<node id="-679" lat="44.719423741" lon="-93.270119966" visible="true"/>
+<node id="-680" lat="44.719315345" lon="-93.270324424" visible="true"/>
+<node id="-681" lat="44.719379763" lon="-93.270391612" visible="true"/>
+<node id="-682" lat="44.71944121" lon="-93.270275711" visible="true"/>
+<node id="-683" lat="44.719490282" lon="-93.270326889" visible="true"/>
+<node id="-684" lat="44.719537234" lon="-93.270238328" visible="true"/>
+<node id="-686" lat="44.719569575" lon="-93.27143116" visible="true"/>
+<node id="-687" lat="44.719493965" lon="-93.271440818" visible="true"/>
+<node id="-688" lat="44.719496164" lon="-93.271474656" visible="true"/>
+<node id="-689" lat="44.719452384" lon="-93.27148025" visible="true"/>
+<node id="-690" lat="44.719450414" lon="-93.271449907" visible="true"/>
+<node id="-691" lat="44.719372985" lon="-93.2714598" visible="true"/>
+<node id="-692" lat="44.719382773" lon="-93.271610565" visible="true"/>
+<node id="-693" lat="44.719513485" lon="-93.271593864" visible="true"/>
+<node id="-694" lat="44.719516051" lon="-93.271633369" visible="true"/>
+<node id="-695" lat="44.719581973" lon="-93.271622093" visible="true"/>
+<node id="-697" lat="44.719605056" lon="-93.269029981" visible="true"/>
+<node id="-698" lat="44.719529833" lon="-93.269030195" visible="true"/>
+<node id="-699" lat="44.719529949" lon="-93.269109764" visible="true"/>
+<node id="-700" lat="44.719508386" lon="-93.269109829" visible="true"/>
+<node id="-701" lat="44.719508708" lon="-93.269330661" visible="true"/>
+<node id="-702" lat="44.719593148" lon="-93.26933042" visible="true"/>
+<node id="-703" lat="44.719592872" lon="-93.269140527" visible="true"/>
+<node id="-704" lat="44.719605217" lon="-93.269140494" visible="true"/>
+<node id="-706" lat="44.719506476" lon="-93.268656242" visible="true"/>
+<node id="-707" lat="44.719486772" lon="-93.268945116" visible="true"/>
+<node id="-708" lat="44.719572498" lon="-93.268956622" visible="true"/>
+<node id="-709" lat="44.71957842" lon="-93.268869803" visible="true"/>
+<node id="-710" lat="44.719587608" lon="-93.268871035" visible="true"/>
+<node id="-711" lat="44.719598157" lon="-93.268764913" visible="true"/>
+<node id="-712" lat="44.719607951" lon="-93.268669857" visible="true"/>
+<node id="-714" lat="44.719631066" lon="-93.269608724" visible="true"/>
+<node id="-715" lat="44.719607468" lon="-93.269609717" visible="true"/>
+<node id="-716" lat="44.719603908" lon="-93.269443089" visible="true"/>
+<node id="-717" lat="44.719518708" lon="-93.269446671" visible="true"/>
+<node id="-718" lat="44.719520102" lon="-93.269511846" visible="true"/>
+<node id="-719" lat="44.719521845" lon="-93.269601296" visible="true"/>
+<node id="-720" lat="44.71952472" lon="-93.269735765" visible="true"/>
+<node id="-721" lat="44.719633683" lon="-93.269731183" visible="true"/>
+<node id="-723" lat="44.719630474" lon="-93.270766806" visible="true"/>
+<node id="-724" lat="44.719605132" lon="-93.270769236" visible="true"/>
+<node id="-725" lat="44.719548122" lon="-93.270788662" visible="true"/>
+<node id="-726" lat="44.719550278" lon="-93.270808379" visible="true"/>
+<node id="-727" lat="44.719530318" lon="-93.270825617" visible="true"/>
+<node id="-728" lat="44.719508081" lon="-93.270841057" visible="true"/>
+<node id="-729" lat="44.719454366" lon="-93.270860324" visible="true"/>
+<node id="-730" lat="44.719478278" lon="-93.270980069" visible="true"/>
+<node id="-731" lat="44.719592624" lon="-93.270935631" visible="true"/>
+<node id="-732" lat="44.719588869" lon="-93.27091256" visible="true"/>
+<node id="-733" lat="44.719632365" lon="-93.270898201" visible="true"/>
+<node id="-734" lat="44.719624858" lon="-93.270854375" visible="true"/>
+<node id="-735" lat="44.71964615" lon="-93.270846476" visible="true"/>
+<node id="-737" lat="44.719633824" lon="-93.270094239" visible="true"/>
+<node id="-738" lat="44.71964728" lon="-93.270081587" visible="true"/>
+<node id="-739" lat="44.719614251" lon="-93.270012485" visible="true"/>
+<node id="-740" lat="44.719607311" lon="-93.270016711" visible="true"/>
+<node id="-741" lat="44.719630077" lon="-93.269831178" visible="true"/>
+<node id="-742" lat="44.719536672" lon="-93.269807641" visible="true"/>
+<node id="-743" lat="44.719500375" lon="-93.270091014" visible="true"/>
+<node id="-744" lat="44.719541923" lon="-93.270093528" visible="true"/>
+<node id="-745" lat="44.71958717" lon="-93.270188198" visible="true"/>
+<node id="-746" lat="44.719650344" lon="-93.270128798" visible="true"/>
+<node id="-748" lat="44.719653782" lon="-93.268541404" visible="true"/>
+<node id="-749" lat="44.719627993" lon="-93.268545614" visible="true"/>
+<node id="-750" lat="44.719627771" lon="-93.268572277" visible="true"/>
+<node id="-751" lat="44.719656079" lon="-93.268572742" visible="true"/>
+<node id="-753" lat="44.719726694" lon="-93.274408022" visible="true"/>
+<node id="-754" lat="44.71965502" lon="-93.274419364" visible="true"/>
+<node id="-755" lat="44.719658468" lon="-93.274466778" visible="true"/>
+<node id="-756" lat="44.719636897" lon="-93.274473057" visible="true"/>
+<node id="-757" lat="44.719647429" lon="-93.274750366" visible="true"/>
+<node id="-758" lat="44.719734651" lon="-93.27474501" visible="true"/>
+<node id="-759" lat="44.71973113" lon="-93.274626894" visible="true"/>
+<node id="-760" lat="44.719735781" lon="-93.274535997" visible="true"/>
+<node id="-762" lat="44.71970593" lon="-93.268202555" visible="true"/>
+<node id="-763" lat="44.719686613" lon="-93.268234288" visible="true"/>
+<node id="-764" lat="44.719638966" lon="-93.268319405" visible="true"/>
+<node id="-765" lat="44.719608564" lon="-93.268287667" visible="true"/>
+<node id="-766" lat="44.719555822" lon="-93.268387056" visible="true"/>
+<node id="-767" lat="44.719546723" lon="-93.268441035" visible="true"/>
+<node id="-768" lat="44.719513621" lon="-93.268430057" visible="true"/>
+<node id="-769" lat="44.719503932" lon="-93.268487553" visible="true"/>
+<node id="-770" lat="44.719666905" lon="-93.268449884" visible="true"/>
+<node id="-771" lat="44.719672557" lon="-93.268441781" visible="true"/>
+<node id="-772" lat="44.719743967" lon="-93.268300449" visible="true"/>
+<node id="-773" lat="44.719761528" lon="-93.268260593" visible="true"/>
+<node id="-775" lat="44.71972999" lon="-93.273949969" visible="true"/>
+<node id="-776" lat="44.719690135" lon="-93.273927678" visible="true"/>
+<node id="-777" lat="44.719628056" lon="-93.274124272" visible="true"/>
+<node id="-778" lat="44.719613159" lon="-93.274134554" visible="true"/>
+<node id="-779" lat="44.719638029" lon="-93.274228006" visible="true"/>
+<node id="-780" lat="44.719668605" lon="-93.27434908" visible="true"/>
+<node id="-781" lat="44.719755126" lon="-93.274299986" visible="true"/>
+<node id="-782" lat="44.719714094" lon="-93.274147148" visible="true"/>
+<node id="-783" lat="44.719751633" lon="-93.274029594" visible="true"/>
+<node id="-784" lat="44.719791416" lon="-93.273918144" visible="true"/>
+<node id="-786" lat="44.719746442" lon="-93.271583744" visible="true"/>
+<node id="-787" lat="44.719767401" lon="-93.271546528" visible="true"/>
+<node id="-788" lat="44.719708616" lon="-93.271481388" visible="true"/>
+<node id="-789" lat="44.719623003" lon="-93.271633379" visible="true"/>
+<node id="-790" lat="44.719740567" lon="-93.271763647" visible="true"/>
+<node id="-791" lat="44.719805217" lon="-93.271648871" visible="true"/>
+<node id="-793" lat="44.719770621" lon="-93.276778262" visible="true"/>
+<node id="-794" lat="44.719796206" lon="-93.276665607" visible="true"/>
+<node id="-795" lat="44.71972617" lon="-93.276628806" visible="true"/>
+<node id="-796" lat="44.719702553" lon="-93.276732797" visible="true"/>
+<node id="-797" lat="44.71972131" lon="-93.276741178" visible="true"/>
+<node id="-798" lat="44.71969424" lon="-93.276860372" visible="true"/>
+<node id="-799" lat="44.719764459" lon="-93.276891745" visible="true"/>
+<node id="-800" lat="44.719773735" lon="-93.276850907" visible="true"/>
+<node id="-801" lat="44.719819378" lon="-93.2768713" visible="true"/>
+<node id="-802" lat="44.71983407" lon="-93.276806608" visible="true"/>
+<node id="-804" lat="44.719873651" lon="-93.276635399" visible="true"/>
+<node id="-805" lat="44.719867377" lon="-93.276671237" visible="true"/>
+<node id="-806" lat="44.719880758" lon="-93.276675844" visible="true"/>
+<node id="-807" lat="44.719887102" lon="-93.276639586" visible="true"/>
+<node id="-809" lat="44.719880869" lon="-93.275104954" visible="true"/>
+<node id="-810" lat="44.719853173" lon="-93.275120264" visible="true"/>
+<node id="-811" lat="44.719831554" lon="-93.275043331" visible="true"/>
+<node id="-812" lat="44.719877439" lon="-93.275017966" visible="true"/>
+<node id="-813" lat="44.719842759" lon="-93.274894556" visible="true"/>
+<node id="-814" lat="44.719745593" lon="-93.274948275" visible="true"/>
+<node id="-815" lat="44.719765891" lon="-93.275020497" visible="true"/>
+<node id="-816" lat="44.719748401" lon="-93.275030165" visible="true"/>
+<node id="-817" lat="44.719758775" lon="-93.275075293" visible="true"/>
+<node id="-818" lat="44.719783839" lon="-93.275172698" visible="true"/>
+<node id="-819" lat="44.719813301" lon="-93.275156408" visible="true"/>
+<node id="-820" lat="44.719829098" lon="-93.275212618" visible="true"/>
+<node id="-821" lat="44.719901192" lon="-93.275172763" visible="true"/>
+<node id="-823" lat="44.719945558" lon="-93.270043399" visible="true"/>
+<node id="-824" lat="44.719919347" lon="-93.270042927" visible="true"/>
+<node id="-825" lat="44.719919085" lon="-93.270071825" visible="true"/>
+<node id="-826" lat="44.719946293" lon="-93.27007231" visible="true"/>
+<node id="-828" lat="44.71992749" lon="-93.275311578" visible="true"/>
+<node id="-829" lat="44.719857726" lon="-93.27534178" visible="true"/>
+<node id="-830" lat="44.719881609" lon="-93.275421709" visible="true"/>
+<node id="-831" lat="44.719949106" lon="-93.275393887" visible="true"/>
+<node id="-833" lat="44.719905451" lon="-93.269330884" visible="true"/>
+<node id="-834" lat="44.719903785" lon="-93.269393939" visible="true"/>
+<node id="-835" lat="44.719927677" lon="-93.269395186" visible="true"/>
+<node id="-836" lat="44.719928425" lon="-93.269366868" visible="true"/>
+<node id="-837" lat="44.719954413" lon="-93.269368221" visible="true"/>
+<node id="-838" lat="44.719955337" lon="-93.269333478" visible="true"/>
+<node id="-840" lat="44.719870928" lon="-93.275426955" visible="true"/>
+<node id="-841" lat="44.719873189" lon="-93.275445313" visible="true"/>
+<node id="-842" lat="44.719905989" lon="-93.275557418" visible="true"/>
+<node id="-843" lat="44.719921199" lon="-93.275614233" visible="true"/>
+<node id="-844" lat="44.719996109" lon="-93.275572895" visible="true"/>
+<node id="-846" lat="44.719925637" lon="-93.270440433" visible="true"/>
+<node id="-847" lat="44.719879959" lon="-93.270554403" visible="true"/>
+<node id="-848" lat="44.719821543" lon="-93.270511048" visible="true"/>
+<node id="-849" lat="44.719782226" lon="-93.270613907" visible="true"/>
+<node id="-850" lat="44.719857607" lon="-93.270679855" visible="true"/>
+<node id="-851" lat="44.71990478" lon="-93.270717445" visible="true"/>
+<node id="-852" lat="44.719928331" lon="-93.270659788" visible="true"/>
+<node id="-853" lat="44.71994202" lon="-93.270625189" visible="true"/>
+<node id="-854" lat="44.719949471" lon="-93.270629911" visible="true"/>
+<node id="-855" lat="44.72000035" lon="-93.270490974" visible="true"/>
+<node id="-857" lat="44.720025499" lon="-93.270109816" visible="true"/>
+<node id="-858" lat="44.719991293" lon="-93.270112295" visible="true"/>
+<node id="-859" lat="44.719992746" lon="-93.27015172" visible="true"/>
+<node id="-860" lat="44.720027372" lon="-93.270149211" visible="true"/>
+<node id="-862" lat="44.72001458" lon="-93.275700119" visible="true"/>
+<node id="-863" lat="44.71992617" lon="-93.275749101" visible="true"/>
+<node id="-864" lat="44.719948225" lon="-93.275845705" visible="true"/>
+<node id="-865" lat="44.719964252" lon="-93.27580145" visible="true"/>
+<node id="-866" lat="44.719999348" lon="-93.275787338" visible="true"/>
+<node id="-867" lat="44.720039274" lon="-93.275801782" visible="true"/>
+<node id="-869" lat="44.720019772" lon="-93.271899439" visible="true"/>
+<node id="-870" lat="44.720032477" lon="-93.271881223" visible="true"/>
+<node id="-871" lat="44.719991635" lon="-93.271816577" visible="true"/>
+<node id="-872" lat="44.719978581" lon="-93.271830594" visible="true"/>
+<node id="-873" lat="44.719908514" lon="-93.271721423" visible="true"/>
+<node id="-874" lat="44.719844738" lon="-93.271801967" visible="true"/>
+<node id="-875" lat="44.719858287" lon="-93.271827476" visible="true"/>
+<node id="-876" lat="44.719831078" lon="-93.271866521" visible="true"/>
+<node id="-877" lat="44.719860478" lon="-93.271913105" visible="true"/>
+<node id="-878" lat="44.719853456" lon="-93.271925144" visible="true"/>
+<node id="-879" lat="44.719909639" lon="-93.272010151" visible="true"/>
+<node id="-880" lat="44.719919484" lon="-93.271999064" visible="true"/>
+<node id="-881" lat="44.719956289" lon="-93.27205159" visible="true"/>
+<node id="-882" lat="44.720043393" lon="-93.271936754" visible="true"/>
+<node id="-884" lat="44.719981651" lon="-93.268669691" visible="true"/>
+<node id="-885" lat="44.719930627" lon="-93.268891587" visible="true"/>
+<node id="-886" lat="44.720018708" lon="-93.26893143" visible="true"/>
+<node id="-887" lat="44.72006973" lon="-93.26870953" visible="true"/>
+<node id="-889" lat="44.720013893" lon="-93.271042144" visible="true"/>
+<node id="-890" lat="44.719960769" lon="-93.270981263" visible="true"/>
+<node id="-891" lat="44.719920424" lon="-93.27092778" visible="true"/>
+<node id="-892" lat="44.719863105" lon="-93.271012832" visible="true"/>
+<node id="-893" lat="44.719954646" lon="-93.271134192" visible="true"/>
+<node id="-894" lat="44.719966071" lon="-93.271117237" visible="true"/>
+<node id="-895" lat="44.720031519" lon="-93.27120401" visible="true"/>
+<node id="-896" lat="44.720080812" lon="-93.271130869" visible="true"/>
+<node id="-898" lat="44.720058128" lon="-93.275869546" visible="true"/>
+<node id="-899" lat="44.719997046" lon="-93.275828062" visible="true"/>
+<node id="-900" lat="44.719985517" lon="-93.275856976" visible="true"/>
+<node id="-901" lat="44.719949149" lon="-93.275972309" visible="true"/>
+<node id="-902" lat="44.720051444" lon="-93.276041045" visible="true"/>
+<node id="-903" lat="44.720098691" lon="-93.275899335" visible="true"/>
+<node id="-905" lat="44.720165845" lon="-93.270232089" visible="true"/>
+<node id="-906" lat="44.720166364" lon="-93.270158871" visible="true"/>
+<node id="-907" lat="44.720075022" lon="-93.270155697" visible="true"/>
+<node id="-908" lat="44.720072961" lon="-93.270445362" visible="true"/>
+<node id="-909" lat="44.720154843" lon="-93.270446508" visible="true"/>
+<node id="-910" lat="44.720155471" lon="-93.270358057" visible="true"/>
+<node id="-911" lat="44.720163891" lon="-93.270358177" visible="true"/>
+<node id="-912" lat="44.7201642" lon="-93.270314803" visible="true"/>
+<node id="-913" lat="44.720181855" lon="-93.270315047" visible="true"/>
+<node id="-914" lat="44.720182444" lon="-93.270232322" visible="true"/>
+<node id="-916" lat="44.720107289" lon="-93.26905085" visible="true"/>
+<node id="-917" lat="44.720107509" lon="-93.269075332" visible="true"/>
+<node id="-918" lat="44.720080809" lon="-93.269075799" visible="true"/>
+<node id="-919" lat="44.720081162" lon="-93.269115372" visible="true"/>
+<node id="-920" lat="44.720063013" lon="-93.269115691" visible="true"/>
+<node id="-921" lat="44.720064323" lon="-93.269261964" visible="true"/>
+<node id="-922" lat="44.720096968" lon="-93.269261387" visible="true"/>
+<node id="-923" lat="44.720097429" lon="-93.269313135" visible="true"/>
+<node id="-924" lat="44.720188218" lon="-93.269311538" visible="true"/>
+<node id="-925" lat="44.720190431" lon="-93.269227596" visible="true"/>
+<node id="-926" lat="44.720191832" lon="-93.269052846" visible="true"/>
+<node id="-928" lat="44.720194358" lon="-93.270670637" visible="true"/>
+<node id="-929" lat="44.720180198" lon="-93.270672775" visible="true"/>
+<node id="-930" lat="44.720174153" lon="-93.270594033" visible="true"/>
+<node id="-931" lat="44.720091551" lon="-93.270606505" visible="true"/>
+<node id="-932" lat="44.720116572" lon="-93.270932538" visible="true"/>
+<node id="-933" lat="44.720192653" lon="-93.270921048" visible="true"/>
+<node id="-934" lat="44.72018238" lon="-93.270787192" visible="true"/>
+<node id="-935" lat="44.720203062" lon="-93.270784071" visible="true"/>
+<node id="-937" lat="44.720138608" lon="-93.269478326" visible="true"/>
+<node id="-938" lat="44.720138451" lon="-93.269536315" visible="true"/>
+<node id="-939" lat="44.720067254" lon="-93.269540042" visible="true"/>
+<node id="-940" lat="44.720028769" lon="-93.269543948" visible="true"/>
+<node id="-941" lat="44.720028591" lon="-93.269608733" visible="true"/>
+<node id="-942" lat="44.720058599" lon="-93.269608898" visible="true"/>
+<node id="-943" lat="44.720058451" lon="-93.269663065" visible="true"/>
+<node id="-944" lat="44.720175695" lon="-93.269663698" visible="true"/>
+<node id="-945" lat="44.720175824" lon="-93.269617261" visible="true"/>
+<node id="-946" lat="44.720207936" lon="-93.269617436" visible="true"/>
+<node id="-947" lat="44.720208314" lon="-93.2694787" visible="true"/>
+<node id="-949" lat="44.720179627" lon="-93.272131562" visible="true"/>
+<node id="-950" lat="44.72010679" lon="-93.272025622" visible="true"/>
+<node id="-951" lat="44.720114236" lon="-93.272016172" visible="true"/>
+<node id="-952" lat="44.720087583" lon="-93.271974861" visible="true"/>
+<node id="-953" lat="44.720014918" lon="-93.272067085" visible="true"/>
+<node id="-954" lat="44.72010032" lon="-93.272199464" visible="true"/>
+<node id="-955" lat="44.720085182" lon="-93.272218673" visible="true"/>
+<node id="-956" lat="44.720120686" lon="-93.272273706" visible="true"/>
+<node id="-957" lat="44.720132863" lon="-93.272258251" visible="true"/>
+<node id="-958" lat="44.720156781" lon="-93.272295321" visible="true"/>
+<node id="-959" lat="44.720229898" lon="-93.27220252" visible="true"/>
+<node id="-961" lat="44.720227805" lon="-93.268678141" visible="true"/>
+<node id="-962" lat="44.720223754" lon="-93.268630082" visible="true"/>
+<node id="-963" lat="44.720141871" lon="-93.268634657" visible="true"/>
+<node id="-964" lat="44.720142812" lon="-93.268667796" visible="true"/>
+<node id="-965" lat="44.720133857" lon="-93.268668295" visible="true"/>
+<node id="-966" lat="44.720133571" lon="-93.268753253" visible="true"/>
+<node id="-967" lat="44.720134334" lon="-93.268875148" visible="true"/>
+<node id="-968" lat="44.720098022" lon="-93.268876177" visible="true"/>
+<node id="-969" lat="44.7201033" lon="-93.268966916" visible="true"/>
+<node id="-970" lat="44.720107171" lon="-93.269008068" visible="true"/>
+<node id="-971" lat="44.720164517" lon="-93.269004867" visible="true"/>
+<node id="-972" lat="44.720163493" lon="-93.268968776" visible="true"/>
+<node id="-973" lat="44.720171433" lon="-93.268968331" visible="true"/>
+<node id="-974" lat="44.720167003" lon="-93.26881232" visible="true"/>
+<node id="-975" lat="44.720199068" lon="-93.268810527" visible="true"/>
+<node id="-976" lat="44.720198341" lon="-93.268784903" visible="true"/>
+<node id="-977" lat="44.720225351" lon="-93.268783397" visible="true"/>
+<node id="-978" lat="44.72022314" lon="-93.268705518" visible="true"/>
+<node id="-979" lat="44.720231262" lon="-93.26870506" visible="true"/>
+<node id="-981" lat="44.720112672" lon="-93.269744106" visible="true"/>
+<node id="-982" lat="44.720112493" lon="-93.269781775" visible="true"/>
+<node id="-983" lat="44.720052781" lon="-93.269781224" visible="true"/>
+<node id="-984" lat="44.720052216" lon="-93.269901324" visible="true"/>
+<node id="-985" lat="44.72008062" lon="-93.269901586" visible="true"/>
+<node id="-986" lat="44.720080408" lon="-93.269946617" visible="true"/>
+<node id="-987" lat="44.720173987" lon="-93.269947485" visible="true"/>
+<node id="-988" lat="44.720173934" lon="-93.269958572" visible="true"/>
+<node id="-989" lat="44.720218699" lon="-93.269958986" visible="true"/>
+<node id="-990" lat="44.720219056" lon="-93.269882833" visible="true"/>
+<node id="-991" lat="44.720237003" lon="-93.269884152" visible="true"/>
+<node id="-992" lat="44.720237656" lon="-93.269745263" visible="true"/>
+<node id="-994" lat="44.720243475" lon="-93.268495994" visible="true"/>
+<node id="-995" lat="44.720234579" lon="-93.268518876" visible="true"/>
+<node id="-996" lat="44.720255537" lon="-93.268534904" visible="true"/>
+<node id="-997" lat="44.720264955" lon="-93.268512423" visible="true"/>
+<node id="-999" lat="44.720193824" lon="-93.271228877" visible="true"/>
+<node id="-1000" lat="44.72017816" lon="-93.271249281" visible="true"/>
+<node id="-1001" lat="44.720147584" lon="-93.271289337" visible="true"/>
+<node id="-1002" lat="44.720114246" lon="-93.27124479" visible="true"/>
+<node id="-1003" lat="44.720060354" lon="-93.271315005" visible="true"/>
+<node id="-1004" lat="44.720110726" lon="-93.271391061" visible="true"/>
+<node id="-1005" lat="44.720138394" lon="-93.27135501" visible="true"/>
+<node id="-1006" lat="44.720211329" lon="-93.271465136" visible="true"/>
+<node id="-1007" lat="44.720285924" lon="-93.271367939" visible="true"/>
+<node id="-1009" lat="44.720315601" lon="-93.272374677" visible="true"/>
+<node id="-1010" lat="44.720325059" lon="-93.272364794" visible="true"/>
+<node id="-1011" lat="44.720279138" lon="-93.272278366" visible="true"/>
+<node id="-1012" lat="44.720208365" lon="-93.272353015" visible="true"/>
+<node id="-1013" lat="44.720238781" lon="-93.272422643" visible="true"/>
+<node id="-1014" lat="44.720225188" lon="-93.272439708" visible="true"/>
+<node id="-1015" lat="44.720241954" lon="-93.27247523" visible="true"/>
+<node id="-1016" lat="44.720233561" lon="-93.272483661" visible="true"/>
+<node id="-1017" lat="44.720302592" lon="-93.272613588" visible="true"/>
+<node id="-1018" lat="44.720392569" lon="-93.272519539" visible="true"/>
+<node id="-1020" lat="44.720443522" lon="-93.272766688" visible="true"/>
+<node id="-1021" lat="44.720425583" lon="-93.272769618" visible="true"/>
+<node id="-1022" lat="44.720422197" lon="-93.272706198" visible="true"/>
+<node id="-1023" lat="44.720417887" lon="-93.272631669" visible="true"/>
+<node id="-1024" lat="44.720318466" lon="-93.272647916" visible="true"/>
+<node id="-1025" lat="44.720345809" lon="-93.272977088" visible="true"/>
+<node id="-1026" lat="44.720398496" lon="-93.272968062" visible="true"/>
+<node id="-1027" lat="44.720392648" lon="-93.272897668" visible="true"/>
+<node id="-1028" lat="44.720431316" lon="-93.272891349" visible="true"/>
+<node id="-1029" lat="44.720426006" lon="-93.272827418" visible="true"/>
+<node id="-1030" lat="44.720448264" lon="-93.27282378" visible="true"/>
+<node id="-1032" lat="44.720321287" lon="-93.276203751" visible="true"/>
+<node id="-1033" lat="44.720238435" lon="-93.276087205" visible="true"/>
+<node id="-1034" lat="44.720178875" lon="-93.276170502" visible="true"/>
+<node id="-1035" lat="44.720230229" lon="-93.276242738" visible="true"/>
+<node id="-1036" lat="44.72021999" lon="-93.276259582" visible="true"/>
+<node id="-1037" lat="44.720231856" lon="-93.276275589" visible="true"/>
+<node id="-1038" lat="44.719984144" lon="-93.276323724" visible="true"/>
+<node id="-1039" lat="44.719965438" lon="-93.27623462" visible="true"/>
+<node id="-1040" lat="44.719934244" lon="-93.276247503" visible="true"/>
+<node id="-1041" lat="44.719925158" lon="-93.276204224" visible="true"/>
+<node id="-1042" lat="44.719848022" lon="-93.276236075" visible="true"/>
+<node id="-1043" lat="44.719851431" lon="-93.276252315" visible="true"/>
+<node id="-1044" lat="44.719821546" lon="-93.276264658" visible="true"/>
+<node id="-1045" lat="44.719851137" lon="-93.276405616" visible="true"/>
+<node id="-1046" lat="44.719898332" lon="-93.276386126" visible="true"/>
+<node id="-1047" lat="44.719906896" lon="-93.276426916" visible="true"/>
+<node id="-1048" lat="44.719984139" lon="-93.276395019" visible="true"/>
+<node id="-1049" lat="44.719977579" lon="-93.27636322" visible="true"/>
+<node id="-1050" lat="44.720266955" lon="-93.27630834" visible="true"/>
+<node id="-1051" lat="44.720292261" lon="-93.2763653" visible="true"/>
+<node id="-1052" lat="44.720312882" lon="-93.276354144" visible="true"/>
+<node id="-1053" lat="44.720312978" lon="-93.276340329" visible="true"/>
+<node id="-1054" lat="44.720501407" lon="-93.276343241" visible="true"/>
+<node id="-1055" lat="44.720502481" lon="-93.276206552" visible="true"/>
+<node id="-1057" lat="44.72040201" lon="-93.273063798" visible="true"/>
+<node id="-1058" lat="44.720341151" lon="-93.273132481" visible="true"/>
+<node id="-1059" lat="44.720375751" lon="-93.273194608" visible="true"/>
+<node id="-1060" lat="44.720367099" lon="-93.273204091" visible="true"/>
+<node id="-1061" lat="44.720383528" lon="-93.273233592" visible="true"/>
+<node id="-1062" lat="44.720363337" lon="-93.273255715" visible="true"/>
+<node id="-1063" lat="44.72040779" lon="-93.273335532" visible="true"/>
+<node id="-1064" lat="44.720431201" lon="-93.273309882" visible="true"/>
+<node id="-1065" lat="44.720446648" lon="-93.273337616" visible="true"/>
+<node id="-1066" lat="44.720513635" lon="-93.273264219" visible="true"/>
+<node id="-1068" lat="44.720462931" lon="-93.271524602" visible="true"/>
+<node id="-1069" lat="44.720450957" lon="-93.271540992" visible="true"/>
+<node id="-1070" lat="44.720371005" lon="-93.271426084" visible="true"/>
+<node id="-1071" lat="44.720310638" lon="-93.271508717" visible="true"/>
+<node id="-1072" lat="44.720401973" lon="-93.271639984" visible="true"/>
+<node id="-1073" lat="44.72041841" lon="-93.271617487" visible="true"/>
+<node id="-1074" lat="44.720462618" lon="-93.271681023" visible="true"/>
+<node id="-1075" lat="44.720518522" lon="-93.271604501" visible="true"/>
+<node id="-1077" lat="44.720615345" lon="-93.268900803" visible="true"/>
+<node id="-1078" lat="44.720514796" lon="-93.268901662" visible="true"/>
+<node id="-1079" lat="44.7205152" lon="-93.268994473" visible="true"/>
+<node id="-1080" lat="44.720532284" lon="-93.268994328" visible="true"/>
+<node id="-1081" lat="44.720532995" lon="-93.269157956" visible="true"/>
+<node id="-1082" lat="44.720616455" lon="-93.269157242" visible="true"/>
+<node id="-1084" lat="44.720541544" lon="-93.268129296" visible="true"/>
+<node id="-1085" lat="44.720533332" lon="-93.268221776" visible="true"/>
+<node id="-1086" lat="44.720525313" lon="-93.268310804" visible="true"/>
+<node id="-1087" lat="44.720520309" lon="-93.268399" visible="true"/>
+<node id="-1088" lat="44.720603275" lon="-93.268408267" visible="true"/>
+<node id="-1089" lat="44.720607732" lon="-93.26832977" visible="true"/>
+<node id="-1090" lat="44.720616941" lon="-93.268228996" visible="true"/>
+<node id="-1091" lat="44.720622087" lon="-93.26813829" visible="true"/>
+<node id="-1093" lat="44.720621725" lon="-93.268608888" visible="true"/>
+<node id="-1094" lat="44.720606843" lon="-93.26860902" visible="true"/>
+<node id="-1095" lat="44.720606404" lon="-93.268513024" visible="true"/>
+<node id="-1096" lat="44.720526301" lon="-93.26851374" visible="true"/>
+<node id="-1097" lat="44.720526754" lon="-93.268612994" visible="true"/>
+<node id="-1098" lat="44.720515141" lon="-93.268613098" visible="true"/>
+<node id="-1099" lat="44.720516084" lon="-93.26882023" visible="true"/>
+<node id="-1100" lat="44.720622683" lon="-93.268819277" visible="true"/>
+<node id="-1102" lat="44.720644564" lon="-93.270273835" visible="true"/>
+<node id="-1103" lat="44.720642301" lon="-93.270177381" visible="true"/>
+<node id="-1104" lat="44.720642255" lon="-93.270082366" visible="true"/>
+<node id="-1105" lat="44.720595959" lon="-93.270084046" visible="true"/>
+<node id="-1106" lat="44.720596273" lon="-93.270101215" visible="true"/>
+<node id="-1107" lat="44.720554275" lon="-93.270102722" visible="true"/>
+<node id="-1108" lat="44.720558171" lon="-93.270268683" visible="true"/>
+<node id="-1109" lat="44.720532681" lon="-93.270265183" visible="true"/>
+<node id="-1110" lat="44.720535266" lon="-93.270366679" visible="true"/>
+<node id="-1111" lat="44.720615478" lon="-93.270362659" visible="true"/>
+<node id="-1112" lat="44.720614643" lon="-93.270329931" visible="true"/>
+<node id="-1113" lat="44.720645935" lon="-93.270328364" visible="true"/>
+<node id="-1115" lat="44.72065768" lon="-93.269272454" visible="true"/>
+<node id="-1116" lat="44.720507442" lon="-93.269273908" visible="true"/>
+<node id="-1117" lat="44.720507957" lon="-93.26937869" visible="true"/>
+<node id="-1118" lat="44.720519571" lon="-93.269382755" visible="true"/>
+<node id="-1119" lat="44.720519979" lon="-93.269465517" visible="true"/>
+<node id="-1120" lat="44.720498207" lon="-93.269465727" visible="true"/>
+<node id="-1121" lat="44.720498581" lon="-93.269541631" visible="true"/>
+<node id="-1122" lat="44.720520147" lon="-93.269541421" visible="true"/>
+<node id="-1123" lat="44.720520524" lon="-93.269618113" visible="true"/>
+<node id="-1124" lat="44.720652284" lon="-93.269616841" visible="true"/>
+<node id="-1125" lat="44.720655173" lon="-93.26960466" visible="true"/>
+<node id="-1126" lat="44.720655815" lon="-93.269555326" visible="true"/>
+<node id="-1127" lat="44.720653703" lon="-93.269545644" visible="true"/>
+<node id="-1128" lat="44.72060728" lon="-93.26954609" visible="true"/>
+<node id="-1129" lat="44.720606744" lon="-93.269436826" visible="true"/>
+<node id="-1130" lat="44.720658485" lon="-93.269436326" visible="true"/>
+<node id="-1132" lat="44.720598293" lon="-93.269741478" visible="true"/>
+<node id="-1133" lat="44.720575626" lon="-93.269673334" visible="true"/>
+<node id="-1134" lat="44.720515516" lon="-93.269710621" visible="true"/>
+<node id="-1135" lat="44.720542345" lon="-93.269804336" visible="true"/>
+<node id="-1136" lat="44.720537285" lon="-93.269883292" visible="true"/>
+<node id="-1137" lat="44.720555673" lon="-93.269886861" visible="true"/>
+<node id="-1138" lat="44.720551168" lon="-93.269969275" visible="true"/>
+<node id="-1139" lat="44.720649065" lon="-93.269979974" visible="true"/>
+<node id="-1140" lat="44.720659007" lon="-93.269737991" visible="true"/>
+<node id="-1142" lat="44.720620667" lon="-93.270472667" visible="true"/>
+<node id="-1143" lat="44.72053218" lon="-93.27049658" visible="true"/>
+<node id="-1144" lat="44.720572705" lon="-93.270791619" visible="true"/>
+<node id="-1145" lat="44.720661192" lon="-93.270767706" visible="true"/>
+<node id="-1147" lat="44.72070504" lon="-93.270407109" visible="true"/>
+<node id="-1148" lat="44.720645296" lon="-93.270410585" visible="true"/>
+<node id="-1149" lat="44.720662313" lon="-93.270514596" visible="true"/>
+<node id="-1150" lat="44.720722482" lon="-93.270497126" visible="true"/>
+<node id="-1152" lat="44.720704138" lon="-93.269903395" visible="true"/>
+<node id="-1153" lat="44.720700216" lon="-93.269964176" visible="true"/>
+<node id="-1154" lat="44.720760532" lon="-93.26997183" visible="true"/>
+<node id="-1155" lat="44.720764454" lon="-93.269911049" visible="true"/>
+<node id="-1157" lat="44.720728098" lon="-93.27330753" visible="true"/>
+<node id="-1158" lat="44.720657015" lon="-93.273367689" visible="true"/>
+<node id="-1159" lat="44.720539641" lon="-93.273463798" visible="true"/>
+<node id="-1160" lat="44.720592505" lon="-93.273597721" visible="true"/>
+<node id="-1161" lat="44.720676099" lon="-93.273532803" visible="true"/>
+<node id="-1162" lat="44.720688222" lon="-93.273563516" visible="true"/>
+<node id="-1163" lat="44.720751936" lon="-93.273514035" visible="true"/>
+<node id="-1164" lat="44.720740474" lon="-93.273484999" visible="true"/>
+<node id="-1165" lat="44.720784621" lon="-93.273450717" visible="true"/>
+<node id="-1167" lat="44.720712008" lon="-93.27177364" visible="true"/>
+<node id="-1168" lat="44.720630863" lon="-93.271699854" visible="true"/>
+<node id="-1169" lat="44.720565758" lon="-93.271837139" visible="true"/>
+<node id="-1170" lat="44.720639686" lon="-93.271912709" visible="true"/>
+<node id="-1171" lat="44.720665161" lon="-93.27185996" visible="true"/>
+<node id="-1172" lat="44.720742244" lon="-93.271932384" visible="true"/>
+<node id="-1173" lat="44.7207688" lon="-93.27187147" visible="true"/>
+<node id="-1174" lat="44.720784166" lon="-93.271841033" visible="true"/>
+<node id="-1176" lat="44.720759602" lon="-93.270962706" visible="true"/>
+<node id="-1177" lat="44.720738275" lon="-93.270983259" visible="true"/>
+<node id="-1178" lat="44.72071522" lon="-93.270946224" visible="true"/>
+<node id="-1179" lat="44.72064872" lon="-93.271013828" visible="true"/>
+<node id="-1180" lat="44.72068297" lon="-93.271084034" visible="true"/>
+<node id="-1181" lat="44.720636617" lon="-93.271131518" visible="true"/>
+<node id="-1182" lat="44.720672281" lon="-93.27120232" visible="true"/>
+<node id="-1183" lat="44.720724923" lon="-93.271145952" visible="true"/>
+<node id="-1184" lat="44.720709036" lon="-93.271111142" visible="true"/>
+<node id="-1185" lat="44.720783196" lon="-93.271032198" visible="true"/>
+<node id="-1186" lat="44.72079065" lon="-93.27102426" visible="true"/>
+<node id="-1188" lat="44.720793204" lon="-93.273596637" visible="true"/>
+<node id="-1189" lat="44.720773001" lon="-93.273634751" visible="true"/>
+<node id="-1190" lat="44.720794464" lon="-93.273657132" visible="true"/>
+<node id="-1191" lat="44.720814666" lon="-93.273619018" visible="true"/>
+<node id="-1193" lat="44.720710268" lon="-93.272197481" visible="true"/>
+<node id="-1194" lat="44.720647079" lon="-93.272299021" visible="true"/>
+<node id="-1195" lat="44.720790853" lon="-93.272475031" visible="true"/>
+<node id="-1196" lat="44.720854038" lon="-93.272373496" visible="true"/>
+<node id="-1198" lat="44.720961018" lon="-93.273069413" visible="true"/>
+<node id="-1199" lat="44.720879163" lon="-93.273009652" visible="true"/>
+<node id="-1200" lat="44.720789341" lon="-93.273251668" visible="true"/>
+<node id="-1201" lat="44.720859272" lon="-93.273302731" visible="true"/>
+<node id="-1202" lat="44.720884959" lon="-93.273233521" visible="true"/>
+<node id="-1203" lat="44.720897579" lon="-93.273242733" visible="true"/>
+<node id="-1204" lat="44.720905137" lon="-93.273248251" visible="true"/>
+<node id="-1205" lat="44.7209683" lon="-93.273074729" visible="true"/>
+<node id="-1207" lat="44.720799311" lon="-93.271160593" visible="true"/>
+<node id="-1208" lat="44.720757446" lon="-93.271271864" visible="true"/>
+<node id="-1209" lat="44.720954866" lon="-93.27141799" visible="true"/>
+<node id="-1210" lat="44.72095986" lon="-93.271404718" visible="true"/>
+<node id="-1211" lat="44.720952587" lon="-93.271399333" visible="true"/>
+<node id="-1212" lat="44.720988936" lon="-93.271300951" visible="true"/>
+<node id="-1214" lat="44.720991522" lon="-93.272059834" visible="true"/>
+<node id="-1215" lat="44.721030856" lon="-93.271997922" visible="true"/>
+<node id="-1216" lat="44.720936811" lon="-93.271880381" visible="true"/>
+<node id="-1217" lat="44.720880348" lon="-93.271969255" visible="true"/>
+<node id="-1218" lat="44.720871107" lon="-93.271957702" visible="true"/>
+<node id="-1219" lat="44.720803601" lon="-93.27206396" visible="true"/>
+<node id="-1220" lat="44.720837873" lon="-93.272106793" visible="true"/>
+<node id="-1221" lat="44.720845916" lon="-93.27209413" visible="true"/>
+<node id="-1222" lat="44.720884182" lon="-93.272141957" visible="true"/>
+<node id="-1223" lat="44.720865556" lon="-93.272171269" visible="true"/>
+<node id="-1224" lat="44.720949108" lon="-93.272275697" visible="true"/>
+<node id="-1225" lat="44.721024505" lon="-93.272157021" visible="true"/>
+<node id="-1226" lat="44.721018598" lon="-93.27214964" visible="true"/>
+<node id="-1227" lat="44.721038415" lon="-93.272118445" visible="true"/>
+<node id="-1229" lat="44.721066884" lon="-93.271102659" visible="true"/>
+<node id="-1230" lat="44.721040328" lon="-93.271189364" visible="true"/>
+<node id="-1231" lat="44.721074139" lon="-93.271205415" visible="true"/>
+<node id="-1232" lat="44.721099577" lon="-93.271122361" visible="true"/>
+<node id="-1234" lat="44.721112303" lon="-93.27137565" visible="true"/>
+<node id="-1235" lat="44.721058283" lon="-93.271336496" visible="true"/>
+<node id="-1236" lat="44.721011398" lon="-93.271463744" visible="true"/>
+<node id="-1237" lat="44.721202417" lon="-93.271602205" visible="true"/>
+<node id="-1238" lat="44.721239579" lon="-93.271501343" visible="true"/>
+<node id="-1239" lat="44.721246703" lon="-93.27148201" visible="true"/>
+<node id="-1241" lat="44.721270109" lon="-93.27241962" visible="true"/>
+<node id="-1242" lat="44.721099583" lon="-93.27264083" visible="true"/>
+<node id="-1243" lat="44.72116212" lon="-93.272735674" visible="true"/>
+<node id="-1244" lat="44.721332646" lon="-93.272514463" visible="true"/>
+<node id="-1246" lat="44.721485933" lon="-93.271687968" visible="true"/>
+<node id="-1247" lat="44.721475879" lon="-93.27165535" visible="true"/>
+<node id="-1248" lat="44.721452628" lon="-93.271637939" visible="true"/>
+<node id="-1249" lat="44.721469754" lon="-93.271592937" visible="true"/>
+<node id="-1250" lat="44.721416363" lon="-93.271552941" visible="true"/>
+<node id="-1251" lat="44.721402149" lon="-93.271585155" visible="true"/>
+<node id="-1252" lat="44.721365516" lon="-93.271569683" visible="true"/>
+<node id="-1253" lat="44.721291519" lon="-93.271517649" visible="true"/>
+<node id="-1254" lat="44.721245514" lon="-93.271633599" visible="true"/>
+<node id="-1255" lat="44.721259291" lon="-93.271649598" visible="true"/>
+<node id="-1256" lat="44.721270965" lon="-93.271667069" visible="true"/>
+<node id="-1257" lat="44.721334453" lon="-93.271709996" visible="true"/>
+<node id="-1258" lat="44.721335748" lon="-93.271692248" visible="true"/>
+<node id="-1259" lat="44.721359303" lon="-93.271713088" visible="true"/>
+<node id="-1260" lat="44.721380254" lon="-93.271836283" visible="true"/>
+<node id="-1261" lat="44.721511463" lon="-93.271786841" visible="true"/>
+<node id="-1263" lat="44.721763852" lon="-93.271992898" visible="true"/>
+<node id="-1264" lat="44.72179416" lon="-93.271881558" visible="true"/>
+<node id="-1265" lat="44.72165505" lon="-93.27181641" visible="true"/>
+<node id="-1266" lat="44.721657937" lon="-93.271804289" visible="true"/>
+<node id="-1267" lat="44.721619806" lon="-93.271786433" visible="true"/>
+<node id="-1268" lat="44.721613755" lon="-93.271811856" visible="true"/>
+<node id="-1269" lat="44.721578222" lon="-93.271795214" visible="true"/>
+<node id="-1270" lat="44.721562375" lon="-93.27186763" visible="true"/>
+<node id="-1271" lat="44.721548831" lon="-93.271930373" visible="true"/>
+<node id="-1272" lat="44.721629768" lon="-93.271968277" visible="true"/>
+<node id="-1273" lat="44.721655523" lon="-93.27204137" visible="true"/>
+<node id="-1274" lat="44.721596874" lon="-93.272158248" visible="true"/>
+<node id="-1275" lat="44.721619804" lon="-93.272187367" visible="true"/>
+<node id="-1276" lat="44.72164309" lon="-93.272213856" visible="true"/>
+<node id="-1277" lat="44.721665406" lon="-93.2722329" visible="true"/>
+<node id="-1278" lat="44.72167408" lon="-93.272215614" visible="true"/>
+<node id="-1279" lat="44.721682545" lon="-93.27222397" visible="true"/>
+<node id="-1280" lat="44.721747893" lon="-93.272093737" visible="true"/>
+<node id="-1281" lat="44.72178748" lon="-93.272115738" visible="true"/>
+<node id="-1282" lat="44.721813565" lon="-93.272018308" visible="true"/>
+<node id="-1284" lat="44.724632542" lon="-93.268800117" visible="true"/>
+<node id="-1285" lat="44.724569205" lon="-93.268853572" visible="true"/>
+<node id="-1286" lat="44.724623992" lon="-93.2689813" visible="true"/>
+<node id="-1287" lat="44.724687274" lon="-93.268927717" visible="true"/>
+<node id="-1289" lat="44.724703509" lon="-93.268479976" visible="true"/>
+<node id="-1290" lat="44.724653582" lon="-93.268480756" visible="true"/>
+<node id="-1291" lat="44.72463296" lon="-93.268481071" visible="true"/>
+<node id="-1292" lat="44.724632704" lon="-93.268448472" visible="true"/>
+<node id="-1293" lat="44.724510197" lon="-93.268450497" visible="true"/>
+<node id="-1294" lat="44.724509608" lon="-93.268571223" visible="true"/>
+<node id="-1295" lat="44.724559689" lon="-93.268565552" visible="true"/>
+<node id="-1296" lat="44.724631108" lon="-93.268559549" visible="true"/>
+<node id="-1297" lat="44.72463123" lon="-93.268575092" visible="true"/>
+<node id="-1298" lat="44.724653622" lon="-93.268574746" visible="true"/>
+<node id="-1299" lat="44.724704252" lon="-93.268573958" visible="true"/>
+<node id="-1301" lat="44.724748507" lon="-93.268105601" visible="true"/>
+<node id="-1302" lat="44.724748808" lon="-93.268077843" visible="true"/>
+<node id="-1303" lat="44.724687395" lon="-93.268076536" visible="true"/>
+<node id="-1304" lat="44.724687108" lon="-93.268103179" visible="true"/>
+<node id="-1305" lat="44.724651509" lon="-93.268102422" visible="true"/>
+<node id="-1306" lat="44.724646895" lon="-93.268175432" visible="true"/>
+<node id="-1307" lat="44.724647177" lon="-93.268193675" visible="true"/>
+<node id="-1308" lat="44.724611595" lon="-93.268192701" visible="true"/>
+<node id="-1309" lat="44.724611661" lon="-93.2683053" visible="true"/>
+<node id="-1310" lat="44.724610805" lon="-93.268384392" visible="true"/>
+<node id="-1311" lat="44.724653542" lon="-93.268385303" visible="true"/>
+<node id="-1312" lat="44.724697447" lon="-93.268386231" visible="true"/>
+<node id="-1313" lat="44.724698181" lon="-93.268318377" visible="true"/>
+<node id="-1314" lat="44.724709734" lon="-93.268318626" visible="true"/>
+<node id="-1315" lat="44.724709855" lon="-93.268307318" visible="true"/>
+<node id="-1316" lat="44.724710845" lon="-93.26821582" visible="true"/>
+<node id="-1317" lat="44.724761862" lon="-93.268216905" visible="true"/>
+<node id="-1318" lat="44.72476306" lon="-93.268105912" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="10300"/><tag k="addr:city" v="Lakeville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55044"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oak Shore Drive South"/></way>
+<way id="-10" visible="true"><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-11"/><tag k="building" v="shed"/></way>
+<way id="-15" visible="true"><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-16"/><tag k="building" v="house"/><tag k="addr:housenumber" v="115"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-22" visible="true"><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-23"/><tag k="building" v="house"/><tag k="addr:housenumber" v="245"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-27" visible="true"><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-35"/><nd ref="-28"/><tag k="building" v="house"/><tag k="addr:housenumber" v="130"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oak Curve"/></way>
+<way id="-36" visible="true"><nd ref="-37"/><nd ref="-38"/><nd ref="-39"/><nd ref="-40"/><nd ref="-41"/><nd ref="-42"/><nd ref="-37"/><tag k="building" v="house"/><tag k="addr:housenumber" v="241"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oak Shore Drive South"/></way>
+<way id="-43" visible="true"><nd ref="-44"/><nd ref="-45"/><nd ref="-46"/><nd ref="-47"/><nd ref="-48"/><nd ref="-49"/><nd ref="-50"/><nd ref="-51"/><nd ref="-44"/><tag k="building" v="house"/><tag k="addr:housenumber" v="100"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-52" visible="true"><nd ref="-53"/><nd ref="-54"/><nd ref="-55"/><nd ref="-56"/><nd ref="-57"/><nd ref="-58"/><nd ref="-59"/><nd ref="-60"/><nd ref="-61"/><nd ref="-53"/><tag k="building" v="house"/><tag k="addr:housenumber" v="4"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oak Shore Drive"/></way>
+<way id="-62" visible="true"><nd ref="-63"/><nd ref="-64"/><nd ref="-65"/><nd ref="-66"/><nd ref="-67"/><nd ref="-68"/><nd ref="-69"/><nd ref="-70"/><nd ref="-71"/><nd ref="-72"/><nd ref="-73"/><nd ref="-74"/><nd ref="-75"/><nd ref="-63"/><tag k="building" v="house"/><tag k="addr:housenumber" v="5"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oak Shore Drive"/></way>
+<way id="-76" visible="true"><nd ref="-77"/><nd ref="-78"/><nd ref="-79"/><nd ref="-80"/><nd ref="-81"/><nd ref="-82"/><nd ref="-83"/><nd ref="-84"/><nd ref="-85"/><nd ref="-86"/><nd ref="-87"/><nd ref="-88"/><nd ref="-89"/><nd ref="-90"/><nd ref="-91"/><nd ref="-77"/><tag k="building" v="house"/><tag k="addr:housenumber" v="240"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-92" visible="true"><nd ref="-93"/><nd ref="-94"/><nd ref="-95"/><nd ref="-96"/><nd ref="-93"/><tag k="building" v="shed"/></way>
+<way id="-97" visible="true"><nd ref="-98"/><nd ref="-99"/><nd ref="-100"/><nd ref="-101"/><nd ref="-102"/><nd ref="-103"/><nd ref="-104"/><nd ref="-105"/><nd ref="-106"/><nd ref="-107"/><nd ref="-108"/><nd ref="-109"/><nd ref="-110"/><nd ref="-111"/><nd ref="-98"/><tag k="building" v="house"/><tag k="addr:housenumber" v="230"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oak Shore Drive South"/></way>
+<way id="-112" visible="true"><nd ref="-113"/><nd ref="-114"/><nd ref="-115"/><nd ref="-116"/><nd ref="-113"/><tag k="building" v="shed"/></way>
+<way id="-117" visible="true"><nd ref="-118"/><nd ref="-119"/><nd ref="-120"/><nd ref="-121"/><nd ref="-118"/><tag k="building" v="shed"/></way>
+<way id="-122" visible="true"><nd ref="-123"/><nd ref="-124"/><nd ref="-125"/><nd ref="-126"/><nd ref="-127"/><nd ref="-128"/><nd ref="-129"/><nd ref="-130"/><nd ref="-123"/><tag k="building" v="shed"/></way>
+<way id="-131" visible="true"><nd ref="-132"/><nd ref="-133"/><nd ref="-134"/><nd ref="-135"/><nd ref="-136"/><nd ref="-137"/><nd ref="-138"/><nd ref="-139"/><nd ref="-140"/><nd ref="-141"/><nd ref="-132"/><tag k="building" v="house"/><tag k="addr:housenumber" v="12"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oak Shore Drive"/></way>
+<way id="-142" visible="true"><nd ref="-143"/><nd ref="-144"/><nd ref="-145"/><nd ref="-146"/><nd ref="-147"/><nd ref="-148"/><nd ref="-149"/><nd ref="-150"/><nd ref="-151"/><nd ref="-152"/><nd ref="-153"/><nd ref="-154"/><nd ref="-143"/><tag k="building" v="house"/><tag k="addr:housenumber" v="120"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-155" visible="true"><nd ref="-156"/><nd ref="-157"/><nd ref="-158"/><nd ref="-159"/><nd ref="-160"/><nd ref="-161"/><nd ref="-162"/><nd ref="-163"/><nd ref="-164"/><nd ref="-165"/><nd ref="-156"/><tag k="building" v="house"/><tag k="addr:housenumber" v="231"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oak Shore Drive South"/></way>
+<way id="-166" visible="true"><nd ref="-167"/><nd ref="-168"/><nd ref="-169"/><nd ref="-170"/><nd ref="-171"/><nd ref="-172"/><nd ref="-173"/><nd ref="-96"/><nd ref="-174"/><nd ref="-175"/><nd ref="-176"/><nd ref="-177"/><nd ref="-178"/><nd ref="-179"/><nd ref="-180"/><nd ref="-181"/><nd ref="-182"/><nd ref="-183"/><nd ref="-167"/><tag k="building" v="house"/><tag k="addr:housenumber" v="15"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oak Shore Drive"/></way>
+<way id="-184" visible="true"><nd ref="-185"/><nd ref="-186"/><nd ref="-187"/><nd ref="-188"/><nd ref="-189"/><nd ref="-190"/><nd ref="-191"/><nd ref="-192"/><nd ref="-193"/><nd ref="-194"/><nd ref="-195"/><nd ref="-196"/><nd ref="-185"/><tag k="building" v="house"/><tag k="addr:housenumber" v="135"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-197" visible="true"><nd ref="-198"/><nd ref="-199"/><nd ref="-200"/><nd ref="-201"/><nd ref="-202"/><nd ref="-203"/><nd ref="-204"/><nd ref="-205"/><nd ref="-206"/><nd ref="-207"/><nd ref="-208"/><nd ref="-209"/><nd ref="-210"/><nd ref="-211"/><nd ref="-212"/><nd ref="-213"/><nd ref="-214"/><nd ref="-198"/><tag k="building" v="house"/><tag k="addr:housenumber" v="299"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-215" visible="true"><nd ref="-216"/><nd ref="-217"/><nd ref="-218"/><nd ref="-219"/><nd ref="-220"/><nd ref="-221"/><nd ref="-222"/><nd ref="-223"/><nd ref="-224"/><nd ref="-225"/><nd ref="-216"/><tag k="building" v="house"/><tag k="addr:housenumber" v="301"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-226" visible="true"><nd ref="-227"/><nd ref="-228"/><nd ref="-229"/><nd ref="-230"/><nd ref="-227"/><tag k="building" v="house"/><tag k="addr:housenumber" v="303"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-231" visible="true"><nd ref="-232"/><nd ref="-233"/><nd ref="-234"/><nd ref="-235"/><nd ref="-236"/><nd ref="-237"/><nd ref="-238"/><nd ref="-239"/><nd ref="-240"/><nd ref="-232"/><tag k="building" v="shed"/></way>
+<way id="-241" visible="true"><nd ref="-242"/><nd ref="-243"/><nd ref="-244"/><nd ref="-245"/><nd ref="-246"/><nd ref="-247"/><nd ref="-248"/><nd ref="-249"/><nd ref="-242"/><tag k="building" v="house"/><tag k="addr:housenumber" v="130"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-250" visible="true"><nd ref="-251"/><nd ref="-252"/><nd ref="-253"/><nd ref="-254"/><nd ref="-255"/><nd ref="-256"/><nd ref="-257"/><nd ref="-251"/><tag k="building" v="house"/><tag k="addr:housenumber" v="155"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-258" visible="true"><nd ref="-259"/><nd ref="-260"/><nd ref="-261"/><nd ref="-262"/><nd ref="-263"/><nd ref="-264"/><nd ref="-265"/><nd ref="-266"/><nd ref="-259"/><tag k="building" v="house"/><tag k="addr:housenumber" v="16"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oak Shore Drive"/></way>
+<way id="-267" visible="true"><nd ref="-268"/><nd ref="-269"/><nd ref="-270"/><nd ref="-271"/><nd ref="-268"/><tag k="building" v="shed"/></way>
+<way id="-272" visible="true"><nd ref="-273"/><nd ref="-274"/><nd ref="-275"/><nd ref="-276"/><nd ref="-277"/><nd ref="-278"/><nd ref="-279"/><nd ref="-280"/><nd ref="-281"/><nd ref="-282"/><nd ref="-273"/><tag k="building" v="house"/><tag k="addr:housenumber" v="230"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-283" visible="true"><nd ref="-284"/><nd ref="-285"/><nd ref="-286"/><nd ref="-287"/><nd ref="-288"/><nd ref="-289"/><nd ref="-284"/><tag k="building" v="house"/><tag k="addr:housenumber" v="305"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-290" visible="true"><nd ref="-291"/><nd ref="-292"/><nd ref="-293"/><nd ref="-294"/><nd ref="-291"/><tag k="building" v="shed"/></way>
+<way id="-295" visible="true"><nd ref="-296"/><nd ref="-297"/><nd ref="-298"/><nd ref="-299"/><nd ref="-300"/><nd ref="-301"/><nd ref="-302"/><nd ref="-303"/><nd ref="-304"/><nd ref="-305"/><nd ref="-296"/><tag k="building" v="house"/><tag k="addr:housenumber" v="391"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-306" visible="true"><nd ref="-307"/><nd ref="-308"/><nd ref="-309"/><nd ref="-310"/><nd ref="-311"/><nd ref="-312"/><nd ref="-313"/><nd ref="-314"/><nd ref="-315"/><nd ref="-316"/><nd ref="-307"/><tag k="building" v="house"/><tag k="addr:housenumber" v="25"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oak Shore Drive"/></way>
+<way id="-317" visible="true"><nd ref="-318"/><nd ref="-319"/><nd ref="-320"/><nd ref="-321"/><nd ref="-322"/><nd ref="-323"/><nd ref="-324"/><nd ref="-325"/><nd ref="-326"/><nd ref="-327"/><nd ref="-318"/><tag k="building" v="house"/><tag k="addr:housenumber" v="165"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-328" visible="true"><nd ref="-329"/><nd ref="-330"/><nd ref="-331"/><nd ref="-332"/><nd ref="-333"/><nd ref="-334"/><nd ref="-335"/><nd ref="-336"/><nd ref="-329"/><tag k="building" v="house"/><tag k="addr:housenumber" v="140"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-337" visible="true"><nd ref="-338"/><nd ref="-339"/><nd ref="-340"/><nd ref="-341"/><nd ref="-342"/><nd ref="-343"/><nd ref="-344"/><nd ref="-345"/><nd ref="-346"/><nd ref="-347"/><nd ref="-338"/><tag k="building" v="house"/><tag k="addr:housenumber" v="20"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oak Shore Drive"/></way>
+<way id="-348" visible="true"><nd ref="-349"/><nd ref="-350"/><nd ref="-351"/><nd ref="-352"/><nd ref="-353"/><nd ref="-354"/><nd ref="-355"/><nd ref="-356"/><nd ref="-357"/><nd ref="-349"/><tag k="building" v="house"/><tag k="addr:housenumber" v="35"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oak Shore Drive"/></way>
+<way id="-358" visible="true"><nd ref="-359"/><nd ref="-360"/><nd ref="-361"/><nd ref="-362"/><nd ref="-363"/><nd ref="-364"/><nd ref="-365"/><nd ref="-366"/><nd ref="-359"/><tag k="building" v="house"/><tag k="addr:housenumber" v="15735 - 15741"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Court"/></way>
+<way id="-367" visible="true"><nd ref="-368"/><nd ref="-369"/><nd ref="-370"/><nd ref="-371"/><nd ref="-372"/><nd ref="-373"/><nd ref="-374"/><nd ref="-375"/><nd ref="-376"/><nd ref="-377"/><nd ref="-368"/><tag k="building" v="house"/><tag k="addr:housenumber" v="221"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oak Shore Drive South"/></way>
+<way id="-378" visible="true"><nd ref="-379"/><nd ref="-380"/><nd ref="-381"/><nd ref="-382"/><nd ref="-383"/><nd ref="-384"/><nd ref="-385"/><nd ref="-386"/><nd ref="-387"/><nd ref="-388"/><nd ref="-389"/><nd ref="-390"/><nd ref="-391"/><nd ref="-392"/><nd ref="-379"/><tag k="building" v="house"/><tag k="addr:housenumber" v="220"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-393" visible="true"><nd ref="-394"/><nd ref="-395"/><nd ref="-396"/><nd ref="-397"/><nd ref="-398"/><nd ref="-399"/><nd ref="-400"/><nd ref="-394"/><tag k="building" v="house"/><tag k="addr:housenumber" v="389"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-401" visible="true"><nd ref="-402"/><nd ref="-403"/><nd ref="-404"/><nd ref="-405"/><nd ref="-406"/><nd ref="-407"/><nd ref="-408"/><nd ref="-409"/><nd ref="-402"/><tag k="building" v="house"/><tag k="addr:housenumber" v="150"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-410" visible="true"><nd ref="-411"/><nd ref="-412"/><nd ref="-413"/><nd ref="-414"/><nd ref="-415"/><nd ref="-416"/><nd ref="-417"/><nd ref="-418"/><nd ref="-411"/><tag k="building" v="garage"/></way>
+<way id="-419" visible="true"><nd ref="-420"/><nd ref="-421"/><nd ref="-422"/><nd ref="-423"/><nd ref="-424"/><nd ref="-425"/><nd ref="-426"/><nd ref="-427"/><nd ref="-420"/><tag k="building" v="house"/><tag k="addr:housenumber" v="302"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-428" visible="true"><nd ref="-429"/><nd ref="-430"/><nd ref="-431"/><nd ref="-432"/><nd ref="-433"/><nd ref="-434"/><nd ref="-435"/><nd ref="-436"/><nd ref="-429"/><tag k="building" v="house"/><tag k="addr:housenumber" v="307"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-437" visible="true"><nd ref="-438"/><nd ref="-439"/><nd ref="-440"/><nd ref="-441"/><nd ref="-438"/><tag k="building" v="shed"/></way>
+<way id="-442" visible="true"><nd ref="-443"/><nd ref="-444"/><nd ref="-445"/><nd ref="-446"/><nd ref="-443"/><tag k="building" v="garage"/></way>
+<way id="-447" visible="true"><nd ref="-448"/><nd ref="-449"/><nd ref="-450"/><nd ref="-451"/><nd ref="-452"/><nd ref="-453"/><nd ref="-454"/><nd ref="-455"/><nd ref="-456"/><nd ref="-457"/><nd ref="-458"/><nd ref="-459"/><nd ref="-460"/><nd ref="-448"/><tag k="building" v="house"/><tag k="addr:housenumber" v="101"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oak Shore Drive"/></way>
+<way id="-461" visible="true"><nd ref="-462"/><nd ref="-463"/><nd ref="-464"/><nd ref="-465"/><nd ref="-466"/><nd ref="-467"/><nd ref="-468"/><nd ref="-469"/><nd ref="-470"/><nd ref="-471"/><nd ref="-472"/><nd ref="-462"/><tag k="building" v="house"/><tag k="addr:housenumber" v="160"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-473" visible="true"><nd ref="-474"/><nd ref="-475"/><nd ref="-476"/><nd ref="-477"/><nd ref="-478"/><nd ref="-479"/><nd ref="-480"/><nd ref="-481"/><nd ref="-482"/><nd ref="-483"/><nd ref="-484"/><nd ref="-485"/><nd ref="-474"/><tag k="building" v="house"/><tag k="addr:housenumber" v="30"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oak Shore Drive"/></way>
+<way id="-486" visible="true"><nd ref="-487"/><nd ref="-488"/><nd ref="-489"/><nd ref="-490"/><nd ref="-491"/><nd ref="-492"/><nd ref="-487"/><tag k="building" v="house"/><tag k="addr:housenumber" v="387"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-493" visible="true"><nd ref="-494"/><nd ref="-495"/><nd ref="-496"/><nd ref="-497"/><nd ref="-498"/><nd ref="-499"/><nd ref="-500"/><nd ref="-501"/><nd ref="-502"/><nd ref="-503"/><nd ref="-494"/><tag k="building" v="house"/><tag k="addr:housenumber" v="210"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-504" visible="true"><nd ref="-505"/><nd ref="-506"/><nd ref="-507"/><nd ref="-508"/><nd ref="-509"/><nd ref="-510"/><nd ref="-505"/><tag k="building" v="house"/><tag k="addr:housenumber" v="308"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-511" visible="true"><nd ref="-512"/><nd ref="-513"/><nd ref="-514"/><nd ref="-515"/><nd ref="-516"/><nd ref="-517"/><nd ref="-512"/><tag k="building" v="house"/><tag k="addr:housenumber" v="170"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-518" visible="true"><nd ref="-519"/><nd ref="-520"/><nd ref="-521"/><nd ref="-522"/><nd ref="-523"/><nd ref="-524"/><nd ref="-519"/><tag k="building" v="house"/><tag k="addr:housenumber" v="121"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oak Shore Drive"/></way>
+<way id="-525" visible="true"><nd ref="-526"/><nd ref="-527"/><nd ref="-528"/><nd ref="-529"/><nd ref="-530"/><nd ref="-526"/><tag k="building" v="house"/><tag k="addr:housenumber" v="309"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-531" visible="true"><nd ref="-532"/><nd ref="-533"/><nd ref="-534"/><nd ref="-535"/><nd ref="-532"/><tag k="building" v="shed"/></way>
+<way id="-536" visible="true"><nd ref="-537"/><nd ref="-538"/><nd ref="-539"/><nd ref="-540"/><nd ref="-537"/><tag k="building" v="shed"/></way>
+<way id="-541" visible="true"><nd ref="-542"/><nd ref="-543"/><nd ref="-544"/><nd ref="-545"/><nd ref="-546"/><nd ref="-547"/><nd ref="-548"/><nd ref="-549"/><nd ref="-550"/><nd ref="-542"/><tag k="building" v="house"/><tag k="addr:housenumber" v="385"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-551" visible="true"><nd ref="-552"/><nd ref="-553"/><nd ref="-554"/><nd ref="-555"/><nd ref="-556"/><nd ref="-557"/><nd ref="-558"/><nd ref="-559"/><nd ref="-560"/><nd ref="-561"/><nd ref="-562"/><nd ref="-563"/><nd ref="-552"/><tag k="building" v="house"/><tag k="addr:housenumber" v="131"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oak Shore Drive"/></way>
+<way id="-564" visible="true"><nd ref="-565"/><nd ref="-566"/><nd ref="-567"/><nd ref="-568"/><nd ref="-569"/><nd ref="-570"/><nd ref="-571"/><nd ref="-572"/><nd ref="-565"/><tag k="building" v="house"/><tag k="addr:housenumber" v="40"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oak Shore Drive"/></way>
+<way id="-573" visible="true"><nd ref="-574"/><nd ref="-575"/><nd ref="-576"/><nd ref="-577"/><nd ref="-578"/><nd ref="-579"/><nd ref="-580"/><nd ref="-581"/><nd ref="-582"/><nd ref="-583"/><nd ref="-584"/><nd ref="-585"/><nd ref="-586"/><nd ref="-587"/><nd ref="-588"/><nd ref="-589"/><nd ref="-574"/><tag k="building" v="house"/><tag k="addr:housenumber" v="15701 - 15705"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Court"/></way>
+<way id="-590" visible="true"><nd ref="-591"/><nd ref="-592"/><nd ref="-593"/><nd ref="-594"/><nd ref="-595"/><nd ref="-596"/><nd ref="-597"/><nd ref="-598"/><nd ref="-591"/><tag k="building" v="house"/><tag k="addr:housenumber" v="151"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oak Shore Drive"/></way>
+<way id="-599" visible="true"><nd ref="-600"/><nd ref="-601"/><nd ref="-602"/><nd ref="-603"/><nd ref="-604"/><nd ref="-605"/><nd ref="-606"/><nd ref="-607"/><nd ref="-600"/><tag k="building" v="house"/><tag k="addr:housenumber" v="200"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oak Shore Drive"/></way>
+<way id="-608" visible="true"><nd ref="-609"/><nd ref="-610"/><nd ref="-611"/><nd ref="-612"/><nd ref="-613"/><nd ref="-614"/><nd ref="-615"/><nd ref="-616"/><nd ref="-617"/><nd ref="-618"/><nd ref="-609"/><tag k="building" v="house"/><tag k="addr:housenumber" v="311"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-619" visible="true"><nd ref="-620"/><nd ref="-621"/><nd ref="-622"/><nd ref="-623"/><nd ref="-620"/><tag k="building" v="shed"/></way>
+<way id="-624" visible="true"><nd ref="-625"/><nd ref="-626"/><nd ref="-627"/><nd ref="-628"/><nd ref="-625"/><tag k="building" v="house"/><tag k="addr:housenumber" v="383"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-629" visible="true"><nd ref="-630"/><nd ref="-631"/><nd ref="-632"/><nd ref="-633"/><nd ref="-634"/><nd ref="-635"/><nd ref="-636"/><nd ref="-637"/><nd ref="-638"/><nd ref="-639"/><nd ref="-640"/><nd ref="-641"/><nd ref="-630"/><tag k="building" v="house"/><tag k="addr:housenumber" v="310"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-642" visible="true"><nd ref="-643"/><nd ref="-644"/><nd ref="-645"/><nd ref="-646"/><nd ref="-643"/><tag k="building" v="shed"/></way>
+<way id="-647" visible="true"><nd ref="-648"/><nd ref="-649"/><nd ref="-650"/><nd ref="-651"/><nd ref="-648"/><tag k="building" v="shed"/></way>
+<way id="-652" visible="true"><nd ref="-653"/><nd ref="-654"/><nd ref="-655"/><nd ref="-656"/><nd ref="-657"/><nd ref="-658"/><nd ref="-659"/><nd ref="-660"/><nd ref="-661"/><nd ref="-662"/><nd ref="-663"/><nd ref="-664"/><nd ref="-665"/><nd ref="-666"/><nd ref="-667"/><nd ref="-668"/><nd ref="-669"/><nd ref="-670"/><nd ref="-653"/><tag k="building" v="house"/><tag k="addr:housenumber" v="15700 - 15704"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Court"/></way>
+<way id="-671" visible="true"><nd ref="-672"/><nd ref="-673"/><nd ref="-674"/><nd ref="-675"/><nd ref="-676"/><nd ref="-677"/><nd ref="-672"/><tag k="building" v="house"/><tag k="addr:housenumber" v="180"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oak Shore Drive"/></way>
+<way id="-678" visible="true"><nd ref="-679"/><nd ref="-680"/><nd ref="-681"/><nd ref="-682"/><nd ref="-683"/><nd ref="-684"/><nd ref="-679"/><tag k="building" v="house"/><tag k="addr:housenumber" v="313"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-685" visible="true"><nd ref="-686"/><nd ref="-687"/><nd ref="-688"/><nd ref="-689"/><nd ref="-690"/><nd ref="-691"/><nd ref="-692"/><nd ref="-693"/><nd ref="-694"/><nd ref="-695"/><nd ref="-686"/><tag k="building" v="house"/><tag k="addr:housenumber" v="381"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-696" visible="true"><nd ref="-697"/><nd ref="-698"/><nd ref="-699"/><nd ref="-700"/><nd ref="-701"/><nd ref="-702"/><nd ref="-703"/><nd ref="-704"/><nd ref="-697"/><tag k="building" v="house"/><tag k="addr:housenumber" v="319"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-705" visible="true"><nd ref="-706"/><nd ref="-707"/><nd ref="-708"/><nd ref="-709"/><nd ref="-710"/><nd ref="-711"/><nd ref="-712"/><nd ref="-706"/><tag k="building" v="house"/><tag k="addr:housenumber" v="321"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-713" visible="true"><nd ref="-714"/><nd ref="-715"/><nd ref="-716"/><nd ref="-717"/><nd ref="-718"/><nd ref="-719"/><nd ref="-720"/><nd ref="-721"/><nd ref="-714"/><tag k="building" v="house"/><tag k="addr:housenumber" v="317"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-722" visible="true"><nd ref="-723"/><nd ref="-724"/><nd ref="-725"/><nd ref="-726"/><nd ref="-727"/><nd ref="-728"/><nd ref="-729"/><nd ref="-730"/><nd ref="-731"/><nd ref="-732"/><nd ref="-733"/><nd ref="-734"/><nd ref="-735"/><nd ref="-723"/><tag k="building" v="house"/><tag k="addr:housenumber" v="312"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-736" visible="true"><nd ref="-737"/><nd ref="-738"/><nd ref="-739"/><nd ref="-740"/><nd ref="-741"/><nd ref="-742"/><nd ref="-743"/><nd ref="-744"/><nd ref="-745"/><nd ref="-746"/><nd ref="-737"/><tag k="building" v="house"/><tag k="addr:housenumber" v="315"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-747" visible="true"><nd ref="-748"/><nd ref="-749"/><nd ref="-750"/><nd ref="-751"/><nd ref="-748"/><tag k="building" v="shed"/></way>
+<way id="-752" visible="true"><nd ref="-753"/><nd ref="-754"/><nd ref="-755"/><nd ref="-756"/><nd ref="-757"/><nd ref="-758"/><nd ref="-759"/><nd ref="-760"/><nd ref="-753"/><tag k="building" v="house"/><tag k="addr:housenumber" v="160"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oak Shore Drive"/></way>
+<way id="-761" visible="true"><nd ref="-762"/><nd ref="-763"/><nd ref="-764"/><nd ref="-765"/><nd ref="-766"/><nd ref="-767"/><nd ref="-768"/><nd ref="-769"/><nd ref="-748"/><nd ref="-770"/><nd ref="-771"/><nd ref="-772"/><nd ref="-773"/><nd ref="-762"/><tag k="building" v="house"/><tag k="addr:housenumber" v="323"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-774" visible="true"><nd ref="-775"/><nd ref="-776"/><nd ref="-777"/><nd ref="-778"/><nd ref="-779"/><nd ref="-780"/><nd ref="-781"/><nd ref="-782"/><nd ref="-783"/><nd ref="-784"/><nd ref="-775"/><tag k="building" v="house"/><tag k="addr:housenumber" v="170"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oak Shore Drive"/></way>
+<way id="-785" visible="true"><nd ref="-786"/><nd ref="-787"/><nd ref="-788"/><nd ref="-789"/><nd ref="-790"/><nd ref="-791"/><nd ref="-786"/><tag k="building" v="house"/><tag k="addr:housenumber" v="379"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-792" visible="true"><nd ref="-793"/><nd ref="-794"/><nd ref="-795"/><nd ref="-796"/><nd ref="-797"/><nd ref="-798"/><nd ref="-799"/><nd ref="-800"/><nd ref="-801"/><nd ref="-802"/><nd ref="-793"/><tag k="building" v="house"/><tag k="addr:housenumber" v="60"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oak Shore Drive"/></way>
+<way id="-803" visible="true"><nd ref="-804"/><nd ref="-805"/><nd ref="-806"/><nd ref="-807"/><nd ref="-804"/><tag k="building" v="shed"/></way>
+<way id="-808" visible="true"><nd ref="-809"/><nd ref="-810"/><nd ref="-811"/><nd ref="-812"/><nd ref="-813"/><nd ref="-814"/><nd ref="-815"/><nd ref="-816"/><nd ref="-817"/><nd ref="-818"/><nd ref="-819"/><nd ref="-820"/><nd ref="-821"/><nd ref="-809"/><tag k="building" v="house"/><tag k="addr:housenumber" v="150"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oak Shore Drive"/></way>
+<way id="-822" visible="true"><nd ref="-823"/><nd ref="-824"/><nd ref="-825"/><nd ref="-826"/><nd ref="-823"/><tag k="building" v="shed"/></way>
+<way id="-827" visible="true"><nd ref="-828"/><nd ref="-829"/><nd ref="-830"/><nd ref="-831"/><nd ref="-828"/><tag k="building" v="garage"/></way>
+<way id="-832" visible="true"><nd ref="-833"/><nd ref="-834"/><nd ref="-835"/><nd ref="-836"/><nd ref="-837"/><nd ref="-838"/><nd ref="-833"/><tag k="building" v="shed"/></way>
+<way id="-839" visible="true"><nd ref="-831"/><nd ref="-830"/><nd ref="-840"/><nd ref="-841"/><nd ref="-842"/><nd ref="-843"/><nd ref="-844"/><nd ref="-831"/><tag k="building" v="house"/><tag k="addr:housenumber" v="140"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oak Shore Drive"/></way>
+<way id="-845" visible="true"><nd ref="-846"/><nd ref="-847"/><nd ref="-848"/><nd ref="-849"/><nd ref="-850"/><nd ref="-851"/><nd ref="-852"/><nd ref="-853"/><nd ref="-854"/><nd ref="-855"/><nd ref="-846"/><tag k="building" v="house"/><tag k="addr:housenumber" v="320"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-856" visible="true"><nd ref="-857"/><nd ref="-858"/><nd ref="-859"/><nd ref="-860"/><nd ref="-857"/><tag k="building" v="shed"/></way>
+<way id="-861" visible="true"><nd ref="-862"/><nd ref="-863"/><nd ref="-864"/><nd ref="-865"/><nd ref="-866"/><nd ref="-867"/><nd ref="-862"/><tag k="building" v="garage"/></way>
+<way id="-868" visible="true"><nd ref="-869"/><nd ref="-870"/><nd ref="-871"/><nd ref="-872"/><nd ref="-873"/><nd ref="-874"/><nd ref="-875"/><nd ref="-876"/><nd ref="-877"/><nd ref="-878"/><nd ref="-879"/><nd ref="-880"/><nd ref="-881"/><nd ref="-882"/><nd ref="-869"/><tag k="building" v="house"/><tag k="addr:housenumber" v="377"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-883" visible="true"><nd ref="-884"/><nd ref="-885"/><nd ref="-886"/><nd ref="-887"/><nd ref="-884"/><tag k="building" v="house"/><tag k="addr:housenumber" v="324"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-888" visible="true"><nd ref="-889"/><nd ref="-890"/><nd ref="-891"/><nd ref="-892"/><nd ref="-893"/><nd ref="-894"/><nd ref="-895"/><nd ref="-896"/><nd ref="-889"/><tag k="building" v="house"/><tag k="addr:housenumber" v="378"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-897" visible="true"><nd ref="-898"/><nd ref="-899"/><nd ref="-900"/><nd ref="-901"/><nd ref="-902"/><nd ref="-903"/><nd ref="-898"/><tag k="building" v="garage"/></way>
+<way id="-904" visible="true"><nd ref="-905"/><nd ref="-906"/><nd ref="-907"/><nd ref="-908"/><nd ref="-909"/><nd ref="-910"/><nd ref="-911"/><nd ref="-912"/><nd ref="-913"/><nd ref="-914"/><nd ref="-905"/><tag k="building" v="house"/><tag k="addr:housenumber" v="344"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-915" visible="true"><nd ref="-916"/><nd ref="-917"/><nd ref="-918"/><nd ref="-919"/><nd ref="-920"/><nd ref="-921"/><nd ref="-922"/><nd ref="-923"/><nd ref="-924"/><nd ref="-925"/><nd ref="-926"/><nd ref="-916"/><tag k="building" v="house"/><tag k="addr:housenumber" v="338"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-927" visible="true"><nd ref="-928"/><nd ref="-929"/><nd ref="-930"/><nd ref="-931"/><nd ref="-932"/><nd ref="-933"/><nd ref="-934"/><nd ref="-935"/><nd ref="-928"/><tag k="building" v="house"/><tag k="addr:housenumber" v="346"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-936" visible="true"><nd ref="-937"/><nd ref="-938"/><nd ref="-939"/><nd ref="-940"/><nd ref="-941"/><nd ref="-942"/><nd ref="-943"/><nd ref="-944"/><nd ref="-945"/><nd ref="-946"/><nd ref="-947"/><nd ref="-937"/><tag k="building" v="house"/><tag k="addr:housenumber" v="340"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-948" visible="true"><nd ref="-949"/><nd ref="-950"/><nd ref="-951"/><nd ref="-952"/><nd ref="-953"/><nd ref="-954"/><nd ref="-955"/><nd ref="-956"/><nd ref="-957"/><nd ref="-958"/><nd ref="-959"/><nd ref="-949"/><tag k="building" v="house"/><tag k="addr:housenumber" v="375"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-960" visible="true"><nd ref="-961"/><nd ref="-962"/><nd ref="-963"/><nd ref="-964"/><nd ref="-965"/><nd ref="-966"/><nd ref="-967"/><nd ref="-968"/><nd ref="-969"/><nd ref="-970"/><nd ref="-971"/><nd ref="-972"/><nd ref="-973"/><nd ref="-974"/><nd ref="-975"/><nd ref="-976"/><nd ref="-977"/><nd ref="-978"/><nd ref="-979"/><nd ref="-961"/><tag k="building" v="house"/><tag k="addr:housenumber" v="336"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-980" visible="true"><nd ref="-981"/><nd ref="-982"/><nd ref="-983"/><nd ref="-984"/><nd ref="-985"/><nd ref="-986"/><nd ref="-987"/><nd ref="-988"/><nd ref="-989"/><nd ref="-990"/><nd ref="-991"/><nd ref="-992"/><nd ref="-981"/><tag k="building" v="house"/><tag k="addr:housenumber" v="342"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-993" visible="true"><nd ref="-994"/><nd ref="-995"/><nd ref="-996"/><nd ref="-997"/><nd ref="-994"/><tag k="building" v="shed"/></way>
+<way id="-998" visible="true"><nd ref="-999"/><nd ref="-1000"/><nd ref="-1001"/><nd ref="-1002"/><nd ref="-1003"/><nd ref="-1004"/><nd ref="-1005"/><nd ref="-1006"/><nd ref="-1007"/><nd ref="-999"/><tag k="building" v="house"/><tag k="addr:housenumber" v="348"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-1008" visible="true"><nd ref="-1009"/><nd ref="-1010"/><nd ref="-1011"/><nd ref="-1012"/><nd ref="-1013"/><nd ref="-1014"/><nd ref="-1015"/><nd ref="-1016"/><nd ref="-1017"/><nd ref="-1018"/><nd ref="-1009"/><tag k="building" v="house"/><tag k="addr:housenumber" v="373"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-1019" visible="true"><nd ref="-1020"/><nd ref="-1021"/><nd ref="-1022"/><nd ref="-1023"/><nd ref="-1024"/><nd ref="-1025"/><nd ref="-1026"/><nd ref="-1027"/><nd ref="-1028"/><nd ref="-1029"/><nd ref="-1030"/><nd ref="-1020"/><tag k="building" v="house"/><tag k="addr:housenumber" v="371"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-1031" visible="true"><nd ref="-1032"/><nd ref="-1033"/><nd ref="-1034"/><nd ref="-1035"/><nd ref="-1036"/><nd ref="-1037"/><nd ref="-1038"/><nd ref="-1039"/><nd ref="-1040"/><nd ref="-1041"/><nd ref="-1042"/><nd ref="-1043"/><nd ref="-1044"/><nd ref="-1045"/><nd ref="-1046"/><nd ref="-1047"/><nd ref="-1048"/><nd ref="-1049"/><nd ref="-1050"/><nd ref="-1051"/><nd ref="-1052"/><nd ref="-1053"/><nd ref="-1054"/><nd ref="-1055"/><nd ref="-1032"/><tag k="building" v="garage"/></way>
+<way id="-1056" visible="true"><nd ref="-1057"/><nd ref="-1058"/><nd ref="-1059"/><nd ref="-1060"/><nd ref="-1061"/><nd ref="-1062"/><nd ref="-1063"/><nd ref="-1064"/><nd ref="-1065"/><nd ref="-1066"/><nd ref="-1057"/><tag k="building" v="house"/><tag k="addr:housenumber" v="369"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-1067" visible="true"><nd ref="-1068"/><nd ref="-1069"/><nd ref="-1070"/><nd ref="-1071"/><nd ref="-1072"/><nd ref="-1073"/><nd ref="-1074"/><nd ref="-1075"/><nd ref="-1068"/><tag k="building" v="house"/><tag k="addr:housenumber" v="350"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-1076" visible="true"><nd ref="-1077"/><nd ref="-1078"/><nd ref="-1079"/><nd ref="-1080"/><nd ref="-1081"/><nd ref="-1082"/><nd ref="-1077"/><tag k="building" v="house"/><tag k="addr:housenumber" v="339"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-1083" visible="true"><nd ref="-1084"/><nd ref="-1085"/><nd ref="-1086"/><nd ref="-1087"/><nd ref="-1088"/><nd ref="-1089"/><nd ref="-1090"/><nd ref="-1091"/><nd ref="-1084"/><tag k="building" v="house"/><tag k="addr:housenumber" v="335"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-1092" visible="true"><nd ref="-1093"/><nd ref="-1094"/><nd ref="-1095"/><nd ref="-1096"/><nd ref="-1097"/><nd ref="-1098"/><nd ref="-1099"/><nd ref="-1100"/><nd ref="-1093"/><tag k="building" v="house"/><tag k="addr:housenumber" v="337"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-1101" visible="true"><nd ref="-1102"/><nd ref="-1103"/><nd ref="-1104"/><nd ref="-1105"/><nd ref="-1106"/><nd ref="-1107"/><nd ref="-1108"/><nd ref="-1109"/><nd ref="-1110"/><nd ref="-1111"/><nd ref="-1112"/><nd ref="-1113"/><nd ref="-1102"/><tag k="building" v="house"/><tag k="addr:housenumber" v="345"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-1114" visible="true"><nd ref="-1115"/><nd ref="-1116"/><nd ref="-1117"/><nd ref="-1118"/><nd ref="-1119"/><nd ref="-1120"/><nd ref="-1121"/><nd ref="-1122"/><nd ref="-1123"/><nd ref="-1124"/><nd ref="-1125"/><nd ref="-1126"/><nd ref="-1127"/><nd ref="-1128"/><nd ref="-1129"/><nd ref="-1130"/><nd ref="-1115"/><tag k="building" v="house"/><tag k="addr:housenumber" v="341"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-1131" visible="true"><nd ref="-1132"/><nd ref="-1133"/><nd ref="-1134"/><nd ref="-1135"/><nd ref="-1136"/><nd ref="-1137"/><nd ref="-1138"/><nd ref="-1139"/><nd ref="-1140"/><nd ref="-1132"/><tag k="building" v="house"/><tag k="addr:housenumber" v="343"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-1141" visible="true"><nd ref="-1142"/><nd ref="-1143"/><nd ref="-1144"/><nd ref="-1145"/><nd ref="-1142"/><tag k="building" v="house"/><tag k="addr:housenumber" v="347"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-1146" visible="true"><nd ref="-1147"/><nd ref="-1148"/><nd ref="-1149"/><nd ref="-1150"/><nd ref="-1147"/><tag k="building" v="garage"/></way>
+<way id="-1151" visible="true"><nd ref="-1152"/><nd ref="-1153"/><nd ref="-1154"/><nd ref="-1155"/><nd ref="-1152"/><tag k="building" v="shed"/></way>
+<way id="-1156" visible="true"><nd ref="-1157"/><nd ref="-1158"/><nd ref="-1159"/><nd ref="-1160"/><nd ref="-1161"/><nd ref="-1162"/><nd ref="-1163"/><nd ref="-1164"/><nd ref="-1165"/><nd ref="-1157"/><tag k="building" v="house"/><tag k="addr:housenumber" v="367"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-1166" visible="true"><nd ref="-1167"/><nd ref="-1168"/><nd ref="-1169"/><nd ref="-1170"/><nd ref="-1171"/><nd ref="-1172"/><nd ref="-1173"/><nd ref="-1174"/><nd ref="-1167"/><tag k="building" v="house"/><tag k="addr:housenumber" v="370"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-1175" visible="true"><nd ref="-1176"/><nd ref="-1177"/><nd ref="-1178"/><nd ref="-1179"/><nd ref="-1180"/><nd ref="-1181"/><nd ref="-1182"/><nd ref="-1183"/><nd ref="-1184"/><nd ref="-1185"/><nd ref="-1186"/><nd ref="-1176"/><tag k="building" v="house"/><tag k="addr:housenumber" v="349"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-1187" visible="true"><nd ref="-1188"/><nd ref="-1189"/><nd ref="-1190"/><nd ref="-1191"/><nd ref="-1188"/><tag k="building" v="shed"/></way>
+<way id="-1192" visible="true"><nd ref="-1193"/><nd ref="-1194"/><nd ref="-1195"/><nd ref="-1196"/><nd ref="-1193"/><tag k="building" v="house"/><tag k="addr:housenumber" v="366"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-1197" visible="true"><nd ref="-1198"/><nd ref="-1199"/><nd ref="-1200"/><nd ref="-1201"/><nd ref="-1202"/><nd ref="-1203"/><nd ref="-1204"/><nd ref="-1205"/><nd ref="-1198"/><tag k="building" v="house"/><tag k="addr:housenumber" v="365"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-1206" visible="true"><nd ref="-1207"/><nd ref="-1208"/><nd ref="-1209"/><nd ref="-1210"/><nd ref="-1211"/><nd ref="-1212"/><nd ref="-1207"/><tag k="building" v="house"/><tag k="addr:housenumber" v="351"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-1213" visible="true"><nd ref="-1214"/><nd ref="-1215"/><nd ref="-1216"/><nd ref="-1217"/><nd ref="-1218"/><nd ref="-1219"/><nd ref="-1220"/><nd ref="-1221"/><nd ref="-1222"/><nd ref="-1223"/><nd ref="-1224"/><nd ref="-1225"/><nd ref="-1226"/><nd ref="-1227"/><nd ref="-1214"/><tag k="building" v="house"/><tag k="addr:housenumber" v="360"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-1228" visible="true"><nd ref="-1229"/><nd ref="-1230"/><nd ref="-1231"/><nd ref="-1232"/><nd ref="-1229"/><tag k="building" v="shed"/></way>
+<way id="-1233" visible="true"><nd ref="-1234"/><nd ref="-1235"/><nd ref="-1236"/><nd ref="-1237"/><nd ref="-1238"/><nd ref="-1239"/><nd ref="-1234"/><tag k="building" v="house"/><tag k="addr:housenumber" v="353"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-1240" visible="true"><nd ref="-1241"/><nd ref="-1242"/><nd ref="-1243"/><nd ref="-1244"/><nd ref="-1241"/><tag k="building" v="house"/><tag k="addr:housenumber" v="361"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-1245" visible="true"><nd ref="-1246"/><nd ref="-1247"/><nd ref="-1248"/><nd ref="-1249"/><nd ref="-1250"/><nd ref="-1251"/><nd ref="-1252"/><nd ref="-1253"/><nd ref="-1254"/><nd ref="-1255"/><nd ref="-1256"/><nd ref="-1257"/><nd ref="-1258"/><nd ref="-1259"/><nd ref="-1260"/><nd ref="-1261"/><nd ref="-1246"/><tag k="building" v="house"/><tag k="addr:housenumber" v="355"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-1262" visible="true"><nd ref="-1263"/><nd ref="-1264"/><nd ref="-1265"/><nd ref="-1266"/><nd ref="-1267"/><nd ref="-1268"/><nd ref="-1269"/><nd ref="-1270"/><nd ref="-1271"/><nd ref="-1272"/><nd ref="-1273"/><nd ref="-1274"/><nd ref="-1275"/><nd ref="-1276"/><nd ref="-1277"/><nd ref="-1278"/><nd ref="-1279"/><nd ref="-1280"/><nd ref="-1281"/><nd ref="-1282"/><nd ref="-1263"/><tag k="building" v="house"/><tag k="addr:housenumber" v="357"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Maple Island Road"/></way>
+<way id="-1283" visible="true"><nd ref="-1284"/><nd ref="-1285"/><nd ref="-1286"/><nd ref="-1287"/><nd ref="-1284"/><tag k="building" v="garage"/></way>
+<way id="-1288" visible="true"><nd ref="-1289"/><nd ref="-1290"/><nd ref="-1291"/><nd ref="-1292"/><nd ref="-1293"/><nd ref="-1294"/><nd ref="-1295"/><nd ref="-1296"/><nd ref="-1297"/><nd ref="-1298"/><nd ref="-1299"/><nd ref="-1289"/><tag k="building" v="house"/><tag k="addr:housenumber" v="535"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Crystal Lake Road East"/></way>
+<way id="-1300" visible="true"><nd ref="-1301"/><nd ref="-1302"/><nd ref="-1303"/><nd ref="-1304"/><nd ref="-1305"/><nd ref="-1306"/><nd ref="-1307"/><nd ref="-1308"/><nd ref="-1309"/><nd ref="-1310"/><nd ref="-1311"/><nd ref="-1312"/><nd ref="-1313"/><nd ref="-1314"/><nd ref="-1315"/><nd ref="-1316"/><nd ref="-1317"/><nd ref="-1318"/><nd ref="-1301"/><tag k="building" v="house"/><tag k="addr:housenumber" v="615"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55306"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Crystal Lake Road East"/></way>
+</osm>

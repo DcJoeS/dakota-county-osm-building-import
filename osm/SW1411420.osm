@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-2" lat="44.678850918" lon="-93.195245543" visible="true"/>
+<node id="-3" lat="44.678738192" lon="-93.195246549" visible="true"/>
+<node id="-4" lat="44.678739346" lon="-93.195557541" visible="true"/>
+<node id="-5" lat="44.678852071" lon="-93.195556535" visible="true"/>
+<node id="-7" lat="44.679156807" lon="-93.195612647" visible="true"/>
+<node id="-8" lat="44.679157014" lon="-93.195758687" visible="true"/>
+<node id="-9" lat="44.679166522" lon="-93.195758664" visible="true"/>
+<node id="-10" lat="44.679166609" lon="-93.195820321" visible="true"/>
+<node id="-11" lat="44.679134358" lon="-93.195820411" visible="true"/>
+<node id="-12" lat="44.679134721" lon="-93.196078798" visible="true"/>
+<node id="-13" lat="44.679198795" lon="-93.196078676" visible="true"/>
+<node id="-14" lat="44.679198595" lon="-93.19592605" visible="true"/>
+<node id="-15" lat="44.67923326" lon="-93.195925978" visible="true"/>
+<node id="-16" lat="44.679233965" lon="-93.195612434" visible="true"/>
+<node id="-18" lat="44.679140968" lon="-93.195378716" visible="true"/>
+<node id="-19" lat="44.679139439" lon="-93.195488663" visible="true"/>
+<node id="-20" lat="44.67925354" lon="-93.195491118" visible="true"/>
+<node id="-21" lat="44.679254795" lon="-93.195381169" visible="true"/>
+<node id="-23" lat="44.679347042" lon="-93.195725033" visible="true"/>
+<node id="-24" lat="44.679340043" lon="-93.195850752" visible="true"/>
+<node id="-25" lat="44.679398745" lon="-93.19585678" visible="true"/>
+<node id="-26" lat="44.679405743" lon="-93.195731445" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="building" v="garage"/></way>
+<way id="-6" visible="true"><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-7"/><tag k="building" v="house"/><tag k="addr:housenumber" v="18672"/><tag k="addr:city" v="Farmington"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55024"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Flagstaff Avenue"/></way>
+<way id="-17" visible="true"><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-18"/><tag k="building" v="garage"/></way>
+<way id="-22" visible="true"><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-23"/><tag k="building" v="garage"/></way>
+</osm>

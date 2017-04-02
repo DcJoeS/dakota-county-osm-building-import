@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-2" lat="44.775707423" lon="-93.205976811" visible="true"/>
+<node id="-3" lat="44.77571769" lon="-93.205883791" visible="true"/>
+<node id="-4" lat="44.775634028" lon="-93.205865591" visible="true"/>
+<node id="-5" lat="44.775621923" lon="-93.20597526" visible="true"/>
+<node id="-6" lat="44.775608435" lon="-93.205972325" visible="true"/>
+<node id="-7" lat="44.775599345" lon="-93.20605464" visible="true"/>
+<node id="-8" lat="44.775610837" lon="-93.206057141" visible="true"/>
+<node id="-9" lat="44.775604954" lon="-93.20611044" visible="true"/>
+<node id="-10" lat="44.77568955" lon="-93.206128847" visible="true"/>
+<node id="-11" lat="44.775695206" lon="-93.206077612" visible="true"/>
+<node id="-12" lat="44.775809688" lon="-93.206102517" visible="true"/>
+<node id="-13" lat="44.775820841" lon="-93.206001484" visible="true"/>
+<node id="-15" lat="44.775836357" lon="-93.205149328" visible="true"/>
+<node id="-16" lat="44.77582055" lon="-93.205149744" visible="true"/>
+<node id="-17" lat="44.775820249" lon="-93.205127126" visible="true"/>
+<node id="-18" lat="44.775764544" lon="-93.205128593" visible="true"/>
+<node id="-19" lat="44.775764754" lon="-93.205144233" visible="true"/>
+<node id="-20" lat="44.775746817" lon="-93.205144708" visible="true"/>
+<node id="-21" lat="44.775745834" lon="-93.205071348" visible="true"/>
+<node id="-22" lat="44.775659237" lon="-93.205077614" visible="true"/>
+<node id="-23" lat="44.775624424" lon="-93.205082512" visible="true"/>
+<node id="-24" lat="44.775626158" lon="-93.205212314" visible="true"/>
+<node id="-25" lat="44.775684581" lon="-93.205210776" visible="true"/>
+<node id="-26" lat="44.775685507" lon="-93.205280173" visible="true"/>
+<node id="-27" lat="44.775838041" lon="-93.205276183" visible="true"/>
+<node id="-29" lat="44.775745754" lon="-93.206954603" visible="true"/>
+<node id="-30" lat="44.775684139" lon="-93.206951762" visible="true"/>
+<node id="-31" lat="44.775682156" lon="-93.206896564" visible="true"/>
+<node id="-32" lat="44.775637048" lon="-93.206900839" visible="true"/>
+<node id="-33" lat="44.775638154" lon="-93.206957025" visible="true"/>
+<node id="-34" lat="44.775596379" lon="-93.206958582" visible="true"/>
+<node id="-35" lat="44.775598214" lon="-93.207040888" visible="true"/>
+<node id="-36" lat="44.775606681" lon="-93.207041141" visible="true"/>
+<node id="-37" lat="44.775608381" lon="-93.207100479" visible="true"/>
+<node id="-38" lat="44.775644259" lon="-93.207098468" visible="true"/>
+<node id="-39" lat="44.775644544" lon="-93.207112403" visible="true"/>
+<node id="-40" lat="44.775693132" lon="-93.207108931" visible="true"/>
+<node id="-41" lat="44.7756927" lon="-93.207092215" visible="true"/>
+<node id="-42" lat="44.775737458" lon="-93.207090407" visible="true"/>
+<node id="-43" lat="44.775736732" lon="-93.207065518" visible="true"/>
+<node id="-44" lat="44.775754482" lon="-93.207087416" visible="true"/>
+<node id="-45" lat="44.775749402" lon="-93.207098023" visible="true"/>
+<node id="-46" lat="44.77580458" lon="-93.207160761" visible="true"/>
+<node id="-47" lat="44.77584944" lon="-93.207081569" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="12015"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55124"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Galaxie Avenue"/></way>
+<way id="-14" visible="true"><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-15"/><tag k="building" v="house"/><tag k="addr:housenumber" v="12005"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55124"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Galaxie Avenue"/></way>
+<way id="-28" visible="true"><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-35"/><nd ref="-36"/><nd ref="-37"/><nd ref="-38"/><nd ref="-39"/><nd ref="-40"/><nd ref="-41"/><nd ref="-42"/><nd ref="-43"/><nd ref="-44"/><nd ref="-45"/><nd ref="-46"/><nd ref="-47"/><nd ref="-29"/><tag k="building" v="house"/><tag k="addr:housenumber" v="12002"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Safari Pass"/></way>
+</osm>

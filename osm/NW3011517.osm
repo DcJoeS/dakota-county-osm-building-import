@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-2" lat="44.739181259" lon="-92.904581977" visible="true"/>
+<node id="-3" lat="44.739177042" lon="-92.90460706" visible="true"/>
+<node id="-4" lat="44.739196557" lon="-92.904613406" visible="true"/>
+<node id="-5" lat="44.739200704" lon="-92.9045883" visible="true"/>
+<node id="-7" lat="44.743178493" lon="-92.905806332" visible="true"/>
+<node id="-8" lat="44.743007413" lon="-92.905812368" visible="true"/>
+<node id="-9" lat="44.743010032" lon="-92.905958696" visible="true"/>
+<node id="-10" lat="44.743181113" lon="-92.905952659" visible="true"/>
+<node id="-12" lat="44.743278016" lon="-92.906053551" visible="true"/>
+<node id="-13" lat="44.743135402" lon="-92.906056099" visible="true"/>
+<node id="-14" lat="44.743137906" lon="-92.906295071" visible="true"/>
+<node id="-15" lat="44.743280244" lon="-92.90629214" visible="true"/>
+<node id="-17" lat="44.743227082" lon="-92.905142232" visible="true"/>
+<node id="-18" lat="44.743232288" lon="-92.904953578" visible="true"/>
+<node id="-19" lat="44.74315383" lon="-92.904949317" visible="true"/>
+<node id="-20" lat="44.743147386" lon="-92.905182949" visible="true"/>
+<node id="-21" lat="44.743133906" lon="-92.905182217" visible="true"/>
+<node id="-22" lat="44.743129508" lon="-92.905363088" visible="true"/>
+<node id="-23" lat="44.74322191" lon="-92.905368102" visible="true"/>
+<node id="-24" lat="44.743224769" lon="-92.905264542" visible="true"/>
+<node id="-25" lat="44.743311681" lon="-92.905269264" visible="true"/>
+<node id="-26" lat="44.743315053" lon="-92.905147013" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="building" v="shed"/></way>
+<way id="-6" visible="true"><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-7"/><tag k="building" v="garage"/></way>
+<way id="-11" visible="true"><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-12"/><tag k="building" v="garage"/></way>
+<way id="-16" visible="true"><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-17"/><tag k="building" v="farm"/><tag k="addr:housenumber" v="14171"/><tag k="addr:city" v="Hastings"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55033"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Jacob Avenue"/></way>
+</osm>
