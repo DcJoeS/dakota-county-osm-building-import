@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-2" lat="44.775376025" lon="-93.293115405" visible="true"/>
-<node id="-3" lat="44.775274096" lon="-93.293272461" visible="true"/>
-<node id="-4" lat="44.775504369" lon="-93.293567025" visible="true"/>
-<node id="-5" lat="44.775606297" lon="-93.293409973" visible="true"/>
-<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="building" v="industrial"/><tag k="addr:housenumber" v="1001"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="addr:state" v="MN"/><tag k="name" v="Kincaids Cars"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Ladybird Lane"/></way>
-</osm>

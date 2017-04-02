@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-2" lat="44.636549864" lon="-92.770904608" visible="true"/>
-<node id="-3" lat="44.63655197" lon="-92.771082298" visible="true"/>
-<node id="-4" lat="44.636774052" lon="-92.771080249" visible="true"/>
-<node id="-5" lat="44.636773215" lon="-92.770902545" visible="true"/>
-<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="building" v="farm"/><tag k="addr:housenumber" v="21520"/><tag k="addr:city" v="Welch"/><tag k="addr:postcode" v="55089"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Polk Avenue"/></way>
-</osm>

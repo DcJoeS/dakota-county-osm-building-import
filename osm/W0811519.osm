@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-2" lat="44.775468125" lon="-93.126571518" visible="true"/>
-<node id="-3" lat="44.775453947" lon="-93.126588585" visible="true"/>
-<node id="-4" lat="44.775489203" lon="-93.126646228" visible="true"/>
-<node id="-5" lat="44.775503354" lon="-93.1266292" visible="true"/>
-<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="building" v="shed"/></way>
-</osm>
