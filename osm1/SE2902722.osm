@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-2" lat="44.792946867" lon="-93.070589236" visible="true"/>
+<node id="-3" lat="44.79293573" lon="-93.070639356" visible="true"/>
+<node id="-4" lat="44.792911021" lon="-93.070628291" visible="true"/>
+<node id="-5" lat="44.792918353" lon="-93.070593979" visible="true"/>
+<node id="-6" lat="44.792801677" lon="-93.070542091" visible="true"/>
+<node id="-7" lat="44.792776683" lon="-93.070653512" visible="true"/>
+<node id="-8" lat="44.792893086" lon="-93.070705401" visible="true"/>
+<node id="-9" lat="44.792901235" lon="-93.070668776" visible="true"/>
+<node id="-10" lat="44.792999243" lon="-93.070712654" visible="true"/>
+<node id="-11" lat="44.793019617" lon="-93.070621281" visible="true"/>
+<node id="-13" lat="44.793014621" lon="-93.07033897" visible="true"/>
+<node id="-14" lat="44.792974378" lon="-93.070500914" visible="true"/>
+<node id="-15" lat="44.793035055" lon="-93.070530314" visible="true"/>
+<node id="-16" lat="44.793075298" lon="-93.07036837" visible="true"/>
+<node id="-18" lat="44.793147923" lon="-93.070215147" visible="true"/>
+<node id="-19" lat="44.793140349" lon="-93.070264097" visible="true"/>
+<node id="-20" lat="44.793267972" lon="-93.070304383" visible="true"/>
+<node id="-21" lat="44.79327582" lon="-93.070255047" visible="true"/>
+<node id="-23" lat="44.793161299" lon="-93.070312926" visible="true"/>
+<node id="-24" lat="44.793127887" lon="-93.070462514" visible="true"/>
+<node id="-25" lat="44.79328382" lon="-93.070531569" visible="true"/>
+<node id="-26" lat="44.793317233" lon="-93.07038198" visible="true"/>
+<node id="-28" lat="44.79331959" lon="-93.070712452" visible="true"/>
+<node id="-29" lat="44.793302717" lon="-93.070773381" visible="true"/>
+<node id="-30" lat="44.793376031" lon="-93.070812744" visible="true"/>
+<node id="-31" lat="44.79339263" lon="-93.070751815" visible="true"/>
+<node id="-33" lat="44.793381288" lon="-93.069815497" visible="true"/>
+<node id="-34" lat="44.793353656" lon="-93.069974308" visible="true"/>
+<node id="-35" lat="44.793545788" lon="-93.070040896" visible="true"/>
+<node id="-36" lat="44.793573422" lon="-93.069882085" visible="true"/>
+<node id="-38" lat="44.795668332" lon="-93.069772633" visible="true"/>
+<node id="-39" lat="44.795668674" lon="-93.069930946" visible="true"/>
+<node id="-40" lat="44.795893573" lon="-93.069929989" visible="true"/>
+<node id="-41" lat="44.795893231" lon="-93.069771675" visible="true"/>
+<node id="-43" lat="44.796188446" lon="-93.07482458" visible="true"/>
+<node id="-44" lat="44.796174155" lon="-93.074940583" visible="true"/>
+<node id="-45" lat="44.796242208" lon="-93.074956862" visible="true"/>
+<node id="-46" lat="44.7962565" lon="-93.074840858" visible="true"/>
+<node id="-48" lat="44.796350343" lon="-93.069092551" visible="true"/>
+<node id="-49" lat="44.796350116" lon="-93.06898778" visible="true"/>
+<node id="-50" lat="44.796262898" lon="-93.068988152" visible="true"/>
+<node id="-51" lat="44.79626349" lon="-93.069261639" visible="true"/>
+<node id="-52" lat="44.796369083" lon="-93.069261188" visible="true"/>
+<node id="-53" lat="44.796368718" lon="-93.069092473" visible="true"/>
+<node id="-55" lat="44.796558872" lon="-93.065906216" visible="true"/>
+<node id="-56" lat="44.796558291" lon="-93.066036282" visible="true"/>
+<node id="-57" lat="44.796781005" lon="-93.066038251" visible="true"/>
+<node id="-58" lat="44.79678241" lon="-93.065908193" visible="true"/>
+<node id="-60" lat="44.79693142" lon="-93.065399842" visible="true"/>
+<node id="-61" lat="44.796900979" lon="-93.065401129" visible="true"/>
+<node id="-62" lat="44.796897931" lon="-93.06526247" visible="true"/>
+<node id="-63" lat="44.796811271" lon="-93.065266312" visible="true"/>
+<node id="-64" lat="44.79681645" lon="-93.065501262" visible="true"/>
+<node id="-65" lat="44.796858957" lon="-93.065499152" visible="true"/>
+<node id="-66" lat="44.796859535" lon="-93.065512247" visible="true"/>
+<node id="-67" lat="44.796934129" lon="-93.065508841" visible="true"/>
+<node id="-69" lat="44.79703607" lon="-93.070522462" visible="true"/>
+<node id="-70" lat="44.797034936" lon="-93.070536882" visible="true"/>
+<node id="-71" lat="44.797046625" lon="-93.070538409" visible="true"/>
+<node id="-72" lat="44.797047582" lon="-93.070523967" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="10805"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="name" v="Johnson Excavating"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Rich Valley Boulevard"/></way>
+<way id="-12" visible="true"><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-13"/><tag k="building" v="garage"/></way>
+<way id="-17" visible="true"><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-18"/><tag k="building" v="garage"/></way>
+<way id="-22" visible="true"><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-23"/><tag k="building" v="garage"/></way>
+<way id="-27" visible="true"><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-28"/><tag k="building" v="shed"/></way>
+<way id="-32" visible="true"><nd ref="-33"/><nd ref="-34"/><nd ref="-35"/><nd ref="-36"/><nd ref="-33"/><tag k="building" v="garage"/></way>
+<way id="-37" visible="true"><nd ref="-38"/><nd ref="-39"/><nd ref="-40"/><nd ref="-41"/><nd ref="-38"/><tag k="building" v="garage"/></way>
+<way id="-42" visible="true"><nd ref="-43"/><nd ref="-44"/><nd ref="-45"/><nd ref="-46"/><nd ref="-43"/><tag k="building" v="garage"/></way>
+<way id="-47" visible="true"><nd ref="-48"/><nd ref="-49"/><nd ref="-50"/><nd ref="-51"/><nd ref="-52"/><nd ref="-53"/><nd ref="-48"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1320"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="105th Street East"/></way>
+<way id="-54" visible="true"><nd ref="-55"/><nd ref="-56"/><nd ref="-57"/><nd ref="-58"/><nd ref="-55"/><tag k="building" v="garage"/></way>
+<way id="-59" visible="true"><nd ref="-60"/><nd ref="-61"/><nd ref="-62"/><nd ref="-63"/><nd ref="-64"/><nd ref="-65"/><nd ref="-66"/><nd ref="-67"/><nd ref="-60"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1938"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="105th Street East"/></way>
+<way id="-68" visible="true"><nd ref="-69"/><nd ref="-70"/><nd ref="-71"/><nd ref="-72"/><nd ref="-69"/><tag k="building" v="shed"/></way>
+</osm>

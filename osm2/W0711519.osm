@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-2" lat="44.775402343" lon="-93.146161931" visible="true"/>
+<node id="-3" lat="44.775297698" lon="-93.14616572" visible="true"/>
+<node id="-4" lat="44.775298071" lon="-93.146188191" visible="true"/>
+<node id="-5" lat="44.775284288" lon="-93.146188642" visible="true"/>
+<node id="-6" lat="44.775284957" lon="-93.146228803" visible="true"/>
+<node id="-7" lat="44.775298518" lon="-93.146228359" visible="true"/>
+<node id="-8" lat="44.77529832" lon="-93.14627403" visible="true"/>
+<node id="-9" lat="44.775404334" lon="-93.146270191" visible="true"/>
+<node id="-11" lat="44.775494762" lon="-93.154798136" visible="true"/>
+<node id="-12" lat="44.775507491" lon="-93.154782856" visible="true"/>
+<node id="-13" lat="44.775467803" lon="-93.154693157" visible="true"/>
+<node id="-14" lat="44.77545703" lon="-93.154697577" visible="true"/>
+<node id="-15" lat="44.775433868" lon="-93.154638819" visible="true"/>
+<node id="-16" lat="44.775419893" lon="-93.154647984" visible="true"/>
+<node id="-17" lat="44.775395519" lon="-93.154580995" visible="true"/>
+<node id="-18" lat="44.775312502" lon="-93.154562859" visible="true"/>
+<node id="-19" lat="44.775315009" lon="-93.154549321" visible="true"/>
+<node id="-20" lat="44.775282953" lon="-93.154536289" visible="true"/>
+<node id="-21" lat="44.775274791" lon="-93.154549811" visible="true"/>
+<node id="-22" lat="44.775267884" lon="-93.154543232" visible="true"/>
+<node id="-23" lat="44.775228999" lon="-93.154578731" visible="true"/>
+<node id="-24" lat="44.775153204" lon="-93.15464295" visible="true"/>
+<node id="-25" lat="44.775126595" lon="-93.154581049" visible="true"/>
+<node id="-26" lat="44.775059762" lon="-93.154637674" visible="true"/>
+<node id="-27" lat="44.77514041" lon="-93.154825287" visible="true"/>
+<node id="-28" lat="44.775209922" lon="-93.154757376" visible="true"/>
+<node id="-29" lat="44.775237208" lon="-93.154727901" visible="true"/>
+<node id="-30" lat="44.775297075" lon="-93.154737587" visible="true"/>
+<node id="-31" lat="44.775308041" lon="-93.154762501" visible="true"/>
+<node id="-32" lat="44.775295753" lon="-93.154770127" visible="true"/>
+<node id="-33" lat="44.775329674" lon="-93.154841238" visible="true"/>
+<node id="-34" lat="44.775341074" lon="-93.154830937" visible="true"/>
+<node id="-35" lat="44.775376027" lon="-93.154908016" visible="true"/>
+<node id="-36" lat="44.77536774" lon="-93.154911055" visible="true"/>
+<node id="-37" lat="44.775403436" lon="-93.155005945" visible="true"/>
+<node id="-38" lat="44.7755372" lon="-93.154885826" visible="true"/>
+<node id="-40" lat="44.775606751" lon="-93.14992674" visible="true"/>
+<node id="-41" lat="44.775603071" lon="-93.149967273" visible="true"/>
+<node id="-42" lat="44.775634562" lon="-93.149972908" visible="true"/>
+<node id="-43" lat="44.775638377" lon="-93.149930879" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="4000"/><tag k="addr:city" v="Rosemount"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55068"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="120th Street West"/></way>
+<way id="-10" visible="true"><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-35"/><nd ref="-36"/><nd ref="-37"/><nd ref="-38"/><nd ref="-11"/><tag k="building" v="house"/><tag k="addr:housenumber" v="12151"/><tag k="addr:city" v="Rosemount"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55068"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Danbury Way"/></way>
+<way id="-39" visible="true"><nd ref="-40"/><nd ref="-41"/><nd ref="-42"/><nd ref="-43"/><nd ref="-40"/><tag k="building" v="shed"/></way>
+</osm>

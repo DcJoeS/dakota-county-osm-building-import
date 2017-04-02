@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-2" lat="44.775937166" lon="-93.148214417" visible="true"/>
+<node id="-3" lat="44.775901657" lon="-93.148220835" visible="true"/>
+<node id="-4" lat="44.775908487" lon="-93.148295594" visible="true"/>
+<node id="-5" lat="44.775944023" lon="-93.148289214" visible="true"/>
+<node id="-7" lat="44.775939888" lon="-93.148312215" visible="true"/>
+<node id="-8" lat="44.775910942" lon="-93.148324042" visible="true"/>
+<node id="-9" lat="44.77591771" lon="-93.148356675" visible="true"/>
+<node id="-10" lat="44.775946656" lon="-93.14834481" visible="true"/>
+<node id="-12" lat="44.775999772" lon="-93.148040957" visible="true"/>
+<node id="-13" lat="44.77596471" lon="-93.148052611" visible="true"/>
+<node id="-14" lat="44.775974229" lon="-93.148109072" visible="true"/>
+<node id="-15" lat="44.776009318" lon="-93.148097379" visible="true"/>
+<node id="-17" lat="44.776052793" lon="-93.148415159" visible="true"/>
+<node id="-18" lat="44.776003254" lon="-93.14843063" visible="true"/>
+<node id="-19" lat="44.776021193" lon="-93.148543939" visible="true"/>
+<node id="-20" lat="44.776070704" lon="-93.148528509" visible="true"/>
+<node id="-22" lat="44.776156703" lon="-93.147831796" visible="true"/>
+<node id="-23" lat="44.776101153" lon="-93.147843587" visible="true"/>
+<node id="-24" lat="44.77609662" lon="-93.147801629" visible="true"/>
+<node id="-25" lat="44.776026018" lon="-93.147816621" visible="true"/>
+<node id="-26" lat="44.77603678" lon="-93.147916321" visible="true"/>
+<node id="-27" lat="44.776101296" lon="-93.147902579" visible="true"/>
+<node id="-28" lat="44.776104716" lon="-93.147934297" visible="true"/>
+<node id="-29" lat="44.776166325" lon="-93.147921219" visible="true"/>
+<node id="-31" lat="44.777865741" lon="-93.147649727" visible="true"/>
+<node id="-32" lat="44.777865748" lon="-93.147692046" visible="true"/>
+<node id="-33" lat="44.777892435" lon="-93.147692045" visible="true"/>
+<node id="-34" lat="44.777892427" lon="-93.147649727" visible="true"/>
+<node id="-36" lat="44.77946794" lon="-93.152446405" visible="true"/>
+<node id="-37" lat="44.779443443" lon="-93.152481555" visible="true"/>
+<node id="-38" lat="44.779463367" lon="-93.152508956" visible="true"/>
+<node id="-39" lat="44.779487864" lon="-93.152473805" visible="true"/>
+<node id="-41" lat="44.780329362" lon="-93.155994612" visible="true"/>
+<node id="-42" lat="44.780252905" lon="-93.156021279" visible="true"/>
+<node id="-43" lat="44.780306539" lon="-93.15632462" visible="true"/>
+<node id="-44" lat="44.780382968" lon="-93.156297991" visible="true"/>
+<node id="-46" lat="44.781896582" lon="-93.150685897" visible="true"/>
+<node id="-47" lat="44.781868312" lon="-93.150691099" visible="true"/>
+<node id="-48" lat="44.781872156" lon="-93.150732024" visible="true"/>
+<node id="-49" lat="44.781900426" lon="-93.150726822" visible="true"/>
+<node id="-51" lat="44.782444834" lon="-93.147737472" visible="true"/>
+<node id="-52" lat="44.782444041" lon="-93.147775985" visible="true"/>
+<node id="-53" lat="44.782472018" lon="-93.147777097" visible="true"/>
+<node id="-54" lat="44.782472812" lon="-93.147738622" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="building" v="shed"/></way>
+<way id="-6" visible="true"><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-7"/><tag k="building" v="shed"/></way>
+<way id="-11" visible="true"><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-12"/><tag k="building" v="shed"/></way>
+<way id="-16" visible="true"><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-17"/><tag k="building" v="garage"/></way>
+<way id="-21" visible="true"><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-22"/><tag k="building" v="garage"/></way>
+<way id="-30" visible="true"><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-31"/><tag k="building" v="shed"/></way>
+<way id="-35" visible="true"><nd ref="-36"/><nd ref="-37"/><nd ref="-38"/><nd ref="-39"/><nd ref="-36"/><tag k="building" v="shed"/></way>
+<way id="-40" visible="true"><nd ref="-41"/><nd ref="-42"/><nd ref="-43"/><nd ref="-44"/><nd ref="-41"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1252"/><tag k="addr:city" v="Eagan"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55123"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Carriage Hill Drive"/></way>
+<way id="-45" visible="true"><nd ref="-46"/><nd ref="-47"/><nd ref="-48"/><nd ref="-49"/><nd ref="-46"/><tag k="building" v="shed"/></way>
+<way id="-50" visible="true"><nd ref="-51"/><nd ref="-52"/><nd ref="-53"/><nd ref="-54"/><nd ref="-51"/><tag k="building" v="shed"/></way>
+</osm>

@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-2" lat="44.730400459" lon="-93.186740885" visible="true"/>
+<node id="-3" lat="44.73039911" lon="-93.186801134" visible="true"/>
+<node id="-4" lat="44.730419281" lon="-93.186802025" visible="true"/>
+<node id="-5" lat="44.730420687" lon="-93.186739166" visible="true"/>
+<node id="-7" lat="44.730678243" lon="-93.187019966" visible="true"/>
+<node id="-8" lat="44.730622244" lon="-93.187023514" visible="true"/>
+<node id="-9" lat="44.730623177" lon="-93.187074542" visible="true"/>
+<node id="-10" lat="44.730679887" lon="-93.18707095" visible="true"/>
+<node id="-12" lat="44.730916369" lon="-93.184539474" visible="true"/>
+<node id="-13" lat="44.730848129" lon="-93.184540863" visible="true"/>
+<node id="-14" lat="44.730848821" lon="-93.184655444" visible="true"/>
+<node id="-15" lat="44.730917065" lon="-93.184654635" visible="true"/>
+<node id="-17" lat="44.731289244" lon="-93.18184348" visible="true"/>
+<node id="-18" lat="44.731250736" lon="-93.181843462" visible="true"/>
+<node id="-19" lat="44.731250726" lon="-93.181881638" visible="true"/>
+<node id="-20" lat="44.731289535" lon="-93.18188166" visible="true"/>
+<node id="-22" lat="44.731312748" lon="-93.181163878" visible="true"/>
+<node id="-23" lat="44.731247572" lon="-93.181164876" visible="true"/>
+<node id="-24" lat="44.731247483" lon="-93.181196646" visible="true"/>
+<node id="-25" lat="44.731312995" lon="-93.181195643" visible="true"/>
+<node id="-27" lat="44.73134308" lon="-93.180736248" visible="true"/>
+<node id="-28" lat="44.731342362" lon="-93.180808832" visible="true"/>
+<node id="-29" lat="44.731386633" lon="-93.18080902" visible="true"/>
+<node id="-30" lat="44.731386791" lon="-93.180736435" visible="true"/>
+<node id="-32" lat="44.73152207" lon="-93.180854148" visible="true"/>
+<node id="-33" lat="44.731519969" lon="-93.180930595" visible="true"/>
+<node id="-34" lat="44.731516599" lon="-93.181162271" visible="true"/>
+<node id="-35" lat="44.731595336" lon="-93.181163537" visible="true"/>
+<node id="-36" lat="44.731596103" lon="-93.181070022" visible="true"/>
+<node id="-37" lat="44.731611458" lon="-93.181070271" visible="true"/>
+<node id="-38" lat="44.731613205" lon="-93.18085639" visible="true"/>
+<node id="-40" lat="44.73160168" lon="-93.18155039" visible="true"/>
+<node id="-41" lat="44.731602264" lon="-93.181499111" visible="true"/>
+<node id="-42" lat="44.731514166" lon="-93.18149519" visible="true"/>
+<node id="-43" lat="44.731511914" lon="-93.181692662" visible="true"/>
+<node id="-44" lat="44.731537329" lon="-93.181693234" visible="true"/>
+<node id="-45" lat="44.731537123" lon="-93.181711302" visible="true"/>
+<node id="-46" lat="44.731524566" lon="-93.18171102" visible="true"/>
+<node id="-47" lat="44.731523175" lon="-93.181833226" visible="true"/>
+<node id="-48" lat="44.731602502" lon="-93.181835004" visible="true"/>
+<node id="-49" lat="44.731603913" lon="-93.181711282" visible="true"/>
+<node id="-50" lat="44.731589569" lon="-93.181710963" visible="true"/>
+<node id="-51" lat="44.731589798" lon="-93.181690957" visible="true"/>
+<node id="-52" lat="44.731614505" lon="-93.181691512" visible="true"/>
+<node id="-53" lat="44.73161611" lon="-93.181550714" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="building" v="shed"/></way>
+<way id="-6" visible="true"><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-7"/><tag k="building" v="shed"/></way>
+<way id="-11" visible="true"><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-12"/><tag k="building" v="industrial"/><tag k="addr:housenumber" v="5868"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="addr:state" v="MN"/><tag k="name" v="Great River Energy"/><tag k="addr:country" v="US"/><tag k="addr:street" v="150th Street West"/></way>
+<way id="-16" visible="true"><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-17"/><tag k="building" v="shed"/></way>
+<way id="-21" visible="true"><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-22"/><tag k="building" v="shed"/></way>
+<way id="-26" visible="true"><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-27"/><tag k="building" v="shed"/></way>
+<way id="-31" visible="true"><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-35"/><nd ref="-36"/><nd ref="-37"/><nd ref="-38"/><nd ref="-32"/><tag k="building" v="house"/><tag k="addr:housenumber" v="5702"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55124"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="150th Street West"/></way>
+<way id="-39" visible="true"><nd ref="-40"/><nd ref="-41"/><nd ref="-42"/><nd ref="-43"/><nd ref="-44"/><nd ref="-45"/><nd ref="-46"/><nd ref="-47"/><nd ref="-48"/><nd ref="-49"/><nd ref="-50"/><nd ref="-51"/><nd ref="-52"/><nd ref="-53"/><nd ref="-40"/><tag k="building" v="house"/><tag k="addr:housenumber" v="5732"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55124"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="150th Street West"/></way>
+</osm>

@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-2" lat="44.768056562" lon="-93.246619402" visible="true"/>
+<node id="-3" lat="44.768006328" lon="-93.246620999" visible="true"/>
+<node id="-4" lat="44.768006927" lon="-93.246662021" visible="true"/>
+<node id="-5" lat="44.768057193" lon="-93.246660475" visible="true"/>
+<node id="-7" lat="44.768284522" lon="-93.245496415" visible="true"/>
+<node id="-8" lat="44.768276309" lon="-93.245837024" visible="true"/>
+<node id="-9" lat="44.768375852" lon="-93.245841755" visible="true"/>
+<node id="-10" lat="44.768381401" lon="-93.245611635" visible="true"/>
+<node id="-11" lat="44.768403705" lon="-93.245612693" visible="true"/>
+<node id="-12" lat="44.768406368" lon="-93.245502199" visible="true"/>
+<node id="-14" lat="44.768286396" lon="-93.24713447" visible="true"/>
+<node id="-15" lat="44.768102172" lon="-93.247167549" visible="true"/>
+<node id="-16" lat="44.768114645" lon="-93.247285373" visible="true"/>
+<node id="-17" lat="44.768174864" lon="-93.247280189" visible="true"/>
+<node id="-18" lat="44.768206254" lon="-93.24727867" visible="true"/>
+<node id="-19" lat="44.768203886" lon="-93.247263542" visible="true"/>
+<node id="-20" lat="44.768257022" lon="-93.247253944" visible="true"/>
+<node id="-21" lat="44.768360591" lon="-93.247357396" visible="true"/>
+<node id="-22" lat="44.768410222" lon="-93.247270268" visible="true"/>
+<node id="-24" lat="44.768474646" lon="-93.244581948" visible="true"/>
+<node id="-25" lat="44.768315614" lon="-93.244625509" visible="true"/>
+<node id="-26" lat="44.768332699" lon="-93.244748429" visible="true"/>
+<node id="-27" lat="44.768418477" lon="-93.244729997" visible="true"/>
+<node id="-28" lat="44.76849309" lon="-93.244714618" visible="true"/>
+<node id="-30" lat="44.768547098" lon="-93.245206257" visible="true"/>
+<node id="-31" lat="44.768454062" lon="-93.24520856" visible="true"/>
+<node id="-32" lat="44.768455196" lon="-93.245298811" visible="true"/>
+<node id="-33" lat="44.768548232" lon="-93.245296511" visible="true"/>
+<node id="-35" lat="44.769480026" lon="-93.24700304" visible="true"/>
+<node id="-36" lat="44.769392183" lon="-93.246998351" visible="true"/>
+<node id="-37" lat="44.769390807" lon="-93.247113442" visible="true"/>
+<node id="-38" lat="44.769590674" lon="-93.247118231" visible="true"/>
+<node id="-39" lat="44.769592042" lon="-93.247005723" visible="true"/>
+<node id="-41" lat="44.769730024" lon="-93.246678713" visible="true"/>
+<node id="-42" lat="44.769729437" lon="-93.246722158" visible="true"/>
+<node id="-43" lat="44.769770097" lon="-93.246723257" visible="true"/>
+<node id="-44" lat="44.769770651" lon="-93.246679805" visible="true"/>
+<node id="-46" lat="44.77174784" lon="-93.246365228" visible="true"/>
+<node id="-47" lat="44.771688457" lon="-93.246364557" visible="true"/>
+<node id="-48" lat="44.771664236" lon="-93.24643098" visible="true"/>
+<node id="-49" lat="44.77160244" lon="-93.246435253" visible="true"/>
+<node id="-50" lat="44.771572698" lon="-93.24651027" visible="true"/>
+<node id="-51" lat="44.771605156" lon="-93.246587333" visible="true"/>
+<node id="-52" lat="44.771667992" lon="-93.24658495" visible="true"/>
+<node id="-53" lat="44.771695485" lon="-93.246514161" visible="true"/>
+<node id="-54" lat="44.771750374" lon="-93.246516357" visible="true"/>
+<node id="-55" lat="44.771781992" lon="-93.246441419" visible="true"/>
+<node id="-57" lat="44.773933631" lon="-93.241988745" visible="true"/>
+<node id="-58" lat="44.773931077" lon="-93.24208545" visible="true"/>
+<node id="-59" lat="44.773971307" lon="-93.242085379" visible="true"/>
+<node id="-60" lat="44.773973296" lon="-93.241990033" visible="true"/>
+<node id="-62" lat="44.774068351" lon="-93.238222203" visible="true"/>
+<node id="-63" lat="44.774015406" lon="-93.238270975" visible="true"/>
+<node id="-64" lat="44.77406363" lon="-93.23837404" visible="true"/>
+<node id="-65" lat="44.774116557" lon="-93.238325377" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="building" v="shed"/></way>
+<way id="-6" visible="true"><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-7"/><tag k="building" v="house"/><tag k="addr:housenumber" v="12947"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55337"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="11"/></way>
+<way id="-13" visible="true"><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-14"/><tag k="building" v="house"/><tag k="addr:housenumber" v="12949"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55337"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="11"/></way>
+<way id="-23" visible="true"><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-24"/><tag k="building" v="house"/><tag k="addr:housenumber" v="12945"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55337"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="11"/></way>
+<way id="-29" visible="true"><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-30"/><tag k="building" v="garage"/></way>
+<way id="-34" visible="true"><nd ref="-35"/><nd ref="-36"/><nd ref="-37"/><nd ref="-38"/><nd ref="-39"/><nd ref="-35"/><tag k="building" v="house"/><tag k="addr:housenumber" v="12915"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="11"/></way>
+<way id="-40" visible="true"><nd ref="-41"/><nd ref="-42"/><nd ref="-43"/><nd ref="-44"/><nd ref="-41"/><tag k="building" v="shed"/></way>
+<way id="-45" visible="true"><nd ref="-46"/><nd ref="-47"/><nd ref="-48"/><nd ref="-49"/><nd ref="-50"/><nd ref="-51"/><nd ref="-52"/><nd ref="-53"/><nd ref="-54"/><nd ref="-55"/><nd ref="-46"/><tag k="building" v="civic"/><tag k="addr:housenumber" v="12801"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="11"/></way>
+<way id="-56" visible="true"><nd ref="-57"/><nd ref="-58"/><nd ref="-59"/><nd ref="-60"/><nd ref="-57"/><tag k="building" v="shed"/></way>
+<way id="-61" visible="true"><nd ref="-62"/><nd ref="-63"/><nd ref="-64"/><nd ref="-65"/><nd ref="-62"/><tag k="building" v="civic"/><tag k="addr:housenumber" v="2349"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="addr:state" v="MN"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Burnsville Parkway East"/></way>
+</osm>
