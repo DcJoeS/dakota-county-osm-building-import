@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.802405681" lon="-93.235798266" visible="true"/>
+<node id="-3" lat="44.802386763" lon="-93.235823425" visible="true"/>
+<node id="-4" lat="44.802411018" lon="-93.23585931" visible="true"/>
+<node id="-5" lat="44.802429917" lon="-93.235834111" visible="true"/>
+<node id="-7" lat="44.801520849" lon="-93.237670821" visible="true"/>
+<node id="-8" lat="44.801485833" lon="-93.237867575" visible="true"/>
+<node id="-9" lat="44.801572275" lon="-93.237897868" visible="true"/>
+<node id="-10" lat="44.801590407" lon="-93.237795849" visible="true"/>
+<node id="-11" lat="44.8016354" lon="-93.23781161" visible="true"/>
+<node id="-12" lat="44.801652237" lon="-93.237716976" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-6" visible="true"><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-7"/><tag k="building" v="house"/><tag k="addr:housenumber" v="11211"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Carver Court"/></way>
+</osm>

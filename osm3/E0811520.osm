@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.775476651" lon="-93.245751176" visible="true"/>
+<node id="-3" lat="44.775425049" lon="-93.245779167" visible="true"/>
+<node id="-4" lat="44.775438411" lon="-93.245827506" visible="true"/>
+<node id="-5" lat="44.775489947" lon="-93.245799516" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="building" v="civic"/><tag k="addr:housenumber" v="2100"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Burnsville Parkway East"/></way>
+</osm>

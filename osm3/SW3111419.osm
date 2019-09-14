@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.635031028" lon="-93.149243581" visible="true"/>
+<node id="-3" lat="44.634814283" lon="-93.149243437" visible="true"/>
+<node id="-4" lat="44.634814662" lon="-93.149491472" visible="true"/>
+<node id="-5" lat="44.635032265" lon="-93.149489424" visible="true"/>
+<node id="-7" lat="44.635841568" lon="-93.149157991" visible="true"/>
+<node id="-8" lat="44.635841022" lon="-93.149105183" visible="true"/>
+<node id="-9" lat="44.635745176" lon="-93.149106925" visible="true"/>
+<node id="-10" lat="44.635740987" lon="-93.149263705" visible="true"/>
+<node id="-11" lat="44.635783467" lon="-93.149262113" visible="true"/>
+<node id="-12" lat="44.635783729" lon="-93.149291998" visible="true"/>
+<node id="-13" lat="44.635812414" lon="-93.149291244" visible="true"/>
+<node id="-14" lat="44.635812935" lon="-93.149341129" visible="true"/>
+<node id="-15" lat="44.635897577" lon="-93.149339943" visible="true"/>
+<node id="-16" lat="44.635899963" lon="-93.149304334" visible="true"/>
+<node id="-17" lat="44.635901787" lon="-93.149157191" visible="true"/>
+<node id="-19" lat="44.632963279" lon="-93.151748451" visible="true"/>
+<node id="-20" lat="44.632928236" lon="-93.151752385" visible="true"/>
+<node id="-21" lat="44.632911653" lon="-93.151797604" visible="true"/>
+<node id="-22" lat="44.632934972" lon="-93.151836287" visible="true"/>
+<node id="-23" lat="44.632970991" lon="-93.151835241" visible="true"/>
+<node id="-24" lat="44.632986092" lon="-93.151787064" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="building" v="civic"/><tag k="addr:housenumber" v="710"/><tag k="addr:city" v="Farmington"/><tag k="addr:postcode" v="55024"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="1st Street"/></way>
+<way id="-6" visible="true"><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-7"/><tag k="building" v="house"/><tag k="addr:housenumber" v="97"/><tag k="addr:city" v="Farmington"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55024"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Locust Street"/></way>
+<way id="-18" visible="true"><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-19"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+</osm>

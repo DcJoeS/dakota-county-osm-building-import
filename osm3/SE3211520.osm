@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.722062861" lon="-93.240815937" visible="true"/>
+<node id="-3" lat="44.722030494" lon="-93.240816767" visible="true"/>
+<node id="-4" lat="44.722029775" lon="-93.240778467" visible="true"/>
+<node id="-5" lat="44.721973848" lon="-93.240778808" visible="true"/>
+<node id="-6" lat="44.721973975" lon="-93.240768496" visible="true"/>
+<node id="-7" lat="44.721920481" lon="-93.240770235" visible="true"/>
+<node id="-8" lat="44.721920724" lon="-93.240781862" visible="true"/>
+<node id="-9" lat="44.721867784" lon="-93.240781541" visible="true"/>
+<node id="-10" lat="44.721870209" lon="-93.240929616" visible="true"/>
+<node id="-11" lat="44.721966673" lon="-93.240929484" visible="true"/>
+<node id="-12" lat="44.722030205" lon="-93.240930509" visible="true"/>
+<node id="-13" lat="44.722030422" lon="-93.240921577" visible="true"/>
+<node id="-14" lat="44.722063398" lon="-93.240920947" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="15680"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Highview Drive"/></way>
+</osm>

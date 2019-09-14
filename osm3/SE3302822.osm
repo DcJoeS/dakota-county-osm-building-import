@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.863078655" lon="-93.044804204" visible="true"/>
+<node id="-3" lat="44.863016835" lon="-93.044873138" visible="true"/>
+<node id="-4" lat="44.863023445" lon="-93.044885061" visible="true"/>
+<node id="-5" lat="44.862976943" lon="-93.044936956" visible="true"/>
+<node id="-6" lat="44.862970059" lon="-93.044925033" visible="true"/>
+<node id="-7" lat="44.862910425" lon="-93.044991257" visible="true"/>
+<node id="-8" lat="44.86293734" lon="-93.045039093" visible="true"/>
+<node id="-9" lat="44.862967989" lon="-93.045093569" visible="true"/>
+<node id="-10" lat="44.863017449" lon="-93.045038459" visible="true"/>
+<node id="-11" lat="44.863136218" lon="-93.044906127" visible="true"/>
+<node id="-13" lat="44.861882093" lon="-93.051452903" visible="true"/>
+<node id="-14" lat="44.861827056" lon="-93.051503622" visible="true"/>
+<node id="-15" lat="44.861849217" lon="-93.051551171" visible="true"/>
+<node id="-16" lat="44.861827032" lon="-93.051571618" visible="true"/>
+<node id="-17" lat="44.861881732" lon="-93.051688966" visible="true"/>
+<node id="-18" lat="44.861944387" lon="-93.051785863" visible="true"/>
+<node id="-19" lat="44.862001581" lon="-93.051721615" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="5927"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55076"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Cahill Avenue"/></way>
+<way id="-12" visible="true"><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-13"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+</osm>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.652617555" lon="-93.133684811" visible="true"/>
+<node id="-3" lat="44.652590711" lon="-93.133703641" visible="true"/>
+<node id="-4" lat="44.652559655" lon="-93.133625982" visible="true"/>
+<node id="-5" lat="44.652529654" lon="-93.133646545" visible="true"/>
+<node id="-6" lat="44.652525826" lon="-93.133637617" visible="true"/>
+<node id="-7" lat="44.652476422" lon="-93.133676468" visible="true"/>
+<node id="-8" lat="44.652480417" lon="-93.133685236" visible="true"/>
+<node id="-9" lat="44.65245143" lon="-93.133706432" visible="true"/>
+<node id="-10" lat="44.652523993" lon="-93.133906691" visible="true"/>
+<node id="-11" lat="44.652572717" lon="-93.133874707" visible="true"/>
+<node id="-12" lat="44.652633228" lon="-93.133832164" visible="true"/>
+<node id="-13" lat="44.652630416" lon="-93.133823948" visible="true"/>
+<node id="-14" lat="44.652661771" lon="-93.133802125" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="3430"/><tag k="addr:city" v="Farmington"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55024"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="205Th Street Court"/></way>
+</osm>

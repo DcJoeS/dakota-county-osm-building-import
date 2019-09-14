@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.533575848" lon="-93.246122087" visible="true"/>
+<node id="-3" lat="44.533447511" lon="-93.246124631" visible="true"/>
+<node id="-4" lat="44.533448712" lon="-93.246242884" visible="true"/>
+<node id="-5" lat="44.533579704" lon="-93.246240287" visible="true"/>
+<node id="-7" lat="44.534171185" lon="-93.246365431" visible="true"/>
+<node id="-8" lat="44.534083455" lon="-93.246444087" visible="true"/>
+<node id="-9" lat="44.534173778" lon="-93.246641003" visible="true"/>
+<node id="-10" lat="44.534263104" lon="-93.246565825" visible="true"/>
+<node id="-12" lat="44.53340999" lon="-93.245134188" visible="true"/>
+<node id="-13" lat="44.53341173" lon="-93.24505368" visible="true"/>
+<node id="-14" lat="44.533306481" lon="-93.245049233" visible="true"/>
+<node id="-15" lat="44.533302693" lon="-93.245224397" visible="true"/>
+<node id="-16" lat="44.533331529" lon="-93.245225616" visible="true"/>
+<node id="-17" lat="44.533329756" lon="-93.245307578" visible="true"/>
+<node id="-18" lat="44.533413457" lon="-93.245311115" visible="true"/>
+<node id="-19" lat="44.533415335" lon="-93.245224402" visible="true"/>
+<node id="-20" lat="44.533428821" lon="-93.245224971" visible="true"/>
+<node id="-21" lat="44.533430751" lon="-93.245135719" visible="true"/>
+<node id="-23" lat="44.533835678" lon="-93.245643314" visible="true"/>
+<node id="-24" lat="44.533745733" lon="-93.245664345" visible="true"/>
+<node id="-25" lat="44.533757707" lon="-93.245764444" visible="true"/>
+<node id="-26" lat="44.533848436" lon="-93.245743232" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-6" visible="true"><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-7"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-11" visible="true"><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-12"/><tag k="building" v="house"/><tag k="addr:housenumber" v="28705"/><tag k="addr:city" v="Northfield"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55057"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Holyoke Avenue"/></way>
+<way id="-22" visible="true"><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-23"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+</osm>

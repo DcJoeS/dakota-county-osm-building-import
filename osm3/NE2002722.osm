@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.815475645" lon="-93.073128404" visible="true"/>
+<node id="-3" lat="44.815444902" lon="-93.073135576" visible="true"/>
+<node id="-4" lat="44.815437593" lon="-93.073077236" visible="true"/>
+<node id="-5" lat="44.815318915" lon="-93.073111371" visible="true"/>
+<node id="-6" lat="44.815316515" lon="-93.073159744" visible="true"/>
+<node id="-7" lat="44.815345829" lon="-93.073365164" visible="true"/>
+<node id="-8" lat="44.815439469" lon="-93.073336274" visible="true"/>
+<node id="-9" lat="44.815428151" lon="-93.073248063" visible="true"/>
+<node id="-10" lat="44.815459644" lon="-93.073242005" visible="true"/>
+<node id="-11" lat="44.815454006" lon="-93.07320405" visible="true"/>
+<node id="-12" lat="44.815484915" lon="-93.073196351" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="9270"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Arnold Avenue"/></way>
+</osm>

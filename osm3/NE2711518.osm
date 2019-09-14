@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.742235732" lon="-92.958811052" visible="true"/>
+<node id="-3" lat="44.742230766" lon="-92.95897695" visible="true"/>
+<node id="-4" lat="44.742209642" lon="-92.95897554" visible="true"/>
+<node id="-5" lat="44.742206197" lon="-92.959101789" visible="true"/>
+<node id="-6" lat="44.742322511" lon="-92.959108384" visible="true"/>
+<node id="-7" lat="44.742331196" lon="-92.958816621" visible="true"/>
+<node id="-9" lat="44.74235644" lon="-92.957508776" visible="true"/>
+<node id="-10" lat="44.742356498" lon="-92.957614606" visible="true"/>
+<node id="-11" lat="44.742306307" lon="-92.957614531" visible="true"/>
+<node id="-12" lat="44.742306148" lon="-92.957738452" visible="true"/>
+<node id="-13" lat="44.742429022" lon="-92.95773846" visible="true"/>
+<node id="-14" lat="44.742429122" lon="-92.957508712" visible="true"/>
+<node id="-16" lat="44.742461164" lon="-92.956708811" visible="true"/>
+<node id="-17" lat="44.74245657" lon="-92.956774069" visible="true"/>
+<node id="-18" lat="44.742528872" lon="-92.956783821" visible="true"/>
+<node id="-19" lat="44.742531947" lon="-92.956714914" visible="true"/>
+<node id="-21" lat="44.742559408" lon="-92.95733588" visible="true"/>
+<node id="-22" lat="44.742448056" lon="-92.957336955" visible="true"/>
+<node id="-23" lat="44.742448775" lon="-92.957478186" visible="true"/>
+<node id="-24" lat="44.742560127" lon="-92.957477113" visible="true"/>
+<node id="-26" lat="44.742515483" lon="-92.956538759" visible="true"/>
+<node id="-27" lat="44.742514958" lon="-92.956633048" visible="true"/>
+<node id="-28" lat="44.742582981" lon="-92.956634166" visible="true"/>
+<node id="-29" lat="44.742583506" lon="-92.956539491" visible="true"/>
+<node id="-31" lat="44.742854447" lon="-92.954467178" visible="true"/>
+<node id="-32" lat="44.742869426" lon="-92.95428884" visible="true"/>
+<node id="-33" lat="44.742783019" lon="-92.954359783" visible="true"/>
+<node id="-34" lat="44.742767973" lon="-92.954357297" visible="true"/>
+<node id="-35" lat="44.742761564" lon="-92.954433614" visible="true"/>
+<node id="-36" lat="44.742745076" lon="-92.954430889" visible="true"/>
+<node id="-37" lat="44.742743419" lon="-92.954450623" visible="true"/>
+<node id="-38" lat="44.7427355" lon="-92.954449314" visible="true"/>
+<node id="-39" lat="44.742732376" lon="-92.954486503" visible="true"/>
+<node id="-40" lat="44.742740724" lon="-92.954487884" visible="true"/>
+<node id="-41" lat="44.742739003" lon="-92.954508396" visible="true"/>
+<node id="-42" lat="44.742771064" lon="-92.954513699" visible="true"/>
+<node id="-43" lat="44.742770119" lon="-92.954524907" visible="true"/>
+<node id="-44" lat="44.742875025" lon="-92.954542255" visible="true"/>
+<node id="-45" lat="44.742880963" lon="-92.954471566" visible="true"/>
+<node id="-47" lat="44.742374679" lon="-92.956767459" visible="true"/>
+<node id="-48" lat="44.742372796" lon="-92.956866375" visible="true"/>
+<node id="-49" lat="44.742352772" lon="-92.956865729" visible="true"/>
+<node id="-50" lat="44.742350893" lon="-92.956965799" visible="true"/>
+<node id="-51" lat="44.742373386" lon="-92.956966814" visible="true"/>
+<node id="-52" lat="44.742371224" lon="-92.957064192" visible="true"/>
+<node id="-53" lat="44.742449401" lon="-92.957067172" visible="true"/>
+<node id="-55" lat="44.742490848" lon="-92.954356473" visible="true"/>
+<node id="-56" lat="44.742407371" lon="-92.954392293" visible="true"/>
+<node id="-57" lat="44.742437552" lon="-92.954545365" visible="true"/>
+<node id="-58" lat="44.742522446" lon="-92.95451248" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7265"/><tag k="addr:city" v="Hastings"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55033"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Courthouse Boulevard"/></way>
+<way id="-8" visible="true"><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-9"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-15" visible="true"><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-16"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-20" visible="true"><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-21"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-25" visible="true"><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-26"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-30" visible="true"><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-35"/><nd ref="-36"/><nd ref="-37"/><nd ref="-38"/><nd ref="-39"/><nd ref="-40"/><nd ref="-41"/><nd ref="-42"/><nd ref="-43"/><nd ref="-44"/><nd ref="-45"/><nd ref="-31"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7505"/><tag k="addr:city" v="Hastings"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55033"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Mississippi Trail"/></way>
+<way id="-46" visible="true"><nd ref="-47"/><nd ref="-48"/><nd ref="-49"/><nd ref="-50"/><nd ref="-51"/><nd ref="-52"/><nd ref="-53"/><nd ref="-17"/><nd ref="-47"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7345"/><tag k="addr:city" v="Hastings"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55033"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Courthouse Boulevard"/></way>
+<way id="-54" visible="true"><nd ref="-55"/><nd ref="-56"/><nd ref="-57"/><nd ref="-58"/><nd ref="-55"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+</osm>

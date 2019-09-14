@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.841492474" lon="-93.106113573" visible="true"/>
+<node id="-3" lat="44.841445911" lon="-93.106110835" visible="true"/>
+<node id="-4" lat="44.841446839" lon="-93.106022825" visible="true"/>
+<node id="-5" lat="44.841388712" lon="-93.10602164" visible="true"/>
+<node id="-6" lat="44.841386279" lon="-93.106103842" visible="true"/>
+<node id="-7" lat="44.841356156" lon="-93.106101578" visible="true"/>
+<node id="-8" lat="44.841355641" lon="-93.106129848" visible="true"/>
+<node id="-9" lat="44.841354617" lon="-93.106223808" visible="true"/>
+<node id="-10" lat="44.841558187" lon="-93.106228274" visible="true"/>
+<node id="-11" lat="44.841559284" lon="-93.106129644" visible="true"/>
+<node id="-12" lat="44.841559355" lon="-93.106118278" visible="true"/>
+<node id="-14" lat="44.845343816" lon="-93.107104799" visible="true"/>
+<node id="-15" lat="44.845349507" lon="-93.107763236" visible="true"/>
+<node id="-16" lat="44.84611624" lon="-93.107756089" visible="true"/>
+<node id="-17" lat="44.84611869" lon="-93.107094072" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-2"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-13" visible="true"><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-14"/><tag k="building" v="industrial"/><tag k="addr:housenumber" v="500"/><tag k="addr:city" v="Eagan"/><tag k="addr:postcode" v="55121"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Lone Oak Road"/></way>
+</osm>

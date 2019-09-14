@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.646342443" lon="-93.212256782" visible="true"/>
+<node id="-3" lat="44.646345232" lon="-93.212468695" visible="true"/>
+<node id="-4" lat="44.646416346" lon="-93.212465997" visible="true"/>
+<node id="-5" lat="44.646415866" lon="-93.21238936" visible="true"/>
+<node id="-6" lat="44.646419066" lon="-93.212256923" visible="true"/>
+<node id="-8" lat="44.646952048" lon="-93.212782318" visible="true"/>
+<node id="-9" lat="44.6469114" lon="-93.212781784" visible="true"/>
+<node id="-10" lat="44.646911009" lon="-93.213080607" visible="true"/>
+<node id="-11" lat="44.646954125" lon="-93.213080789" visible="true"/>
+<node id="-13" lat="44.646654856" lon="-93.212222915" visible="true"/>
+<node id="-14" lat="44.646650574" lon="-93.212520721" visible="true"/>
+<node id="-15" lat="44.646697196" lon="-93.21252128" visible="true"/>
+<node id="-16" lat="44.646699393" lon="-93.21222501" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="702"/><tag k="addr:city" v="Lakeville"/><tag k="addr:postcode" v="55044"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Romeo Drive"/></way>
+<way id="-7" visible="true"><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-8"/><tag k="building" v="house"/><tag k="addr:housenumber" v="405"/><tag k="addr:city" v="Lakeville"/><tag k="addr:postcode" v="55044"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Romeo Drive"/></way>
+<way id="-12" visible="true"><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-13"/><tag k="building" v="house"/><tag k="addr:housenumber" v="402"/><tag k="addr:city" v="Lakeville"/><tag k="addr:postcode" v="55044"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Romeo Drive"/></way>
+</osm>

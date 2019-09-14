@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.717860328" lon="-93.139254034" visible="true"/>
+<node id="-3" lat="44.717860796" lon="-93.13918157" visible="true"/>
+<node id="-4" lat="44.717730354" lon="-93.139178528" visible="true"/>
+<node id="-5" lat="44.717730568" lon="-93.139478223" visible="true"/>
+<node id="-6" lat="44.717789792" lon="-93.139479607" visible="true"/>
+<node id="-7" lat="44.717789744" lon="-93.13949948" visible="true"/>
+<node id="-8" lat="44.717860222" lon="-93.139498703" visible="true"/>
+<node id="-9" lat="44.717857315" lon="-93.13943613" visible="true"/>
+<node id="-10" lat="44.717854326" lon="-93.139426336" visible="true"/>
+<node id="-11" lat="44.717915222" lon="-93.139425469" visible="true"/>
+<node id="-12" lat="44.717916135" lon="-93.139255231" visible="true"/>
+<node id="-14" lat="44.718580997" lon="-93.137991205" visible="true"/>
+<node id="-15" lat="44.718530581" lon="-93.138044885" visible="true"/>
+<node id="-16" lat="44.718512438" lon="-93.13801183" visible="true"/>
+<node id="-17" lat="44.718475208" lon="-93.138053218" visible="true"/>
+<node id="-18" lat="44.718493439" lon="-93.138087007" visible="true"/>
+<node id="-19" lat="44.718465854" lon="-93.138117026" visible="true"/>
+<node id="-20" lat="44.718448763" lon="-93.138086475" visible="true"/>
+<node id="-21" lat="44.718405598" lon="-93.138135508" visible="true"/>
+<node id="-22" lat="44.718494047" lon="-93.13830592" visible="true"/>
+<node id="-23" lat="44.718528003" lon="-93.138267771" visible="true"/>
+<node id="-24" lat="44.718547544" lon="-93.138299665" visible="true"/>
+<node id="-25" lat="44.718642346" lon="-93.138194998" visible="true"/>
+<node id="-26" lat="44.718623284" lon="-93.13816176" visible="true"/>
+<node id="-27" lat="44.718657675" lon="-93.138121592" visible="true"/>
+<node id="-29" lat="44.718746941" lon="-93.137735369" visible="true"/>
+<node id="-30" lat="44.718649166" lon="-93.137907526" visible="true"/>
+<node id="-31" lat="44.718628111" lon="-93.137883083" visible="true"/>
+<node id="-32" lat="44.718596908" lon="-93.137931742" visible="true"/>
+<node id="-33" lat="44.718619512" lon="-93.137959295" visible="true"/>
+<node id="-34" lat="44.71861569" lon="-93.137966209" visible="true"/>
+<node id="-35" lat="44.718712718" lon="-93.138072793" visible="true"/>
+<node id="-36" lat="44.71873768" lon="-93.138025001" visible="true"/>
+<node id="-37" lat="44.718749132" lon="-93.138035883" visible="true"/>
+<node id="-38" lat="44.718826385" lon="-93.137904777" visible="true"/>
+<node id="-39" lat="44.718816661" lon="-93.13789277" visible="true"/>
+<node id="-40" lat="44.718844464" lon="-93.137842557" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="15823"/><tag k="addr:city" v="Rosemount"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55068"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Cicerone Path"/></way>
+<way id="-13" visible="true"><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-14"/><tag k="building" v="house"/><tag k="addr:housenumber" v="15855"/><tag k="addr:city" v="Rosemount"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55068"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Cicerone Path"/></way>
+<way id="-28" visible="true"><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-35"/><nd ref="-36"/><nd ref="-37"/><nd ref="-38"/><nd ref="-39"/><nd ref="-40"/><nd ref="-29"/><tag k="building" v="house"/><tag k="addr:housenumber" v="15859"/><tag k="addr:city" v="Rosemount"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55068"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Cicerone Path"/></way>
+</osm>

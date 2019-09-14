@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.819024786" lon="-93.191870924" visible="true"/>
+<node id="-3" lat="44.818957008" lon="-93.191876272" visible="true"/>
+<node id="-4" lat="44.818957815" lon="-93.191886212" visible="true"/>
+<node id="-5" lat="44.818893372" lon="-93.191896525" visible="true"/>
+<node id="-6" lat="44.818902351" lon="-93.192006715" visible="true"/>
+<node id="-7" lat="44.818895743" lon="-93.192007807" visible="true"/>
+<node id="-8" lat="44.818903582" lon="-93.192104435" visible="true"/>
+<node id="-9" lat="44.81897318" lon="-93.192093265" visible="true"/>
+<node id="-10" lat="44.818966397" lon="-93.192009739" visible="true"/>
+<node id="-11" lat="44.81897838" lon="-93.192007827" visible="true"/>
+<node id="-12" lat="44.818977295" lon="-93.191994379" visible="true"/>
+<node id="-13" lat="44.819034598" lon="-93.191985406" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-2"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+</osm>

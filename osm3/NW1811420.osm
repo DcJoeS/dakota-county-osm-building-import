@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.687565746" lon="-93.275193233" visible="true"/>
+<node id="-3" lat="44.687556703" lon="-93.275196523" visible="true"/>
+<node id="-4" lat="44.68754866" lon="-93.275146696" visible="true"/>
+<node id="-5" lat="44.687470106" lon="-93.275176127" visible="true"/>
+<node id="-6" lat="44.687480396" lon="-93.275227487" visible="true"/>
+<node id="-7" lat="44.68740922" lon="-93.275253477" visible="true"/>
+<node id="-8" lat="44.687427104" lon="-93.275365482" visible="true"/>
+<node id="-9" lat="44.687440953" lon="-93.275450718" visible="true"/>
+<node id="-10" lat="44.687453142" lon="-93.27544663" visible="true"/>
+<node id="-11" lat="44.687465085" lon="-93.275501164" visible="true"/>
+<node id="-12" lat="44.687480221" lon="-93.275496346" visible="true"/>
+<node id="-13" lat="44.687486776" lon="-93.275529596" visible="true"/>
+<node id="-14" lat="44.687548992" lon="-93.275510059" visible="true"/>
+<node id="-15" lat="44.687548054" lon="-93.27550153" visible="true"/>
+<node id="-16" lat="44.687561122" lon="-93.275498067" visible="true"/>
+<node id="-17" lat="44.687550581" lon="-93.275438047" visible="true"/>
+<node id="-18" lat="44.687566009" lon="-93.27543378" visible="true"/>
+<node id="-19" lat="44.687559001" lon="-93.275393032" visible="true"/>
+<node id="-20" lat="44.687565339" lon="-93.275391232" visible="true"/>
+<node id="-21" lat="44.687555636" lon="-93.275330669" visible="true"/>
+<node id="-22" lat="44.687546348" lon="-93.275333134" visible="true"/>
+<node id="-23" lat="44.687544743" lon="-93.275320679" visible="true"/>
+<node id="-24" lat="44.687587111" lon="-93.275306196" visible="true"/>
+<node id="-26" lat="44.686381624" lon="-93.278090407" visible="true"/>
+<node id="-27" lat="44.686371596" lon="-93.278015936" visible="true"/>
+<node id="-28" lat="44.686357244" lon="-93.278019713" visible="true"/>
+<node id="-29" lat="44.686353369" lon="-93.277990769" visible="true"/>
+<node id="-30" lat="44.686365384" lon="-93.277987609" visible="true"/>
+<node id="-31" lat="44.68635358" lon="-93.277915454" visible="true"/>
+<node id="-32" lat="44.686343868" lon="-93.277858931" visible="true"/>
+<node id="-33" lat="44.686300097" lon="-93.277870448" visible="true"/>
+<node id="-34" lat="44.686298126" lon="-93.277855729" visible="true"/>
+<node id="-35" lat="44.686245319" lon="-93.277869619" visible="true"/>
+<node id="-36" lat="44.686284918" lon="-93.278089406" visible="true"/>
+<node id="-37" lat="44.686292475" lon="-93.278143031" visible="true"/>
+<node id="-38" lat="44.686317793" lon="-93.278136022" visible="true"/>
+<node id="-39" lat="44.686326232" lon="-93.278195023" visible="true"/>
+<node id="-40" lat="44.686394407" lon="-93.278176143" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="18040"/><tag k="addr:city" v="Lakeville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55044"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Jay Court"/></way>
+<way id="-25" visible="true"><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-35"/><nd ref="-36"/><nd ref="-37"/><nd ref="-38"/><nd ref="-39"/><nd ref="-40"/><nd ref="-26"/><tag k="building" v="house"/><tag k="addr:housenumber" v="18129"/><tag k="addr:city" v="Lakeville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55044"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Jarl Court"/></way>
+</osm>

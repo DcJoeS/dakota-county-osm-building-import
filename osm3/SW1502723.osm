@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.821489802" lon="-93.157456659" visible="true"/>
+<node id="-3" lat="44.821483429" lon="-93.157464615" visible="true"/>
+<node id="-4" lat="44.821442496" lon="-93.157390946" visible="true"/>
+<node id="-5" lat="44.821361853" lon="-93.157488327" visible="true"/>
+<node id="-6" lat="44.821377814" lon="-93.157514708" visible="true"/>
+<node id="-7" lat="44.821363373" lon="-93.157531911" visible="true"/>
+<node id="-8" lat="44.821398422" lon="-93.157587923" visible="true"/>
+<node id="-9" lat="44.821404822" lon="-93.157581063" visible="true"/>
+<node id="-10" lat="44.821432373" lon="-93.157623352" visible="true"/>
+<node id="-11" lat="44.821454987" lon="-93.157596146" visible="true"/>
+<node id="-12" lat="44.821464503" lon="-93.157610431" visible="true"/>
+<node id="-13" lat="44.821531108" lon="-93.157527187" visible="true"/>
+<node id="-15" lat="44.821458425" lon="-93.165627777" visible="true"/>
+<node id="-16" lat="44.821429207" lon="-93.165626769" visible="true"/>
+<node id="-17" lat="44.821428652" lon="-93.165572562" visible="true"/>
+<node id="-18" lat="44.821295248" lon="-93.165572364" visible="true"/>
+<node id="-19" lat="44.82129428" lon="-93.165591206" visible="true"/>
+<node id="-20" lat="44.821247725" lon="-93.165590864" visible="true"/>
+<node id="-21" lat="44.821244978" lon="-93.165640815" visible="true"/>
+<node id="-22" lat="44.821241969" lon="-93.165726885" visible="true"/>
+<node id="-23" lat="44.821437071" lon="-93.165729587" visible="true"/>
+<node id="-24" lat="44.821436855" lon="-93.165668878" visible="true"/>
+<node id="-25" lat="44.821458658" lon="-93.165668693" visible="true"/>
+<node id="-27" lat="44.821462562" lon="-93.157160579" visible="true"/>
+<node id="-28" lat="44.82140148" lon="-93.157306735" visible="true"/>
+<node id="-29" lat="44.82146754" lon="-93.157362275" visible="true"/>
+<node id="-30" lat="44.821528515" lon="-93.157217708" visible="true"/>
+<node id="-32" lat="44.824591381" lon="-93.165821492" visible="true"/>
+<node id="-33" lat="44.824534856" lon="-93.165934483" visible="true"/>
+<node id="-34" lat="44.82454999" lon="-93.16594593" visible="true"/>
+<node id="-35" lat="44.824543186" lon="-93.165960317" visible="true"/>
+<node id="-36" lat="44.824583649" lon="-93.165995955" visible="true"/>
+<node id="-37" lat="44.824573286" lon="-93.166022701" visible="true"/>
+<node id="-38" lat="44.824634894" lon="-93.166070048" visible="true"/>
+<node id="-39" lat="44.824667495" lon="-93.16598886" visible="true"/>
+<node id="-40" lat="44.824653896" lon="-93.165970955" visible="true"/>
+<node id="-41" lat="44.824680152" lon="-93.165907532" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-2"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-14" visible="true"><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-15"/><tag k="building" v="house"/><tag k="addr:housenumber" v="3725"/><tag k="addr:city" v="Eagan"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55123"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Drexel Court"/></way>
+<way id="-26" visible="true"><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-27"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-31" visible="true"><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-35"/><nd ref="-36"/><nd ref="-37"/><nd ref="-38"/><nd ref="-39"/><nd ref="-40"/><nd ref="-41"/><nd ref="-32"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+</osm>

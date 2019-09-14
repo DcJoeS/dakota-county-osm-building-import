@@ -1,0 +1,1464 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.905394435" lon="-93.070003422" visible="true"/>
+<node id="-3" lat="44.905306071" lon="-93.07000515" visible="true"/>
+<node id="-4" lat="44.905307735" lon="-93.070204857" visible="true"/>
+<node id="-5" lat="44.905396346" lon="-93.070203129" visible="true"/>
+<node id="-7" lat="44.905396282" lon="-93.072120398" visible="true"/>
+<node id="-8" lat="44.905396462" lon="-93.072204796" visible="true"/>
+<node id="-9" lat="44.905389305" lon="-93.072204827" visible="true"/>
+<node id="-10" lat="44.905389959" lon="-93.072396204" visible="true"/>
+<node id="-11" lat="44.905478791" lon="-93.072395482" visible="true"/>
+<node id="-12" lat="44.905478203" lon="-93.072119702" visible="true"/>
+<node id="-14" lat="44.905472262" lon="-93.070957905" visible="true"/>
+<node id="-15" lat="44.905385877" lon="-93.070960317" visible="true"/>
+<node id="-16" lat="44.905390034" lon="-93.071173599" visible="true"/>
+<node id="-17" lat="44.905392688" lon="-93.071260421" visible="true"/>
+<node id="-18" lat="44.905476607" lon="-93.071257981" visible="true"/>
+<node id="-20" lat="44.90550233" lon="-93.071859449" visible="true"/>
+<node id="-21" lat="44.905389312" lon="-93.071861665" visible="true"/>
+<node id="-22" lat="44.905391442" lon="-93.072063069" visible="true"/>
+<node id="-23" lat="44.905481041" lon="-93.07206134" visible="true"/>
+<node id="-24" lat="44.905479498" lon="-93.071916855" visible="true"/>
+<node id="-25" lat="44.905502947" lon="-93.07191641" visible="true"/>
+<node id="-27" lat="44.905509649" lon="-93.067125867" visible="true"/>
+<node id="-28" lat="44.905449175" lon="-93.067127132" visible="true"/>
+<node id="-29" lat="44.905450685" lon="-93.067253246" visible="true"/>
+<node id="-30" lat="44.905511158" lon="-93.067251943" visible="true"/>
+<node id="-32" lat="44.905729554" lon="-93.071344783" visible="true"/>
+<node id="-33" lat="44.905694259" lon="-93.071345279" visible="true"/>
+<node id="-34" lat="44.90569486" lon="-93.071395988" visible="true"/>
+<node id="-35" lat="44.90572991" lon="-93.071395493" visible="true"/>
+<node id="-37" lat="44.905747807" lon="-93.073131387" visible="true"/>
+<node id="-38" lat="44.905607257" lon="-93.073130203" visible="true"/>
+<node id="-39" lat="44.905608491" lon="-93.073246593" visible="true"/>
+<node id="-40" lat="44.905663171" lon="-93.073248775" visible="true"/>
+<node id="-41" lat="44.905748428" lon="-93.073250133" visible="true"/>
+<node id="-43" lat="44.905756217" lon="-93.072270622" visible="true"/>
+<node id="-44" lat="44.90575441" lon="-93.072336313" visible="true"/>
+<node id="-45" lat="44.905812643" lon="-93.072339503" visible="true"/>
+<node id="-46" lat="44.905814477" lon="-93.072273887" visible="true"/>
+<node id="-48" lat="44.905819974" lon="-93.071252665" visible="true"/>
+<node id="-49" lat="44.905778973" lon="-93.071253534" visible="true"/>
+<node id="-50" lat="44.90577931" lon="-93.071295945" visible="true"/>
+<node id="-51" lat="44.905820312" lon="-93.071295424" visible="true"/>
+<node id="-53" lat="44.905823534" lon="-93.07303694" visible="true"/>
+<node id="-54" lat="44.905747485" lon="-93.073038649" visible="true"/>
+<node id="-55" lat="44.9058247" lon="-93.073133495" visible="true"/>
+<node id="-57" lat="44.905835847" lon="-93.072944198" visible="true"/>
+<node id="-58" lat="44.905834248" lon="-93.072985465" visible="true"/>
+<node id="-59" lat="44.905868446" lon="-93.072986018" visible="true"/>
+<node id="-60" lat="44.905868436" lon="-93.072945797" visible="true"/>
+<node id="-62" lat="44.905875933" lon="-93.070670529" visible="true"/>
+<node id="-63" lat="44.905777455" lon="-93.070671856" visible="true"/>
+<node id="-64" lat="44.905777312" lon="-93.070651689" visible="true"/>
+<node id="-65" lat="44.905723484" lon="-93.0706524" visible="true"/>
+<node id="-66" lat="44.905723586" lon="-93.070668378" visible="true"/>
+<node id="-67" lat="44.905625386" lon="-93.070669647" visible="true"/>
+<node id="-68" lat="44.905626353" lon="-93.070817921" visible="true"/>
+<node id="-69" lat="44.905684163" lon="-93.070817188" visible="true"/>
+<node id="-70" lat="44.905684234" lon="-93.070827575" visible="true"/>
+<node id="-71" lat="44.905830427" lon="-93.070825648" visible="true"/>
+<node id="-72" lat="44.905830484" lon="-93.070835867" visible="true"/>
+<node id="-73" lat="44.905876972" lon="-93.070835304" visible="true"/>
+<node id="-75" lat="44.905833444" lon="-93.070873334" visible="true"/>
+<node id="-76" lat="44.905833116" lon="-93.070926835" visible="true"/>
+<node id="-77" lat="44.90587818" lon="-93.070927307" visible="true"/>
+<node id="-78" lat="44.905878464" lon="-93.070873831" visible="true"/>
+<node id="-80" lat="44.906175014" lon="-93.070616268" visible="true"/>
+<node id="-81" lat="44.90605629" lon="-93.070618472" visible="true"/>
+<node id="-82" lat="44.906057574" lon="-93.070756396" visible="true"/>
+<node id="-83" lat="44.906069669" lon="-93.070756344" visible="true"/>
+<node id="-84" lat="44.906071278" lon="-93.070918543" visible="true"/>
+<node id="-85" lat="44.906141843" lon="-93.070917202" visible="true"/>
+<node id="-86" lat="44.906141499" lon="-93.070871702" visible="true"/>
+<node id="-87" lat="44.906157049" lon="-93.070871637" visible="true"/>
+<node id="-88" lat="44.906155804" lon="-93.070751116" visible="true"/>
+<node id="-89" lat="44.906176317" lon="-93.070750682" visible="true"/>
+<node id="-91" lat="44.906184083" lon="-93.073128122" visible="true"/>
+<node id="-92" lat="44.906043393" lon="-93.073131532" visible="true"/>
+<node id="-93" lat="44.906044884" lon="-93.073252399" visible="true"/>
+<node id="-94" lat="44.906098199" lon="-93.073251132" visible="true"/>
+<node id="-95" lat="44.906099406" lon="-93.073354595" visible="true"/>
+<node id="-96" lat="44.906159877" lon="-93.073352952" visible="true"/>
+<node id="-97" lat="44.906158678" lon="-93.073252962" visible="true"/>
+<node id="-98" lat="44.90618558" lon="-93.073252153" visible="true"/>
+<node id="-100" lat="44.906183733" lon="-93.072731853" visible="true"/>
+<node id="-101" lat="44.90610179" lon="-93.072734629" visible="true"/>
+<node id="-102" lat="44.906104876" lon="-93.072908979" visible="true"/>
+<node id="-103" lat="44.906186847" lon="-93.072906202" visible="true"/>
+<node id="-105" lat="44.906185084" lon="-93.072439043" visible="true"/>
+<node id="-106" lat="44.90608762" lon="-93.07244289" visible="true"/>
+<node id="-107" lat="44.906091215" lon="-93.072636726" visible="true"/>
+<node id="-108" lat="44.906188706" lon="-93.072632802" visible="true"/>
+<node id="-110" lat="44.906233103" lon="-93.07395711" visible="true"/>
+<node id="-111" lat="44.906152297" lon="-93.074054071" visible="true"/>
+<node id="-112" lat="44.906137282" lon="-93.074030083" visible="true"/>
+<node id="-113" lat="44.906069469" lon="-93.074113412" visible="true"/>
+<node id="-114" lat="44.906107842" lon="-93.0741727" visible="true"/>
+<node id="-115" lat="44.906102922" lon="-93.074190213" visible="true"/>
+<node id="-116" lat="44.906118623" lon="-93.074215091" visible="true"/>
+<node id="-117" lat="44.906116097" lon="-93.074194262" visible="true"/>
+<node id="-118" lat="44.906127753" lon="-93.07420969" visible="true"/>
+<node id="-119" lat="44.906147842" lon="-93.074244824" visible="true"/>
+<node id="-120" lat="44.906271097" lon="-93.074095267" visible="true"/>
+<node id="-121" lat="44.906297906" lon="-93.074060013" visible="true"/>
+<node id="-123" lat="44.907424819" lon="-93.072379278" visible="true"/>
+<node id="-124" lat="44.907316731" lon="-93.072507904" visible="true"/>
+<node id="-125" lat="44.907376707" lon="-93.072607686" visible="true"/>
+<node id="-126" lat="44.907484767" lon="-93.072479369" visible="true"/>
+<node id="-128" lat="44.90747217" lon="-93.073172062" visible="true"/>
+<node id="-129" lat="44.907442798" lon="-93.073172535" visible="true"/>
+<node id="-130" lat="44.90744249" lon="-93.073143705" visible="true"/>
+<node id="-131" lat="44.907340303" lon="-93.073145524" visible="true"/>
+<node id="-132" lat="44.907341939" lon="-93.073321273" visible="true"/>
+<node id="-133" lat="44.907413245" lon="-93.073319931" visible="true"/>
+<node id="-134" lat="44.907413181" lon="-93.073289714" visible="true"/>
+<node id="-135" lat="44.907440111" lon="-93.073289253" visible="true"/>
+<node id="-136" lat="44.907500153" lon="-93.073330295" visible="true"/>
+<node id="-137" lat="44.907540881" lon="-93.073213804" visible="true"/>
+<node id="-139" lat="44.907574335" lon="-93.070617613" visible="true"/>
+<node id="-140" lat="44.907490442" lon="-93.070619359" visible="true"/>
+<node id="-141" lat="44.907491141" lon="-93.070715223" visible="true"/>
+<node id="-142" lat="44.907483462" lon="-93.070715255" visible="true"/>
+<node id="-143" lat="44.907484806" lon="-93.070868777" visible="true"/>
+<node id="-144" lat="44.907560556" lon="-93.070867759" visible="true"/>
+<node id="-145" lat="44.907559917" lon="-93.07080003" visible="true"/>
+<node id="-146" lat="44.907569543" lon="-93.070799641" visible="true"/>
+<node id="-147" lat="44.907568572" lon="-93.070692316" visible="true"/>
+<node id="-148" lat="44.90757499" lon="-93.070692289" visible="true"/>
+<node id="-150" lat="44.907621576" lon="-93.070994243" visible="true"/>
+<node id="-151" lat="44.907564807" lon="-93.070995912" visible="true"/>
+<node id="-152" lat="44.907563371" lon="-93.070914292" visible="true"/>
+<node id="-153" lat="44.907491079" lon="-93.070916296" visible="true"/>
+<node id="-154" lat="44.907492494" lon="-93.071013238" visible="true"/>
+<node id="-155" lat="44.907483608" lon="-93.071013623" visible="true"/>
+<node id="-156" lat="44.907485664" lon="-93.071153594" visible="true"/>
+<node id="-157" lat="44.907557215" lon="-93.071151516" visible="true"/>
+<node id="-158" lat="44.90755639" lon="-93.071111959" visible="true"/>
+<node id="-159" lat="44.907623524" lon="-93.071109938" visible="true"/>
+<node id="-161" lat="44.907682266" lon="-93.071914795" visible="true"/>
+<node id="-162" lat="44.907648945" lon="-93.07191567" visible="true"/>
+<node id="-163" lat="44.907648625" lon="-93.071881631" visible="true"/>
+<node id="-164" lat="44.907613082" lon="-93.071882476" visible="true"/>
+<node id="-165" lat="44.907612124" lon="-93.071780361" visible="true"/>
+<node id="-166" lat="44.907534127" lon="-93.071781733" visible="true"/>
+<node id="-167" lat="44.907535074" lon="-93.071878638" visible="true"/>
+<node id="-168" lat="44.907495087" lon="-93.071879155" visible="true"/>
+<node id="-169" lat="44.907496099" lon="-93.072005931" visible="true"/>
+<node id="-170" lat="44.907650859" lon="-93.072003193" visible="true"/>
+<node id="-171" lat="44.90765083" lon="-93.071989298" visible="true"/>
+<node id="-172" lat="44.907682917" lon="-93.071988816" visible="true"/>
+<node id="-174" lat="44.90769979" lon="-93.074567166" visible="true"/>
+<node id="-175" lat="44.907650105" lon="-93.074567033" visible="true"/>
+<node id="-176" lat="44.907649218" lon="-93.074492714" visible="true"/>
+<node id="-177" lat="44.907598195" lon="-93.074494323" visible="true"/>
+<node id="-178" lat="44.907600857" lon="-93.074570201" visible="true"/>
+<node id="-179" lat="44.907588169" lon="-93.074570711" visible="true"/>
+<node id="-180" lat="44.907588923" lon="-93.074649738" visible="true"/>
+<node id="-181" lat="44.907600691" lon="-93.074650264" visible="true"/>
+<node id="-182" lat="44.907602989" lon="-93.074721758" visible="true"/>
+<node id="-183" lat="44.907650747" lon="-93.074720656" visible="true"/>
+<node id="-184" lat="44.907649302" lon="-93.074650997" visible="true"/>
+<node id="-185" lat="44.907700839" lon="-93.074643487" visible="true"/>
+<node id="-187" lat="44.907731677" lon="-93.073661769" visible="true"/>
+<node id="-188" lat="44.907644793" lon="-93.073663523" visible="true"/>
+<node id="-189" lat="44.907646068" lon="-93.073799291" visible="true"/>
+<node id="-190" lat="44.907630244" lon="-93.073799705" visible="true"/>
+<node id="-191" lat="44.907630899" lon="-93.073875463" visible="true"/>
+<node id="-192" lat="44.907733578" lon="-93.073873294" visible="true"/>
+<node id="-194" lat="44.905472489" lon="-93.070819318" visible="true"/>
+<node id="-195" lat="44.905462341" lon="-93.07081971" visible="true"/>
+<node id="-196" lat="44.905460969" lon="-93.070627293" visible="true"/>
+<node id="-197" lat="44.905382943" lon="-93.070628667" visible="true"/>
+<node id="-198" lat="44.905384357" lon="-93.070826987" visible="true"/>
+<node id="-199" lat="44.905390774" lon="-93.07082696" visible="true"/>
+<node id="-200" lat="44.905391194" lon="-93.0709075" visible="true"/>
+<node id="-201" lat="44.905472919" lon="-93.070906149" visible="true"/>
+<node id="-203" lat="44.905466926" lon="-93.067457368" visible="true"/>
+<node id="-204" lat="44.905459548" lon="-93.067457399" visible="true"/>
+<node id="-205" lat="44.905458569" lon="-93.067359842" visible="true"/>
+<node id="-206" lat="44.905394147" lon="-93.067361162" visible="true"/>
+<node id="-207" lat="44.905394843" lon="-93.067454243" visible="true"/>
+<node id="-208" lat="44.905387685" lon="-93.067454275" visible="true"/>
+<node id="-209" lat="44.905388342" lon="-93.067529295" visible="true"/>
+<node id="-210" lat="44.905467573" lon="-93.067527874" visible="true"/>
+<node id="-212" lat="44.905480547" lon="-93.071355564" visible="true"/>
+<node id="-213" lat="44.905391906" lon="-93.071356286" visible="true"/>
+<node id="-214" lat="44.905393817" lon="-93.071672312" visible="true"/>
+<node id="-215" lat="44.905482182" lon="-93.071671243" visible="true"/>
+<node id="-217" lat="44.905498353" lon="-93.071730606" visible="true"/>
+<node id="-218" lat="44.905401624" lon="-93.071732367" visible="true"/>
+<node id="-219" lat="44.90540231" lon="-93.071835212" visible="true"/>
+<node id="-220" lat="44.905499341" lon="-93.071833413" visible="true"/>
+<node id="-222" lat="44.905506785" lon="-93.067058111" visible="true"/>
+<node id="-223" lat="44.905444091" lon="-93.067059077" visible="true"/>
+<node id="-224" lat="44.905444451" lon="-93.067111175" visible="true"/>
+<node id="-225" lat="44.905507392" lon="-93.067109861" visible="true"/>
+<node id="-227" lat="44.905528246" lon="-93.072552267" visible="true"/>
+<node id="-228" lat="44.905518621" lon="-93.072553001" visible="true"/>
+<node id="-229" lat="44.905515479" lon="-93.072468615" visible="true"/>
+<node id="-230" lat="44.905448844" lon="-93.072473411" visible="true"/>
+<node id="-231" lat="44.905453819" lon="-93.072607806" visible="true"/>
+<node id="-232" lat="44.905427685" lon="-93.072609615" visible="true"/>
+<node id="-233" lat="44.905429749" lon="-93.072663481" visible="true"/>
+<node id="-234" lat="44.905518842" lon="-93.0726572" visible="true"/>
+<node id="-235" lat="44.905517262" lon="-93.072610666" visible="true"/>
+<node id="-236" lat="44.905530343" lon="-93.072609876" visible="true"/>
+<node id="-238" lat="44.905521116" lon="-93.067278297" visible="true"/>
+<node id="-239" lat="44.905451237" lon="-93.067279986" visible="true"/>
+<node id="-240" lat="44.905451866" lon="-93.067342158" visible="true"/>
+<node id="-241" lat="44.905521744" lon="-93.067340814" visible="true"/>
+<node id="-243" lat="44.905548668" lon="-93.072869256" visible="true"/>
+<node id="-244" lat="44.905514401" lon="-93.072876733" visible="true"/>
+<node id="-245" lat="44.905509599" lon="-93.07283681" visible="true"/>
+<node id="-246" lat="44.905535998" lon="-93.072831141" visible="true"/>
+<node id="-247" lat="44.905527947" lon="-93.072759278" visible="true"/>
+<node id="-248" lat="44.905461579" lon="-93.072774108" visible="true"/>
+<node id="-249" lat="44.905473904" lon="-93.072882461" visible="true"/>
+<node id="-250" lat="44.905454659" lon="-93.072886672" visible="true"/>
+<node id="-251" lat="44.905467993" lon="-93.073004747" visible="true"/>
+<node id="-252" lat="44.905528687" lon="-93.072991253" visible="true"/>
+<node id="-253" lat="44.905527457" lon="-93.07298053" visible="true"/>
+<node id="-254" lat="44.90556049" lon="-93.07297306" visible="true"/>
+<node id="-256" lat="44.907640641" lon="-93.073231792" visible="true"/>
+<node id="-257" lat="44.907555916" lon="-93.073320027" visible="true"/>
+<node id="-258" lat="44.907605237" lon="-93.073413949" visible="true"/>
+<node id="-259" lat="44.907623215" lon="-93.073395118" visible="true"/>
+<node id="-260" lat="44.907679475" lon="-93.073502211" visible="true"/>
+<node id="-261" lat="44.90774622" lon="-93.073432769" visible="true"/>
+<node id="-263" lat="44.907775048" lon="-93.075158992" visible="true"/>
+<node id="-264" lat="44.907583263" lon="-93.075162533" visible="true"/>
+<node id="-265" lat="44.907584477" lon="-93.075269896" visible="true"/>
+<node id="-266" lat="44.907649639" lon="-93.075268582" visible="true"/>
+<node id="-267" lat="44.907649676" lon="-93.075285949" visible="true"/>
+<node id="-268" lat="44.907776298" lon="-93.075283647" visible="true"/>
+<node id="-270" lat="44.907960065" lon="-93.070658697" visible="true"/>
+<node id="-271" lat="44.907960465" lon="-93.070614929" visible="true"/>
+<node id="-272" lat="44.907893104" lon="-93.070614173" visible="true"/>
+<node id="-273" lat="44.907892191" lon="-93.070776697" visible="true"/>
+<node id="-274" lat="44.908016353" lon="-93.070777944" visible="true"/>
+<node id="-275" lat="44.908017113" lon="-93.070659497" visible="true"/>
+<node id="-277" lat="44.908019228" lon="-93.07212143" visible="true"/>
+<node id="-278" lat="44.908011186" lon="-93.072170132" visible="true"/>
+<node id="-279" lat="44.907982807" lon="-93.072160873" visible="true"/>
+<node id="-280" lat="44.907963777" lon="-93.072278319" visible="true"/>
+<node id="-281" lat="44.907925491" lon="-93.072266014" visible="true"/>
+<node id="-282" lat="44.907912094" lon="-93.072349781" visible="true"/>
+<node id="-283" lat="44.908036585" lon="-93.072389856" visible="true"/>
+<node id="-284" lat="44.908052423" lon="-93.072292919" visible="true"/>
+<node id="-285" lat="44.908064307" lon="-93.072296689" visible="true"/>
+<node id="-286" lat="44.908080604" lon="-93.072196584" visible="true"/>
+<node id="-287" lat="44.908088783" lon="-93.072199289" visible="true"/>
+<node id="-288" lat="44.908097281" lon="-93.072146458" visible="true"/>
+<node id="-290" lat="44.908093941" lon="-93.070815476" visible="true"/>
+<node id="-291" lat="44.908020139" lon="-93.070816832" visible="true"/>
+<node id="-292" lat="44.908020838" lon="-93.070912695" visible="true"/>
+<node id="-293" lat="44.908094886" lon="-93.070911339" visible="true"/>
+<node id="-295" lat="44.908063786" lon="-93.075077897" visible="true"/>
+<node id="-296" lat="44.908063826" lon="-93.075096655" visible="true"/>
+<node id="-297" lat="44.907938402" lon="-93.075095441" visible="true"/>
+<node id="-298" lat="44.907937919" lon="-93.075217014" visible="true"/>
+<node id="-299" lat="44.907986053" lon="-93.075217508" visible="true"/>
+<node id="-300" lat="44.907985847" lon="-93.075237307" visible="true"/>
+<node id="-301" lat="44.908018431" lon="-93.075237518" visible="true"/>
+<node id="-302" lat="44.908018645" lon="-93.075221849" visible="true"/>
+<node id="-303" lat="44.908069521" lon="-93.07522237" visible="true"/>
+<node id="-304" lat="44.908069728" lon="-93.075203226" visible="true"/>
+<node id="-305" lat="44.90813761" lon="-93.075203986" visible="true"/>
+<node id="-306" lat="44.908138332" lon="-93.075078628" visible="true"/>
+<node id="-308" lat="44.908041054" lon="-93.072518047" visible="true"/>
+<node id="-309" lat="44.907993623" lon="-93.072615814" visible="true"/>
+<node id="-310" lat="44.908059911" lon="-93.072679484" visible="true"/>
+<node id="-311" lat="44.908038776" lon="-93.072722991" visible="true"/>
+<node id="-312" lat="44.908079835" lon="-93.072762416" visible="true"/>
+<node id="-313" lat="44.908148401" lon="-93.072621103" visible="true"/>
+<node id="-315" lat="44.908337825" lon="-93.072667853" visible="true"/>
+<node id="-316" lat="44.908212241" lon="-93.072681273" visible="true"/>
+<node id="-317" lat="44.908220952" lon="-93.072844141" visible="true"/>
+<node id="-318" lat="44.908280454" lon="-93.07283764" visible="true"/>
+<node id="-319" lat="44.908277855" lon="-93.072789332" visible="true"/>
+<node id="-320" lat="44.908343993" lon="-93.07278249" visible="true"/>
+<node id="-322" lat="44.908469951" lon="-93.072467956" visible="true"/>
+<node id="-323" lat="44.908390015" lon="-93.072602716" visible="true"/>
+<node id="-324" lat="44.90845559" lon="-93.072679552" visible="true"/>
+<node id="-325" lat="44.908535279" lon="-93.072544754" visible="true"/>
+<node id="-327" lat="44.908553566" lon="-93.071053194" visible="true"/>
+<node id="-328" lat="44.908523728" lon="-93.071054016" visible="true"/>
+<node id="-329" lat="44.908522723" lon="-93.070943216" visible="true"/>
+<node id="-330" lat="44.90844596" lon="-93.070944583" visible="true"/>
+<node id="-331" lat="44.908446928" lon="-93.07105083" visible="true"/>
+<node id="-332" lat="44.908413853" lon="-93.071051317" visible="true"/>
+<node id="-333" lat="44.908415094" lon="-93.071169797" visible="true"/>
+<node id="-334" lat="44.908554579" lon="-93.071167121" visible="true"/>
+<node id="-336" lat="44.908594444" lon="-93.074693637" visible="true"/>
+<node id="-337" lat="44.908588917" lon="-93.074585429" visible="true"/>
+<node id="-338" lat="44.908604519" lon="-93.074583456" visible="true"/>
+<node id="-339" lat="44.908600636" lon="-93.07452259" visible="true"/>
+<node id="-340" lat="44.908613685" lon="-93.074520941" visible="true"/>
+<node id="-341" lat="44.908607504" lon="-93.074424053" visible="true"/>
+<node id="-342" lat="44.908591343" lon="-93.074426096" visible="true"/>
+<node id="-343" lat="44.908586169" lon="-93.074344966" visible="true"/>
+<node id="-344" lat="44.908573077" lon="-93.074346619" visible="true"/>
+<node id="-345" lat="44.908566169" lon="-93.074238312" visible="true"/>
+<node id="-346" lat="44.908450524" lon="-93.07425292" visible="true"/>
+<node id="-347" lat="44.90845637" lon="-93.074344571" visible="true"/>
+<node id="-348" lat="44.90841109" lon="-93.074350292" visible="true"/>
+<node id="-349" lat="44.908413848" lon="-93.074393507" visible="true"/>
+<node id="-350" lat="44.908299699" lon="-93.074384254" visible="true"/>
+<node id="-351" lat="44.908301233" lon="-93.074495187" visible="true"/>
+<node id="-352" lat="44.908290634" lon="-93.07449395" visible="true"/>
+<node id="-353" lat="44.908282286" lon="-93.074628652" visible="true"/>
+<node id="-354" lat="44.90829314" lon="-93.074798819" visible="true"/>
+<node id="-355" lat="44.908311038" lon="-93.07479656" visible="true"/>
+<node id="-356" lat="44.908318776" lon="-93.074917921" visible="true"/>
+<node id="-357" lat="44.908341003" lon="-93.074915116" visible="true"/>
+<node id="-358" lat="44.908353225" lon="-93.075106742" visible="true"/>
+<node id="-359" lat="44.908406847" lon="-93.075099974" visible="true"/>
+<node id="-360" lat="44.90840488" lon="-93.075069087" visible="true"/>
+<node id="-361" lat="44.908615317" lon="-93.075042513" visible="true"/>
+<node id="-363" lat="44.908602943" lon="-93.072327721" visible="true"/>
+<node id="-364" lat="44.908610245" lon="-93.072163432" visible="true"/>
+<node id="-365" lat="44.908524083" lon="-93.072155808" visible="true"/>
+<node id="-366" lat="44.908517504" lon="-93.072247882" visible="true"/>
+<node id="-367" lat="44.908508105" lon="-93.07240558" visible="true"/>
+<node id="-368" lat="44.908614237" lon="-93.072415243" visible="true"/>
+<node id="-369" lat="44.908618251" lon="-93.072329085" visible="true"/>
+<node id="-371" lat="44.908630488" lon="-93.073715982" visible="true"/>
+<node id="-372" lat="44.908626375" lon="-93.073879173" visible="true"/>
+<node id="-373" lat="44.908700773" lon="-93.073882331" visible="true"/>
+<node id="-374" lat="44.908704463" lon="-93.073720416" visible="true"/>
+<node id="-376" lat="44.909376653" lon="-93.071935822" visible="true"/>
+<node id="-377" lat="44.909331056" lon="-93.071936218" visible="true"/>
+<node id="-378" lat="44.909332001" lon="-93.071908718" visible="true"/>
+<node id="-379" lat="44.909332303" lon="-93.07182046" visible="true"/>
+<node id="-380" lat="44.909264603" lon="-93.071820099" visible="true"/>
+<node id="-381" lat="44.909264384" lon="-93.071841649" visible="true"/>
+<node id="-382" lat="44.90921181" lon="-93.07184286" visible="true"/>
+<node id="-383" lat="44.909211735" lon="-93.071830666" visible="true"/>
+<node id="-384" lat="44.908950292" lon="-93.071834277" visible="true"/>
+<node id="-385" lat="44.908948104" lon="-93.071849306" visible="true"/>
+<node id="-386" lat="44.908947066" lon="-93.071885161" visible="true"/>
+<node id="-387" lat="44.908945773" lon="-93.071914412" visible="true"/>
+<node id="-388" lat="44.908952832" lon="-93.071914293" visible="true"/>
+<node id="-389" lat="44.908953486" lon="-93.071992406" visible="true"/>
+<node id="-390" lat="44.908980742" lon="-93.071993558" visible="true"/>
+<node id="-391" lat="44.908981376" lon="-93.072045075" visible="true"/>
+<node id="-392" lat="44.909156632" lon="-93.072044532" visible="true"/>
+<node id="-393" lat="44.909156646" lon="-93.07211056" visible="true"/>
+<node id="-394" lat="44.909179956" lon="-93.072111352" visible="true"/>
+<node id="-395" lat="44.909179661" lon="-93.072128535" visible="true"/>
+<node id="-396" lat="44.909218345" lon="-93.072128071" visible="true"/>
+<node id="-397" lat="44.909219087" lon="-93.072323951" visible="true"/>
+<node id="-398" lat="44.909258778" lon="-93.072324462" visible="true"/>
+<node id="-399" lat="44.909258903" lon="-93.072313232" visible="true"/>
+<node id="-400" lat="44.909275611" lon="-93.072312572" visible="true"/>
+<node id="-401" lat="44.909275917" lon="-93.072324925" visible="true"/>
+<node id="-402" lat="44.909332079" lon="-93.072323816" visible="true"/>
+<node id="-403" lat="44.909331882" lon="-93.072286315" visible="true"/>
+<node id="-404" lat="44.909369534" lon="-93.072284981" visible="true"/>
+<node id="-405" lat="44.909368414" lon="-93.072119991" visible="true"/>
+<node id="-406" lat="44.909360013" lon="-93.072119488" visible="true"/>
+<node id="-407" lat="44.909359681" lon="-93.072038897" visible="true"/>
+<node id="-408" lat="44.909376891" lon="-93.072038874" visible="true"/>
+<node id="-410" lat="44.906402623" lon="-93.074334545" visible="true"/>
+<node id="-411" lat="44.906412005" lon="-93.074322389" visible="true"/>
+<node id="-412" lat="44.906361957" lon="-93.074247188" visible="true"/>
+<node id="-413" lat="44.906299927" lon="-93.074328763" visible="true"/>
+<node id="-414" lat="44.906341775" lon="-93.074391802" visible="true"/>
+<node id="-415" lat="44.906308326" lon="-93.074435707" visible="true"/>
+<node id="-416" lat="44.906355346" lon="-93.074506366" visible="true"/>
+<node id="-417" lat="44.906441501" lon="-93.074393122" visible="true"/>
+<node id="-419" lat="44.906467013" lon="-93.073037705" visible="true"/>
+<node id="-420" lat="44.906435914" lon="-93.073039186" visible="true"/>
+<node id="-421" lat="44.906436746" lon="-93.073082253" visible="true"/>
+<node id="-422" lat="44.906468092" lon="-93.07308077" visible="true"/>
+<node id="-424" lat="44.906486736" lon="-93.074527005" visible="true"/>
+<node id="-425" lat="44.906425443" lon="-93.074607843" visible="true"/>
+<node id="-426" lat="44.906510103" lon="-93.074735309" visible="true"/>
+<node id="-427" lat="44.906571396" lon="-93.07465478" visible="true"/>
+<node id="-429" lat="44.906617125" lon="-93.071319098" visible="true"/>
+<node id="-430" lat="44.906611201" lon="-93.071319472" visible="true"/>
+<node id="-431" lat="44.906610249" lon="-93.071220175" visible="true"/>
+<node id="-432" lat="44.906534226" lon="-93.07122154" visible="true"/>
+<node id="-433" lat="44.906535205" lon="-93.071320488" visible="true"/>
+<node id="-434" lat="44.906497688" lon="-93.071320996" visible="true"/>
+<node id="-435" lat="44.906498944" lon="-93.071446765" visible="true"/>
+<node id="-436" lat="44.90661838" lon="-93.071444523" visible="true"/>
+<node id="-438" lat="44.906632306" lon="-93.071607712" visible="true"/>
+<node id="-439" lat="44.90661703" lon="-93.071607777" visible="true"/>
+<node id="-440" lat="44.906616086" lon="-93.071512958" visible="true"/>
+<node id="-441" lat="44.906544478" lon="-93.071513955" visible="true"/>
+<node id="-442" lat="44.906545422" lon="-93.071609122" visible="true"/>
+<node id="-443" lat="44.906502722" lon="-93.071609997" visible="true"/>
+<node id="-444" lat="44.906503725" lon="-93.071732951" visible="true"/>
+<node id="-445" lat="44.906633556" lon="-93.071730665" visible="true"/>
+<node id="-447" lat="44.90667118" lon="-93.07201046" visible="true"/>
+<node id="-448" lat="44.906610734" lon="-93.07201141" visible="true"/>
+<node id="-449" lat="44.906610455" lon="-93.071996437" visible="true"/>
+<node id="-450" lat="44.906483064" lon="-93.071998751" visible="true"/>
+<node id="-451" lat="44.906484346" lon="-93.072135906" visible="true"/>
+<node id="-452" lat="44.906612941" lon="-93.072133665" visible="true"/>
+<node id="-453" lat="44.906612922" lon="-93.072124633" visible="true"/>
+<node id="-454" lat="44.906672189" lon="-93.072123689" visible="true"/>
+<node id="-456" lat="44.90666506" lon="-93.073193868" visible="true"/>
+<node id="-457" lat="44.906629524" lon="-93.073197839" visible="true"/>
+<node id="-458" lat="44.906626959" lon="-93.073151962" visible="true"/>
+<node id="-459" lat="44.906570228" lon="-93.073158491" visible="true"/>
+<node id="-460" lat="44.906572505" lon="-93.073197383" visible="true"/>
+<node id="-461" lat="44.906482184" lon="-93.073207489" visible="true"/>
+<node id="-462" lat="44.906488595" lon="-93.073320695" visible="true"/>
+<node id="-463" lat="44.906587306" lon="-93.073309513" visible="true"/>
+<node id="-464" lat="44.906591669" lon="-93.073388338" visible="true"/>
+<node id="-465" lat="44.906675602" lon="-93.073378955" visible="true"/>
+<node id="-467" lat="44.906627271" lon="-93.074697616" visible="true"/>
+<node id="-468" lat="44.906575179" lon="-93.074810024" visible="true"/>
+<node id="-469" lat="44.906682513" lon="-93.07490791" visible="true"/>
+<node id="-470" lat="44.906685735" lon="-93.074900951" visible="true"/>
+<node id="-471" lat="44.906737395" lon="-93.074948281" visible="true"/>
+<node id="-472" lat="44.906786294" lon="-93.074842871" visible="true"/>
+<node id="-474" lat="44.906826685" lon="-93.073866679" visible="true"/>
+<node id="-475" lat="44.906681305" lon="-93.073869721" visible="true"/>
+<node id="-476" lat="44.906682245" lon="-93.073950956" visible="true"/>
+<node id="-477" lat="44.906705913" lon="-93.073950509" visible="true"/>
+<node id="-478" lat="44.906706243" lon="-93.073989449" visible="true"/>
+<node id="-479" lat="44.906827928" lon="-93.073987201" visible="true"/>
+<node id="-481" lat="44.906774981" lon="-93.073230185" visible="true"/>
+<node id="-482" lat="44.906775631" lon="-93.073187845" visible="true"/>
+<node id="-483" lat="44.906709721" lon="-93.073186001" visible="true"/>
+<node id="-484" lat="44.906706904" lon="-93.073356942" visible="true"/>
+<node id="-485" lat="44.906754519" lon="-93.073358478" visible="true"/>
+<node id="-486" lat="44.906754088" lon="-93.073388351" visible="true"/>
+<node id="-487" lat="44.906817064" lon="-93.07339017" visible="true"/>
+<node id="-488" lat="44.90681774" lon="-93.073360258" visible="true"/>
+<node id="-489" lat="44.906877945" lon="-93.073362127" visible="true"/>
+<node id="-490" lat="44.90688014" lon="-93.073233602" visible="true"/>
+<node id="-492" lat="44.906898211" lon="-93.072677782" visible="true"/>
+<node id="-493" lat="44.90681108" lon="-93.072679192" visible="true"/>
+<node id="-494" lat="44.906810448" lon="-93.072600695" visible="true"/>
+<node id="-495" lat="44.906717392" lon="-93.07260213" visible="true"/>
+<node id="-496" lat="44.906718985" lon="-93.072783086" visible="true"/>
+<node id="-497" lat="44.906729873" lon="-93.072783041" visible="true"/>
+<node id="-498" lat="44.906730177" lon="-93.072810132" visible="true"/>
+<node id="-499" lat="44.906802964" lon="-93.072808783" visible="true"/>
+<node id="-500" lat="44.906802677" lon="-93.072790028" visible="true"/>
+<node id="-501" lat="44.906829581" lon="-93.07278922" visible="true"/>
+<node id="-502" lat="44.906829876" lon="-93.072812105" visible="true"/>
+<node id="-503" lat="44.906880476" lon="-93.072811196" visible="true"/>
+<node id="-504" lat="44.906880175" lon="-93.072785843" visible="true"/>
+<node id="-505" lat="44.906899182" lon="-93.072785416" visible="true"/>
+<node id="-507" lat="44.906914516" lon="-93.071988937" visible="true"/>
+<node id="-508" lat="44.90684543" lon="-93.071990272" visible="true"/>
+<node id="-509" lat="44.906845119" lon="-93.071959708" visible="true"/>
+<node id="-510" lat="44.906753299" lon="-93.071961447" visible="true"/>
+<node id="-511" lat="44.906754916" lon="-93.072153172" visible="true"/>
+<node id="-512" lat="44.906845774" lon="-93.072151397" visible="true"/>
+<node id="-513" lat="44.906845439" lon="-93.072109718" visible="true"/>
+<node id="-514" lat="44.906915511" lon="-93.072108381" visible="true"/>
+<node id="-516" lat="44.90688086" lon="-93.074856024" visible="true"/>
+<node id="-517" lat="44.906869086" lon="-93.074891153" visible="true"/>
+<node id="-518" lat="44.906815447" lon="-93.074855601" visible="true"/>
+<node id="-519" lat="44.906775464" lon="-93.07497452" visible="true"/>
+<node id="-520" lat="44.906843556" lon="-93.075016477" visible="true"/>
+<node id="-521" lat="44.906958366" lon="-93.075089807" visible="true"/>
+<node id="-522" lat="44.907008406" lon="-93.074940588" visible="true"/>
+<node id="-524" lat="44.907089824" lon="-93.073289298" visible="true"/>
+<node id="-525" lat="44.90703552" lon="-93.07329026" visible="true"/>
+<node id="-526" lat="44.907034943" lon="-93.073251013" visible="true"/>
+<node id="-527" lat="44.906925353" lon="-93.07325321" visible="true"/>
+<node id="-528" lat="44.906926632" lon="-93.073390752" visible="true"/>
+<node id="-529" lat="44.907025364" lon="-93.073388947" visible="true"/>
+<node id="-530" lat="44.90702563" lon="-93.073398324" visible="true"/>
+<node id="-531" lat="44.907090792" lon="-93.073397008" visible="true"/>
+<node id="-533" lat="44.90708814" lon="-93.072601261" visible="true"/>
+<node id="-534" lat="44.90700592" lon="-93.072602611" visible="true"/>
+<node id="-535" lat="44.907006557" lon="-93.07265718" visible="true"/>
+<node id="-536" lat="44.906926584" lon="-93.072658558" visible="true"/>
+<node id="-537" lat="44.906927292" lon="-93.072759247" visible="true"/>
+<node id="-538" lat="44.907005755" lon="-93.072757564" visible="true"/>
+<node id="-539" lat="44.907006037" lon="-93.072774235" visible="true"/>
+<node id="-540" lat="44.907033929" lon="-93.072773771" visible="true"/>
+<node id="-541" lat="44.907034542" lon="-93.072830038" visible="true"/>
+<node id="-542" lat="44.907090079" lon="-93.07282907" visible="true"/>
+<node id="-544" lat="44.907161778" lon="-93.071034439" visible="true"/>
+<node id="-545" lat="44.907127743" lon="-93.071034933" visible="true"/>
+<node id="-546" lat="44.907126774" lon="-93.070928302" visible="true"/>
+<node id="-547" lat="44.907053932" lon="-93.070929654" visible="true"/>
+<node id="-548" lat="44.907054903" lon="-93.071037326" visible="true"/>
+<node id="-549" lat="44.907042315" lon="-93.07103738" visible="true"/>
+<node id="-550" lat="44.907043309" lon="-93.071155818" visible="true"/>
+<node id="-551" lat="44.907163021" lon="-93.071153573" visible="true"/>
+<node id="-553" lat="44.907161949" lon="-93.070769379" visible="true"/>
+<node id="-554" lat="44.907137761" lon="-93.070769831" visible="true"/>
+<node id="-555" lat="44.907137434" lon="-93.070732357" visible="true"/>
+<node id="-556" lat="44.907160388" lon="-93.070731912" visible="true"/>
+<node id="-557" lat="44.907159413" lon="-93.070622812" visible="true"/>
+<node id="-558" lat="44.907053059" lon="-93.070624693" visible="true"/>
+<node id="-559" lat="44.907055304" lon="-93.070878937" visible="true"/>
+<node id="-560" lat="44.907162921" lon="-93.07087709" visible="true"/>
+<node id="-562" lat="44.907165997" lon="-93.071608926" visible="true"/>
+<node id="-563" lat="44.907146992" lon="-93.071609354" visible="true"/>
+<node id="-564" lat="44.907146035" lon="-93.071508242" visible="true"/>
+<node id="-565" lat="44.907068998" lon="-93.071509611" visible="true"/>
+<node id="-566" lat="44.907069956" lon="-93.071612072" visible="true"/>
+<node id="-567" lat="44.907050211" lon="-93.071612504" visible="true"/>
+<node id="-568" lat="44.907050566" lon="-93.071662905" visible="true"/>
+<node id="-569" lat="44.907018971" lon="-93.071663386" visible="true"/>
+<node id="-570" lat="44.907019596" lon="-93.071724167" visible="true"/>
+<node id="-571" lat="44.907053656" lon="-93.07172333" visible="true"/>
+<node id="-572" lat="44.907053679" lon="-93.071733711" visible="true"/>
+<node id="-573" lat="44.907167221" lon="-93.071731879" visible="true"/>
+<node id="-575" lat="44.907137645" lon="-93.071868509" visible="true"/>
+<node id="-576" lat="44.90699407" lon="-93.072010832" visible="true"/>
+<node id="-577" lat="44.907063701" lon="-93.072150169" visible="true"/>
+<node id="-578" lat="44.907134147" lon="-93.072080402" visible="true"/>
+<node id="-579" lat="44.90710341" lon="-93.072019053" visible="true"/>
+<node id="-580" lat="44.907176565" lon="-93.071946844" visible="true"/>
+<node id="-582" lat="44.907243262" lon="-93.074994834" visible="true"/>
+<node id="-583" lat="44.907233389" lon="-93.074994875" visible="true"/>
+<node id="-584" lat="44.907232945" lon="-93.074901442" visible="true"/>
+<node id="-585" lat="44.907144332" lon="-93.074901812" visible="true"/>
+<node id="-586" lat="44.907145259" lon="-93.075224452" visible="true"/>
+<node id="-587" lat="44.907243993" lon="-93.07522404" visible="true"/>
+<node id="-589" lat="44.9055851" lon="-93.070564312" visible="true"/>
+<node id="-590" lat="44.905555235" lon="-93.070565023" visible="true"/>
+<node id="-591" lat="44.905556157" lon="-93.07063775" visible="true"/>
+<node id="-592" lat="44.905586001" lon="-93.070637075" visible="true"/>
+<node id="-594" lat="44.905724541" lon="-93.072596904" visible="true"/>
+<node id="-595" lat="44.905684337" lon="-93.072601" visible="true"/>
+<node id="-596" lat="44.905686335" lon="-93.072635014" visible="true"/>
+<node id="-597" lat="44.905726292" lon="-93.072630943" visible="true"/>
+<node id="-599" lat="44.905702534" lon="-93.074773419" visible="true"/>
+<node id="-600" lat="44.90549501" lon="-93.075026102" visible="true"/>
+<node id="-601" lat="44.905534366" lon="-93.075090194" visible="true"/>
+<node id="-602" lat="44.905741916" lon="-93.07483751" visible="true"/>
+<node id="-604" lat="44.90577395" lon="-93.072695165" visible="true"/>
+<node id="-605" lat="44.905773698" lon="-93.072737328" visible="true"/>
+<node id="-606" lat="44.905810314" lon="-93.072738144" visible="true"/>
+<node id="-607" lat="44.905811346" lon="-93.07269125" visible="true"/>
+<node id="-609" lat="44.905855786" lon="-93.071722606" visible="true"/>
+<node id="-610" lat="44.905807987" lon="-93.071735173" visible="true"/>
+<node id="-611" lat="44.905813055" lon="-93.071787821" visible="true"/>
+<node id="-612" lat="44.905861705" lon="-93.071774116" visible="true"/>
+<node id="-614" lat="44.906032632" lon="-93.071326827" visible="true"/>
+<node id="-615" lat="44.905952411" lon="-93.071327167" visible="true"/>
+<node id="-616" lat="44.905952649" lon="-93.07143866" visible="true"/>
+<node id="-617" lat="44.906033118" lon="-93.071438318" visible="true"/>
+<node id="-619" lat="44.906065882" lon="-93.070934892" visible="true"/>
+<node id="-620" lat="44.906001186" lon="-93.070935861" visible="true"/>
+<node id="-621" lat="44.90600215" lon="-93.071040057" visible="true"/>
+<node id="-622" lat="44.906066818" lon="-93.071038741" visible="true"/>
+<node id="-624" lat="44.905963275" lon="-93.073412864" visible="true"/>
+<node id="-625" lat="44.905936646" lon="-93.073543225" visible="true"/>
+<node id="-626" lat="44.905975186" lon="-93.073559041" visible="true"/>
+<node id="-627" lat="44.905953443" lon="-93.073664721" visible="true"/>
+<node id="-628" lat="44.906022643" lon="-93.073692873" visible="true"/>
+<node id="-629" lat="44.90604485" lon="-93.073585145" visible="true"/>
+<node id="-630" lat="44.906079189" lon="-93.073598895" visible="true"/>
+<node id="-631" lat="44.906105576" lon="-93.073470965" visible="true"/>
+<node id="-633" lat="44.906171817" lon="-93.071414806" visible="true"/>
+<node id="-634" lat="44.90606516" lon="-93.07141661" visible="true"/>
+<node id="-635" lat="44.906067185" lon="-93.071658038" visible="true"/>
+<node id="-636" lat="44.906164161" lon="-93.071656586" visible="true"/>
+<node id="-637" lat="44.906163214" lon="-93.07156003" visible="true"/>
+<node id="-638" lat="44.906173088" lon="-93.071559989" visible="true"/>
+<node id="-640" lat="44.906033005" lon="-93.071731817" visible="true"/>
+<node id="-641" lat="44.906033372" lon="-93.072019409" visible="true"/>
+<node id="-642" lat="44.906124235" lon="-93.072019024" visible="true"/>
+<node id="-643" lat="44.906123886" lon="-93.071855778" visible="true"/>
+<node id="-644" lat="44.906180877" lon="-93.071855536" visible="true"/>
+<node id="-645" lat="44.906180613" lon="-93.071731539" visible="true"/>
+<node id="-647" lat="44.906061947" lon="-93.07106898" visible="true"/>
+<node id="-648" lat="44.906061473" lon="-93.071193328" visible="true"/>
+<node id="-649" lat="44.906069865" lon="-93.071193292" visible="true"/>
+<node id="-650" lat="44.906069349" lon="-93.071298189" visible="true"/>
+<node id="-651" lat="44.906145623" lon="-93.071298907" visible="true"/>
+<node id="-652" lat="44.906146167" lon="-93.071194358" visible="true"/>
+<node id="-653" lat="44.90618119" lon="-93.071194556" visible="true"/>
+<node id="-654" lat="44.906181912" lon="-93.071070169" visible="true"/>
+<node id="-656" lat="44.90618652" lon="-93.072185829" visible="true"/>
+<node id="-657" lat="44.90610087" lon="-93.07218758" visible="true"/>
+<node id="-658" lat="44.906102475" lon="-93.072360894" visible="true"/>
+<node id="-659" lat="44.906188371" lon="-93.072359489" visible="true"/>
+<node id="-661" lat="44.90615399" lon="-93.074990701" visible="true"/>
+<node id="-662" lat="44.90616113" lon="-93.074981988" visible="true"/>
+<node id="-663" lat="44.906110602" lon="-93.074899494" visible="true"/>
+<node id="-664" lat="44.906099276" lon="-93.074913473" visible="true"/>
+<node id="-665" lat="44.906056399" lon="-93.074843839" visible="true"/>
+<node id="-666" lat="44.906066248" lon="-93.074831988" visible="true"/>
+<node id="-667" lat="44.906017976" lon="-93.074753345" visible="true"/>
+<node id="-668" lat="44.906007361" lon="-93.074765893" visible="true"/>
+<node id="-669" lat="44.905943732" lon="-93.074661959" visible="true"/>
+<node id="-670" lat="44.905954045" lon="-93.074649412" visible="true"/>
+<node id="-671" lat="44.905904011" lon="-93.07456765" visible="true"/>
+<node id="-672" lat="44.90589419" lon="-93.074579463" visible="true"/>
+<node id="-673" lat="44.905849578" lon="-93.074506399" visible="true"/>
+<node id="-674" lat="44.905859426" lon="-93.074494549" visible="true"/>
+<node id="-675" lat="44.90580964" lon="-93.074413443" visible="true"/>
+<node id="-676" lat="44.905800778" lon="-93.074424286" visible="true"/>
+<node id="-677" lat="44.905782724" lon="-93.074394837" visible="true"/>
+<node id="-678" lat="44.905792051" lon="-93.074383337" visible="true"/>
+<node id="-679" lat="44.905764091" lon="-93.074337606" visible="true"/>
+<node id="-680" lat="44.905753475" lon="-93.074350501" visible="true"/>
+<node id="-681" lat="44.905702973" lon="-93.074267662" visible="true"/>
+<node id="-682" lat="44.905672444" lon="-93.074304647" visible="true"/>
+<node id="-683" lat="44.905663994" lon="-93.074290788" visible="true"/>
+<node id="-684" lat="44.905602198" lon="-93.074366071" visible="true"/>
+<node id="-685" lat="44.905610646" lon="-93.07437989" visible="true"/>
+<node id="-686" lat="44.905574919" lon="-93.074423109" visible="true"/>
+<node id="-687" lat="44.906100767" lon="-93.075282298" visible="true"/>
+<node id="-688" lat="44.906132037" lon="-93.075244694" visible="true"/>
+<node id="-689" lat="44.906139467" lon="-93.07525682" visible="true"/>
+<node id="-690" lat="44.90620991" lon="-93.075171777" visible="true"/>
+<node id="-691" lat="44.906200965" lon="-93.075157225" visible="true"/>
+<node id="-692" lat="44.90623248" lon="-93.075118887" visible="true"/>
+<node id="-694" lat="44.907487009" lon="-93.072128929" visible="true"/>
+<node id="-695" lat="44.907447593" lon="-93.072294083" visible="true"/>
+<node id="-696" lat="44.907520484" lon="-93.07232851" visible="true"/>
+<node id="-697" lat="44.90756012" lon="-93.072163701" visible="true"/>
+<node id="-699" lat="44.907540633" lon="-93.07275487" visible="true"/>
+<node id="-700" lat="44.907472503" lon="-93.072822546" visible="true"/>
+<node id="-701" lat="44.907515452" lon="-93.072913673" visible="true"/>
+<node id="-702" lat="44.907585428" lon="-93.072844184" visible="true"/>
+<node id="-704" lat="44.907610978" lon="-93.071591063" visible="true"/>
+<node id="-705" lat="44.907596416" lon="-93.071591472" visible="true"/>
+<node id="-706" lat="44.907595726" lon="-93.071499429" visible="true"/>
+<node id="-707" lat="44.907523926" lon="-93.071500775" visible="true"/>
+<node id="-708" lat="44.90752485" lon="-93.071599764" visible="true"/>
+<node id="-709" lat="44.907491804" lon="-93.071600252" visible="true"/>
+<node id="-710" lat="44.90749281" lon="-93.071724905" visible="true"/>
+<node id="-711" lat="44.907612247" lon="-93.071722663" visible="true"/>
+<node id="-713" lat="44.907623213" lon="-93.071309662" visible="true"/>
+<node id="-714" lat="44.907602506" lon="-93.071310097" visible="true"/>
+<node id="-715" lat="44.907601501" lon="-93.071199647" visible="true"/>
+<node id="-716" lat="44.907526219" lon="-93.071201007" visible="true"/>
+<node id="-717" lat="44.907527435" lon="-93.071307598" visible="true"/>
+<node id="-718" lat="44.907486241" lon="-93.07130812" visible="true"/>
+<node id="-719" lat="44.907487454" lon="-93.07142625" visible="true"/>
+<node id="-720" lat="44.907624197" lon="-93.071423935" visible="true"/>
+<node id="-722" lat="44.907667878" lon="-93.074787434" visible="true"/>
+<node id="-723" lat="44.907591142" lon="-93.074788758" visible="true"/>
+<node id="-724" lat="44.907591797" lon="-93.07486521" visible="true"/>
+<node id="-725" lat="44.907585133" lon="-93.074865585" visible="true"/>
+<node id="-726" lat="44.907586456" lon="-93.075024662" visible="true"/>
+<node id="-727" lat="44.907669856" lon="-93.075023234" visible="true"/>
+<node id="-729" lat="44.907690596" lon="-93.074207967" visible="true"/>
+<node id="-730" lat="44.907581992" lon="-93.074209811" visible="true"/>
+<node id="-731" lat="44.907582998" lon="-93.074335199" visible="true"/>
+<node id="-732" lat="44.907599536" lon="-93.07433513" visible="true"/>
+<node id="-733" lat="44.90760022" lon="-93.074425437" visible="true"/>
+<node id="-734" lat="44.907675749" lon="-93.07442404" visible="true"/>
+<node id="-735" lat="44.907675059" lon="-93.074330646" visible="true"/>
+<node id="-736" lat="44.907691596" lon="-93.07433023" visible="true"/>
+<node id="-738" lat="44.907693333" lon="-93.073984614" visible="true"/>
+<node id="-739" lat="44.907672354" lon="-93.073986091" visible="true"/>
+<node id="-740" lat="44.907670508" lon="-93.073917325" visible="true"/>
+<node id="-741" lat="44.907580396" lon="-93.073922219" visible="true"/>
+<node id="-742" lat="44.907586545" lon="-93.074144839" visible="true"/>
+<node id="-743" lat="44.907670487" lon="-93.07414032" visible="true"/>
+<node id="-744" lat="44.907668051" lon="-93.074051758" visible="true"/>
+<node id="-745" lat="44.907695226" lon="-93.074050215" visible="true"/>
+<node id="-747" lat="44.907700747" lon="-93.071195058" visible="true"/>
+<node id="-748" lat="44.907663724" lon="-93.071195909" visible="true"/>
+<node id="-749" lat="44.907664319" lon="-93.071242798" visible="true"/>
+<node id="-750" lat="44.907701096" lon="-93.071242295" visible="true"/>
+<node id="-752" lat="44.91177929" lon="-93.066957451" visible="true"/>
+<node id="-753" lat="44.911741499" lon="-93.066958308" visible="true"/>
+<node id="-754" lat="44.911742122" lon="-93.067005161" visible="true"/>
+<node id="-755" lat="44.911779886" lon="-93.067004305" visible="true"/>
+<node id="-757" lat="44.911779892" lon="-93.069422963" visible="true"/>
+<node id="-758" lat="44.911576155" lon="-93.069444489" visible="true"/>
+<node id="-759" lat="44.911586926" lon="-93.069589892" visible="true"/>
+<node id="-760" lat="44.911491887" lon="-93.069647461" visible="true"/>
+<node id="-761" lat="44.911516631" lon="-93.06973226" visible="true"/>
+<node id="-762" lat="44.911593336" lon="-93.069689626" visible="true"/>
+<node id="-763" lat="44.911596857" lon="-93.069721567" visible="true"/>
+<node id="-764" lat="44.911662853" lon="-93.069711689" visible="true"/>
+<node id="-765" lat="44.911654018" lon="-93.069572473" visible="true"/>
+<node id="-766" lat="44.911789214" lon="-93.06955672" visible="true"/>
+<node id="-768" lat="44.911740644" lon="-93.068382987" visible="true"/>
+<node id="-769" lat="44.911750951" lon="-93.068354769" visible="true"/>
+<node id="-770" lat="44.911676041" lon="-93.068300244" visible="true"/>
+<node id="-771" lat="44.911616683" lon="-93.06846133" visible="true"/>
+<node id="-772" lat="44.911695521" lon="-93.068518964" visible="true"/>
+<node id="-773" lat="44.911705583" lon="-93.068491866" visible="true"/>
+<node id="-774" lat="44.911767142" lon="-93.06853672" visible="true"/>
+<node id="-775" lat="44.911806159" lon="-93.068430645" visible="true"/>
+<node id="-777" lat="44.911776724" lon="-93.065669764" visible="true"/>
+<node id="-778" lat="44.911778631" lon="-93.065651692" visible="true"/>
+<node id="-779" lat="44.911691705" lon="-93.06563362" visible="true"/>
+<node id="-780" lat="44.911688318" lon="-93.065664937" visible="true"/>
+<node id="-781" lat="44.911615989" lon="-93.065649619" visible="true"/>
+<node id="-782" lat="44.911606048" lon="-93.065744147" visible="true"/>
+<node id="-783" lat="44.911815708" lon="-93.065788009" visible="true"/>
+<node id="-784" lat="44.911827074" lon="-93.065680314" visible="true"/>
+<node id="-786" lat="44.911751185" lon="-93.075280651" visible="true"/>
+<node id="-787" lat="44.911751462" lon="-93.075412302" visible="true"/>
+<node id="-788" lat="44.911832671" lon="-93.07541231" visible="true"/>
+<node id="-789" lat="44.911832636" lon="-93.075395598" visible="true"/>
+<node id="-790" lat="44.911884965" lon="-93.075395729" visible="true"/>
+<node id="-791" lat="44.911884722" lon="-93.075280094" visible="true"/>
+<node id="-793" lat="44.909726582" lon="-93.072114563" visible="true"/>
+<node id="-794" lat="44.909536768" lon="-93.072116098" visible="true"/>
+<node id="-795" lat="44.909536366" lon="-93.072173295" visible="true"/>
+<node id="-796" lat="44.909558517" lon="-93.072171338" visible="true"/>
+<node id="-797" lat="44.909558855" lon="-93.072208767" visible="true"/>
+<node id="-798" lat="44.90953669" lon="-93.072209164" visible="true"/>
+<node id="-799" lat="44.909537297" lon="-93.072248439" visible="true"/>
+<node id="-800" lat="44.909727112" lon="-93.072246941" visible="true"/>
+<node id="-802" lat="44.90971068" lon="-93.068338422" visible="true"/>
+<node id="-803" lat="44.909729683" lon="-93.068248891" visible="true"/>
+<node id="-804" lat="44.909691437" lon="-93.068232819" visible="true"/>
+<node id="-805" lat="44.909749918" lon="-93.067957245" visible="true"/>
+<node id="-806" lat="44.909679338" lon="-93.067927583" visible="true"/>
+<node id="-807" lat="44.909668036" lon="-93.067980839" visible="true"/>
+<node id="-808" lat="44.909529769" lon="-93.06792273" visible="true"/>
+<node id="-809" lat="44.909478676" lon="-93.068163481" visible="true"/>
+<node id="-810" lat="44.909574846" lon="-93.068203894" visible="true"/>
+<node id="-811" lat="44.909557249" lon="-93.068286818" visible="true"/>
+<node id="-812" lat="44.909584158" lon="-93.068298127" visible="true"/>
+<node id="-813" lat="44.909516658" lon="-93.068616181" visible="true"/>
+<node id="-814" lat="44.909652489" lon="-93.068673269" visible="true"/>
+<node id="-815" lat="44.909667071" lon="-93.068604568" visible="true"/>
+<node id="-816" lat="44.909731507" lon="-93.068634056" visible="true"/>
+<node id="-817" lat="44.909787404" lon="-93.068370666" visible="true"/>
+<node id="-820" lat="44.910035419" lon="-93.072946223" visible="true"/>
+<node id="-821" lat="44.910033006" lon="-93.072263713" visible="true"/>
+<node id="-822" lat="44.909920697" lon="-93.072264534" visible="true"/>
+<node id="-823" lat="44.909921155" lon="-93.072363182" visible="true"/>
+<node id="-824" lat="44.909812027" lon="-93.07236399" visible="true"/>
+<node id="-825" lat="44.909810746" lon="-93.071995101" visible="true"/>
+<node id="-826" lat="44.909450616" lon="-93.071997667" visible="true"/>
+<node id="-827" lat="44.909451923" lon="-93.072365859" visible="true"/>
+<node id="-828" lat="44.909464512" lon="-93.072365806" visible="true"/>
+<node id="-829" lat="44.909464589" lon="-93.072401891" visible="true"/>
+<node id="-830" lat="44.908966452" lon="-93.072405422" visible="true"/>
+<node id="-831" lat="44.908970645" lon="-93.073564172" visible="true"/>
+<node id="-832" lat="44.909269336" lon="-93.07356196" visible="true"/>
+<node id="-833" lat="44.909269667" lon="-93.073613077" visible="true"/>
+<node id="-834" lat="44.909262159" lon="-93.07364829" visible="true"/>
+<node id="-835" lat="44.909239391" lon="-93.073617168" visible="true"/>
+<node id="-836" lat="44.909170114" lon="-93.073710257" visible="true"/>
+<node id="-837" lat="44.909147444" lon="-93.073685485" visible="true"/>
+<node id="-838" lat="44.909066312" lon="-93.073798678" visible="true"/>
+<node id="-839" lat="44.90905832" lon="-93.073794176" visible="true"/>
+<node id="-840" lat="44.909053081" lon="-93.073851473" visible="true"/>
+<node id="-841" lat="44.909063193" lon="-93.073906856" visible="true"/>
+<node id="-842" lat="44.909083511" lon="-93.073941839" visible="true"/>
+<node id="-843" lat="44.909103395" lon="-93.073971285" visible="true"/>
+<node id="-844" lat="44.909130474" lon="-93.074001639" visible="true"/>
+<node id="-845" lat="44.909166455" lon="-93.074006717" visible="true"/>
+<node id="-846" lat="44.909212556" lon="-93.074006788" visible="true"/>
+<node id="-847" lat="44.909286998" lon="-93.073877123" visible="true"/>
+<node id="-848" lat="44.909267176" lon="-93.07384423" visible="true"/>
+<node id="-849" lat="44.909282682" lon="-93.073816103" visible="true"/>
+<node id="-850" lat="44.909333385" lon="-93.073747961" visible="true"/>
+<node id="-851" lat="44.90928902" lon="-93.073683975" visible="true"/>
+<node id="-852" lat="44.909302825" lon="-93.073655714" visible="true"/>
+<node id="-853" lat="44.909303403" lon="-93.073561708" visible="true"/>
+<node id="-854" lat="44.90951343" lon="-93.073560154" visible="true"/>
+<node id="-855" lat="44.909513573" lon="-93.073627541" visible="true"/>
+<node id="-856" lat="44.909733281" lon="-93.073625883" visible="true"/>
+<node id="-857" lat="44.90973314" lon="-93.073559231" visible="true"/>
+<node id="-858" lat="44.910037211" lon="-93.073557259" visible="true"/>
+<node id="-859" lat="44.910035311" lon="-93.073011219" visible="true"/>
+<node id="-860" lat="44.91006962" lon="-93.073011075" visible="true"/>
+<node id="-861" lat="44.910069482" lon="-93.07294608" visible="true"/>
+<node id="-865" lat="44.910617732" lon="-93.071902378" visible="true"/>
+<node id="-866" lat="44.910322985" lon="-93.071904707" visible="true"/>
+<node id="-867" lat="44.910322846" lon="-93.071839403" visible="true"/>
+<node id="-868" lat="44.910247097" lon="-93.071840072" visible="true"/>
+<node id="-869" lat="44.910247987" lon="-93.072025867" visible="true"/>
+<node id="-870" lat="44.910223304" lon="-93.072025971" visible="true"/>
+<node id="-871" lat="44.910223615" lon="-93.072056575" visible="true"/>
+<node id="-872" lat="44.910253482" lon="-93.072056449" visible="true"/>
+<node id="-873" lat="44.910254517" lon="-93.072310018" visible="true"/>
+<node id="-874" lat="44.910619555" lon="-93.072307087" visible="true"/>
+<node id="-876" lat="44.910342593" lon="-93.072186333" visible="true"/>
+<node id="-877" lat="44.91034183" lon="-93.072059511" visible="true"/>
+<node id="-878" lat="44.910532876" lon="-93.072057005" visible="true"/>
+<node id="-879" lat="44.910533639" lon="-93.072183789" visible="true"/>
+<node id="-881" lat="44.91067379" lon="-93.071977879" visible="true"/>
+<node id="-882" lat="44.910673885" lon="-93.072260087" visible="true"/>
+<node id="-883" lat="44.91075535" lon="-93.072259392" visible="true"/>
+<node id="-884" lat="44.910755254" lon="-93.071977823" visible="true"/>
+<node id="-886" lat="44.910825519" lon="-93.067653282" visible="true"/>
+<node id="-887" lat="44.91081942" lon="-93.067686309" visible="true"/>
+<node id="-888" lat="44.910722582" lon="-93.0676506" visible="true"/>
+<node id="-889" lat="44.910699892" lon="-93.067772622" visible="true"/>
+<node id="-890" lat="44.910843446" lon="-93.067825497" visible="true"/>
+<node id="-891" lat="44.910872209" lon="-93.067670759" visible="true"/>
+<node id="-893" lat="44.910883014" lon="-93.067418101" visible="true"/>
+<node id="-894" lat="44.910857098" lon="-93.067418908" visible="true"/>
+<node id="-895" lat="44.910857952" lon="-93.06747101" visible="true"/>
+<node id="-896" lat="44.910883622" lon="-93.067470551" visible="true"/>
+<node id="-898" lat="44.91194387" lon="-93.074520842" visible="true"/>
+<node id="-899" lat="44.911890282" lon="-93.074522109" visible="true"/>
+<node id="-900" lat="44.911890869" lon="-93.074566569" visible="true"/>
+<node id="-901" lat="44.911944457" lon="-93.074565304" visible="true"/>
+<node id="-903" lat="44.911947947" lon="-93.074711532" visible="true"/>
+<node id="-904" lat="44.911894663" lon="-93.074714186" visible="true"/>
+<node id="-905" lat="44.91189575" lon="-93.074761386" visible="true"/>
+<node id="-906" lat="44.911949035" lon="-93.074759117" visible="true"/>
+<node id="-908" lat="44.911960539" lon="-93.075063712" visible="true"/>
+<node id="-909" lat="44.91190451" lon="-93.075064989" visible="true"/>
+<node id="-910" lat="44.911905164" lon="-93.075141408" visible="true"/>
+<node id="-911" lat="44.911961441" lon="-93.075140477" visible="true"/>
+<node id="-913" lat="44.912015442" lon="-93.071972233" visible="true"/>
+<node id="-914" lat="44.911939667" lon="-93.071973904" visible="true"/>
+<node id="-915" lat="44.911940615" lon="-93.072070816" visible="true"/>
+<node id="-916" lat="44.912016636" lon="-93.072069105" visible="true"/>
+<node id="-918" lat="44.912028049" lon="-93.067286379" visible="true"/>
+<node id="-919" lat="44.911928608" lon="-93.06728924" visible="true"/>
+<node id="-920" lat="44.911931781" lon="-93.067512585" visible="true"/>
+<node id="-921" lat="44.912031251" lon="-93.067509725" visible="true"/>
+<node id="-923" lat="44.912044938" lon="-93.07349211" visible="true"/>
+<node id="-924" lat="44.911971187" lon="-93.073495388" visible="true"/>
+<node id="-925" lat="44.911974054" lon="-93.073596364" visible="true"/>
+<node id="-926" lat="44.912047204" lon="-93.073593115" visible="true"/>
+<node id="-928" lat="44.9120588" lon="-93.071124465" visible="true"/>
+<node id="-929" lat="44.912020789" lon="-93.071125668" visible="true"/>
+<node id="-930" lat="44.9120211" lon="-93.07115554" visible="true"/>
+<node id="-931" lat="44.912059111" lon="-93.071154336" visible="true"/>
+<node id="-933" lat="44.912096443" lon="-93.07373061" visible="true"/>
+<node id="-934" lat="44.912039183" lon="-93.073733649" visible="true"/>
+<node id="-935" lat="44.912039804" lon="-93.073793742" visible="true"/>
+<node id="-936" lat="44.912098549" lon="-93.0737928" visible="true"/>
+<node id="-938" lat="44.912097842" lon="-93.073808434" visible="true"/>
+<node id="-939" lat="44.912036141" lon="-93.073812169" visible="true"/>
+<node id="-940" lat="44.91203774" lon="-93.073867702" visible="true"/>
+<node id="-941" lat="44.912099687" lon="-93.073863658" visible="true"/>
+<node id="-943" lat="44.912115293" lon="-93.073424131" visible="true"/>
+<node id="-944" lat="44.912081481" lon="-93.073426396" visible="true"/>
+<node id="-945" lat="44.912082538" lon="-93.073459353" visible="true"/>
+<node id="-946" lat="44.912116351" lon="-93.073457513" visible="true"/>
+<node id="-948" lat="44.912173221" lon="-93.06809594" visible="true"/>
+<node id="-949" lat="44.912172294" lon="-93.068010143" visible="true"/>
+<node id="-950" lat="44.912109627" lon="-93.068011107" visible="true"/>
+<node id="-951" lat="44.912110567" lon="-93.068115662" visible="true"/>
+<node id="-952" lat="44.912076752" lon="-93.068116503" visible="true"/>
+<node id="-953" lat="44.912077672" lon="-93.06819952" visible="true"/>
+<node id="-954" lat="44.912106551" lon="-93.068199048" visible="true"/>
+<node id="-955" lat="44.912106867" lon="-93.068231314" visible="true"/>
+<node id="-956" lat="44.912183906" lon="-93.068229941" visible="true"/>
+<node id="-957" lat="44.912185771" lon="-93.068185855" visible="true"/>
+<node id="-958" lat="44.912187289" lon="-93.068095532" visible="true"/>
+<node id="-960" lat="44.912187287" lon="-93.068322019" visible="true"/>
+<node id="-961" lat="44.912077942" lon="-93.068323877" visible="true"/>
+<node id="-962" lat="44.912079855" lon="-93.068510755" visible="true"/>
+<node id="-963" lat="44.912188925" lon="-93.068508859" visible="true"/>
+<node id="-965" lat="44.91220383" lon="-93.073853149" visible="true"/>
+<node id="-966" lat="44.912120402" lon="-93.07385454" visible="true"/>
+<node id="-967" lat="44.912121402" lon="-93.073963958" visible="true"/>
+<node id="-968" lat="44.912205049" lon="-93.073962527" visible="true"/>
+<node id="-970" lat="44.912201755" lon="-93.072644304" visible="true"/>
+<node id="-971" lat="44.912136594" lon="-93.072645621" visible="true"/>
+<node id="-972" lat="44.912136301" lon="-93.072624394" visible="true"/>
+<node id="-973" lat="44.912087951" lon="-93.072625291" visible="true"/>
+<node id="-974" lat="44.912089522" lon="-93.072796578" visible="true"/>
+<node id="-975" lat="44.912116425" lon="-93.07279577" visible="true"/>
+<node id="-976" lat="44.912116781" lon="-93.072847179" visible="true"/>
+<node id="-977" lat="44.912203418" lon="-93.072845425" visible="true"/>
+<node id="-979" lat="44.912201323" lon="-93.072325071" visible="true"/>
+<node id="-980" lat="44.912121351" lon="-93.072326797" visible="true"/>
+<node id="-981" lat="44.912121377" lon="-93.072338917" visible="true"/>
+<node id="-982" lat="44.912091757" lon="-93.072339389" visible="true"/>
+<node id="-983" lat="44.912092114" lon="-93.072391146" visible="true"/>
+<node id="-984" lat="44.912119512" lon="-93.072390684" visible="true"/>
+<node id="-985" lat="44.912120142" lon="-93.072454289" visible="true"/>
+<node id="-986" lat="44.912202582" lon="-93.072452898" visible="true"/>
+<node id="-988" lat="44.912199372" lon="-93.071181531" visible="true"/>
+<node id="-989" lat="44.912106566" lon="-93.071183623" visible="true"/>
+<node id="-990" lat="44.91210689" lon="-93.071219787" visible="true"/>
+<node id="-991" lat="44.912090873" lon="-93.071219855" visible="true"/>
+<node id="-992" lat="44.912092111" lon="-93.071336565" visible="true"/>
+<node id="-993" lat="44.912106399" lon="-93.071336158" visible="true"/>
+<node id="-994" lat="44.912107016" lon="-93.071393819" visible="true"/>
+<node id="-995" lat="44.9121843" lon="-93.071392064" visible="true"/>
+<node id="-996" lat="44.912183052" lon="-93.071283381" visible="true"/>
+<node id="-997" lat="44.91220033" lon="-93.071282959" visible="true"/>
+<node id="-999" lat="44.912201621" lon="-93.071425029" visible="true"/>
+<node id="-1000" lat="44.912123378" lon="-93.07142706" visible="true"/>
+<node id="-1001" lat="44.912126011" lon="-93.071619182" visible="true"/>
+<node id="-1002" lat="44.912204253" lon="-93.071617075" visible="true"/>
+<node id="-1004" lat="44.912205572" lon="-93.072118715" visible="true"/>
+<node id="-1005" lat="44.91211773" lon="-93.072120436" visible="true"/>
+<node id="-1006" lat="44.912119003" lon="-93.072267408" visible="true"/>
+<node id="-1007" lat="44.912201197" lon="-93.072266017" visible="true"/>
+<node id="-1008" lat="44.912200597" lon="-93.072216655" visible="true"/>
+<node id="-1009" lat="44.912206522" lon="-93.07221663" visible="true"/>
+<node id="-1011" lat="44.912216118" lon="-93.074631905" visible="true"/>
+<node id="-1012" lat="44.912207945" lon="-93.074631939" visible="true"/>
+<node id="-1013" lat="44.912207375" lon="-93.074595429" visible="true"/>
+<node id="-1014" lat="44.912128664" lon="-93.074597147" visible="true"/>
+<node id="-1015" lat="44.912128989" lon="-93.074633658" visible="true"/>
+<node id="-1016" lat="44.912141331" lon="-93.074633607" visible="true"/>
+<node id="-1017" lat="44.912142227" lon="-93.074707592" visible="true"/>
+<node id="-1018" lat="44.912209117" lon="-93.074706271" visible="true"/>
+<node id="-1019" lat="44.91220876" lon="-93.074666672" visible="true"/>
+<node id="-1020" lat="44.912216438" lon="-93.074666641" visible="true"/>
+<node id="-1022" lat="44.91221619" lon="-93.074445018" visible="true"/>
+<node id="-1023" lat="44.912207057" lon="-93.074445404" visible="true"/>
+<node id="-1024" lat="44.91220647" lon="-93.07440129" visible="true"/>
+<node id="-1025" lat="44.91213341" lon="-93.074402638" visible="true"/>
+<node id="-1026" lat="44.912133432" lon="-93.07441302" visible="true"/>
+<node id="-1027" lat="44.912103594" lon="-93.07441384" visible="true"/>
+<node id="-1028" lat="44.912104247" lon="-93.074489603" visible="true"/>
+<node id="-1029" lat="44.912128436" lon="-93.074489154" visible="true"/>
+<node id="-1030" lat="44.912128505" lon="-93.07452146" visible="true"/>
+<node id="-1031" lat="44.912207462" lon="-93.074520086" visible="true"/>
+<node id="-1032" lat="44.912207141" lon="-93.074485004" visible="true"/>
+<node id="-1033" lat="44.91221652" lon="-93.074484617" visible="true"/>
+<node id="-1035" lat="44.912222731" lon="-93.075192534" visible="true"/>
+<node id="-1036" lat="44.912207894" lon="-93.075192945" visible="true"/>
+<node id="-1037" lat="44.912207577" lon="-93.07515925" visible="true"/>
+<node id="-1038" lat="44.91210465" lon="-93.075161031" visible="true"/>
+<node id="-1039" lat="44.912105668" lon="-93.075279519" visible="true"/>
+<node id="-1040" lat="44.912214243" lon="-93.075277677" visible="true"/>
+<node id="-1041" lat="44.91221395" lon="-93.075255059" visible="true"/>
+<node id="-1042" lat="44.912223109" lon="-93.075254713" visible="true"/>
+<node id="-1044" lat="44.912218907" lon="-93.073629725" visible="true"/>
+<node id="-1045" lat="44.912094258" lon="-93.073631599" visible="true"/>
+<node id="-1046" lat="44.912130501" lon="-93.073728017" visible="true"/>
+<node id="-1047" lat="44.912130803" lon="-93.073754415" visible="true"/>
+<node id="-1048" lat="44.912219935" lon="-93.073752998" visible="true"/>
+<node id="-1050" lat="44.90784901" lon="-93.073909629" visible="true"/>
+<node id="-1051" lat="44.907826329" lon="-93.073910033" visible="true"/>
+<node id="-1052" lat="44.907826929" lon="-93.07395974" visible="true"/>
+<node id="-1053" lat="44.907849609" lon="-93.073959297" visible="true"/>
+<node id="-1055" lat="44.907839753" lon="-93.072457417" visible="true"/>
+<node id="-1056" lat="44.907814356" lon="-93.072469989" visible="true"/>
+<node id="-1057" lat="44.907825064" lon="-93.072514095" visible="true"/>
+<node id="-1058" lat="44.907850708" lon="-93.072501483" visible="true"/>
+<node id="-1060" lat="44.907874749" lon="-93.07254754" visible="true"/>
+<node id="-1061" lat="44.907845649" lon="-93.072559511" visible="true"/>
+<node id="-1062" lat="44.907854653" lon="-93.072602197" visible="true"/>
+<node id="-1063" lat="44.90788348" lon="-93.072590226" visible="true"/>
+<node id="-1065" lat="44.908097165" lon="-93.071629643" visible="true"/>
+<node id="-1066" lat="44.908056219" lon="-93.071630512" visible="true"/>
+<node id="-1067" lat="44.908055233" lon="-93.071528396" visible="true"/>
+<node id="-1068" lat="44.907969612" lon="-93.071530108" visible="true"/>
+<node id="-1069" lat="44.907971543" lon="-93.071753137" visible="true"/>
+<node id="-1070" lat="44.908098165" lon="-93.071750864" visible="true"/>
+<node id="-1072" lat="44.908096779" lon="-93.071334053" visible="true"/>
+<node id="-1073" lat="44.908053831" lon="-93.071334929" visible="true"/>
+<node id="-1074" lat="44.908052893" lon="-93.07124254" visible="true"/>
+<node id="-1075" lat="44.907971688" lon="-93.071244235" visible="true"/>
+<node id="-1076" lat="44.907972968" lon="-93.071381122" visible="true"/>
+<node id="-1077" lat="44.907940881" lon="-93.071381607" visible="true"/>
+<node id="-1078" lat="44.907941524" lon="-93.071451766" visible="true"/>
+<node id="-1079" lat="44.908097766" lon="-93.071449021" visible="true"/>
+<node id="-1081" lat="44.908096704" lon="-93.070953361" visible="true"/>
+<node id="-1082" lat="44.907999728" lon="-93.070955161" visible="true"/>
+<node id="-1083" lat="44.908000082" lon="-93.071004484" visible="true"/>
+<node id="-1084" lat="44.907967473" lon="-93.071005318" visible="true"/>
+<node id="-1085" lat="44.90796812" lon="-93.071064363" visible="true"/>
+<node id="-1086" lat="44.908005638" lon="-93.071063509" visible="true"/>
+<node id="-1087" lat="44.908006299" lon="-93.071141311" visible="true"/>
+<node id="-1088" lat="44.908098365" lon="-93.071139494" visible="true"/>
+<node id="-1090" lat="44.908099547" lon="-93.071923142" visible="true"/>
+<node id="-1091" lat="44.908062249" lon="-93.071923647" visible="true"/>
+<node id="-1092" lat="44.908061288" lon="-93.071820489" visible="true"/>
+<node id="-1093" lat="44.907987733" lon="-93.071821842" visible="true"/>
+<node id="-1094" lat="44.907988716" lon="-93.071922182" visible="true"/>
+<node id="-1095" lat="44.907967461" lon="-93.071922621" visible="true"/>
+<node id="-1096" lat="44.907968704" lon="-93.072042141" visible="true"/>
+<node id="-1097" lat="44.908100784" lon="-93.072039846" visible="true"/>
+<node id="-1099" lat="44.908361403" lon="-93.072947407" visible="true"/>
+<node id="-1100" lat="44.908317975" lon="-93.072954499" visible="true"/>
+<node id="-1101" lat="44.908321494" lon="-93.072997556" visible="true"/>
+<node id="-1102" lat="44.908364923" lon="-93.072990463" visible="true"/>
+<node id="-1104" lat="44.908536201" lon="-93.070654857" visible="true"/>
+<node id="-1105" lat="44.908506307" lon="-93.070654985" visible="true"/>
+<node id="-1106" lat="44.908506203" lon="-93.070606704" visible="true"/>
+<node id="-1107" lat="44.908415615" lon="-93.070607437" visible="true"/>
+<node id="-1108" lat="44.908416767" lon="-93.070914141" visible="true"/>
+<node id="-1109" lat="44.908507108" lon="-93.07091341" visible="true"/>
+<node id="-1110" lat="44.908506502" lon="-93.070745642" visible="true"/>
+<node id="-1111" lat="44.908536614" lon="-93.070745168" visible="true"/>
+<node id="-1113" lat="44.908545905" lon="-93.071624925" visible="true"/>
+<node id="-1114" lat="44.908533563" lon="-93.071625365" visible="true"/>
+<node id="-1115" lat="44.908531402" lon="-93.071525685" visible="true"/>
+<node id="-1116" lat="44.908458319" lon="-93.071529081" visible="true"/>
+<node id="-1117" lat="44.908460506" lon="-93.071628453" visible="true"/>
+<node id="-1118" lat="44.908423977" lon="-93.071629996" visible="true"/>
+<node id="-1119" lat="44.908426995" lon="-93.071758155" visible="true"/>
+<node id="-1120" lat="44.908548646" lon="-93.071752778" visible="true"/>
+<node id="-1122" lat="44.908557724" lon="-93.071842704" visible="true"/>
+<node id="-1123" lat="44.908422464" lon="-93.07184536" visible="true"/>
+<node id="-1124" lat="44.908424073" lon="-93.072021111" visible="true"/>
+<node id="-1125" lat="44.90847171" lon="-93.072020216" visible="true"/>
+<node id="-1126" lat="44.908472059" lon="-93.072067763" visible="true"/>
+<node id="-1127" lat="44.908551564" lon="-93.072066036" visible="true"/>
+<node id="-1128" lat="44.908550278" lon="-93.071926446" visible="true"/>
+<node id="-1129" lat="44.908558397" lon="-93.071926412" visible="true"/>
+<node id="-1131" lat="44.908557404" lon="-93.071231717" visible="true"/>
+<node id="-1132" lat="44.908446833" lon="-93.071237047" visible="true"/>
+<node id="-1133" lat="44.908449262" lon="-93.071333949" visible="true"/>
+<node id="-1134" lat="44.90841693" lon="-93.071335475" visible="true"/>
+<node id="-1135" lat="44.908419937" lon="-93.071459079" visible="true"/>
+<node id="-1136" lat="44.908539612" lon="-93.071453053" visible="true"/>
+<node id="-1137" lat="44.908536681" lon="-93.071339135" visible="true"/>
+<node id="-1138" lat="44.90852678" lon="-93.071339524" visible="true"/>
+<node id="-1139" lat="44.908526233" lon="-93.071314517" visible="true"/>
+<node id="-1140" lat="44.908559306" lon="-93.071312988" visible="true"/>
+<node id="-1142" lat="44.908732754" lon="-93.071161154" visible="true"/>
+<node id="-1143" lat="44.908707826" lon="-93.071161955" visible="true"/>
+<node id="-1144" lat="44.908708419" lon="-93.071208498" visible="true"/>
+<node id="-1145" lat="44.908733622" lon="-93.071207696" visible="true"/>
+<node id="-1147" lat="44.91037099" lon="-93.073816377" visible="true"/>
+<node id="-1148" lat="44.91029719" lon="-93.073818424" visible="true"/>
+<node id="-1149" lat="44.910298373" lon="-93.073910816" visible="true"/>
+<node id="-1150" lat="44.910372173" lon="-93.073908731" visible="true"/>
+<node id="-1153" lat="44.911262026" lon="-93.068040454" visible="true"/>
+<node id="-1154" lat="44.91122546" lon="-93.068138531" visible="true"/>
+<node id="-1155" lat="44.911257382" lon="-93.0681624" visible="true"/>
+<node id="-1156" lat="44.911246555" lon="-93.068191239" visible="true"/>
+<node id="-1157" lat="44.911280179" lon="-93.068215796" visible="true"/>
+<node id="-1158" lat="44.911275271" lon="-93.06822867" visible="true"/>
+<node id="-1159" lat="44.911355867" lon="-93.068288071" visible="true"/>
+<node id="-1160" lat="44.911407894" lon="-93.068148168" visible="true"/>
+<node id="-1162" lat="44.911005465" lon="-93.073753122" visible="true"/>
+<node id="-1163" lat="44.911007068" lon="-93.07383152" visible="true"/>
+<node id="-1164" lat="44.911121306" lon="-93.073831388" visible="true"/>
+<node id="-1165" lat="44.911121261" lon="-93.073752988" visible="true"/>
+<node id="-1167" lat="44.906442648" lon="-93.073873115" visible="true"/>
+<node id="-1168" lat="44.906442663" lon="-93.073996459" visible="true"/>
+<node id="-1169" lat="44.90658284" lon="-93.073996912" visible="true"/>
+<node id="-1170" lat="44.906582825" lon="-93.073873569" visible="true"/>
+<node id="-1172" lat="44.90666386" lon="-93.070654482" visible="true"/>
+<node id="-1173" lat="44.906598671" lon="-93.070655801" visible="true"/>
+<node id="-1174" lat="44.906598942" lon="-93.070667261" visible="true"/>
+<node id="-1175" lat="44.906498978" lon="-93.070669037" visible="true"/>
+<node id="-1176" lat="44.90650024" lon="-93.070797238" visible="true"/>
+<node id="-1177" lat="44.906523195" lon="-93.070796793" visible="true"/>
+<node id="-1178" lat="44.906523849" lon="-93.070871468" visible="true"/>
+<node id="-1179" lat="44.906648743" lon="-93.070869202" visible="true"/>
+<node id="-1180" lat="44.90665098" lon="-93.070818828" visible="true"/>
+<node id="-1181" lat="44.906653205" lon="-93.070762857" visible="true"/>
+<node id="-1182" lat="44.906664806" lon="-93.070762499" visible="true"/>
+<node id="-1184" lat="44.906674692" lon="-93.072602657" visible="true"/>
+<node id="-1185" lat="44.906606813" lon="-93.072603638" visible="true"/>
+<node id="-1186" lat="44.90660679" lon="-93.072592523" visible="true"/>
+<node id="-1187" lat="44.90648162" lon="-93.07259444" visible="true"/>
+<node id="-1188" lat="44.906482387" lon="-93.072709715" visible="true"/>
+<node id="-1189" lat="44.906610963" lon="-93.072710775" visible="true"/>
+<node id="-1190" lat="44.906675639" lon="-93.072712759" visible="true"/>
+<node id="-1192" lat="44.906674262" lon="-93.071028175" visible="true"/>
+<node id="-1193" lat="44.906633809" lon="-93.07102904" visible="true"/>
+<node id="-1194" lat="44.906632604" lon="-93.070926927" visible="true"/>
+<node id="-1195" lat="44.90654989" lon="-93.070928976" visible="true"/>
+<node id="-1196" lat="44.906551096" lon="-93.071031474" visible="true"/>
+<node id="-1197" lat="44.906504228" lon="-93.071032369" visible="true"/>
+<node id="-1198" lat="44.906505708" lon="-93.071160183" visible="true"/>
+<node id="-1199" lat="44.906631343" lon="-93.071157566" visible="true"/>
+<node id="-1200" lat="44.906630993" lon="-93.071109635" visible="true"/>
+<node id="-1201" lat="44.906675175" lon="-93.071108753" visible="true"/>
+<node id="-1203" lat="44.906818332" lon="-93.071091819" visible="true"/>
+<node id="-1204" lat="44.906783501" lon="-93.071092277" visible="true"/>
+<node id="-1205" lat="44.906783568" lon="-93.071123575" visible="true"/>
+<node id="-1206" lat="44.906818646" lon="-93.071123079" visible="true"/>
+<node id="-1208" lat="44.906973874" lon="-93.071800428" visible="true"/>
+<node id="-1209" lat="44.906950892" lon="-93.071801221" visible="true"/>
+<node id="-1210" lat="44.906951473" lon="-93.071841857" visible="true"/>
+<node id="-1211" lat="44.906974454" lon="-93.071841065" visible="true"/>
+<node id="-1213" lat="44.907039451" lon="-93.073862622" visible="true"/>
+<node id="-1214" lat="44.906892616" lon="-93.073865708" visible="true"/>
+<node id="-1215" lat="44.906893898" lon="-93.074017839" visible="true"/>
+<node id="-1216" lat="44.906962517" lon="-93.074016855" visible="true"/>
+<node id="-1217" lat="44.906962199" lon="-93.073983125" visible="true"/>
+<node id="-1218" lat="44.907040717" lon="-93.073981793" visible="true"/>
+<node id="-1220" lat="44.907167848" lon="-93.071333128" visible="true"/>
+<node id="-1221" lat="44.907140477" lon="-93.071333592" visible="true"/>
+<node id="-1222" lat="44.907139229" lon="-93.071211334" visible="true"/>
+<node id="-1223" lat="44.907056267" lon="-93.071213035" visible="true"/>
+<node id="-1224" lat="44.907057256" lon="-93.071328735" visible="true"/>
+<node id="-1225" lat="44.907038744" lon="-93.07132916" visible="true"/>
+<node id="-1226" lat="44.907039753" lon="-93.071454893" visible="true"/>
+<node id="-1227" lat="44.907169091" lon="-93.071452261" visible="true"/>
+<node id="-1229" lat="44.907240239" lon="-93.073914615" visible="true"/>
+<node id="-1230" lat="44.907156071" lon="-93.073916357" visible="true"/>
+<node id="-1231" lat="44.907156725" lon="-93.073991689" visible="true"/>
+<node id="-1232" lat="44.907140927" lon="-93.073992102" visible="true"/>
+<node id="-1233" lat="44.907141594" lon="-93.074073416" visible="true"/>
+<node id="-1234" lat="44.907157911" lon="-93.074073" visible="true"/>
+<node id="-1235" lat="44.907158506" lon="-93.07412093" visible="true"/>
+<node id="-1236" lat="44.907170602" lon="-93.07412088" visible="true"/>
+<node id="-1237" lat="44.90717128" lon="-93.074208369" visible="true"/>
+<node id="-1238" lat="44.907242833" lon="-93.074207064" visible="true"/>
+<node id="-1240" lat="44.907243141" lon="-93.074703377" visible="true"/>
+<node id="-1241" lat="44.907194023" lon="-93.074704277" visible="true"/>
+<node id="-1242" lat="44.907193058" lon="-93.074598034" visible="true"/>
+<node id="-1243" lat="44.907116322" lon="-93.074599358" visible="true"/>
+<node id="-1244" lat="44.907118243" lon="-93.074820993" visible="true"/>
+<node id="-1245" lat="44.907244372" lon="-93.074818728" visible="true"/>
+<node id="-1247" lat="44.907244748" lon="-93.074399447" visible="true"/>
+<node id="-1248" lat="44.907186717" lon="-93.074400732" visible="true"/>
+<node id="-1249" lat="44.907186022" lon="-93.074305214" visible="true"/>
+<node id="-1250" lat="44.907095683" lon="-93.074307022" visible="true"/>
+<node id="-1251" lat="44.907097315" lon="-93.074482075" visible="true"/>
+<node id="-1252" lat="44.907169361" lon="-93.074480731" visible="true"/>
+<node id="-1253" lat="44.907169648" lon="-93.074499833" visible="true"/>
+<node id="-1254" lat="44.907245451" lon="-93.074498473" visible="true"/>
+<node id="-1256" lat="44.907295966" lon="-93.073305797" visible="true"/>
+<node id="-1257" lat="44.907288069" lon="-93.073306179" visible="true"/>
+<node id="-1258" lat="44.907286883" lon="-93.073199935" visible="true"/>
+<node id="-1259" lat="44.907149895" lon="-93.073202943" visible="true"/>
+<node id="-1260" lat="44.907151427" lon="-93.073343263" visible="true"/>
+<node id="-1261" lat="44.907210145" lon="-93.073342321" visible="true"/>
+<node id="-1262" lat="44.907210758" lon="-93.073398588" visible="true"/>
+<node id="-1263" lat="44.9072969" lon="-93.073396836" visible="true"/>
+<node id="-1265" lat="44.907282392" lon="-93.072609781" visible="true"/>
+<node id="-1266" lat="44.907246649" lon="-93.072632548" visible="true"/>
+<node id="-1267" lat="44.90723348" lon="-93.072591965" visible="true"/>
+<node id="-1268" lat="44.907211323" lon="-93.072606299" visible="true"/>
+<node id="-1269" lat="44.907200362" lon="-93.072572653" visible="true"/>
+<node id="-1270" lat="44.907139478" lon="-93.072612122" visible="true"/>
+<node id="-1271" lat="44.90719864" lon="-93.072793879" visible="true"/>
+<node id="-1272" lat="44.907317425" lon="-93.072717349" visible="true"/>
+<node id="-1274" lat="44.911822988" lon="-93.075033718" visible="true"/>
+<node id="-1275" lat="44.911723763" lon="-93.075035522" visible="true"/>
+<node id="-1276" lat="44.911724718" lon="-93.075136912" visible="true"/>
+<node id="-1277" lat="44.911823695" lon="-93.075135456" visible="true"/>
+<node id="-1279" lat="44.911864519" lon="-93.06833869" visible="true"/>
+<node id="-1280" lat="44.911863896" lon="-93.068389078" visible="true"/>
+<node id="-1281" lat="44.911891603" lon="-93.068389662" visible="true"/>
+<node id="-1282" lat="44.911892177" lon="-93.06833939" visible="true"/>
+<node id="-1284" lat="44.911936602" lon="-93.067005405" visible="true"/>
+<node id="-1285" lat="44.911836637" lon="-93.067007224" visible="true"/>
+<node id="-1286" lat="44.911836971" lon="-93.067047479" visible="true"/>
+<node id="-1287" lat="44.911770328" lon="-93.067048461" visible="true"/>
+<node id="-1288" lat="44.91177192" lon="-93.067213107" visible="true"/>
+<node id="-1289" lat="44.911857816" lon="-93.067211387" visible="true"/>
+<node id="-1290" lat="44.911856836" lon="-93.067101275" visible="true"/>
+<node id="-1291" lat="44.911937548" lon="-93.067099498" visible="true"/>
+<node id="-1293" lat="44.910967128" lon="-93.067741549" visible="true"/>
+<node id="-1294" lat="44.91096099" lon="-93.067886576" visible="true"/>
+<node id="-1295" lat="44.911076696" lon="-93.067896276" visible="true"/>
+<node id="-1296" lat="44.911077906" lon="-93.06786769" visible="true"/>
+<node id="-1297" lat="44.911145428" lon="-93.067873352" visible="true"/>
+<node id="-1298" lat="44.911145833" lon="-93.067756531" visible="true"/>
+<node id="-1300" lat="44.910899254" lon="-93.072471683" visible="true"/>
+<node id="-1301" lat="44.910890261" lon="-93.072636434" visible="true"/>
+<node id="-1302" lat="44.91123734" lon="-93.072635147" visible="true"/>
+<node id="-1303" lat="44.911237032" lon="-93.072470431" visible="true"/>
+<node id="-1305" lat="44.911696236" lon="-93.066916472" visible="true"/>
+<node id="-1306" lat="44.911638479" lon="-93.066917416" visible="true"/>
+<node id="-1307" lat="44.911639138" lon="-93.066993487" visible="true"/>
+<node id="-1308" lat="44.911696895" lon="-93.066992543" visible="true"/>
+<node id="-1310" lat="44.911993757" lon="-93.075248336" visible="true"/>
+<node id="-1311" lat="44.911929828" lon="-93.075249298" visible="true"/>
+<node id="-1312" lat="44.911930518" lon="-93.075342081" visible="true"/>
+<node id="-1313" lat="44.911994719" lon="-93.075340772" visible="true"/>
+<node id="-1315" lat="44.912036176" lon="-93.072087781" visible="true"/>
+<node id="-1316" lat="44.911967804" lon="-93.072088803" visible="true"/>
+<node id="-1317" lat="44.911968199" lon="-93.072158275" visible="true"/>
+<node id="-1318" lat="44.912036817" lon="-93.072156905" visible="true"/>
+<node id="-1320" lat="44.91204912" lon="-93.073996528" visible="true"/>
+<node id="-1321" lat="44.911990128" lon="-93.07399747" visible="true"/>
+<node id="-1322" lat="44.91199105" lon="-93.074083306" visible="true"/>
+<node id="-1323" lat="44.912049794" lon="-93.074082018" visible="true"/>
+<node id="-1325" lat="44.911993152" lon="-93.072284612" visible="true"/>
+<node id="-1326" lat="44.911992804" lon="-93.072352351" visible="true"/>
+<node id="-1327" lat="44.912050839" lon="-93.072353147" visible="true"/>
+<node id="-1328" lat="44.91205116" lon="-93.072285062" visible="true"/>
+<node id="-1330" lat="44.912060918" lon="-93.074906977" visible="true"/>
+<node id="-1331" lat="44.912009577" lon="-93.074907887" visible="true"/>
+<node id="-1332" lat="44.912009922" lon="-93.074954085" visible="true"/>
+<node id="-1333" lat="44.912061536" lon="-93.074953136" visible="true"/>
+<node id="-1335" lat="44.912067284" lon="-93.073250647" visible="true"/>
+<node id="-1336" lat="44.91201323" lon="-93.073251569" visible="true"/>
+<node id="-1337" lat="44.912013594" lon="-93.073307186" visible="true"/>
+<node id="-1338" lat="44.912067648" lon="-93.073305917" visible="true"/>
+<node id="-1340" lat="44.912092492" lon="-93.07431284" visible="true"/>
+<node id="-1341" lat="44.912037943" lon="-93.074313763" visible="true"/>
+<node id="-1342" lat="44.912038563" lon="-93.07437351" visible="true"/>
+<node id="-1343" lat="44.912093111" lon="-93.074372239" visible="true"/>
+<node id="-1345" lat="44.912027456" lon="-93.071587643" visible="true"/>
+<node id="-1346" lat="44.912027405" lon="-93.071678963" visible="true"/>
+<node id="-1347" lat="44.912097505" lon="-93.071679012" visible="true"/>
+<node id="-1348" lat="44.912097584" lon="-93.071587345" visible="true"/>
+<node id="-1350" lat="44.912122548" lon="-93.067494742" visible="true"/>
+<node id="-1351" lat="44.912054426" lon="-93.067497119" visible="true"/>
+<node id="-1352" lat="44.912056114" lon="-93.06759264" visible="true"/>
+<node id="-1353" lat="44.912124237" lon="-93.067590609" visible="true"/>
+<node id="-1355" lat="44.912181428" lon="-93.067783618" visible="true"/>
+<node id="-1356" lat="44.91215776" lon="-93.067784066" visible="true"/>
+<node id="-1357" lat="44.912157465" lon="-93.06776145" visible="true"/>
+<node id="-1358" lat="44.912174961" lon="-93.067761028" visible="true"/>
+<node id="-1359" lat="44.912174334" lon="-93.067699236" visible="true"/>
+<node id="-1360" lat="44.912114876" lon="-93.067700148" visible="true"/>
+<node id="-1361" lat="44.91211577" lon="-93.0677839" visible="true"/>
+<node id="-1362" lat="44.912106638" lon="-93.067784286" visible="true"/>
+<node id="-1363" lat="44.912107931" lon="-93.067924619" visible="true"/>
+<node id="-1364" lat="44.912182746" lon="-93.067923256" visible="true"/>
+<node id="-1366" lat="44.912205034" lon="-93.075344758" visible="true"/>
+<node id="-1367" lat="44.912103565" lon="-93.07534933" visible="true"/>
+<node id="-1368" lat="44.912011505" lon="-93.075353901" visible="true"/>
+<node id="-1369" lat="44.912011965" lon="-93.075455332" visible="true"/>
+<node id="-1370" lat="44.912162065" lon="-93.075453664" visible="true"/>
+<node id="-1371" lat="44.912162107" lon="-93.075473427" visible="true"/>
+<node id="-1372" lat="44.912205796" lon="-93.075472896" visible="true"/>
+<node id="-1374" lat="44.912202379" lon="-93.073285898" visible="true"/>
+<node id="-1375" lat="44.91210044" lon="-93.073287714" visible="true"/>
+<node id="-1376" lat="44.912100817" lon="-93.073349198" visible="true"/>
+<node id="-1377" lat="44.912118588" lon="-93.073348775" visible="true"/>
+<node id="-1378" lat="44.912118917" lon="-93.073386986" visible="true"/>
+<node id="-1379" lat="44.912203331" lon="-93.073385588" visible="true"/>
+<node id="-1381" lat="44.912109208" lon="-93.071841919" visible="true"/>
+<node id="-1382" lat="44.912110121" lon="-93.071922467" visible="true"/>
+<node id="-1383" lat="44.912082969" lon="-93.071922968" visible="true"/>
+<node id="-1384" lat="44.912083611" lon="-93.071991705" visible="true"/>
+<node id="-1385" lat="44.912111529" lon="-93.07199124" visible="true"/>
+<node id="-1386" lat="44.912112099" lon="-93.072027055" visible="true"/>
+<node id="-1387" lat="44.912199695" lon="-93.072025258" visible="true"/>
+<node id="-1388" lat="44.912201358" lon="-93.071930958" visible="true"/>
+<node id="-1389" lat="44.91220303" lon="-93.071840134" visible="true"/>
+<node id="-1391" lat="44.912206269" lon="-93.073128829" visible="true"/>
+<node id="-1392" lat="44.912183287" lon="-93.073129274" visible="true"/>
+<node id="-1393" lat="44.912182325" lon="-93.073025452" visible="true"/>
+<node id="-1394" lat="44.912116176" lon="-93.073026425" visible="true"/>
+<node id="-1395" lat="44.912117835" lon="-93.073226157" visible="true"/>
+<node id="-1396" lat="44.912207213" lon="-93.0732247" visible="true"/>
+<node id="-1398" lat="44.912206134" lon="-93.073484887" visible="true"/>
+<node id="-1399" lat="44.912202955" lon="-93.073440784" visible="true"/>
+<node id="-1400" lat="44.912126466" lon="-93.073442146" visible="true"/>
+<node id="-1401" lat="44.912127373" lon="-93.073520688" visible="true"/>
+<node id="-1402" lat="44.912116731" lon="-93.073520733" visible="true"/>
+<node id="-1403" lat="44.912117061" lon="-93.073559637" visible="true"/>
+<node id="-1404" lat="44.912203205" lon="-93.073558232" visible="true"/>
+<node id="-1405" lat="44.912202626" lon="-93.073518596" visible="true"/>
+<node id="-1406" lat="44.912209291" lon="-93.073518221" visible="true"/>
+<node id="-1408" lat="44.912210455" lon="-93.074236098" visible="true"/>
+<node id="-1409" lat="44.912207517" lon="-93.074195604" visible="true"/>
+<node id="-1410" lat="44.912128809" lon="-93.074198403" visible="true"/>
+<node id="-1411" lat="44.912131027" lon="-93.074326187" visible="true"/>
+<node id="-1412" lat="44.912207047" lon="-93.074323823" visible="true"/>
+<node id="-1413" lat="44.912207014" lon="-93.074308191" visible="true"/>
+<node id="-1414" lat="44.912213925" lon="-93.074308163" visible="true"/>
+<node id="-1416" lat="44.91221343" lon="-93.074073998" visible="true"/>
+<node id="-1417" lat="44.912204545" lon="-93.074074382" visible="true"/>
+<node id="-1418" lat="44.912204212" lon="-93.074033432" visible="true"/>
+<node id="-1419" lat="44.912130162" lon="-93.074034786" visible="true"/>
+<node id="-1420" lat="44.912130477" lon="-93.074066009" visible="true"/>
+<node id="-1421" lat="44.912089018" lon="-93.074070873" visible="true"/>
+<node id="-1422" lat="44.912055457" lon="-93.074075354" visible="true"/>
+<node id="-1423" lat="44.912055829" lon="-93.074134445" visible="true"/>
+<node id="-1424" lat="44.912087432" lon="-93.074137613" visible="true"/>
+<node id="-1425" lat="44.912132363" lon="-93.074141071" visible="true"/>
+<node id="-1426" lat="44.91213241" lon="-93.074163303" visible="true"/>
+<node id="-1427" lat="44.912214138" lon="-93.07416188" visible="true"/>
+<node id="-1429" lat="44.912216992" lon="-93.07482504" visible="true"/>
+<node id="-1430" lat="44.912210108" lon="-93.074825415" visible="true"/>
+<node id="-1431" lat="44.912209793" lon="-93.074792764" visible="true"/>
+<node id="-1432" lat="44.912106593" lon="-93.074794933" visible="true"/>
+<node id="-1433" lat="44.912107246" lon="-93.074870657" visible="true"/>
+<node id="-1434" lat="44.912126746" lon="-93.074870575" visible="true"/>
+<node id="-1435" lat="44.912127059" lon="-93.074902184" visible="true"/>
+<node id="-1436" lat="44.912217645" lon="-93.074900377" visible="true"/>
+<node id="-1438" lat="44.912218885" lon="-93.075020254" visible="true"/>
+<node id="-1439" lat="44.912210273" lon="-93.075020289" visible="true"/>
+<node id="-1440" lat="44.912209699" lon="-93.074981736" visible="true"/>
+<node id="-1441" lat="44.912133402" lon="-93.074983443" visible="true"/>
+<node id="-1442" lat="44.912134614" lon="-93.07509039" visible="true"/>
+<node id="-1443" lat="44.912210171" lon="-93.075088723" visible="true"/>
+<node id="-1444" lat="44.912209854" lon="-93.075055338" visible="true"/>
+<node id="-1445" lat="44.912219205" lon="-93.075055299" visible="true"/>
+<node id="-1447" lat="44.912180718" lon="-93.068821876" visible="true"/>
+<node id="-1448" lat="44.912180522" lon="-93.068846192" visible="true"/>
+<node id="-1449" lat="44.912097584" lon="-93.068845197" visible="true"/>
+<node id="-1450" lat="44.912097608" lon="-93.068856623" visible="true"/>
+<node id="-1451" lat="44.912071195" lon="-93.06885604" visible="true"/>
+<node id="-1452" lat="44.912069645" lon="-93.069052698" visible="true"/>
+<node id="-1453" lat="44.912154341" lon="-93.069054072" visible="true"/>
+<node id="-1454" lat="44.912154626" lon="-93.0689575" visible="true"/>
+<node id="-1455" lat="44.91221779" lon="-93.068958273" visible="true"/>
+<node id="-1456" lat="44.912218731" lon="-93.068822447" visible="true"/>
+<node id="-1458" lat="44.912224258" lon="-93.069095804" visible="true"/>
+<node id="-1459" lat="44.912177123" lon="-93.069100522" visible="true"/>
+<node id="-1460" lat="44.912180476" lon="-93.069167204" visible="true"/>
+<node id="-1461" lat="44.912227611" lon="-93.069162486" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-6" visible="true"><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-7"/><tag k="building" v="house"/><tag k="addr:housenumber" v="303"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Emerson Avenue East"/></way>
+<way id="-13" visible="true"><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-14"/><tag k="building" v="house"/><tag k="addr:housenumber" v="329"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Emerson Avenue East"/></way>
+<way id="-19" visible="true"><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-20"/><tag k="building" v="house"/><tag k="addr:housenumber" v="311"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Emerson Avenue East"/></way>
+<way id="-26" visible="true"><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-27"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-31" visible="true"><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-35"/><nd ref="-32"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-36" visible="true"><nd ref="-37"/><nd ref="-38"/><nd ref="-39"/><nd ref="-40"/><nd ref="-41"/><nd ref="-37"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1350"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oakdale Avenue"/></way>
+<way id="-42" visible="true"><nd ref="-43"/><nd ref="-44"/><nd ref="-45"/><nd ref="-46"/><nd ref="-43"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-47" visible="true"><nd ref="-48"/><nd ref="-49"/><nd ref="-50"/><nd ref="-51"/><nd ref="-48"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-52" visible="true"><nd ref="-53"/><nd ref="-54"/><nd ref="-37"/><nd ref="-55"/><nd ref="-53"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-56" visible="true"><nd ref="-57"/><nd ref="-58"/><nd ref="-59"/><nd ref="-60"/><nd ref="-57"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-61" visible="true"><nd ref="-62"/><nd ref="-63"/><nd ref="-64"/><nd ref="-65"/><nd ref="-66"/><nd ref="-67"/><nd ref="-68"/><nd ref="-69"/><nd ref="-70"/><nd ref="-71"/><nd ref="-72"/><nd ref="-73"/><nd ref="-62"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1339"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Sperl Street"/></way>
+<way id="-74" visible="true"><nd ref="-75"/><nd ref="-76"/><nd ref="-77"/><nd ref="-78"/><nd ref="-75"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-79" visible="true"><nd ref="-80"/><nd ref="-81"/><nd ref="-82"/><nd ref="-83"/><nd ref="-84"/><nd ref="-85"/><nd ref="-86"/><nd ref="-87"/><nd ref="-88"/><nd ref="-89"/><nd ref="-80"/><tag k="building" v="house"/><tag k="addr:housenumber" v="338"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Logan Avenue East"/></way>
+<way id="-90" visible="true"><nd ref="-91"/><nd ref="-92"/><nd ref="-93"/><nd ref="-94"/><nd ref="-95"/><nd ref="-96"/><nd ref="-97"/><nd ref="-98"/><nd ref="-91"/><tag k="building" v="house"/><tag k="addr:housenumber" v="280"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Logan Avenue East"/></way>
+<way id="-99" visible="true"><nd ref="-100"/><nd ref="-101"/><nd ref="-102"/><nd ref="-103"/><nd ref="-100"/><tag k="building" v="house"/><tag k="addr:housenumber" v="288"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Logan Avenue East"/></way>
+<way id="-104" visible="true"><nd ref="-105"/><nd ref="-106"/><nd ref="-107"/><nd ref="-108"/><nd ref="-105"/><tag k="building" v="house"/><tag k="addr:housenumber" v="296"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Logan Avenue East"/></way>
+<way id="-109" visible="true"><nd ref="-110"/><nd ref="-111"/><nd ref="-112"/><nd ref="-113"/><nd ref="-114"/><nd ref="-115"/><nd ref="-116"/><nd ref="-117"/><nd ref="-118"/><nd ref="-119"/><nd ref="-120"/><nd ref="-121"/><nd ref="-110"/><tag k="building" v="house"/><tag k="addr:housenumber" v="259"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Logan Avenue East"/></way>
+<way id="-122" visible="true"><nd ref="-123"/><nd ref="-124"/><nd ref="-125"/><nd ref="-126"/><nd ref="-123"/><tag k="building" v="house"/><tag k="addr:housenumber" v="299"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Kopp Drive"/></way>
+<way id="-127" visible="true"><nd ref="-128"/><nd ref="-129"/><nd ref="-130"/><nd ref="-131"/><nd ref="-132"/><nd ref="-133"/><nd ref="-134"/><nd ref="-135"/><nd ref="-136"/><nd ref="-137"/><nd ref="-128"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1280"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Stassen Drive"/></way>
+<way id="-138" visible="true"><nd ref="-139"/><nd ref="-140"/><nd ref="-141"/><nd ref="-142"/><nd ref="-143"/><nd ref="-144"/><nd ref="-145"/><nd ref="-146"/><nd ref="-147"/><nd ref="-148"/><nd ref="-139"/><tag k="building" v="house"/><tag k="addr:housenumber" v="339"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Kopp Drive"/></way>
+<way id="-149" visible="true"><nd ref="-150"/><nd ref="-151"/><nd ref="-152"/><nd ref="-153"/><nd ref="-154"/><nd ref="-155"/><nd ref="-156"/><nd ref="-157"/><nd ref="-158"/><nd ref="-159"/><nd ref="-150"/><tag k="building" v="house"/><tag k="addr:housenumber" v="331"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Kopp Drive"/></way>
+<way id="-160" visible="true"><nd ref="-161"/><nd ref="-162"/><nd ref="-163"/><nd ref="-164"/><nd ref="-165"/><nd ref="-166"/><nd ref="-167"/><nd ref="-168"/><nd ref="-169"/><nd ref="-170"/><nd ref="-171"/><nd ref="-172"/><nd ref="-161"/><tag k="building" v="house"/><tag k="addr:housenumber" v="311"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Kopp Drive"/></way>
+<way id="-173" visible="true"><nd ref="-174"/><nd ref="-175"/><nd ref="-176"/><nd ref="-177"/><nd ref="-178"/><nd ref="-179"/><nd ref="-180"/><nd ref="-181"/><nd ref="-182"/><nd ref="-183"/><nd ref="-184"/><nd ref="-185"/><nd ref="-174"/><tag k="building" v="house"/><tag k="addr:housenumber" v="247"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Stassen Drive"/></way>
+<way id="-186" visible="true"><nd ref="-187"/><nd ref="-188"/><nd ref="-189"/><nd ref="-190"/><nd ref="-191"/><nd ref="-192"/><nd ref="-187"/><tag k="building" v="house"/><tag k="addr:housenumber" v="269"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Stassen Drive"/></way>
+<way id="-193" visible="true"><nd ref="-194"/><nd ref="-195"/><nd ref="-196"/><nd ref="-197"/><nd ref="-198"/><nd ref="-199"/><nd ref="-200"/><nd ref="-201"/><nd ref="-194"/><tag k="building" v="house"/><tag k="addr:housenumber" v="339"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Emerson Avenue East"/></way>
+<way id="-202" visible="true"><nd ref="-203"/><nd ref="-204"/><nd ref="-205"/><nd ref="-206"/><nd ref="-207"/><nd ref="-208"/><nd ref="-209"/><nd ref="-210"/><nd ref="-203"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-211" visible="true"><nd ref="-212"/><nd ref="-213"/><nd ref="-214"/><nd ref="-215"/><nd ref="-212"/><tag k="building" v="house"/><tag k="addr:housenumber" v="321"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Emerson Avenue East"/></way>
+<way id="-216" visible="true"><nd ref="-217"/><nd ref="-218"/><nd ref="-219"/><nd ref="-220"/><nd ref="-217"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-221" visible="true"><nd ref="-222"/><nd ref="-223"/><nd ref="-224"/><nd ref="-225"/><nd ref="-222"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-226" visible="true"><nd ref="-227"/><nd ref="-228"/><nd ref="-229"/><nd ref="-230"/><nd ref="-231"/><nd ref="-232"/><nd ref="-233"/><nd ref="-234"/><nd ref="-235"/><nd ref="-236"/><nd ref="-227"/><tag k="building" v="house"/><tag k="addr:housenumber" v="291"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Emerson Avenue East"/></way>
+<way id="-237" visible="true"><nd ref="-238"/><nd ref="-239"/><nd ref="-240"/><nd ref="-241"/><nd ref="-238"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-242" visible="true"><nd ref="-243"/><nd ref="-244"/><nd ref="-245"/><nd ref="-246"/><nd ref="-247"/><nd ref="-248"/><nd ref="-249"/><nd ref="-250"/><nd ref="-251"/><nd ref="-252"/><nd ref="-253"/><nd ref="-254"/><nd ref="-243"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1352"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oakdale Avenue"/></way>
+<way id="-255" visible="true"><nd ref="-256"/><nd ref="-257"/><nd ref="-258"/><nd ref="-259"/><nd ref="-260"/><nd ref="-261"/><nd ref="-256"/><tag k="building" v="house"/><tag k="addr:housenumber" v="275"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Stassen Drive"/></way>
+<way id="-262" visible="true"><nd ref="-263"/><nd ref="-264"/><nd ref="-265"/><nd ref="-266"/><nd ref="-267"/><nd ref="-268"/><nd ref="-263"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1270"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oakdale Avenue"/></way>
+<way id="-269" visible="true"><nd ref="-270"/><nd ref="-271"/><nd ref="-272"/><nd ref="-273"/><nd ref="-274"/><nd ref="-275"/><nd ref="-270"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1263"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Sperl Street"/></way>
+<way id="-276" visible="true"><nd ref="-277"/><nd ref="-278"/><nd ref="-279"/><nd ref="-280"/><nd ref="-281"/><nd ref="-282"/><nd ref="-283"/><nd ref="-284"/><nd ref="-285"/><nd ref="-286"/><nd ref="-287"/><nd ref="-288"/><nd ref="-277"/><tag k="building" v="house"/><tag k="addr:housenumber" v="304"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Moreland Circle"/></way>
+<way id="-289" visible="true"><nd ref="-290"/><nd ref="-291"/><nd ref="-292"/><nd ref="-293"/><nd ref="-290"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-294" visible="true"><nd ref="-295"/><nd ref="-296"/><nd ref="-297"/><nd ref="-298"/><nd ref="-299"/><nd ref="-300"/><nd ref="-301"/><nd ref="-302"/><nd ref="-303"/><nd ref="-304"/><nd ref="-305"/><nd ref="-306"/><nd ref="-295"/><tag k="building" v="church"/><tag k="addr:housenumber" v="1260"/><tag k="addr:city" v="West St Paul"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oakdale Avenue"/></way>
+<way id="-307" visible="true"><nd ref="-308"/><nd ref="-309"/><nd ref="-310"/><nd ref="-311"/><nd ref="-312"/><nd ref="-313"/><nd ref="-308"/><tag k="building" v="house"/><tag k="addr:housenumber" v="296"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Moreland Circle"/></way>
+<way id="-314" visible="true"><nd ref="-315"/><nd ref="-316"/><nd ref="-317"/><nd ref="-318"/><nd ref="-319"/><nd ref="-320"/><nd ref="-315"/><tag k="building" v="house"/><tag k="addr:housenumber" v="293"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Moreland Circle"/></way>
+<way id="-321" visible="true"><nd ref="-322"/><nd ref="-323"/><nd ref="-324"/><nd ref="-325"/><nd ref="-322"/><tag k="building" v="house"/><tag k="addr:housenumber" v="297"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Moreland Circle"/></way>
+<way id="-326" visible="true"><nd ref="-327"/><nd ref="-328"/><nd ref="-329"/><nd ref="-330"/><nd ref="-331"/><nd ref="-332"/><nd ref="-333"/><nd ref="-334"/><nd ref="-327"/><tag k="building" v="house"/><tag k="addr:housenumber" v="331"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Moreland Circle"/></way>
+<way id="-335" visible="true"><nd ref="-336"/><nd ref="-337"/><nd ref="-338"/><nd ref="-339"/><nd ref="-340"/><nd ref="-341"/><nd ref="-342"/><nd ref="-343"/><nd ref="-344"/><nd ref="-345"/><nd ref="-346"/><nd ref="-347"/><nd ref="-348"/><nd ref="-349"/><nd ref="-350"/><nd ref="-351"/><nd ref="-352"/><nd ref="-353"/><nd ref="-354"/><nd ref="-355"/><nd ref="-356"/><nd ref="-357"/><nd ref="-358"/><nd ref="-359"/><nd ref="-360"/><nd ref="-361"/><nd ref="-336"/><tag k="building" v="church"/><tag k="addr:housenumber" v="1250"/><tag k="addr:city" v="West St Paul"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oakdale Avenue"/></way>
+<way id="-362" visible="true"><nd ref="-363"/><nd ref="-364"/><nd ref="-365"/><nd ref="-366"/><nd ref="-367"/><nd ref="-368"/><nd ref="-369"/><nd ref="-363"/><tag k="building" v="house"/><tag k="addr:housenumber" v="305"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Moreland Circle"/></way>
+<way id="-370" visible="true"><nd ref="-371"/><nd ref="-372"/><nd ref="-373"/><nd ref="-374"/><nd ref="-371"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-375" visible="true"><nd ref="-376"/><nd ref="-377"/><nd ref="-378"/><nd ref="-379"/><nd ref="-380"/><nd ref="-381"/><nd ref="-382"/><nd ref="-383"/><nd ref="-384"/><nd ref="-385"/><nd ref="-386"/><nd ref="-387"/><nd ref="-388"/><nd ref="-389"/><nd ref="-390"/><nd ref="-391"/><nd ref="-392"/><nd ref="-393"/><nd ref="-394"/><nd ref="-395"/><nd ref="-396"/><nd ref="-397"/><nd ref="-398"/><nd ref="-399"/><nd ref="-400"/><nd ref="-401"/><nd ref="-402"/><nd ref="-403"/><nd ref="-404"/><nd ref="-405"/><nd ref="-406"/><nd ref="-407"/><nd ref="-408"/><nd ref="-376"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-409" visible="true"><nd ref="-410"/><nd ref="-411"/><nd ref="-412"/><nd ref="-413"/><nd ref="-414"/><nd ref="-415"/><nd ref="-416"/><nd ref="-417"/><nd ref="-410"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1320"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oakdale Avenue"/></way>
+<way id="-418" visible="true"><nd ref="-419"/><nd ref="-420"/><nd ref="-421"/><nd ref="-422"/><nd ref="-419"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-423" visible="true"><nd ref="-424"/><nd ref="-425"/><nd ref="-426"/><nd ref="-427"/><nd ref="-424"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1314"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oakdale Avenue"/></way>
+<way id="-428" visible="true"><nd ref="-429"/><nd ref="-430"/><nd ref="-431"/><nd ref="-432"/><nd ref="-433"/><nd ref="-434"/><nd ref="-435"/><nd ref="-436"/><nd ref="-429"/><tag k="building" v="house"/><tag k="addr:housenumber" v="325"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Logan Avenue East"/></way>
+<way id="-437" visible="true"><nd ref="-438"/><nd ref="-439"/><nd ref="-440"/><nd ref="-441"/><nd ref="-442"/><nd ref="-443"/><nd ref="-444"/><nd ref="-445"/><nd ref="-438"/><tag k="building" v="house"/><tag k="addr:housenumber" v="317"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Logan Avenue East"/></way>
+<way id="-446" visible="true"><nd ref="-447"/><nd ref="-448"/><nd ref="-449"/><nd ref="-450"/><nd ref="-451"/><nd ref="-452"/><nd ref="-453"/><nd ref="-454"/><nd ref="-447"/><tag k="building" v="house"/><tag k="addr:housenumber" v="292"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Kopp Drive"/></way>
+<way id="-455" visible="true"><nd ref="-456"/><nd ref="-457"/><nd ref="-458"/><nd ref="-459"/><nd ref="-460"/><nd ref="-461"/><nd ref="-462"/><nd ref="-463"/><nd ref="-464"/><nd ref="-465"/><nd ref="-456"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1310"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Stassen Drive"/></way>
+<way id="-466" visible="true"><nd ref="-467"/><nd ref="-468"/><nd ref="-469"/><nd ref="-470"/><nd ref="-471"/><nd ref="-472"/><nd ref="-467"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1308"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oakdale Avenue"/></way>
+<way id="-473" visible="true"><nd ref="-474"/><nd ref="-475"/><nd ref="-476"/><nd ref="-477"/><nd ref="-478"/><nd ref="-479"/><nd ref="-474"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1305"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Stassen Drive"/></way>
+<way id="-480" visible="true"><nd ref="-481"/><nd ref="-482"/><nd ref="-483"/><nd ref="-484"/><nd ref="-485"/><nd ref="-486"/><nd ref="-487"/><nd ref="-488"/><nd ref="-489"/><nd ref="-490"/><nd ref="-481"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1302"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Stassen Drive"/></way>
+<way id="-491" visible="true"><nd ref="-492"/><nd ref="-493"/><nd ref="-494"/><nd ref="-495"/><nd ref="-496"/><nd ref="-497"/><nd ref="-498"/><nd ref="-499"/><nd ref="-500"/><nd ref="-501"/><nd ref="-502"/><nd ref="-503"/><nd ref="-504"/><nd ref="-505"/><nd ref="-492"/><tag k="building" v="house"/><tag k="addr:housenumber" v="293"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Kopp Drive"/></way>
+<way id="-506" visible="true"><nd ref="-507"/><nd ref="-508"/><nd ref="-509"/><nd ref="-510"/><nd ref="-511"/><nd ref="-512"/><nd ref="-513"/><nd ref="-514"/><nd ref="-507"/><tag k="building" v="house"/><tag k="addr:housenumber" v="294"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Kopp Drive"/></way>
+<way id="-515" visible="true"><nd ref="-516"/><nd ref="-517"/><nd ref="-518"/><nd ref="-519"/><nd ref="-520"/><nd ref="-521"/><nd ref="-522"/><nd ref="-516"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1300"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oakdale Avenue"/></way>
+<way id="-523" visible="true"><nd ref="-524"/><nd ref="-525"/><nd ref="-526"/><nd ref="-527"/><nd ref="-528"/><nd ref="-529"/><nd ref="-530"/><nd ref="-531"/><nd ref="-524"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1296"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Stassen Drive"/></way>
+<way id="-532" visible="true"><nd ref="-533"/><nd ref="-534"/><nd ref="-535"/><nd ref="-536"/><nd ref="-537"/><nd ref="-538"/><nd ref="-539"/><nd ref="-540"/><nd ref="-541"/><nd ref="-542"/><nd ref="-533"/><tag k="building" v="house"/><tag k="addr:housenumber" v="295"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Kopp Drive"/></way>
+<way id="-543" visible="true"><nd ref="-544"/><nd ref="-545"/><nd ref="-546"/><nd ref="-547"/><nd ref="-548"/><nd ref="-549"/><nd ref="-550"/><nd ref="-551"/><nd ref="-544"/><tag k="building" v="house"/><tag k="addr:housenumber" v="332"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Kopp Drive"/></way>
+<way id="-552" visible="true"><nd ref="-553"/><nd ref="-554"/><nd ref="-555"/><nd ref="-556"/><nd ref="-557"/><nd ref="-558"/><nd ref="-559"/><nd ref="-560"/><nd ref="-553"/><tag k="building" v="house"/><tag k="addr:housenumber" v="340"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Kopp Drive"/></way>
+<way id="-561" visible="true"><nd ref="-562"/><nd ref="-563"/><nd ref="-564"/><nd ref="-565"/><nd ref="-566"/><nd ref="-567"/><nd ref="-568"/><nd ref="-569"/><nd ref="-570"/><nd ref="-571"/><nd ref="-572"/><nd ref="-573"/><nd ref="-562"/><tag k="building" v="house"/><tag k="addr:housenumber" v="318"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Kopp Drive"/></way>
+<way id="-574" visible="true"><nd ref="-575"/><nd ref="-576"/><nd ref="-577"/><nd ref="-578"/><nd ref="-579"/><nd ref="-580"/><nd ref="-575"/><tag k="building" v="house"/><tag k="addr:housenumber" v="298"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Kopp Drive"/></way>
+<way id="-581" visible="true"><nd ref="-582"/><nd ref="-583"/><nd ref="-584"/><nd ref="-585"/><nd ref="-586"/><nd ref="-587"/><nd ref="-582"/><tag k="building" v="house"/><tag k="addr:housenumber" v="234"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Stassen Drive"/></way>
+<way id="-588" visible="true"><nd ref="-589"/><nd ref="-590"/><nd ref="-591"/><nd ref="-592"/><nd ref="-589"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-593" visible="true"><nd ref="-594"/><nd ref="-595"/><nd ref="-596"/><nd ref="-597"/><nd ref="-594"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-598" visible="true"><nd ref="-599"/><nd ref="-600"/><nd ref="-601"/><nd ref="-602"/><nd ref="-599"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-603" visible="true"><nd ref="-604"/><nd ref="-605"/><nd ref="-606"/><nd ref="-607"/><nd ref="-604"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-608" visible="true"><nd ref="-609"/><nd ref="-610"/><nd ref="-611"/><nd ref="-612"/><nd ref="-609"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-613" visible="true"><nd ref="-614"/><nd ref="-615"/><nd ref="-616"/><nd ref="-617"/><nd ref="-614"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-618" visible="true"><nd ref="-619"/><nd ref="-620"/><nd ref="-621"/><nd ref="-622"/><nd ref="-619"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-623" visible="true"><nd ref="-624"/><nd ref="-625"/><nd ref="-626"/><nd ref="-627"/><nd ref="-628"/><nd ref="-629"/><nd ref="-630"/><nd ref="-631"/><nd ref="-624"/><tag k="building" v="house"/><tag k="addr:housenumber" v="270"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Logan Avenue East"/></way>
+<way id="-632" visible="true"><nd ref="-633"/><nd ref="-634"/><nd ref="-635"/><nd ref="-636"/><nd ref="-637"/><nd ref="-638"/><nd ref="-633"/><tag k="building" v="house"/><tag k="addr:housenumber" v="320"/><tag k="addr:city" v="West St Paul"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Logan Avenue East"/></way>
+<way id="-639" visible="true"><nd ref="-640"/><nd ref="-641"/><nd ref="-642"/><nd ref="-643"/><nd ref="-644"/><nd ref="-645"/><nd ref="-640"/><tag k="building" v="house"/><tag k="addr:housenumber" v="310"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Logan Avenue East"/></way>
+<way id="-646" visible="true"><nd ref="-647"/><nd ref="-648"/><nd ref="-649"/><nd ref="-650"/><nd ref="-651"/><nd ref="-652"/><nd ref="-653"/><nd ref="-654"/><nd ref="-647"/><tag k="building" v="house"/><tag k="addr:housenumber" v="330"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Logan Avenue East"/></way>
+<way id="-655" visible="true"><nd ref="-656"/><nd ref="-657"/><nd ref="-658"/><nd ref="-659"/><nd ref="-656"/><tag k="building" v="house"/><tag k="addr:housenumber" v="302"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Logan Avenue East"/></way>
+<way id="-660" visible="true"><nd ref="-661"/><nd ref="-662"/><nd ref="-663"/><nd ref="-664"/><nd ref="-665"/><nd ref="-666"/><nd ref="-667"/><nd ref="-668"/><nd ref="-669"/><nd ref="-670"/><nd ref="-671"/><nd ref="-672"/><nd ref="-673"/><nd ref="-674"/><nd ref="-675"/><nd ref="-676"/><nd ref="-677"/><nd ref="-678"/><nd ref="-679"/><nd ref="-680"/><nd ref="-681"/><nd ref="-682"/><nd ref="-683"/><nd ref="-684"/><nd ref="-685"/><nd ref="-686"/><nd ref="-687"/><nd ref="-688"/><nd ref="-689"/><nd ref="-690"/><nd ref="-691"/><nd ref="-692"/><nd ref="-661"/><tag k="building" v="apartments"/><tag k="addr:housenumber" v="1335"/><tag k="addr:city" v="West St Paul"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oakdale Avenue"/></way>
+<way id="-693" visible="true"><nd ref="-694"/><nd ref="-695"/><nd ref="-696"/><nd ref="-697"/><nd ref="-694"/><tag k="building" v="house"/><tag k="addr:housenumber" v="305"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Kopp Drive"/></way>
+<way id="-698" visible="true"><nd ref="-699"/><nd ref="-700"/><nd ref="-701"/><nd ref="-702"/><nd ref="-699"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-703" visible="true"><nd ref="-704"/><nd ref="-705"/><nd ref="-706"/><nd ref="-707"/><nd ref="-708"/><nd ref="-709"/><nd ref="-710"/><nd ref="-711"/><nd ref="-704"/><tag k="building" v="house"/><tag k="addr:housenumber" v="319"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Kopp Drive"/></way>
+<way id="-712" visible="true"><nd ref="-713"/><nd ref="-714"/><nd ref="-715"/><nd ref="-716"/><nd ref="-717"/><nd ref="-718"/><nd ref="-719"/><nd ref="-720"/><nd ref="-713"/><tag k="building" v="house"/><tag k="addr:housenumber" v="325"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Kopp Drive"/></way>
+<way id="-721" visible="true"><nd ref="-722"/><nd ref="-723"/><nd ref="-724"/><nd ref="-725"/><nd ref="-726"/><nd ref="-727"/><nd ref="-722"/><tag k="building" v="house"/><tag k="addr:housenumber" v="239"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Stassen Drive"/></way>
+<way id="-728" visible="true"><nd ref="-729"/><nd ref="-730"/><nd ref="-731"/><nd ref="-732"/><nd ref="-733"/><nd ref="-734"/><nd ref="-735"/><nd ref="-736"/><nd ref="-729"/><tag k="building" v="house"/><tag k="addr:housenumber" v="253"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Stassen Drive"/></way>
+<way id="-737" visible="true"><nd ref="-738"/><nd ref="-739"/><nd ref="-740"/><nd ref="-741"/><nd ref="-742"/><nd ref="-743"/><nd ref="-744"/><nd ref="-745"/><nd ref="-738"/><tag k="building" v="house"/><tag k="addr:housenumber" v="261"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Stassen Drive"/></way>
+<way id="-746" visible="true"><nd ref="-747"/><nd ref="-748"/><nd ref="-749"/><nd ref="-750"/><nd ref="-747"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-751" visible="true"><nd ref="-752"/><nd ref="-753"/><nd ref="-754"/><nd ref="-755"/><nd ref="-752"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-756" visible="true"><nd ref="-757"/><nd ref="-758"/><nd ref="-759"/><nd ref="-760"/><nd ref="-761"/><nd ref="-762"/><nd ref="-763"/><nd ref="-764"/><nd ref="-765"/><nd ref="-766"/><nd ref="-757"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-767" visible="true"><nd ref="-768"/><nd ref="-769"/><nd ref="-770"/><nd ref="-771"/><nd ref="-772"/><nd ref="-773"/><nd ref="-774"/><nd ref="-775"/><nd ref="-768"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1140"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Stassen Lane"/></way>
+<way id="-776" visible="true"><nd ref="-777"/><nd ref="-778"/><nd ref="-779"/><nd ref="-780"/><nd ref="-781"/><nd ref="-782"/><nd ref="-783"/><nd ref="-784"/><nd ref="-777"/><tag k="building" v="house"/><tag k="addr:housenumber" v="460"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Butler Avenue East"/></way>
+<way id="-785" visible="true"><nd ref="-786"/><nd ref="-787"/><nd ref="-788"/><nd ref="-789"/><nd ref="-790"/><nd ref="-791"/><nd ref="-786"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1138"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oakdale Avenue"/></way>
+<way id="-792" visible="true"><nd ref="-793"/><nd ref="-794"/><nd ref="-795"/><nd ref="-796"/><nd ref="-797"/><nd ref="-798"/><nd ref="-799"/><nd ref="-800"/><nd ref="-793"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-801" visible="true"><nd ref="-802"/><nd ref="-803"/><nd ref="-804"/><nd ref="-805"/><nd ref="-806"/><nd ref="-807"/><nd ref="-808"/><nd ref="-809"/><nd ref="-810"/><nd ref="-811"/><nd ref="-812"/><nd ref="-813"/><nd ref="-814"/><nd ref="-815"/><nd ref="-816"/><nd ref="-817"/><nd ref="-802"/><tag k="building" v="civic"/><tag k="addr:housenumber" v="1200"/><tag k="addr:city" v="West St Paul"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Stassen Lane"/></way>
+<way id="-819" visible="true"><nd ref="-820"/><nd ref="-821"/><nd ref="-822"/><nd ref="-823"/><nd ref="-824"/><nd ref="-825"/><nd ref="-826"/><nd ref="-827"/><nd ref="-828"/><nd ref="-829"/><nd ref="-830"/><nd ref="-831"/><nd ref="-832"/><nd ref="-833"/><nd ref="-834"/><nd ref="-835"/><nd ref="-836"/><nd ref="-837"/><nd ref="-838"/><nd ref="-839"/><nd ref="-840"/><nd ref="-841"/><nd ref="-842"/><nd ref="-843"/><nd ref="-844"/><nd ref="-845"/><nd ref="-846"/><nd ref="-847"/><nd ref="-848"/><nd ref="-849"/><nd ref="-850"/><nd ref="-851"/><nd ref="-852"/><nd ref="-853"/><nd ref="-854"/><nd ref="-855"/><nd ref="-856"/><nd ref="-857"/><nd ref="-858"/><nd ref="-859"/><nd ref="-860"/><nd ref="-861"/><nd ref="-820"/></way>
+<way id="-862" visible="true"><nd ref="-799"/><nd ref="-798"/><nd ref="-797"/><nd ref="-796"/><nd ref="-795"/><nd ref="-794"/><nd ref="-793"/><nd ref="-800"/><nd ref="-799"/></way>
+<way id="-864" visible="true"><nd ref="-865"/><nd ref="-866"/><nd ref="-867"/><nd ref="-868"/><nd ref="-869"/><nd ref="-870"/><nd ref="-871"/><nd ref="-872"/><nd ref="-873"/><nd ref="-874"/><nd ref="-865"/></way>
+<way id="-875" visible="true"><nd ref="-876"/><nd ref="-877"/><nd ref="-878"/><nd ref="-879"/><nd ref="-876"/></way>
+<way id="-880" visible="true"><nd ref="-881"/><nd ref="-882"/><nd ref="-883"/><nd ref="-884"/><nd ref="-881"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-885" visible="true"><nd ref="-886"/><nd ref="-887"/><nd ref="-888"/><nd ref="-889"/><nd ref="-890"/><nd ref="-891"/><nd ref="-886"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1170"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Stassen Lane"/></way>
+<way id="-892" visible="true"><nd ref="-893"/><nd ref="-894"/><nd ref="-895"/><nd ref="-896"/><nd ref="-893"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-897" visible="true"><nd ref="-898"/><nd ref="-899"/><nd ref="-900"/><nd ref="-901"/><nd ref="-898"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-902" visible="true"><nd ref="-903"/><nd ref="-904"/><nd ref="-905"/><nd ref="-906"/><nd ref="-903"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-907" visible="true"><nd ref="-908"/><nd ref="-909"/><nd ref="-910"/><nd ref="-911"/><nd ref="-908"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-912" visible="true"><nd ref="-913"/><nd ref="-914"/><nd ref="-915"/><nd ref="-916"/><nd ref="-913"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-917" visible="true"><nd ref="-918"/><nd ref="-919"/><nd ref="-920"/><nd ref="-921"/><nd ref="-918"/><tag k="building" v="house"/><tag k="addr:housenumber" v="418"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Butler Avenue East"/></way>
+<way id="-922" visible="true"><nd ref="-923"/><nd ref="-924"/><nd ref="-925"/><nd ref="-926"/><nd ref="-923"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-927" visible="true"><nd ref="-928"/><nd ref="-929"/><nd ref="-930"/><nd ref="-931"/><nd ref="-928"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-932" visible="true"><nd ref="-933"/><nd ref="-934"/><nd ref="-935"/><nd ref="-936"/><nd ref="-933"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-937" visible="true"><nd ref="-938"/><nd ref="-939"/><nd ref="-940"/><nd ref="-941"/><nd ref="-938"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-942" visible="true"><nd ref="-943"/><nd ref="-944"/><nd ref="-945"/><nd ref="-946"/><nd ref="-943"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-947" visible="true"><nd ref="-948"/><nd ref="-949"/><nd ref="-950"/><nd ref="-951"/><nd ref="-952"/><nd ref="-953"/><nd ref="-954"/><nd ref="-955"/><nd ref="-956"/><nd ref="-957"/><nd ref="-958"/><nd ref="-948"/><tag k="building" v="house"/><tag k="addr:housenumber" v="402"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Butler Avenue East"/></way>
+<way id="-959" visible="true"><nd ref="-960"/><nd ref="-961"/><nd ref="-962"/><nd ref="-963"/><nd ref="-960"/><tag k="building" v="house"/><tag k="addr:housenumber" v="394"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Butler Avenue East"/></way>
+<way id="-964" visible="true"><nd ref="-965"/><nd ref="-966"/><nd ref="-967"/><nd ref="-968"/><nd ref="-965"/><tag k="building" v="house"/><tag k="addr:housenumber" v="268"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Butler Avenue East"/></way>
+<way id="-969" visible="true"><nd ref="-970"/><nd ref="-971"/><nd ref="-972"/><nd ref="-973"/><nd ref="-974"/><nd ref="-975"/><nd ref="-976"/><nd ref="-977"/><nd ref="-970"/><tag k="building" v="house"/><tag k="addr:housenumber" v="292"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Butler Avenue East"/></way>
+<way id="-978" visible="true"><nd ref="-979"/><nd ref="-980"/><nd ref="-981"/><nd ref="-982"/><nd ref="-983"/><nd ref="-984"/><nd ref="-985"/><nd ref="-986"/><nd ref="-979"/><tag k="building" v="house"/><tag k="addr:housenumber" v="300"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Butler Avenue East"/></way>
+<way id="-987" visible="true"><nd ref="-988"/><nd ref="-989"/><nd ref="-990"/><nd ref="-991"/><nd ref="-992"/><nd ref="-993"/><nd ref="-994"/><nd ref="-995"/><nd ref="-996"/><nd ref="-997"/><nd ref="-988"/><tag k="building" v="house"/><tag k="addr:housenumber" v="328"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Butler Avenue East"/></way>
+<way id="-998" visible="true"><nd ref="-999"/><nd ref="-1000"/><nd ref="-1001"/><nd ref="-1002"/><nd ref="-999"/><tag k="building" v="house"/><tag k="addr:housenumber" v="322"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Butler Avenue East"/></way>
+<way id="-1003" visible="true"><nd ref="-1004"/><nd ref="-1005"/><nd ref="-1006"/><nd ref="-1007"/><nd ref="-1008"/><nd ref="-1009"/><nd ref="-1004"/><tag k="building" v="house"/><tag k="addr:housenumber" v="306"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Butler Avenue East"/></way>
+<way id="-1010" visible="true"><nd ref="-1011"/><nd ref="-1012"/><nd ref="-1013"/><nd ref="-1014"/><nd ref="-1015"/><nd ref="-1016"/><nd ref="-1017"/><nd ref="-1018"/><nd ref="-1019"/><nd ref="-1020"/><nd ref="-1011"/><tag k="building" v="house"/><tag k="addr:housenumber" v="250"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Butler Avenue East"/></way>
+<way id="-1021" visible="true"><nd ref="-1022"/><nd ref="-1023"/><nd ref="-1024"/><nd ref="-1025"/><nd ref="-1026"/><nd ref="-1027"/><nd ref="-1028"/><nd ref="-1029"/><nd ref="-1030"/><nd ref="-1031"/><nd ref="-1032"/><nd ref="-1033"/><nd ref="-1022"/><tag k="building" v="house"/><tag k="addr:housenumber" v="254"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Butler Avenue East"/></way>
+<way id="-1034" visible="true"><nd ref="-1035"/><nd ref="-1036"/><nd ref="-1037"/><nd ref="-1038"/><nd ref="-1039"/><nd ref="-1040"/><nd ref="-1041"/><nd ref="-1042"/><nd ref="-1035"/><tag k="building" v="house"/><tag k="addr:housenumber" v="236"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Butler Avenue East"/></way>
+<way id="-1043" visible="true"><nd ref="-1044"/><nd ref="-1045"/><nd ref="-933"/><nd ref="-1046"/><nd ref="-1047"/><nd ref="-1048"/><nd ref="-1044"/><tag k="building" v="house"/><tag k="addr:housenumber" v="272"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Butler Avenue East"/></way>
+<way id="-1049" visible="true"><nd ref="-1050"/><nd ref="-1051"/><nd ref="-1052"/><nd ref="-1053"/><nd ref="-1050"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1054" visible="true"><nd ref="-1055"/><nd ref="-1056"/><nd ref="-1057"/><nd ref="-1058"/><nd ref="-1055"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1059" visible="true"><nd ref="-1060"/><nd ref="-1061"/><nd ref="-1062"/><nd ref="-1063"/><nd ref="-1060"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1064" visible="true"><nd ref="-1065"/><nd ref="-1066"/><nd ref="-1067"/><nd ref="-1068"/><nd ref="-1069"/><nd ref="-1070"/><nd ref="-1065"/><tag k="building" v="house"/><tag k="addr:housenumber" v="318"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Moreland Circle"/></way>
+<way id="-1071" visible="true"><nd ref="-1072"/><nd ref="-1073"/><nd ref="-1074"/><nd ref="-1075"/><nd ref="-1076"/><nd ref="-1077"/><nd ref="-1078"/><nd ref="-1079"/><nd ref="-1072"/><tag k="building" v="house"/><tag k="addr:housenumber" v="324"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Moreland Circle"/></way>
+<way id="-1080" visible="true"><nd ref="-1081"/><nd ref="-1082"/><nd ref="-1083"/><nd ref="-1084"/><nd ref="-1085"/><nd ref="-1086"/><nd ref="-1087"/><nd ref="-1088"/><nd ref="-1081"/><tag k="building" v="house"/><tag k="addr:housenumber" v="330"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Moreland Circle"/></way>
+<way id="-1089" visible="true"><nd ref="-1090"/><nd ref="-1091"/><nd ref="-1092"/><nd ref="-1093"/><nd ref="-1094"/><nd ref="-1095"/><nd ref="-1096"/><nd ref="-1097"/><nd ref="-1090"/><tag k="building" v="house"/><tag k="addr:housenumber" v="310"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Moreland Circle"/></way>
+<way id="-1098" visible="true"><nd ref="-1099"/><nd ref="-1100"/><nd ref="-1101"/><nd ref="-1102"/><nd ref="-1099"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1103" visible="true"><nd ref="-1104"/><nd ref="-1105"/><nd ref="-1106"/><nd ref="-1107"/><nd ref="-1108"/><nd ref="-1109"/><nd ref="-1110"/><nd ref="-1111"/><nd ref="-1104"/><tag k="building" v="house"/><tag k="addr:housenumber" v="339"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Moreland Circle"/></way>
+<way id="-1112" visible="true"><nd ref="-1113"/><nd ref="-1114"/><nd ref="-1115"/><nd ref="-1116"/><nd ref="-1117"/><nd ref="-1118"/><nd ref="-1119"/><nd ref="-1120"/><nd ref="-1113"/><tag k="building" v="house"/><tag k="addr:housenumber" v="317"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Moreland Circle"/></way>
+<way id="-1121" visible="true"><nd ref="-1122"/><nd ref="-1123"/><nd ref="-1124"/><nd ref="-1125"/><nd ref="-1126"/><nd ref="-1127"/><nd ref="-1128"/><nd ref="-1129"/><nd ref="-1122"/><tag k="building" v="house"/><tag k="addr:housenumber" v="311"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Moreland Circle"/></way>
+<way id="-1130" visible="true"><nd ref="-1131"/><nd ref="-1132"/><nd ref="-1133"/><nd ref="-1134"/><nd ref="-1135"/><nd ref="-1136"/><nd ref="-1137"/><nd ref="-1138"/><nd ref="-1139"/><nd ref="-1140"/><nd ref="-1131"/><tag k="building" v="house"/><tag k="addr:housenumber" v="325"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Moreland Circle"/></way>
+<way id="-1141" visible="true"><nd ref="-1142"/><nd ref="-1143"/><nd ref="-1144"/><nd ref="-1145"/><nd ref="-1142"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1146" visible="true"><nd ref="-1147"/><nd ref="-1148"/><nd ref="-1149"/><nd ref="-1150"/><nd ref="-1147"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-1151" visible="true"><nd ref="-878"/><nd ref="-877"/><nd ref="-876"/><nd ref="-879"/><nd ref="-878"/><tag k="building" v="school"/><tag k="addr:housenumber" v="1196"/><tag k="addr:city" v="West St Paul"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oakdale Avenue"/></way>
+<way id="-1152" visible="true"><nd ref="-1153"/><nd ref="-1154"/><nd ref="-1155"/><nd ref="-1156"/><nd ref="-1157"/><nd ref="-1158"/><nd ref="-1159"/><nd ref="-1160"/><nd ref="-1153"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1152"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Stassen Lane"/></way>
+<way id="-1161" visible="true"><nd ref="-1162"/><nd ref="-1163"/><nd ref="-1164"/><nd ref="-1165"/><nd ref="-1162"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-1166" visible="true"><nd ref="-1167"/><nd ref="-1168"/><nd ref="-1169"/><nd ref="-1170"/><nd ref="-1167"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1313"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Stassen Drive"/></way>
+<way id="-1171" visible="true"><nd ref="-1172"/><nd ref="-1173"/><nd ref="-1174"/><nd ref="-1175"/><nd ref="-1176"/><nd ref="-1177"/><nd ref="-1178"/><nd ref="-1179"/><nd ref="-1180"/><nd ref="-1181"/><nd ref="-1182"/><nd ref="-1172"/><tag k="building" v="house"/><tag k="addr:housenumber" v="339"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Logan Avenue East"/></way>
+<way id="-1183" visible="true"><nd ref="-1184"/><nd ref="-1185"/><nd ref="-1186"/><nd ref="-1187"/><nd ref="-1188"/><nd ref="-1189"/><nd ref="-1190"/><nd ref="-1184"/><tag k="building" v="house"/><tag k="addr:housenumber" v="291"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Kopp Drive"/></way>
+<way id="-1191" visible="true"><nd ref="-1192"/><nd ref="-1193"/><nd ref="-1194"/><nd ref="-1195"/><nd ref="-1196"/><nd ref="-1197"/><nd ref="-1198"/><nd ref="-1199"/><nd ref="-1200"/><nd ref="-1201"/><nd ref="-1192"/><tag k="building" v="house"/><tag k="addr:housenumber" v="331"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Logan Avenue East"/></way>
+<way id="-1202" visible="true"><nd ref="-1203"/><nd ref="-1204"/><nd ref="-1205"/><nd ref="-1206"/><nd ref="-1203"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1207" visible="true"><nd ref="-1208"/><nd ref="-1209"/><nd ref="-1210"/><nd ref="-1211"/><nd ref="-1208"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1212" visible="true"><nd ref="-1213"/><nd ref="-1214"/><nd ref="-1215"/><nd ref="-1216"/><nd ref="-1217"/><nd ref="-1218"/><nd ref="-1213"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1297"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Stassen Drive"/></way>
+<way id="-1219" visible="true"><nd ref="-1220"/><nd ref="-1221"/><nd ref="-1222"/><nd ref="-1223"/><nd ref="-1224"/><nd ref="-1225"/><nd ref="-1226"/><nd ref="-1227"/><nd ref="-1220"/><tag k="building" v="house"/><tag k="addr:housenumber" v="324"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Kopp Drive"/></way>
+<way id="-1228" visible="true"><nd ref="-1229"/><nd ref="-1230"/><nd ref="-1231"/><nd ref="-1232"/><nd ref="-1233"/><nd ref="-1234"/><nd ref="-1235"/><nd ref="-1236"/><nd ref="-1237"/><nd ref="-1238"/><nd ref="-1229"/><tag k="building" v="house"/><tag k="addr:housenumber" v="262"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Stassen Drive"/></way>
+<way id="-1239" visible="true"><nd ref="-1240"/><nd ref="-1241"/><nd ref="-1242"/><nd ref="-1243"/><nd ref="-1244"/><nd ref="-1245"/><nd ref="-1240"/><tag k="building" v="house"/><tag k="addr:housenumber" v="244"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Stassen Drive"/></way>
+<way id="-1246" visible="true"><nd ref="-1247"/><nd ref="-1248"/><nd ref="-1249"/><nd ref="-1250"/><nd ref="-1251"/><nd ref="-1252"/><nd ref="-1253"/><nd ref="-1254"/><nd ref="-1247"/><tag k="building" v="house"/><tag k="addr:housenumber" v="250"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Stassen Drive"/></way>
+<way id="-1255" visible="true"><nd ref="-1256"/><nd ref="-1257"/><nd ref="-1258"/><nd ref="-1259"/><nd ref="-1260"/><nd ref="-1261"/><nd ref="-1262"/><nd ref="-1263"/><nd ref="-1256"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1290"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Stassen Drive"/></way>
+<way id="-1264" visible="true"><nd ref="-1265"/><nd ref="-1266"/><nd ref="-1267"/><nd ref="-1268"/><nd ref="-1269"/><nd ref="-1270"/><nd ref="-1271"/><nd ref="-1272"/><nd ref="-1265"/><tag k="building" v="house"/><tag k="addr:housenumber" v="297"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Kopp Drive"/></way>
+<way id="-1273" visible="true"><nd ref="-1274"/><nd ref="-1275"/><nd ref="-1276"/><nd ref="-1277"/><nd ref="-1274"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-1278" visible="true"><nd ref="-1279"/><nd ref="-1280"/><nd ref="-1281"/><nd ref="-1282"/><nd ref="-1279"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1283" visible="true"><nd ref="-1284"/><nd ref="-1285"/><nd ref="-1286"/><nd ref="-1287"/><nd ref="-1288"/><nd ref="-1289"/><nd ref="-1290"/><nd ref="-1291"/><nd ref="-1284"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-1292" visible="true"><nd ref="-1293"/><nd ref="-1294"/><nd ref="-1295"/><nd ref="-1296"/><nd ref="-1297"/><nd ref="-1298"/><nd ref="-1293"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1162"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Stassen Lane"/></way>
+<way id="-1299" visible="true"><nd ref="-1300"/><nd ref="-1301"/><nd ref="-1302"/><nd ref="-1303"/><nd ref="-1300"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-1304" visible="true"><nd ref="-1305"/><nd ref="-1306"/><nd ref="-1307"/><nd ref="-1308"/><nd ref="-1305"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1309" visible="true"><nd ref="-1310"/><nd ref="-1311"/><nd ref="-1312"/><nd ref="-1313"/><nd ref="-1310"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-1314" visible="true"><nd ref="-1315"/><nd ref="-1316"/><nd ref="-1317"/><nd ref="-1318"/><nd ref="-1315"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1319" visible="true"><nd ref="-1320"/><nd ref="-1321"/><nd ref="-1322"/><nd ref="-1323"/><nd ref="-1320"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1324" visible="true"><nd ref="-1325"/><nd ref="-1326"/><nd ref="-1327"/><nd ref="-1328"/><nd ref="-1325"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1329" visible="true"><nd ref="-1330"/><nd ref="-1331"/><nd ref="-1332"/><nd ref="-1333"/><nd ref="-1330"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1334" visible="true"><nd ref="-1335"/><nd ref="-1336"/><nd ref="-1337"/><nd ref="-1338"/><nd ref="-1335"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1339" visible="true"><nd ref="-1340"/><nd ref="-1341"/><nd ref="-1342"/><nd ref="-1343"/><nd ref="-1340"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1344" visible="true"><nd ref="-1345"/><nd ref="-1346"/><nd ref="-1347"/><nd ref="-1348"/><nd ref="-1345"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-1349" visible="true"><nd ref="-1350"/><nd ref="-1351"/><nd ref="-1352"/><nd ref="-1353"/><nd ref="-1350"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-1354" visible="true"><nd ref="-1355"/><nd ref="-1356"/><nd ref="-1357"/><nd ref="-1358"/><nd ref="-1359"/><nd ref="-1360"/><nd ref="-1361"/><nd ref="-1362"/><nd ref="-1363"/><nd ref="-1364"/><nd ref="-1355"/><tag k="building" v="house"/><tag k="addr:housenumber" v="410"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Butler Avenue East"/></way>
+<way id="-1365" visible="true"><nd ref="-1366"/><nd ref="-1367"/><nd ref="-1368"/><nd ref="-1369"/><nd ref="-1370"/><nd ref="-1371"/><nd ref="-1372"/><nd ref="-1366"/><tag k="building" v="house"/><tag k="addr:housenumber" v="232"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Butler Avenue East"/></way>
+<way id="-1373" visible="true"><nd ref="-1374"/><nd ref="-1375"/><nd ref="-1376"/><nd ref="-1377"/><nd ref="-1378"/><nd ref="-1379"/><nd ref="-1374"/><tag k="building" v="house"/><tag k="addr:housenumber" v="284"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Butler Avenue East"/></way>
+<way id="-1380" visible="true"><nd ref="-1381"/><nd ref="-1382"/><nd ref="-1383"/><nd ref="-1384"/><nd ref="-1385"/><nd ref="-1386"/><nd ref="-1387"/><nd ref="-1388"/><nd ref="-1389"/><nd ref="-1381"/><tag k="building" v="house"/><tag k="addr:housenumber" v="312"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Butler Avenue East"/></way>
+<way id="-1390" visible="true"><nd ref="-1391"/><nd ref="-1392"/><nd ref="-1393"/><nd ref="-1394"/><nd ref="-1395"/><nd ref="-1396"/><nd ref="-1391"/><tag k="building" v="house"/><tag k="addr:housenumber" v="286"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Butler Avenue East"/></way>
+<way id="-1397" visible="true"><nd ref="-1398"/><nd ref="-1399"/><nd ref="-1400"/><nd ref="-1401"/><nd ref="-1402"/><nd ref="-1403"/><nd ref="-1404"/><nd ref="-1405"/><nd ref="-1406"/><nd ref="-1398"/><tag k="building" v="house"/><tag k="addr:housenumber" v="278"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Butler Avenue East"/></way>
+<way id="-1407" visible="true"><nd ref="-1408"/><nd ref="-1409"/><nd ref="-1410"/><nd ref="-1411"/><nd ref="-1412"/><nd ref="-1413"/><nd ref="-1414"/><nd ref="-1408"/><tag k="building" v="house"/><tag k="addr:housenumber" v="258"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Butler Avenue East"/></way>
+<way id="-1415" visible="true"><nd ref="-1416"/><nd ref="-1417"/><nd ref="-1418"/><nd ref="-1419"/><nd ref="-1420"/><nd ref="-1421"/><nd ref="-1422"/><nd ref="-1423"/><nd ref="-1424"/><nd ref="-1425"/><nd ref="-1426"/><nd ref="-1427"/><nd ref="-1416"/><tag k="building" v="house"/><tag k="addr:housenumber" v="264"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Butler Avenue East"/></way>
+<way id="-1428" visible="true"><nd ref="-1429"/><nd ref="-1430"/><nd ref="-1431"/><nd ref="-1432"/><nd ref="-1433"/><nd ref="-1434"/><nd ref="-1435"/><nd ref="-1436"/><nd ref="-1429"/><tag k="building" v="house"/><tag k="addr:housenumber" v="244"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Butler Avenue East"/></way>
+<way id="-1437" visible="true"><nd ref="-1438"/><nd ref="-1439"/><nd ref="-1440"/><nd ref="-1441"/><nd ref="-1442"/><nd ref="-1443"/><nd ref="-1444"/><nd ref="-1445"/><nd ref="-1438"/><tag k="building" v="house"/><tag k="addr:housenumber" v="240"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Butler Avenue East"/></way>
+<way id="-1446" visible="true"><nd ref="-1447"/><nd ref="-1448"/><nd ref="-1449"/><nd ref="-1450"/><nd ref="-1451"/><nd ref="-1452"/><nd ref="-1453"/><nd ref="-1454"/><nd ref="-1455"/><nd ref="-1456"/><nd ref="-1447"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1124"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Stassen Lane"/></way>
+<way id="-1457" visible="true"><nd ref="-1458"/><nd ref="-1459"/><nd ref="-1460"/><nd ref="-1461"/><nd ref="-1458"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<relation id="-818" visible="true"><member ref="-819" role="outer" type="way"/><member ref="-862" role="inner" type="way"/><tag k="type" v="multipolygon"/><tag k="building" v="school"/><tag k="addr:housenumber" v="1200"/><tag k="addr:city" v="West St Paul"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Oakdale Avenue"/></relation>
+<relation id="-863" visible="true"><member ref="-864" role="outer" type="way"/><member ref="-875" role="inner" type="way"/><tag k="type" v="multipolygon"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></relation>
+</osm>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.753074801" lon="-93.318327688" visible="true"/>
+<node id="-3" lat="44.753037942" lon="-93.318312426" visible="true"/>
+<node id="-4" lat="44.75303471" lon="-93.318327792" visible="true"/>
+<node id="-5" lat="44.753025803" lon="-93.318327815" visible="true"/>
+<node id="-6" lat="44.752974909" lon="-93.318306739" visible="true"/>
+<node id="-7" lat="44.75297045" lon="-93.318327952" visible="true"/>
+<node id="-8" lat="44.752945494" lon="-93.31844666" visible="true"/>
+<node id="-9" lat="44.753008354" lon="-93.318472686" visible="true"/>
+<node id="-10" lat="44.753014079" lon="-93.318445453" visible="true"/>
+<node id="-11" lat="44.753070836" lon="-93.31846895" visible="true"/>
+<node id="-12" lat="44.753082545" lon="-93.318413239" visible="true"/>
+<node id="-13" lat="44.753076355" lon="-93.318410675" visible="true"/>
+<node id="-14" lat="44.753092269" lon="-93.318334921" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="3200"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Sunset Lake Drive"/></way>
+</osm>

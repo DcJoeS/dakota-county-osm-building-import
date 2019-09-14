@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.79361238" lon="-93.187452892" visible="true"/>
+<node id="-3" lat="44.793365763" lon="-93.187510632" visible="true"/>
+<node id="-4" lat="44.793388633" lon="-93.18768523" visible="true"/>
+<node id="-5" lat="44.793635754" lon="-93.18761708" visible="true"/>
+<node id="-7" lat="44.796311236" lon="-93.187384118" visible="true"/>
+<node id="-8" lat="44.796286094" lon="-93.187465324" visible="true"/>
+<node id="-9" lat="44.796226126" lon="-93.187432013" visible="true"/>
+<node id="-10" lat="44.79619712" lon="-93.187541544" visible="true"/>
+<node id="-11" lat="44.796265814" lon="-93.187580104" visible="true"/>
+<node id="-12" lat="44.796271414" lon="-93.187560488" visible="true"/>
+<node id="-13" lat="44.796337143" lon="-93.187597399" visible="true"/>
+<node id="-14" lat="44.796390471" lon="-93.187433548" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1719"/><tag k="addr:city" v="Eagan"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55122"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Hickory Hill"/></way>
+<way id="-6" visible="true"><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-7"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1699"/><tag k="addr:city" v="Eagan"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55122"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Woodgate Lane"/></way>
+</osm>

@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.835268295" lon="-93.104874464" visible="true"/>
+<node id="-3" lat="44.835267095" lon="-93.105023041" visible="true"/>
+<node id="-4" lat="44.835321038" lon="-93.105024262" visible="true"/>
+<node id="-5" lat="44.835321947" lon="-93.104877332" visible="true"/>
+<node id="-7" lat="44.835326853" lon="-93.104877212" visible="true"/>
+<node id="-8" lat="44.835326405" lon="-93.104924469" visible="true"/>
+<node id="-9" lat="44.835355062" lon="-93.104925188" visible="true"/>
+<node id="-10" lat="44.835356124" lon="-93.104877994" visible="true"/>
+<node id="-12" lat="44.83535373" lon="-93.105079095" visible="true"/>
+<node id="-13" lat="44.835239851" lon="-93.105217139" visible="true"/>
+<node id="-14" lat="44.835212279" lon="-93.105171938" visible="true"/>
+<node id="-15" lat="44.835118614" lon="-93.105288289" visible="true"/>
+<node id="-16" lat="44.83518255" lon="-93.105387648" visible="true"/>
+<node id="-17" lat="44.835234246" lon="-93.105322819" visible="true"/>
+<node id="-18" lat="44.83526869" lon="-93.105380379" visible="true"/>
+<node id="-19" lat="44.835328081" lon="-93.105309245" visible="true"/>
+<node id="-20" lat="44.835334874" lon="-93.105321503" visible="true"/>
+<node id="-21" lat="44.835381409" lon="-93.105264616" visible="true"/>
+<node id="-22" lat="44.835373546" lon="-93.105251791" visible="true"/>
+<node id="-23" lat="44.835423743" lon="-93.105191815" visible="true"/>
+<node id="-25" lat="44.839459326" lon="-93.102539374" visible="true"/>
+<node id="-26" lat="44.83939015" lon="-93.102542819" visible="true"/>
+<node id="-27" lat="44.839393388" lon="-93.102669851" visible="true"/>
+<node id="-28" lat="44.839462605" lon="-93.102666365" visible="true"/>
+<node id="-30" lat="44.838158229" lon="-93.102425288" visible="true"/>
+<node id="-31" lat="44.838144784" lon="-93.102426072" visible="true"/>
+<node id="-32" lat="44.83814357" lon="-93.102356692" visible="true"/>
+<node id="-33" lat="44.838057964" lon="-93.102357704" visible="true"/>
+<node id="-34" lat="44.838060971" lon="-93.10258139" visible="true"/>
+<node id="-35" lat="44.83804403" lon="-93.102581377" visible="true"/>
+<node id="-36" lat="44.838045827" lon="-93.102686321" visible="true"/>
+<node id="-37" lat="44.838160983" lon="-93.102684302" visible="true"/>
+<node id="-39" lat="44.839003043" lon="-93.103424013" visible="true"/>
+<node id="-40" lat="44.839002253" lon="-93.103366648" visible="true"/>
+<node id="-41" lat="44.838907786" lon="-93.103366882" visible="true"/>
+<node id="-42" lat="44.838907129" lon="-93.103420604" visible="true"/>
+<node id="-43" lat="44.838888474" lon="-93.103421129" visible="true"/>
+<node id="-44" lat="44.838889586" lon="-93.103517469" visible="true"/>
+<node id="-45" lat="44.838881546" lon="-93.103517799" visible="true"/>
+<node id="-46" lat="44.838883123" lon="-93.103624523" visible="true"/>
+<node id="-47" lat="44.838981854" lon="-93.103625042" visible="true"/>
+<node id="-48" lat="44.838980884" lon="-93.103531762" visible="true"/>
+<node id="-49" lat="44.839001827" lon="-93.10353049" visible="true"/>
+<node id="-50" lat="44.839000925" lon="-93.103486795" visible="true"/>
+<node id="-51" lat="44.839036998" lon="-93.103488531" visible="true"/>
+<node id="-52" lat="44.839037633" lon="-93.103423617" visible="true"/>
+<node id="-54" lat="44.840157047" lon="-93.095636588" visible="true"/>
+<node id="-55" lat="44.840144026" lon="-93.095611037" visible="true"/>
+<node id="-56" lat="44.840158958" lon="-93.095596693" visible="true"/>
+<node id="-57" lat="44.840130942" lon="-93.095522764" visible="true"/>
+<node id="-58" lat="44.839998154" lon="-93.095625255" visible="true"/>
+<node id="-59" lat="44.840014816" lon="-93.09566413" visible="true"/>
+<node id="-60" lat="44.840003959" lon="-93.095671762" visible="true"/>
+<node id="-61" lat="44.840033168" lon="-93.095741385" visible="true"/>
+<node id="-62" lat="44.840042206" lon="-93.095734009" visible="true"/>
+<node id="-63" lat="44.840060097" lon="-93.095774262" visible="true"/>
+<node id="-64" lat="44.840104969" lon="-93.095738094" visible="true"/>
+<node id="-65" lat="44.840114294" lon="-93.095762322" visible="true"/>
+<node id="-66" lat="44.840185846" lon="-93.095705786" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-6" visible="true"><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-7"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-11" visible="true"><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-12"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7861"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55077"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Yankee Doodle Road"/></way>
+<way id="-24" visible="true"><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-25"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-29" visible="true"><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-35"/><nd ref="-36"/><nd ref="-37"/><nd ref="-30"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-38" visible="true"><nd ref="-39"/><nd ref="-40"/><nd ref="-41"/><nd ref="-42"/><nd ref="-43"/><nd ref="-44"/><nd ref="-45"/><nd ref="-46"/><nd ref="-47"/><nd ref="-48"/><nd ref="-49"/><nd ref="-50"/><nd ref="-51"/><nd ref="-52"/><nd ref="-39"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1949"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="77th Street West"/></way>
+<way id="-53" visible="true"><nd ref="-54"/><nd ref="-55"/><nd ref="-56"/><nd ref="-57"/><nd ref="-58"/><nd ref="-59"/><nd ref="-60"/><nd ref="-61"/><nd ref="-62"/><nd ref="-63"/><nd ref="-64"/><nd ref="-65"/><nd ref="-66"/><nd ref="-54"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1540"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="76th Street West"/></way>
+</osm>

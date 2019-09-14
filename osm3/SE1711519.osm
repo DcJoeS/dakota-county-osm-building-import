@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.764738477" lon="-93.120599446" visible="true"/>
+<node id="-3" lat="44.764738326" lon="-93.12056817" visible="true"/>
+<node id="-4" lat="44.764727678" lon="-93.120557745" visible="true"/>
+<node id="-5" lat="44.764690111" lon="-93.120556976" visible="true"/>
+<node id="-6" lat="44.764684357" lon="-93.120568305" visible="true"/>
+<node id="-7" lat="44.764684231" lon="-93.120602412" visible="true"/>
+<node id="-8" lat="44.76469096" lon="-93.120611902" visible="true"/>
+<node id="-9" lat="44.764690842" lon="-93.120652766" visible="true"/>
+<node id="-10" lat="44.764677967" lon="-93.12065327" visible="true"/>
+<node id="-11" lat="44.764678055" lon="-93.120818688" visible="true"/>
+<node id="-12" lat="44.764684044" lon="-93.120818593" visible="true"/>
+<node id="-13" lat="44.764684883" lon="-93.120863147" visible="true"/>
+<node id="-14" lat="44.764751391" lon="-93.120862589" visible="true"/>
+<node id="-15" lat="44.76475212" lon="-93.120724359" visible="true"/>
+<node id="-16" lat="44.764850373" lon="-93.120724034" visible="true"/>
+<node id="-17" lat="44.764850504" lon="-93.120600737" visible="true"/>
+<node id="-19" lat="44.765042365" lon="-93.123725441" visible="true"/>
+<node id="-20" lat="44.765018126" lon="-93.123728702" visible="true"/>
+<node id="-21" lat="44.765007299" lon="-93.123576862" visible="true"/>
+<node id="-22" lat="44.764932302" lon="-93.123586085" visible="true"/>
+<node id="-23" lat="44.764936067" lon="-93.123630586" visible="true"/>
+<node id="-24" lat="44.764930165" lon="-93.123631229" visible="true"/>
+<node id="-25" lat="44.764938253" lon="-93.123737245" visible="true"/>
+<node id="-26" lat="44.76492837" lon="-93.123738651" visible="true"/>
+<node id="-27" lat="44.764930137" lon="-93.12375723" visible="true"/>
+<node id="-28" lat="44.76491855" lon="-93.12375572" visible="true"/>
+<node id="-29" lat="44.764885951" lon="-93.123760539" visible="true"/>
+<node id="-30" lat="44.764828714" lon="-93.123773423" visible="true"/>
+<node id="-31" lat="44.764840241" lon="-93.123912894" visible="true"/>
+<node id="-32" lat="44.765053462" lon="-93.123880295" visible="true"/>
+<node id="-34" lat="44.765468481" lon="-93.116448976" visible="true"/>
+<node id="-35" lat="44.765415411" lon="-93.116549737" visible="true"/>
+<node id="-36" lat="44.765425167" lon="-93.116558696" visible="true"/>
+<node id="-37" lat="44.765396393" lon="-93.116612917" visible="true"/>
+<node id="-38" lat="44.765389765" lon="-93.116605556" visible="true"/>
+<node id="-39" lat="44.765373463" lon="-93.116639897" visible="true"/>
+<node id="-40" lat="44.765393944" lon="-93.116660687" visible="true"/>
+<node id="-41" lat="44.765370118" lon="-93.116714086" visible="true"/>
+<node id="-42" lat="44.765454318" lon="-93.1168034" visible="true"/>
+<node id="-43" lat="44.765484501" lon="-93.116747324" visible="true"/>
+<node id="-44" lat="44.765496217" lon="-93.11675868" visible="true"/>
+<node id="-45" lat="44.765537131" lon="-93.116674459" visible="true"/>
+<node id="-46" lat="44.765490588" lon="-93.116625288" visible="true"/>
+<node id="-47" lat="44.765542541" lon="-93.116526387" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="12741"/><tag k="addr:city" v="Rosemount"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55068"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bolivia Avenue"/></way>
+<way id="-18" visible="true"><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-19"/><tag k="building" v="house"/><tag k="addr:housenumber" v="12725"/><tag k="addr:city" v="Rosemount"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55068"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Robert Trail South"/></way>
+<way id="-33" visible="true"><nd ref="-34"/><nd ref="-35"/><nd ref="-36"/><nd ref="-37"/><nd ref="-38"/><nd ref="-39"/><nd ref="-40"/><nd ref="-41"/><nd ref="-42"/><nd ref="-43"/><nd ref="-44"/><nd ref="-45"/><nd ref="-46"/><nd ref="-47"/><nd ref="-34"/><tag k="building" v="house"/><tag k="addr:housenumber" v="12575"/><tag k="addr:city" v="Rosemount"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55068"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Biscayne Avenue"/></way>
+</osm>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.81630804" lon="-93.083113864" visible="true"/>
+<node id="-3" lat="44.816307553" lon="-93.083010542" visible="true"/>
+<node id="-4" lat="44.816345893" lon="-93.08301128" visible="true"/>
+<node id="-5" lat="44.816346555" lon="-93.082936244" visible="true"/>
+<node id="-6" lat="44.816189135" lon="-93.082932639" visible="true"/>
+<node id="-7" lat="44.816185465" lon="-93.083035936" visible="true"/>
+<node id="-8" lat="44.816183217" lon="-93.083122055" visible="true"/>
+<node id="-9" lat="44.816195865" lon="-93.083122195" visible="true"/>
+<node id="-10" lat="44.816194981" lon="-93.08318366" visible="true"/>
+<node id="-11" lat="44.816207411" lon="-93.083183229" visible="true"/>
+<node id="-12" lat="44.816205663" lon="-93.083197041" visible="true"/>
+<node id="-13" lat="44.816205427" lon="-93.083412672" visible="true"/>
+<node id="-14" lat="44.816292281" lon="-93.08341116" visible="true"/>
+<node id="-15" lat="44.816291909" lon="-93.083211689" visible="true"/>
+<node id="-16" lat="44.816309305" lon="-93.083210734" visible="true"/>
+<node id="-17" lat="44.816309046" lon="-93.083182969" visible="true"/>
+<node id="-18" lat="44.816348297" lon="-93.083181906" visible="true"/>
+<node id="-19" lat="44.816349112" lon="-93.083113969" visible="true"/>
+<node id="-21" lat="44.81720049" lon="-93.081976232" visible="true"/>
+<node id="-22" lat="44.817193342" lon="-93.081977733" visible="true"/>
+<node id="-23" lat="44.81719128" lon="-93.081944912" visible="true"/>
+<node id="-24" lat="44.817169292" lon="-93.081947618" visible="true"/>
+<node id="-25" lat="44.817163966" lon="-93.081914959" visible="true"/>
+<node id="-26" lat="44.817156011" lon="-93.081910343" visible="true"/>
+<node id="-27" lat="44.817150184" lon="-93.081906462" visible="true"/>
+<node id="-28" lat="44.817142904" lon="-93.081907167" visible="true"/>
+<node id="-29" lat="44.817131145" lon="-93.081910021" visible="true"/>
+<node id="-30" lat="44.817125404" lon="-93.08191854" visible="true"/>
+<node id="-31" lat="44.817113198" lon="-93.08192145" visible="true"/>
+<node id="-32" lat="44.81709953" lon="-93.081927297" visible="true"/>
+<node id="-33" lat="44.817098733" lon="-93.081936581" visible="true"/>
+<node id="-34" lat="44.81709017" lon="-93.081938842" visible="true"/>
+<node id="-35" lat="44.817086147" lon="-93.081930579" visible="true"/>
+<node id="-36" lat="44.817014207" lon="-93.081849408" visible="true"/>
+<node id="-37" lat="44.817001911" lon="-93.081840249" visible="true"/>
+<node id="-38" lat="44.816991483" lon="-93.081836536" visible="true"/>
+<node id="-39" lat="44.816983021" lon="-93.081838139" visible="true"/>
+<node id="-40" lat="44.816974304" lon="-93.081846332" visible="true"/>
+<node id="-41" lat="44.816967078" lon="-93.081860229" visible="true"/>
+<node id="-42" lat="44.816914198" lon="-93.081948287" visible="true"/>
+<node id="-43" lat="44.816997827" lon="-93.082040717" visible="true"/>
+<node id="-44" lat="44.817020244" lon="-93.082037426" visible="true"/>
+<node id="-45" lat="44.817015669" lon="-93.08205362" visible="true"/>
+<node id="-46" lat="44.817022433" lon="-93.082132176" visible="true"/>
+<node id="-47" lat="44.817065157" lon="-93.082125419" visible="true"/>
+<node id="-48" lat="44.817066993" lon="-93.082148079" visible="true"/>
+<node id="-49" lat="44.817106231" lon="-93.082142568" visible="true"/>
+<node id="-50" lat="44.817106297" lon="-93.082122059" visible="true"/>
+<node id="-51" lat="44.817114506" lon="-93.082117679" visible="true"/>
+<node id="-52" lat="44.817124124" lon="-93.082108515" visible="true"/>
+<node id="-53" lat="44.817131772" lon="-93.082094628" visible="true"/>
+<node id="-54" lat="44.817135217" lon="-93.082074059" visible="true"/>
+<node id="-55" lat="44.81720662" lon="-93.082061767" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="9122"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55077"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Robert Trail South"/></way>
+<way id="-20" visible="true"><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-35"/><nd ref="-36"/><nd ref="-37"/><nd ref="-38"/><nd ref="-39"/><nd ref="-40"/><nd ref="-41"/><nd ref="-42"/><nd ref="-43"/><nd ref="-44"/><nd ref="-45"/><nd ref="-46"/><nd ref="-47"/><nd ref="-48"/><nd ref="-49"/><nd ref="-50"/><nd ref="-51"/><nd ref="-52"/><nd ref="-53"/><nd ref="-54"/><nd ref="-55"/><nd ref="-21"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1175"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55077"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="90th Street East"/></way>
+</osm>

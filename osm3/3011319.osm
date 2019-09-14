@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.568601406" lon="-93.156798701" visible="true"/>
+<node id="-3" lat="44.568601618" lon="-93.156643759" visible="true"/>
+<node id="-4" lat="44.568543024" lon="-93.156641602" visible="true"/>
+<node id="-5" lat="44.568541464" lon="-93.156737561" visible="true"/>
+<node id="-6" lat="44.568522886" lon="-93.156736512" visible="true"/>
+<node id="-7" lat="44.568522951" lon="-93.156802928" visible="true"/>
+<node id="-8" lat="44.568522972" lon="-93.156817565" visible="true"/>
+<node id="-9" lat="44.568522992" lon="-93.156832203" visible="true"/>
+<node id="-10" lat="44.568523012" lon="-93.156846841" visible="true"/>
+<node id="-11" lat="44.568535546" lon="-93.156846806" visible="true"/>
+<node id="-12" lat="44.568548078" lon="-93.156846772" visible="true"/>
+<node id="-13" lat="44.568560611" lon="-93.156846737" visible="true"/>
+<node id="-14" lat="44.568573145" lon="-93.156846703" visible="true"/>
+<node id="-15" lat="44.568585676" lon="-93.156846669" visible="true"/>
+<node id="-16" lat="44.56859821" lon="-93.156846634" visible="true"/>
+<node id="-17" lat="44.568610743" lon="-93.1568466" visible="true"/>
+<node id="-18" lat="44.568623276" lon="-93.156846566" visible="true"/>
+<node id="-19" lat="44.568623255" lon="-93.156831929" visible="true"/>
+<node id="-20" lat="44.568623236" lon="-93.15681729" visible="true"/>
+<node id="-21" lat="44.568623216" lon="-93.156802652" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="26288"/><tag k="addr:city" v="Farmington"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55024"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Denmark Avenue"/></way>
+</osm>

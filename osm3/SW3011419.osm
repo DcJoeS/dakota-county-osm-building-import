@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.64730487" lon="-93.156070706" visible="true"/>
+<node id="-3" lat="44.647304832" lon="-93.156088014" visible="true"/>
+<node id="-4" lat="44.647271755" lon="-93.156088194" visible="true"/>
+<node id="-5" lat="44.647272025" lon="-93.156105624" visible="true"/>
+<node id="-6" lat="44.647235265" lon="-93.156104966" visible="true"/>
+<node id="-7" lat="44.647235236" lon="-93.156155788" visible="true"/>
+<node id="-8" lat="44.647218851" lon="-93.156155939" visible="true"/>
+<node id="-9" lat="44.647218662" lon="-93.156227263" visible="true"/>
+<node id="-10" lat="44.647367973" lon="-93.156227739" visible="true"/>
+<node id="-11" lat="44.647368256" lon="-93.156188884" visible="true"/>
+<node id="-12" lat="44.647398442" lon="-93.156188843" visible="true"/>
+<node id="-13" lat="44.647398408" lon="-93.156070932" visible="true"/>
+<node id="-15" lat="44.647601757" lon="-93.156077015" visible="true"/>
+<node id="-16" lat="44.647525981" lon="-93.156077664" visible="true"/>
+<node id="-17" lat="44.647525926" lon="-93.156058496" visible="true"/>
+<node id="-18" lat="44.647460916" lon="-93.156062596" visible="true"/>
+<node id="-19" lat="44.647428363" lon="-93.156066283" visible="true"/>
+<node id="-20" lat="44.647428617" lon="-93.156169201" visible="true"/>
+<node id="-21" lat="44.647469873" lon="-93.156168445" visible="true"/>
+<node id="-22" lat="44.647470647" lon="-93.156218161" visible="true"/>
+<node id="-23" lat="44.647519761" lon="-93.156219957" visible="true"/>
+<node id="-24" lat="44.647553543" lon="-93.156219389" visible="true"/>
+<node id="-25" lat="44.647602497" lon="-93.156216911" visible="true"/>
+<node id="-27" lat="44.647902765" lon="-93.155767734" visible="true"/>
+<node id="-28" lat="44.647909339" lon="-93.155750964" visible="true"/>
+<node id="-29" lat="44.647854762" lon="-93.155701653" visible="true"/>
+<node id="-30" lat="44.647803617" lon="-93.155806997" visible="true"/>
+<node id="-31" lat="44.647841456" lon="-93.155840041" visible="true"/>
+<node id="-32" lat="44.647832937" lon="-93.155859823" visible="true"/>
+<node id="-33" lat="44.64784322" lon="-93.155867973" visible="true"/>
+<node id="-34" lat="44.647824394" lon="-93.155910553" visible="true"/>
+<node id="-35" lat="44.647821212" lon="-93.155922102" visible="true"/>
+<node id="-36" lat="44.647893167" lon="-93.155984242" visible="true"/>
+<node id="-37" lat="44.647966393" lon="-93.155822894" visible="true"/>
+<node id="-39" lat="44.648043538" lon="-93.155517898" visible="true"/>
+<node id="-40" lat="44.648025396" lon="-93.155558524" visible="true"/>
+<node id="-41" lat="44.648007343" lon="-93.155540211" visible="true"/>
+<node id="-42" lat="44.647998802" lon="-93.155559475" visible="true"/>
+<node id="-43" lat="44.647989778" lon="-93.155551105" visible="true"/>
+<node id="-44" lat="44.647978093" lon="-93.155577112" visible="true"/>
+<node id="-45" lat="44.647970824" lon="-93.155574452" visible="true"/>
+<node id="-46" lat="44.647960037" lon="-93.155568146" visible="true"/>
+<node id="-47" lat="44.647947809" lon="-93.155595163" visible="true"/>
+<node id="-48" lat="44.647938411" lon="-93.155586876" visible="true"/>
+<node id="-49" lat="44.647920348" lon="-93.155624843" visible="true"/>
+<node id="-50" lat="44.647911353" lon="-93.155616593" visible="true"/>
+<node id="-51" lat="44.647887979" lon="-93.155668003" visible="true"/>
+<node id="-52" lat="44.647923579" lon="-93.155698989" visible="true"/>
+<node id="-53" lat="44.647920068" lon="-93.155707671" visible="true"/>
+<node id="-54" lat="44.647992449" lon="-93.155770361" visible="true"/>
+<node id="-55" lat="44.648087068" lon="-93.155556495" visible="true"/>
+<node id="-57" lat="44.64779559" lon="-93.155981836" visible="true"/>
+<node id="-58" lat="44.647749841" lon="-93.156033787" visible="true"/>
+<node id="-59" lat="44.647743339" lon="-93.156022775" visible="true"/>
+<node id="-60" lat="44.647730825" lon="-93.156036947" visible="true"/>
+<node id="-61" lat="44.64770209" lon="-93.155988299" visible="true"/>
+<node id="-62" lat="44.647635277" lon="-93.156077156" visible="true"/>
+<node id="-63" lat="44.647677084" lon="-93.156145147" visible="true"/>
+<node id="-64" lat="44.647698831" lon="-93.156119874" visible="true"/>
+<node id="-65" lat="44.647751331" lon="-93.156206311" visible="true"/>
+<node id="-66" lat="44.647855012" lon="-93.1560788" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="4470"/><tag k="addr:city" v="Farmington"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55024"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="207th Street West"/></way>
+<way id="-14" visible="true"><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-15"/><tag k="building" v="house"/><tag k="addr:housenumber" v="4480"/><tag k="addr:city" v="Farmington"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55024"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="207th Street West"/></way>
+<way id="-26" visible="true"><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-35"/><nd ref="-36"/><nd ref="-37"/><nd ref="-27"/><tag k="building" v="house"/><tag k="addr:housenumber" v="4479"/><tag k="addr:city" v="Farmington"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55024"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="207th Street West"/></way>
+<way id="-38" visible="true"><nd ref="-39"/><nd ref="-40"/><nd ref="-41"/><nd ref="-42"/><nd ref="-43"/><nd ref="-44"/><nd ref="-45"/><nd ref="-46"/><nd ref="-47"/><nd ref="-48"/><nd ref="-49"/><nd ref="-50"/><nd ref="-51"/><nd ref="-52"/><nd ref="-53"/><nd ref="-54"/><nd ref="-55"/><nd ref="-39"/><tag k="building" v="house"/><tag k="addr:housenumber" v="4469"/><tag k="addr:city" v="Farmington"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55024"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="207th Street West"/></way>
+<way id="-56" visible="true"><nd ref="-57"/><nd ref="-58"/><nd ref="-59"/><nd ref="-60"/><nd ref="-61"/><nd ref="-62"/><nd ref="-63"/><nd ref="-64"/><nd ref="-65"/><nd ref="-66"/><nd ref="-57"/><tag k="building" v="house"/><tag k="addr:housenumber" v="4489"/><tag k="addr:city" v="Farmington"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55024"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="207th Street West"/></way>
+</osm>

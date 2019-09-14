@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.849392419" lon="-93.06508298" visible="true"/>
+<node id="-3" lat="44.849365131" lon="-93.065109924" visible="true"/>
+<node id="-4" lat="44.849357685" lon="-93.065095024" visible="true"/>
+<node id="-5" lat="44.84930271" lon="-93.065149314" visible="true"/>
+<node id="-6" lat="44.84929157" lon="-93.06512702" visible="true"/>
+<node id="-7" lat="44.849277765" lon="-93.065140651" visible="true"/>
+<node id="-8" lat="44.849249174" lon="-93.065083431" visible="true"/>
+<node id="-9" lat="44.849144221" lon="-93.065185809" visible="true"/>
+<node id="-10" lat="44.849171636" lon="-93.065240062" visible="true"/>
+<node id="-11" lat="44.849165062" lon="-93.065282743" visible="true"/>
+<node id="-12" lat="44.849146594" lon="-93.065300301" visible="true"/>
+<node id="-13" lat="44.849127802" lon="-93.065269542" visible="true"/>
+<node id="-14" lat="44.849084026" lon="-93.065309835" visible="true"/>
+<node id="-15" lat="44.849162194" lon="-93.065466957" visible="true"/>
+<node id="-16" lat="44.849204329" lon="-93.065415809" visible="true"/>
+<node id="-17" lat="44.849191795" lon="-93.065393266" visible="true"/>
+<node id="-18" lat="44.849209072" lon="-93.065376545" visible="true"/>
+<node id="-19" lat="44.84923646" lon="-93.065383272" visible="true"/>
+<node id="-20" lat="44.849267388" lon="-93.065445249" visible="true"/>
+<node id="-21" lat="44.84937404" lon="-93.065333203" visible="true"/>
+<node id="-22" lat="44.849344894" lon="-93.06527625" visible="true"/>
+<node id="-23" lat="44.849350984" lon="-93.065243532" visible="true"/>
+<node id="-24" lat="44.849408719" lon="-93.065189175" visible="true"/>
+<node id="-25" lat="44.849433339" lon="-93.065164862" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="6879"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="addr:postcode" v="55077"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Inverness Trail"/></way>
+</osm>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.629225861" lon="-93.141774986" visible="true"/>
+<node id="-3" lat="44.629220808" lon="-93.141753945" visible="true"/>
+<node id="-4" lat="44.629197458" lon="-93.141717286" visible="true"/>
+<node id="-5" lat="44.629193404" lon="-93.141723543" visible="true"/>
+<node id="-6" lat="44.629183251" lon="-93.141704987" visible="true"/>
+<node id="-7" lat="44.629178443" lon="-93.141711894" visible="true"/>
+<node id="-8" lat="44.629155647" lon="-93.141678844" visible="true"/>
+<node id="-9" lat="44.629157833" lon="-93.141645089" visible="true"/>
+<node id="-10" lat="44.629160353" lon="-93.141581965" visible="true"/>
+<node id="-11" lat="44.629070853" lon="-93.141579167" visible="true"/>
+<node id="-12" lat="44.628993236" lon="-93.141687084" visible="true"/>
+<node id="-13" lat="44.629154364" lon="-93.141896438" visible="true"/>
+<node id="-14" lat="44.629231869" lon="-93.14179274" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="3774"/><tag k="addr:city" v="Farmington"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55024"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="220th Street West"/></way>
+</osm>

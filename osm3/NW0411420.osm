@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.716375227" lon="-93.229479347" visible="true"/>
+<node id="-3" lat="44.716386151" lon="-93.229471379" visible="true"/>
+<node id="-4" lat="44.716326604" lon="-93.229324404" visible="true"/>
+<node id="-5" lat="44.716235691" lon="-93.22939367" visible="true"/>
+<node id="-6" lat="44.71634079" lon="-93.229650081" visible="true"/>
+<node id="-7" lat="44.716416615" lon="-93.229591085" visible="true"/>
+<node id="-9" lat="44.71613635" lon="-93.228841453" visible="true"/>
+<node id="-10" lat="44.716121165" lon="-93.228852233" visible="true"/>
+<node id="-11" lat="44.716083094" lon="-93.228749377" visible="true"/>
+<node id="-12" lat="44.716019311" lon="-93.228798753" visible="true"/>
+<node id="-13" lat="44.716114801" lon="-93.229046432" visible="true"/>
+<node id="-14" lat="44.716192901" lon="-93.22898604" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-2"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-8" visible="true"><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-9"/><tag k="building" v="house"/><tag k="addr:housenumber" v="16120"/><tag k="addr:city" v="Lakeville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55044"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Harmony Path"/></way>
+</osm>

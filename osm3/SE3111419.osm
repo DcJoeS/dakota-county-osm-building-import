@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.635679662" lon="-93.142514783" visible="true"/>
+<node id="-3" lat="44.635679502" lon="-93.142607664" visible="true"/>
+<node id="-4" lat="44.635752739" lon="-93.142607706" visible="true"/>
+<node id="-5" lat="44.635752898" lon="-93.142515109" visible="true"/>
+<node id="-7" lat="44.632993023" lon="-93.137618501" visible="true"/>
+<node id="-8" lat="44.632993511" lon="-93.137571877" visible="true"/>
+<node id="-9" lat="44.63297354" lon="-93.137571725" visible="true"/>
+<node id="-10" lat="44.632973989" lon="-93.137496616" visible="true"/>
+<node id="-11" lat="44.632904386" lon="-93.137496497" visible="true"/>
+<node id="-12" lat="44.632904151" lon="-93.137505042" visible="true"/>
+<node id="-13" lat="44.632867849" lon="-93.137505351" visible="true"/>
+<node id="-14" lat="44.632867185" lon="-93.137625437" visible="true"/>
+<node id="-15" lat="44.632914727" lon="-93.137625994" visible="true"/>
+<node id="-16" lat="44.632913986" lon="-93.137733785" visible="true"/>
+<node id="-17" lat="44.633034445" lon="-93.137737474" visible="true"/>
+<node id="-18" lat="44.633034784" lon="-93.137618887" visible="true"/>
+<node id="-20" lat="44.635730774" lon="-93.142198826" visible="true"/>
+<node id="-21" lat="44.635721507" lon="-93.142186596" visible="true"/>
+<node id="-22" lat="44.635721169" lon="-93.142099912" visible="true"/>
+<node id="-23" lat="44.635627209" lon="-93.142099917" visible="true"/>
+<node id="-24" lat="44.635627188" lon="-93.14227955" visible="true"/>
+<node id="-25" lat="44.635722354" lon="-93.14227926" visible="true"/>
+<node id="-26" lat="44.635722211" lon="-93.142236096" visible="true"/>
+<node id="-27" lat="44.635730899" lon="-93.14222333" visible="true"/>
+<node id="-29" lat="44.636082827" lon="-93.138742758" visible="true"/>
+<node id="-30" lat="44.636015802" lon="-93.138742035" visible="true"/>
+<node id="-31" lat="44.636016012" lon="-93.138706308" visible="true"/>
+<node id="-32" lat="44.635943369" lon="-93.138705655" visible="true"/>
+<node id="-33" lat="44.635943055" lon="-93.139004811" visible="true"/>
+<node id="-34" lat="44.636029781" lon="-93.139003852" visible="true"/>
+<node id="-35" lat="44.63603007" lon="-93.138931008" visible="true"/>
+<node id="-36" lat="44.636083215" lon="-93.138930937" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-6" visible="true"><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-7"/><tag k="building" v="house"/><tag k="addr:housenumber" v="820"/><tag k="addr:city" v="Farmington"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55024"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="8th Street"/></way>
+<way id="-19" visible="true"><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-20"/><tag k="building" v="house"/><tag k="addr:housenumber" v="620"/><tag k="addr:city" v="Farmington"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55024"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="5th Street"/></way>
+<way id="-28" visible="true"><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-35"/><nd ref="-36"/><nd ref="-29"/><tag k="building" v="house"/><tag k="addr:housenumber" v="612"/><tag k="addr:city" v="Farmington"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55024"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="7th Street"/></way>
+</osm>

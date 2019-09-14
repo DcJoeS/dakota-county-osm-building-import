@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.878346129" lon="-93.0484874" visible="true"/>
+<node id="-3" lat="44.878348626" lon="-93.048399593" visible="true"/>
+<node id="-4" lat="44.878313303" lon="-93.048398499" visible="true"/>
+<node id="-5" lat="44.878313603" lon="-93.04838809" visible="true"/>
+<node id="-6" lat="44.87826041" lon="-93.048385959" visible="true"/>
+<node id="-7" lat="44.878260139" lon="-93.048397332" visible="true"/>
+<node id="-8" lat="44.87821208" lon="-93.048394304" visible="true"/>
+<node id="-9" lat="44.878209718" lon="-93.048565012" visible="true"/>
+<node id="-10" lat="44.878236286" lon="-93.048570122" visible="true"/>
+<node id="-11" lat="44.878298031" lon="-93.048577483" visible="true"/>
+<node id="-12" lat="44.878367771" lon="-93.048582449" visible="true"/>
+<node id="-13" lat="44.878369119" lon="-93.048488496" visible="true"/>
+<node id="-15" lat="44.877922139" lon="-93.046616219" visible="true"/>
+<node id="-16" lat="44.877922641" lon="-93.04657075" visible="true"/>
+<node id="-17" lat="44.87791195" lon="-93.04657052" visible="true"/>
+<node id="-18" lat="44.877914521" lon="-93.046500426" visible="true"/>
+<node id="-19" lat="44.877827294" lon="-93.046498087" visible="true"/>
+<node id="-20" lat="44.877825076" lon="-93.046629206" visible="true"/>
+<node id="-21" lat="44.877850569" lon="-93.046630249" visible="true"/>
+<node id="-22" lat="44.877848574" lon="-93.046752194" visible="true"/>
+<node id="-23" lat="44.877924663" lon="-93.046753078" visible="true"/>
+<node id="-24" lat="44.8779276" lon="-93.046709334" visible="true"/>
+<node id="-25" lat="44.877930381" lon="-93.046616354" visible="true"/>
+<node id="-27" lat="44.877860426" lon="-93.048388447" visible="true"/>
+<node id="-28" lat="44.877859618" lon="-93.04842976" visible="true"/>
+<node id="-29" lat="44.877826636" lon="-93.048428619" visible="true"/>
+<node id="-30" lat="44.877826213" lon="-93.04848517" visible="true"/>
+<node id="-31" lat="44.877819533" lon="-93.048485254" visible="true"/>
+<node id="-32" lat="44.877818478" lon="-93.048576612" visible="true"/>
+<node id="-33" lat="44.877882221" lon="-93.048581584" visible="true"/>
+<node id="-34" lat="44.877939753" lon="-93.048585014" visible="true"/>
+<node id="-35" lat="44.87794242" lon="-93.048386205" visible="true"/>
+<node id="-37" lat="44.878404697" lon="-93.048397682" visible="true"/>
+<node id="-38" lat="44.878400948" lon="-93.048582196" visible="true"/>
+<node id="-39" lat="44.878467196" lon="-93.048583346" visible="true"/>
+<node id="-40" lat="44.878467225" lon="-93.04856716" visible="true"/>
+<node id="-41" lat="44.878527913" lon="-93.04856823" visible="true"/>
+<node id="-42" lat="44.878530005" lon="-93.048394916" visible="true"/>
+<node id="-44" lat="44.877355349" lon="-93.048385585" visible="true"/>
+<node id="-45" lat="44.877354862" lon="-93.048481192" visible="true"/>
+<node id="-46" lat="44.87731909" lon="-93.048481496" visible="true"/>
+<node id="-47" lat="44.877319477" lon="-93.048575281" visible="true"/>
+<node id="-48" lat="44.877348737" lon="-93.048579664" visible="true"/>
+<node id="-49" lat="44.877418819" lon="-93.048583181" visible="true"/>
+<node id="-50" lat="44.877419206" lon="-93.048532639" visible="true"/>
+<node id="-51" lat="44.877464251" lon="-93.04853371" visible="true"/>
+<node id="-52" lat="44.877464716" lon="-93.048384082" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="4892"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55076"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Boyd Avenue"/></way>
+<way id="-14" visible="true"><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-15"/><tag k="building" v="house"/><tag k="addr:housenumber" v="2896"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55076"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="49th Street East"/></way>
+<way id="-26" visible="true"><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-35"/><nd ref="-27"/><tag k="building" v="house"/><tag k="addr:housenumber" v="4904"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55076"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Boyd Avenue"/></way>
+<way id="-36" visible="true"><nd ref="-37"/><nd ref="-38"/><nd ref="-39"/><nd ref="-40"/><nd ref="-41"/><nd ref="-42"/><nd ref="-37"/><tag k="building" v="garage"/><tag k="addr:housenumber" v="4864"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55076"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Boyd Avenue"/></way>
+<way id="-43" visible="true"><nd ref="-44"/><nd ref="-45"/><nd ref="-46"/><nd ref="-47"/><nd ref="-48"/><nd ref="-49"/><nd ref="-50"/><nd ref="-51"/><nd ref="-52"/><nd ref="-44"/><tag k="building" v="house"/><tag k="addr:housenumber" v="4916"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55076"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Boyd Avenue"/></way>
+</osm>

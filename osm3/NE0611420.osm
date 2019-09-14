@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.713250495" lon="-93.261423621" visible="true"/>
+<node id="-3" lat="44.713090563" lon="-93.261423327" visible="true"/>
+<node id="-4" lat="44.713091011" lon="-93.261717484" visible="true"/>
+<node id="-5" lat="44.712969424" lon="-93.261718499" visible="true"/>
+<node id="-6" lat="44.712970713" lon="-93.261923635" visible="true"/>
+<node id="-7" lat="44.713092124" lon="-93.261923278" visible="true"/>
+<node id="-8" lat="44.71309325" lon="-93.262033481" visible="true"/>
+<node id="-9" lat="44.713133759" lon="-93.262033062" visible="true"/>
+<node id="-10" lat="44.713133474" lon="-93.262071659" visible="true"/>
+<node id="-11" lat="44.713210571" lon="-93.262071733" visible="true"/>
+<node id="-12" lat="44.713210271" lon="-93.262032724" visible="true"/>
+<node id="-13" lat="44.713252478" lon="-93.262033123" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-2"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="9711"/><tag k="addr:city" v="Lakeville"/><tag k="addr:postcode" v="55044"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="163rd Street West"/></way>
+</osm>

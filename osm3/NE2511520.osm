@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.741790121" lon="-93.160600343" visible="true"/>
+<node id="-3" lat="44.741792139" lon="-93.160455201" visible="true"/>
+<node id="-4" lat="44.741740748" lon="-93.160453389" visible="true"/>
+<node id="-5" lat="44.741742838" lon="-93.160356443" visible="true"/>
+<node id="-6" lat="44.741725192" lon="-93.160356411" visible="true"/>
+<node id="-7" lat="44.741723331" lon="-93.160084812" visible="true"/>
+<node id="-8" lat="44.741720326" lon="-93.159963466" visible="true"/>
+<node id="-9" lat="44.741630353" lon="-93.1599629" visible="true"/>
+<node id="-10" lat="44.74163059" lon="-93.160013755" visible="true"/>
+<node id="-11" lat="44.741475486" lon="-93.160013235" visible="true"/>
+<node id="-12" lat="44.741474358" lon="-93.16024428" visible="true"/>
+<node id="-13" lat="44.741359738" lon="-93.160243232" visible="true"/>
+<node id="-14" lat="44.741360432" lon="-93.160229871" visible="true"/>
+<node id="-15" lat="44.741293022" lon="-93.160228262" visible="true"/>
+<node id="-16" lat="44.741292433" lon="-93.160245356" visible="true"/>
+<node id="-17" lat="44.741229912" lon="-93.160244029" visible="true"/>
+<node id="-18" lat="44.741229164" lon="-93.160301708" visible="true"/>
+<node id="-19" lat="44.741195487" lon="-93.160299507" visible="true"/>
+<node id="-20" lat="44.74119553" lon="-93.1604335" visible="true"/>
+<node id="-21" lat="44.741229702" lon="-93.160435129" visible="true"/>
+<node id="-22" lat="44.741229103" lon="-93.160568742" visible="true"/>
+<node id="-23" lat="44.741331525" lon="-93.160569301" visible="true"/>
+<node id="-24" lat="44.741331707" lon="-93.160584138" visible="true"/>
+<node id="-25" lat="44.741398847" lon="-93.160584212" visible="true"/>
+<node id="-26" lat="44.741399462" lon="-93.160568813" visible="true"/>
+<node id="-27" lat="44.741465623" lon="-93.160569439" visible="true"/>
+<node id="-28" lat="44.74146544" lon="-93.160545705" visible="true"/>
+<node id="-29" lat="44.741559176" lon="-93.16054549" visible="true"/>
+<node id="-30" lat="44.741557329" lon="-93.160787331" visible="true"/>
+<node id="-31" lat="44.741599274" lon="-93.160787154" visible="true"/>
+<node id="-32" lat="44.741598525" lon="-93.160835851" visible="true"/>
+<node id="-33" lat="44.741690081" lon="-93.160837413" visible="true"/>
+<node id="-34" lat="44.741792413" lon="-93.160840936" visible="true"/>
+<node id="-35" lat="44.741791031" lon="-93.160695378" visible="true"/>
+<node id="-36" lat="44.741801896" lon="-93.160695983" visible="true"/>
+<node id="-37" lat="44.741802336" lon="-93.160599987" visible="true"/>
+<node id="-39" lat="44.745560578" lon="-93.158617753" visible="true"/>
+<node id="-40" lat="44.745555795" lon="-93.158658264" visible="true"/>
+<node id="-41" lat="44.745591906" lon="-93.158666628" visible="true"/>
+<node id="-42" lat="44.745596691" lon="-93.158626196" visible="true"/>
+<node id="-44" lat="44.744741052" lon="-93.158701765" visible="true"/>
+<node id="-45" lat="44.744735268" lon="-93.158741803" visible="true"/>
+<node id="-46" lat="44.744761617" lon="-93.158749224" visible="true"/>
+<node id="-47" lat="44.744767315" lon="-93.158709178" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-35"/><nd ref="-36"/><nd ref="-37"/><nd ref="-2"/><tag k="building" v="school"/><tag k="addr:housenumber" v="4679"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="144th Street West"/></way>
+<way id="-38" visible="true"><nd ref="-39"/><nd ref="-40"/><nd ref="-41"/><nd ref="-42"/><nd ref="-39"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-43" visible="true"><nd ref="-44"/><nd ref="-45"/><nd ref="-46"/><nd ref="-47"/><nd ref="-44"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+</osm>

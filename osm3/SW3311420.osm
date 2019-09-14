@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.631818152" lon="-93.230902728" visible="true"/>
+<node id="-3" lat="44.631814194" lon="-93.230898098" visible="true"/>
+<node id="-4" lat="44.63180815" lon="-93.230893441" visible="true"/>
+<node id="-5" lat="44.631803376" lon="-93.230889032" visible="true"/>
+<node id="-6" lat="44.631790369" lon="-93.230904893" visible="true"/>
+<node id="-7" lat="44.631787731" lon="-93.230915499" visible="true"/>
+<node id="-8" lat="44.63179018" lon="-93.230928417" visible="true"/>
+<node id="-9" lat="44.631794121" lon="-93.230934713" visible="true"/>
+<node id="-10" lat="44.631799428" lon="-93.230938602" visible="true"/>
+<node id="-11" lat="44.631806872" lon="-93.23093989" visible="true"/>
+<node id="-12" lat="44.631815797" lon="-93.230936299" visible="true"/>
+<node id="-13" lat="44.631819361" lon="-93.230927624" visible="true"/>
+<node id="-14" lat="44.631819876" lon="-93.230916972" visible="true"/>
+<node id="-16" lat="44.637352142" lon="-93.231477539" visible="true"/>
+<node id="-17" lat="44.637214511" lon="-93.231476496" visible="true"/>
+<node id="-18" lat="44.6372144" lon="-93.231404378" visible="true"/>
+<node id="-19" lat="44.63708072" lon="-93.231406297" visible="true"/>
+<node id="-20" lat="44.637080694" lon="-93.231484114" visible="true"/>
+<node id="-21" lat="44.636946146" lon="-93.231482944" visible="true"/>
+<node id="-22" lat="44.636944607" lon="-93.231867239" visible="true"/>
+<node id="-23" lat="44.637357416" lon="-93.231864517" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-2"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-15" visible="true"><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-16"/><tag k="building" v="industrial"/><tag k="addr:housenumber" v="8190"/><tag k="addr:city" v="Lakeville"/><tag k="addr:postcode" v="55044"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="215th Street West"/></way>
+</osm>

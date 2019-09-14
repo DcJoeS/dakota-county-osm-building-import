@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.750513985" lon="-93.298167747" visible="true"/>
+<node id="-3" lat="44.750518123" lon="-93.298160486" visible="true"/>
+<node id="-4" lat="44.750433923" lon="-93.298065979" visible="true"/>
+<node id="-5" lat="44.750421563" lon="-93.298052108" visible="true"/>
+<node id="-6" lat="44.750417209" lon="-93.298059746" visible="true"/>
+<node id="-7" lat="44.750367421" lon="-93.298003856" visible="true"/>
+<node id="-8" lat="44.750332222" lon="-93.298065586" visible="true"/>
+<node id="-9" lat="44.750283751" lon="-93.298150596" visible="true"/>
+<node id="-10" lat="44.750330404" lon="-93.29820715" visible="true"/>
+<node id="-11" lat="44.750427562" lon="-93.298317003" visible="true"/>
+<node id="-12" lat="44.750477144" lon="-93.298369283" visible="true"/>
+<node id="-13" lat="44.75056156" lon="-93.298221124" visible="true"/>
+<node id="-15" lat="44.753145687" lon="-93.297906983" visible="true"/>
+<node id="-16" lat="44.753156874" lon="-93.297835848" visible="true"/>
+<node id="-17" lat="44.753081752" lon="-93.297812581" visible="true"/>
+<node id="-18" lat="44.753042758" lon="-93.298060614" visible="true"/>
+<node id="-19" lat="44.753093437" lon="-93.298076308" visible="true"/>
+<node id="-20" lat="44.753130527" lon="-93.29808779" visible="true"/>
+<node id="-21" lat="44.753132306" lon="-93.298076458" visible="true"/>
+<node id="-22" lat="44.753158337" lon="-93.297910901" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1627"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="140th Street West"/></way>
+<way id="-14" visible="true"><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-15"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1604"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+</osm>

@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.6045604" lon="-92.867302391" visible="true"/>
+<node id="-3" lat="44.604558421" lon="-92.867572225" visible="true"/>
+<node id="-4" lat="44.60466998" lon="-92.867573653" visible="true"/>
+<node id="-5" lat="44.604671956" lon="-92.867303994" visible="true"/>
+<node id="-7" lat="44.604717681" lon="-92.866806671" visible="true"/>
+<node id="-8" lat="44.604486716" lon="-92.866826507" visible="true"/>
+<node id="-9" lat="44.604493503" lon="-92.8669814" visible="true"/>
+<node id="-10" lat="44.604725437" lon="-92.866961481" visible="true"/>
+<node id="-12" lat="44.605043416" lon="-92.86725321" visible="true"/>
+<node id="-13" lat="44.605033362" lon="-92.867253464" visible="true"/>
+<node id="-14" lat="44.605033168" lon="-92.867238231" visible="true"/>
+<node id="-15" lat="44.60501734" lon="-92.86723863" visible="true"/>
+<node id="-16" lat="44.605017571" lon="-92.867256631" visible="true"/>
+<node id="-17" lat="44.604999769" lon="-92.867257079" visible="true"/>
+<node id="-18" lat="44.605000422" lon="-92.867308076" visible="true"/>
+<node id="-19" lat="44.605046911" lon="-92.867306907" visible="true"/>
+<node id="-21" lat="44.605075296" lon="-92.866727019" visible="true"/>
+<node id="-22" lat="44.604972784" lon="-92.866734729" visible="true"/>
+<node id="-23" lat="44.604974996" lon="-92.866792346" visible="true"/>
+<node id="-24" lat="44.605076481" lon="-92.866784711" visible="true"/>
+<node id="-26" lat="44.613216461" lon="-92.864152231" visible="true"/>
+<node id="-27" lat="44.613204825" lon="-92.864251517" visible="true"/>
+<node id="-28" lat="44.613244272" lon="-92.864260575" visible="true"/>
+<node id="-29" lat="44.613241584" lon="-92.864283498" visible="true"/>
+<node id="-30" lat="44.613216742" lon="-92.864277792" visible="true"/>
+<node id="-31" lat="44.613207496" lon="-92.864356701" visible="true"/>
+<node id="-32" lat="44.613269872" lon="-92.864371611" visible="true"/>
+<node id="-33" lat="44.613282355" lon="-92.864265098" visible="true"/>
+<node id="-34" lat="44.613307472" lon="-92.864270866" visible="true"/>
+<node id="-35" lat="44.613318625" lon="-92.864175696" visible="true"/>
+<node id="-37" lat="44.613400314" lon="-92.863454796" visible="true"/>
+<node id="-38" lat="44.613293178" lon="-92.8634577" visible="true"/>
+<node id="-39" lat="44.613298251" lon="-92.863824597" visible="true"/>
+<node id="-40" lat="44.613376386" lon="-92.86381728" visible="true"/>
+<node id="-41" lat="44.613372822" lon="-92.863559607" visible="true"/>
+<node id="-42" lat="44.613401753" lon="-92.863558822" visible="true"/>
+<node id="-44" lat="44.601612702" lon="-92.871370387" visible="true"/>
+<node id="-45" lat="44.601539053" lon="-92.871373415" visible="true"/>
+<node id="-46" lat="44.601544991" lon="-92.871656462" visible="true"/>
+<node id="-47" lat="44.601618626" lon="-92.871652763" visible="true"/>
+<node id="-49" lat="44.605264208" lon="-92.866788219" visible="true"/>
+<node id="-50" lat="44.605199484" lon="-92.86678923" visible="true"/>
+<node id="-51" lat="44.605200177" lon="-92.866875902" visible="true"/>
+<node id="-52" lat="44.605191182" lon="-92.866876041" visible="true"/>
+<node id="-53" lat="44.605191919" lon="-92.866968531" visible="true"/>
+<node id="-54" lat="44.605164087" lon="-92.866968968" visible="true"/>
+<node id="-55" lat="44.605164597" lon="-92.867032947" visible="true"/>
+<node id="-56" lat="44.605261377" lon="-92.867031435" visible="true"/>
+<node id="-57" lat="44.605260939" lon="-92.86697253" visible="true"/>
+<node id="-58" lat="44.605240013" lon="-92.866972857" visible="true"/>
+<node id="-59" lat="44.605239218" lon="-92.866873144" visible="true"/>
+<node id="-60" lat="44.605264882" lon="-92.866872742" visible="true"/>
+<node id="-62" lat="44.612472239" lon="-92.863866146" visible="true"/>
+<node id="-63" lat="44.61246134" lon="-92.863936263" visible="true"/>
+<node id="-64" lat="44.612567708" lon="-92.863968668" visible="true"/>
+<node id="-65" lat="44.612576833" lon="-92.863898013" visible="true"/>
+<node id="-67" lat="44.61268465" lon="-92.864149037" visible="true"/>
+<node id="-68" lat="44.612667021" lon="-92.864301752" visible="true"/>
+<node id="-69" lat="44.61279133" lon="-92.864329876" visible="true"/>
+<node id="-70" lat="44.612809518" lon="-92.864177288" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-6" visible="true"><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-7"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-11" visible="true"><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-12"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-20" visible="true"><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-21"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-25" visible="true"><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-35"/><nd ref="-26"/><tag k="building" v="house"/><tag k="addr:housenumber" v="11960"/><tag k="addr:city" v="Hastings"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55033"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="230th Street East"/></way>
+<way id="-36" visible="true"><nd ref="-37"/><nd ref="-38"/><nd ref="-39"/><nd ref="-40"/><nd ref="-41"/><nd ref="-42"/><nd ref="-37"/><tag k="building" v="house"/><tag k="addr:housenumber" v="11990"/><tag k="addr:city" v="Hastings"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55033"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="230th Street East"/></way>
+<way id="-43" visible="true"><nd ref="-44"/><nd ref="-45"/><nd ref="-46"/><nd ref="-47"/><nd ref="-44"/><tag k="building" v="house"/><tag k="addr:housenumber" v="11581"/><tag k="addr:city" v="Hampton"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55031"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="240th Street East"/></way>
+<way id="-48" visible="true"><nd ref="-49"/><nd ref="-50"/><nd ref="-51"/><nd ref="-52"/><nd ref="-53"/><nd ref="-54"/><nd ref="-55"/><nd ref="-56"/><nd ref="-57"/><nd ref="-58"/><nd ref="-59"/><nd ref="-60"/><nd ref="-49"/><tag k="building" v="farm"/><tag k="addr:housenumber" v="11841"/><tag k="addr:city" v="Hampton"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55031"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="240th Street East"/></way>
+<way id="-61" visible="true"><nd ref="-62"/><nd ref="-63"/><nd ref="-64"/><nd ref="-65"/><nd ref="-62"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-66" visible="true"><nd ref="-67"/><nd ref="-68"/><nd ref="-69"/><nd ref="-70"/><nd ref="-67"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+</osm>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.880011347" lon="-93.144492096" visible="true"/>
+<node id="-3" lat="44.880011862" lon="-93.144444717" visible="true"/>
+<node id="-4" lat="44.879971076" lon="-93.144445189" visible="true"/>
+<node id="-5" lat="44.879970545" lon="-93.144461497" visible="true"/>
+<node id="-6" lat="44.879945981" lon="-93.144461782" visible="true"/>
+<node id="-7" lat="44.879945804" lon="-93.144439043" visible="true"/>
+<node id="-8" lat="44.879870015" lon="-93.144439741" visible="true"/>
+<node id="-9" lat="44.879869111" lon="-93.144527528" visible="true"/>
+<node id="-10" lat="44.879833356" lon="-93.144528059" visible="true"/>
+<node id="-11" lat="44.879831238" lon="-93.14463742" visible="true"/>
+<node id="-12" lat="44.879864985" lon="-93.144637385" visible="true"/>
+<node id="-13" lat="44.879865002" lon="-93.144647368" visible="true"/>
+<node id="-14" lat="44.879930246" lon="-93.144650038" visible="true"/>
+<node id="-15" lat="44.880022354" lon="-93.144651632" visible="true"/>
+<node id="-16" lat="44.880023755" lon="-93.144492013" visible="true"/>
+<node id="-18" lat="44.879553429" lon="-93.145571624" visible="true"/>
+<node id="-19" lat="44.879529338" lon="-93.145694114" visible="true"/>
+<node id="-20" lat="44.87956043" lon="-93.145706102" visible="true"/>
+<node id="-21" lat="44.879557214" lon="-93.145722322" visible="true"/>
+<node id="-22" lat="44.879577007" lon="-93.145730541" visible="true"/>
+<node id="-23" lat="44.879563681" lon="-93.145794784" visible="true"/>
+<node id="-24" lat="44.87962729" lon="-93.145818741" visible="true"/>
+<node id="-25" lat="44.879665997" lon="-93.145615925" visible="true"/>
+<node id="-27" lat="44.882465781" lon="-93.143923064" visible="true"/>
+<node id="-28" lat="44.882377594" lon="-93.143924614" visible="true"/>
+<node id="-29" lat="44.882377567" lon="-93.143979431" visible="true"/>
+<node id="-30" lat="44.882321545" lon="-93.14398057" visible="true"/>
+<node id="-31" lat="44.882320401" lon="-93.144099633" visible="true"/>
+<node id="-32" lat="44.882400689" lon="-93.144099665" visible="true"/>
+<node id="-33" lat="44.882400579" lon="-93.144073128" visible="true"/>
+<node id="-34" lat="44.882466178" lon="-93.144071896" visible="true"/>
+<node id="-36" lat="44.877104791" lon="-93.146341278" visible="true"/>
+<node id="-37" lat="44.876942378" lon="-93.146344339" visible="true"/>
+<node id="-38" lat="44.876940763" lon="-93.146510609" visible="true"/>
+<node id="-39" lat="44.877047823" lon="-93.146509707" visible="true"/>
+<node id="-40" lat="44.877047937" lon="-93.146472741" visible="true"/>
+<node id="-41" lat="44.87707182" lon="-93.146473019" visible="true"/>
+<node id="-42" lat="44.877071357" lon="-93.146439907" visible="true"/>
+<node id="-43" lat="44.877104975" lon="-93.146439412" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="2102"/><tag k="addr:city" v="Mendota Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55120"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Theresa Street"/></way>
+<way id="-17" visible="true"><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-18"/><tag k="building" v="house"/><tag k="addr:housenumber" v="2108"/><tag k="addr:city" v="Mendota Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55120"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Patricia Street"/></way>
+<way id="-26" visible="true"><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-27"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-35" visible="true"><nd ref="-36"/><nd ref="-37"/><nd ref="-38"/><nd ref="-39"/><nd ref="-40"/><nd ref="-41"/><nd ref="-42"/><nd ref="-43"/><nd ref="-36"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+</osm>

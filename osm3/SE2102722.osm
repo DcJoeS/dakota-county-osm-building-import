@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.80543957" lon="-93.05020303" visible="true"/>
+<node id="-3" lat="44.805407409" lon="-93.050202438" visible="true"/>
+<node id="-4" lat="44.805407159" lon="-93.050107897" visible="true"/>
+<node id="-5" lat="44.805433184" lon="-93.050106936" visible="true"/>
+<node id="-6" lat="44.805430133" lon="-93.049908534" visible="true"/>
+<node id="-7" lat="44.805321464" lon="-93.049908871" visible="true"/>
+<node id="-8" lat="44.805314747" lon="-93.04999323" visible="true"/>
+<node id="-9" lat="44.80525354" lon="-93.049994185" visible="true"/>
+<node id="-10" lat="44.805253548" lon="-93.050259423" visible="true"/>
+<node id="-11" lat="44.805290939" lon="-93.050259142" visible="true"/>
+<node id="-12" lat="44.805291404" lon="-93.050324188" visible="true"/>
+<node id="-13" lat="44.805370496" lon="-93.050323505" visible="true"/>
+<node id="-14" lat="44.805370738" lon="-93.050256572" visible="true"/>
+<node id="-15" lat="44.805439858" lon="-93.050257335" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="9912"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55077"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Baxter Trail"/></way>
+</osm>

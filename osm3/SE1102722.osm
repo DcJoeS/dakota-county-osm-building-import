@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.833983317" lon="-93.013521617" visible="true"/>
+<node id="-3" lat="44.833981094" lon="-93.013570085" visible="true"/>
+<node id="-4" lat="44.8340195" lon="-93.013573191" visible="true"/>
+<node id="-5" lat="44.834021723" lon="-93.01352472" visible="true"/>
+<node id="-7" lat="44.834136937" lon="-93.013532929" visible="true"/>
+<node id="-8" lat="44.834124742" lon="-93.01366184" visible="true"/>
+<node id="-9" lat="44.834250968" lon="-93.01368541" visible="true"/>
+<node id="-10" lat="44.834249431" lon="-93.013697532" visible="true"/>
+<node id="-11" lat="44.834291768" lon="-93.01370502" visible="true"/>
+<node id="-12" lat="44.834304712" lon="-93.013562887" visible="true"/>
+<node id="-14" lat="44.834300679" lon="-93.013815101" visible="true"/>
+<node id="-15" lat="44.834294659" lon="-93.013909846" visible="true"/>
+<node id="-16" lat="44.834340125" lon="-93.013915111" visible="true"/>
+<node id="-17" lat="44.834346142" lon="-93.013820372" visible="true"/>
+<node id="-19" lat="44.834545915" lon="-93.013721333" visible="true"/>
+<node id="-20" lat="44.834547863" lon="-93.013709398" visible="true"/>
+<node id="-21" lat="44.834475507" lon="-93.013686066" visible="true"/>
+<node id="-22" lat="44.834473275" lon="-93.013699755" visible="true"/>
+<node id="-23" lat="44.834418943" lon="-93.013682235" visible="true"/>
+<node id="-24" lat="44.834395824" lon="-93.013823858" visible="true"/>
+<node id="-25" lat="44.834461789" lon="-93.013845126" visible="true"/>
+<node id="-26" lat="44.834466885" lon="-93.013813916" visible="true"/>
+<node id="-27" lat="44.834598312" lon="-93.013856292" visible="true"/>
+<node id="-28" lat="44.834616964" lon="-93.013744239" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-6" visible="true"><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-7"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7960"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55076"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="River Road"/></way>
+<way id="-13" visible="true"><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-14"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-18" visible="true"><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-19"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7950"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55076"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="River Road"/></way>
+</osm>

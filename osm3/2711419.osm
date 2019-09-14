@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.646321774" lon="-93.083085958" visible="true"/>
+<node id="-3" lat="44.646184294" lon="-93.083095817" visible="true"/>
+<node id="-4" lat="44.646198378" lon="-93.083375689" visible="true"/>
+<node id="-5" lat="44.646333453" lon="-93.083368818" visible="true"/>
+<node id="-7" lat="44.645884635" lon="-93.076140748" visible="true"/>
+<node id="-8" lat="44.645753761" lon="-93.076187773" visible="true"/>
+<node id="-9" lat="44.645776934" lon="-93.076305509" visible="true"/>
+<node id="-10" lat="44.645788116" lon="-93.07630276" visible="true"/>
+<node id="-11" lat="44.645801053" lon="-93.076365797" visible="true"/>
+<node id="-12" lat="44.645820531" lon="-93.076360424" visible="true"/>
+<node id="-13" lat="44.645832726" lon="-93.076421357" visible="true"/>
+<node id="-14" lat="44.645932392" lon="-93.076385898" visible="true"/>
+<node id="-16" lat="44.647370978" lon="-93.082530924" visible="true"/>
+<node id="-17" lat="44.647368726" lon="-93.082877558" visible="true"/>
+<node id="-18" lat="44.647509025" lon="-93.082880642" visible="true"/>
+<node id="-19" lat="44.647510583" lon="-93.08253251" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-6" visible="true"><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-7"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1485"/><tag k="addr:city" v="Farmington"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55024"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="210th Street East"/></way>
+<way id="-15" visible="true"><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-16"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+</osm>

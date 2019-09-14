@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.718363697" lon="-92.860149616" visible="true"/>
+<node id="-3" lat="44.718339687" lon="-92.860168354" visible="true"/>
+<node id="-4" lat="44.718332462" lon="-92.860149554" visible="true"/>
+<node id="-5" lat="44.718290636" lon="-92.860181235" visible="true"/>
+<node id="-6" lat="44.718297563" lon="-92.860200123" visible="true"/>
+<node id="-7" lat="44.718278298" lon="-92.860215503" visible="true"/>
+<node id="-8" lat="44.718263224" lon="-92.860180639" visible="true"/>
+<node id="-9" lat="44.718203603" lon="-92.860231963" visible="true"/>
+<node id="-10" lat="44.718177966" lon="-92.860256074" visible="true"/>
+<node id="-11" lat="44.718215001" lon="-92.860348878" visible="true"/>
+<node id="-12" lat="44.7182435" lon="-92.860325892" visible="true"/>
+<node id="-13" lat="44.718272961" lon="-92.860394538" visible="true"/>
+<node id="-14" lat="44.718414095" lon="-92.860279254" visible="true"/>
+<node id="-16" lat="44.719031889" lon="-92.859060972" visible="true"/>
+<node id="-17" lat="44.718996544" lon="-92.859117908" visible="true"/>
+<node id="-18" lat="44.718991174" lon="-92.859111826" visible="true"/>
+<node id="-19" lat="44.718963993" lon="-92.859152427" visible="true"/>
+<node id="-20" lat="44.718911713" lon="-92.859230997" visible="true"/>
+<node id="-21" lat="44.718969277" lon="-92.859302178" visible="true"/>
+<node id="-22" lat="44.718997422" lon="-92.859254558" visible="true"/>
+<node id="-23" lat="44.719045666" lon="-92.85931397" visible="true"/>
+<node id="-24" lat="44.719128595" lon="-92.859180323" visible="true"/>
+<node id="-26" lat="44.719674702" lon="-92.856869539" visible="true"/>
+<node id="-27" lat="44.719574803" lon="-92.857097558" visible="true"/>
+<node id="-28" lat="44.719694203" lon="-92.857196536" visible="true"/>
+<node id="-29" lat="44.719746409" lon="-92.85707173" visible="true"/>
+<node id="-30" lat="44.719727113" lon="-92.857055556" visible="true"/>
+<node id="-31" lat="44.719769558" lon="-92.856948634" visible="true"/>
+<node id="-33" lat="44.718549609" lon="-92.85896916" visible="true"/>
+<node id="-34" lat="44.718472202" lon="-92.859090011" visible="true"/>
+<node id="-35" lat="44.718496314" lon="-92.85912276" visible="true"/>
+<node id="-36" lat="44.718460577" lon="-92.859176631" visible="true"/>
+<node id="-37" lat="44.718518008" lon="-92.859247271" visible="true"/>
+<node id="-38" lat="44.718634372" lon="-92.859074977" visible="true"/>
+<node id="-40" lat="44.718931289" lon="-92.85836507" visible="true"/>
+<node id="-41" lat="44.718812932" lon="-92.858553641" visible="true"/>
+<node id="-42" lat="44.718870383" lon="-92.858622598" visible="true"/>
+<node id="-43" lat="44.718923854" lon="-92.858536732" visible="true"/>
+<node id="-44" lat="44.718947386" lon="-92.85856637" visible="true"/>
+<node id="-45" lat="44.71899077" lon="-92.85848902" visible="true"/>
+<node id="-46" lat="44.718985284" lon="-92.858481675" visible="true"/>
+<node id="-47" lat="44.719003047" lon="-92.858454844" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="760"/><tag k="addr:city" v="Hastings"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55033"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bohlken Drive"/></way>
+<way id="-15" visible="true"><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-16"/><tag k="building" v="house"/><tag k="addr:housenumber" v="744"/><tag k="addr:city" v="Hastings"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55033"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bohlken Drive"/></way>
+<way id="-25" visible="true"><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-26"/><tag k="building" v="house"/><tag k="addr:housenumber" v="711"/><tag k="addr:city" v="Hastings"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55033"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bohlken Drive"/></way>
+<way id="-32" visible="true"><nd ref="-33"/><nd ref="-34"/><nd ref="-35"/><nd ref="-36"/><nd ref="-37"/><nd ref="-38"/><nd ref="-33"/><tag k="building" v="house"/><tag k="addr:housenumber" v="749"/><tag k="addr:city" v="Hastings"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55033"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bohlken Drive"/></way>
+<way id="-39" visible="true"><nd ref="-40"/><nd ref="-41"/><nd ref="-42"/><nd ref="-43"/><nd ref="-44"/><nd ref="-45"/><nd ref="-46"/><nd ref="-47"/><nd ref="-40"/><tag k="building" v="house"/><tag k="addr:housenumber" v="737"/><tag k="addr:city" v="Hastings"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55033"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bohlken Drive"/></way>
+</osm>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.674143096" lon="-93.166087011" visible="true"/>
+<node id="-3" lat="44.674098077" lon="-93.166031452" visible="true"/>
+<node id="-4" lat="44.674033818" lon="-93.166133724" visible="true"/>
+<node id="-5" lat="44.674060799" lon="-93.166165695" visible="true"/>
+<node id="-6" lat="44.674071397" lon="-93.166178252" visible="true"/>
+<node id="-7" lat="44.674098786" lon="-93.166210707" visible="true"/>
+<node id="-8" lat="44.674071629" lon="-93.166253927" visible="true"/>
+<node id="-9" lat="44.674113112" lon="-93.16630399" visible="true"/>
+<node id="-10" lat="44.674133183" lon="-93.166327631" visible="true"/>
+<node id="-11" lat="44.674144179" lon="-93.166310131" visible="true"/>
+<node id="-12" lat="44.674184943" lon="-93.166241195" visible="true"/>
+<node id="-13" lat="44.674165949" lon="-93.166213175" visible="true"/>
+<node id="-14" lat="44.674194259" lon="-93.16616765" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="19020"/><tag k="addr:city" v="Farmington"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55024"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Embers Avenue"/></way>
+</osm>

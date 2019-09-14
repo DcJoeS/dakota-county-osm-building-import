@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.754442599" lon="-93.110994837" visible="true"/>
+<node id="-3" lat="44.754401638" lon="-93.11102616" visible="true"/>
+<node id="-4" lat="44.754380297" lon="-93.111141213" visible="true"/>
+<node id="-5" lat="44.754356299" lon="-93.111130954" visible="true"/>
+<node id="-6" lat="44.754332655" lon="-93.111138909" visible="true"/>
+<node id="-7" lat="44.754328011" lon="-93.111110302" visible="true"/>
+<node id="-8" lat="44.754257023" lon="-93.111136465" visible="true"/>
+<node id="-9" lat="44.754258493" lon="-93.111146456" visible="true"/>
+<node id="-10" lat="44.754220373" lon="-93.111158129" visible="true"/>
+<node id="-11" lat="44.754244165" lon="-93.111281269" visible="true"/>
+<node id="-12" lat="44.75435384" lon="-93.111240411" visible="true"/>
+<node id="-13" lat="44.754352244" lon="-93.111230307" visible="true"/>
+<node id="-14" lat="44.754410032" lon="-93.111254302" visible="true"/>
+<node id="-15" lat="44.754412509" lon="-93.111243978" visible="true"/>
+<node id="-16" lat="44.754434593" lon="-93.111252517" visible="true"/>
+<node id="-17" lat="44.754430886" lon="-93.111268649" visible="true"/>
+<node id="-18" lat="44.754493405" lon="-93.11129117" visible="true"/>
+<node id="-19" lat="44.754508769" lon="-93.111208995" visible="true"/>
+<node id="-20" lat="44.754514853" lon="-93.111211675" visible="true"/>
+<node id="-21" lat="44.754528154" lon="-93.111139163" visible="true"/>
+<node id="-22" lat="44.754513251" lon="-93.111133691" visible="true"/>
+<node id="-23" lat="44.754532083" lon="-93.111029727" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-2"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+</osm>

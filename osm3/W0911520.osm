@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.775555576" lon="-93.229680684" visible="true"/>
+<node id="-3" lat="44.775575438" lon="-93.229652133" visible="true"/>
+<node id="-4" lat="44.775490163" lon="-93.229526824" visible="true"/>
+<node id="-5" lat="44.775432616" lon="-93.229605813" visible="true"/>
+<node id="-6" lat="44.775454313" lon="-93.229638087" visible="true"/>
+<node id="-7" lat="44.77544428" lon="-93.229651921" visible="true"/>
+<node id="-8" lat="44.775469873" lon="-93.229689373" visible="true"/>
+<node id="-9" lat="44.77548029" lon="-93.229675341" visible="true"/>
+<node id="-10" lat="44.775497039" lon="-93.229699848" visible="true"/>
+<node id="-11" lat="44.775484521" lon="-93.229716713" visible="true"/>
+<node id="-12" lat="44.775532653" lon="-93.229787121" visible="true"/>
+<node id="-13" lat="44.775582454" lon="-93.229720017" visible="true"/>
+<node id="-15" lat="44.775665972" lon="-93.229952741" visible="true"/>
+<node id="-16" lat="44.775676825" lon="-93.229944141" visible="true"/>
+<node id="-17" lat="44.775613408" lon="-93.229795214" visible="true"/>
+<node id="-18" lat="44.77560792" lon="-93.229799819" visible="true"/>
+<node id="-19" lat="44.775603994" lon="-93.229791246" visible="true"/>
+<node id="-20" lat="44.775581984" lon="-93.229809697" visible="true"/>
+<node id="-21" lat="44.775585336" lon="-93.229816924" visible="true"/>
+<node id="-22" lat="44.775543937" lon="-93.229851671" visible="true"/>
+<node id="-23" lat="44.775598449" lon="-93.229979738" visible="true"/>
+<node id="-24" lat="44.775635827" lon="-93.230067528" visible="true"/>
+<node id="-25" lat="44.775693886" lon="-93.230018302" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="3304"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Burnsville Parkway East"/></way>
+<way id="-14" visible="true"><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-15"/><tag k="building" v="house"/><tag k="addr:housenumber" v="3300"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Burnsville Parkway East"/></way>
+</osm>

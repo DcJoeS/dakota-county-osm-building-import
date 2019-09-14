@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.812554826" lon="-93.218289435" visible="true"/>
+<node id="-3" lat="44.812543727" lon="-93.21828968" visible="true"/>
+<node id="-4" lat="44.812542239" lon="-93.218143109" visible="true"/>
+<node id="-5" lat="44.812480586" lon="-93.218144381" visible="true"/>
+<node id="-6" lat="44.812483793" lon="-93.218462007" visible="true"/>
+<node id="-7" lat="44.812541932" lon="-93.218460829" visible="true"/>
+<node id="-8" lat="44.812541374" lon="-93.218407518" visible="true"/>
+<node id="-9" lat="44.812556042" lon="-93.2184072" visible="true"/>
+<node id="-11" lat="44.818408488" lon="-93.219102681" visible="true"/>
+<node id="-12" lat="44.818063192" lon="-93.219111282" visible="true"/>
+<node id="-13" lat="44.818071075" lon="-93.219737634" visible="true"/>
+<node id="-14" lat="44.818416371" lon="-93.219729042" visible="true"/>
+<node id="-16" lat="44.819151976" lon="-93.21936439" visible="true"/>
+<node id="-17" lat="44.819082804" lon="-93.21949156" visible="true"/>
+<node id="-18" lat="44.819120248" lon="-93.219531801" visible="true"/>
+<node id="-19" lat="44.81918942" lon="-93.219404638" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-2"/><tag k="building" v="civic"/><tag k="addr:housenumber" v="4035"/><tag k="addr:city" v="Eagan"/><tag k="addr:postcode" v="55122"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Nicols Road"/></way>
+<way id="-10" visible="true"><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-11"/><tag k="building" v="industrial"/><tag k="addr:housenumber" v="3815"/><tag k="addr:city" v="Eagan"/><tag k="addr:postcode" v="55122"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Nicols Road"/></way>
+<way id="-15" visible="true"><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-16"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+</osm>

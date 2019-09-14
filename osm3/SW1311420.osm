@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.679990831" lon="-93.167839421" visible="true"/>
+<node id="-3" lat="44.679919718" lon="-93.167896844" visible="true"/>
+<node id="-4" lat="44.679961375" lon="-93.167996106" visible="true"/>
+<node id="-5" lat="44.680031897" lon="-93.167938454" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+</osm>

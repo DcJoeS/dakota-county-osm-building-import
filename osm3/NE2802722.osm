@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.802540812" lon="-93.046210999" visible="true"/>
+<node id="-3" lat="44.802530797" lon="-93.046216624" visible="true"/>
+<node id="-4" lat="44.802498499" lon="-93.046088945" visible="true"/>
+<node id="-5" lat="44.802476645" lon="-93.045999148" visible="true"/>
+<node id="-6" lat="44.80246912" lon="-93.046002412" visible="true"/>
+<node id="-7" lat="44.802458213" lon="-93.045958935" visible="true"/>
+<node id="-8" lat="44.802380469" lon="-93.045995045" visible="true"/>
+<node id="-9" lat="44.802422261" lon="-93.046137412" visible="true"/>
+<node id="-10" lat="44.802409753" lon="-93.046142323" visible="true"/>
+<node id="-11" lat="44.802414756" lon="-93.046162556" visible="true"/>
+<node id="-12" lat="44.802386543" lon="-93.046176356" visible="true"/>
+<node id="-13" lat="44.802437751" lon="-93.04634262" visible="true"/>
+<node id="-14" lat="44.802475819" lon="-93.046315023" visible="true"/>
+<node id="-15" lat="44.802481104" lon="-93.046337854" visible="true"/>
+<node id="-16" lat="44.802505165" lon="-93.046320389" visible="true"/>
+<node id="-17" lat="44.802537128" lon="-93.046301436" visible="true"/>
+<node id="-18" lat="44.802526323" lon="-93.04626782" visible="true"/>
+<node id="-19" lat="44.802551975" lon="-93.046250708" visible="true"/>
+<node id="-21" lat="44.802714258" lon="-93.052510933" visible="true"/>
+<node id="-22" lat="44.802716879" lon="-93.052489726" visible="true"/>
+<node id="-23" lat="44.802642644" lon="-93.05248519" visible="true"/>
+<node id="-24" lat="44.802642031" lon="-93.052496957" visible="true"/>
+<node id="-25" lat="44.80256066" lon="-93.052495214" visible="true"/>
+<node id="-26" lat="44.802560982" lon="-93.052632733" visible="true"/>
+<node id="-27" lat="44.802645387" lon="-93.052635167" visible="true"/>
+<node id="-28" lat="44.802645321" lon="-93.052624618" visible="true"/>
+<node id="-29" lat="44.802708899" lon="-93.052624147" visible="true"/>
+<node id="-30" lat="44.80270908" lon="-93.052646144" visible="true"/>
+<node id="-31" lat="44.802708897" lon="-93.052657893" visible="true"/>
+<node id="-32" lat="44.802810881" lon="-93.052655356" visible="true"/>
+<node id="-33" lat="44.802811721" lon="-93.052512784" visible="true"/>
+<node id="-35" lat="44.803759213" lon="-93.045018991" visible="true"/>
+<node id="-36" lat="44.803755914" lon="-93.045039393" visible="true"/>
+<node id="-37" lat="44.803724666" lon="-93.045033296" visible="true"/>
+<node id="-38" lat="44.803649288" lon="-93.045019726" visible="true"/>
+<node id="-39" lat="44.803636923" lon="-93.045155934" visible="true"/>
+<node id="-40" lat="44.803740088" lon="-93.045173788" visible="true"/>
+<node id="-41" lat="44.803738293" lon="-93.045192128" visible="true"/>
+<node id="-42" lat="44.803803436" lon="-93.045203907" visible="true"/>
+<node id="-43" lat="44.80382004" lon="-93.045031221" visible="true"/>
+<node id="-45" lat="44.802426682" lon="-93.045236647" visible="true"/>
+<node id="-46" lat="44.802427611" lon="-93.045475095" visible="true"/>
+<node id="-47" lat="44.802502816" lon="-93.045472441" visible="true"/>
+<node id="-48" lat="44.802543068" lon="-93.045473339" visible="true"/>
+<node id="-49" lat="44.802543302" lon="-93.045236612" visible="true"/>
+<node id="-51" lat="44.803574695" lon="-93.044900235" visible="true"/>
+<node id="-52" lat="44.803545708" lon="-93.04491536" visible="true"/>
+<node id="-53" lat="44.803510291" lon="-93.044935729" visible="true"/>
+<node id="-54" lat="44.803528747" lon="-93.044984506" visible="true"/>
+<node id="-55" lat="44.803542754" lon="-93.044975792" visible="true"/>
+<node id="-56" lat="44.803562547" lon="-93.044964628" visible="true"/>
+<node id="-57" lat="44.80354947" lon="-93.044940271" visible="true"/>
+<node id="-58" lat="44.803582349" lon="-93.044921795" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="10016"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55077"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Barnes Trail"/></way>
+<way id="-20" visible="true"><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-21"/><tag k="building" v="house"/><tag k="addr:housenumber" v="10108"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55077"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Barnes Trail"/></way>
+<way id="-34" visible="true"><nd ref="-35"/><nd ref="-36"/><nd ref="-37"/><nd ref="-38"/><nd ref="-39"/><nd ref="-40"/><nd ref="-41"/><nd ref="-42"/><nd ref="-43"/><nd ref="-35"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-44" visible="true"><nd ref="-45"/><nd ref="-46"/><nd ref="-47"/><nd ref="-48"/><nd ref="-49"/><nd ref="-45"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-50" visible="true"><nd ref="-51"/><nd ref="-52"/><nd ref="-53"/><nd ref="-54"/><nd ref="-55"/><nd ref="-56"/><nd ref="-57"/><nd ref="-58"/><nd ref="-51"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+</osm>

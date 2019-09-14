@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.821123733" lon="-93.12226859" visible="true"/>
+<node id="-3" lat="44.821137638" lon="-93.122238755" visible="true"/>
+<node id="-4" lat="44.821077425" lon="-93.122185813" visible="true"/>
+<node id="-5" lat="44.821023691" lon="-93.122298021" visible="true"/>
+<node id="-6" lat="44.821028737" lon="-93.122302158" visible="true"/>
+<node id="-7" lat="44.82100978" lon="-93.122346866" visible="true"/>
+<node id="-8" lat="44.820994182" lon="-93.122334015" visible="true"/>
+<node id="-9" lat="44.820965546" lon="-93.122397633" visible="true"/>
+<node id="-10" lat="44.821069999" lon="-93.122493958" visible="true"/>
+<node id="-11" lat="44.821049051" lon="-93.122540838" visible="true"/>
+<node id="-12" lat="44.821093198" lon="-93.122580229" visible="true"/>
+<node id="-13" lat="44.821139244" lon="-93.122480831" visible="true"/>
+<node id="-14" lat="44.821125898" lon="-93.122468508" visible="true"/>
+<node id="-15" lat="44.82118801" lon="-93.122328139" visible="true"/>
+<node id="-17" lat="44.822963905" lon="-93.118612995" visible="true"/>
+<node id="-18" lat="44.822865246" lon="-93.118618712" visible="true"/>
+<node id="-19" lat="44.822870448" lon="-93.118747838" visible="true"/>
+<node id="-20" lat="44.822834307" lon="-93.118751109" visible="true"/>
+<node id="-21" lat="44.822838991" lon="-93.118805634" visible="true"/>
+<node id="-22" lat="44.822842209" lon="-93.118859278" visible="true"/>
+<node id="-23" lat="44.822936731" lon="-93.118846213" visible="true"/>
+<node id="-24" lat="44.82293532" lon="-93.118812509" visible="true"/>
+<node id="-25" lat="44.822972385" lon="-93.118811436" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="716"/><tag k="addr:city" v="Eagan"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55123"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Stonewood Road"/></way>
+<way id="-16" visible="true"><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-17"/><tag k="building" v="house"/><tag k="addr:housenumber" v="3698"/><tag k="addr:city" v="Eagan"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55123"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Windtree Drive"/></way>
+</osm>

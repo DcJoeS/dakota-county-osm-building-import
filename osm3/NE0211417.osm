@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.709633632" lon="-92.816566916" visible="true"/>
+<node id="-3" lat="44.709633756" lon="-92.816543694" visible="true"/>
+<node id="-4" lat="44.709549338" lon="-92.816542806" visible="true"/>
+<node id="-5" lat="44.709548528" lon="-92.816694322" visible="true"/>
+<node id="-6" lat="44.709752381" lon="-92.81669647" visible="true"/>
+<node id="-7" lat="44.709752534" lon="-92.816568206" visible="true"/>
+<node id="-9" lat="44.710044303" lon="-92.816437716" visible="true"/>
+<node id="-10" lat="44.710042235" lon="-92.816716422" visible="true"/>
+<node id="-11" lat="44.710187384" lon="-92.816717187" visible="true"/>
+<node id="-12" lat="44.710189685" lon="-92.816439836" visible="true"/>
+<node id="-14" lat="44.713944819" lon="-92.813758012" visible="true"/>
+<node id="-15" lat="44.713919228" lon="-92.813759841" visible="true"/>
+<node id="-16" lat="44.713920935" lon="-92.813806693" visible="true"/>
+<node id="-17" lat="44.713946473" lon="-92.813803464" visible="true"/>
+<node id="-19" lat="44.714511947" lon="-92.813439772" visible="true"/>
+<node id="-20" lat="44.714509911" lon="-92.813634273" visible="true"/>
+<node id="-21" lat="44.714594293" lon="-92.813636008" visible="true"/>
+<node id="-22" lat="44.714596309" lon="-92.813443129" visible="true"/>
+<node id="-24" lat="44.714292798" lon="-92.813387552" visible="true"/>
+<node id="-25" lat="44.714154299" lon="-92.813389937" visible="true"/>
+<node id="-26" lat="44.714155475" lon="-92.813520408" visible="true"/>
+<node id="-27" lat="44.714293942" lon="-92.813518339" visible="true"/>
+<node id="-29" lat="44.71590282" lon="-92.819565452" visible="true"/>
+<node id="-30" lat="44.715842155" lon="-92.819571607" visible="true"/>
+<node id="-31" lat="44.715851863" lon="-92.819759849" visible="true"/>
+<node id="-32" lat="44.715912819" lon="-92.819759313" visible="true"/>
+<node id="-34" lat="44.715967088" lon="-92.817497554" visible="true"/>
+<node id="-35" lat="44.715916904" lon="-92.817519652" visible="true"/>
+<node id="-36" lat="44.715921982" lon="-92.817549406" visible="true"/>
+<node id="-37" lat="44.71597372" lon="-92.817529059" visible="true"/>
+<node id="-39" lat="44.71602511" lon="-92.817546184" visible="true"/>
+<node id="-40" lat="44.715929406" lon="-92.817555539" visible="true"/>
+<node id="-41" lat="44.715934461" lon="-92.817657271" visible="true"/>
+<node id="-42" lat="44.716032597" lon="-92.81764768" visible="true"/>
+<node id="-44" lat="44.716168873" lon="-92.817158478" visible="true"/>
+<node id="-45" lat="44.716181766" lon="-92.817086782" visible="true"/>
+<node id="-46" lat="44.716100003" lon="-92.817057864" visible="true"/>
+<node id="-47" lat="44.716070294" lon="-92.817223054" visible="true"/>
+<node id="-48" lat="44.716145607" lon="-92.817249694" visible="true"/>
+<node id="-49" lat="44.716144134" lon="-92.817257882" visible="true"/>
+<node id="-50" lat="44.716263493" lon="-92.817300102" visible="true"/>
+<node id="-51" lat="44.716281784" lon="-92.817198404" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-2"/><tag k="building" v="farm"/><tag k="addr:housenumber" v="16485"/><tag k="addr:city" v="Hastings"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55033"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Nicolai Avenue"/></way>
+<way id="-8" visible="true"><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-9"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-13" visible="true"><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-14"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-18" visible="true"><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-19"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-23" visible="true"><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-24"/><tag k="building" v="house"/><tag k="addr:housenumber" v="16185"/><tag k="addr:city" v="Hastings"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55033"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Nicolai Avenue"/></way>
+<way id="-28" visible="true"><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-29"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-33" visible="true"><nd ref="-34"/><nd ref="-35"/><nd ref="-36"/><nd ref="-37"/><nd ref="-34"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-38" visible="true"><nd ref="-39"/><nd ref="-40"/><nd ref="-41"/><nd ref="-42"/><nd ref="-39"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-43" visible="true"><nd ref="-44"/><nd ref="-45"/><nd ref="-46"/><nd ref="-47"/><nd ref="-48"/><nd ref="-49"/><nd ref="-50"/><nd ref="-51"/><nd ref="-44"/><tag k="building" v="house"/><tag k="addr:housenumber" v="14260"/><tag k="addr:city" v="Hastings"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55033"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="160th Street East"/></way>
+</osm>

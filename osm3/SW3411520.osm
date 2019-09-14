@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.718576557" lon="-93.21288631" visible="true"/>
+<node id="-3" lat="44.718502505" lon="-93.212887885" visible="true"/>
+<node id="-4" lat="44.71850312" lon="-93.212948714" visible="true"/>
+<node id="-5" lat="44.718449892" lon="-93.212949528" visible="true"/>
+<node id="-6" lat="44.718452489" lon="-93.213069497" visible="true"/>
+<node id="-7" lat="44.718564939" lon="-93.213067374" visible="true"/>
+<node id="-8" lat="44.718564038" lon="-93.212970962" visible="true"/>
+<node id="-9" lat="44.718577192" lon="-93.212969259" visible="true"/>
+<node id="-11" lat="44.718383922" lon="-93.210965908" visible="true"/>
+<node id="-12" lat="44.718308072" lon="-93.210832609" visible="true"/>
+<node id="-13" lat="44.718240945" lon="-93.210907743" visible="true"/>
+<node id="-14" lat="44.718265155" lon="-93.210950014" visible="true"/>
+<node id="-15" lat="44.718256078" lon="-93.210960371" visible="true"/>
+<node id="-16" lat="44.718266812" lon="-93.210979585" visible="true"/>
+<node id="-17" lat="44.718275031" lon="-93.210970672" visible="true"/>
+<node id="-18" lat="44.718287136" lon="-93.210991807" visible="true"/>
+<node id="-19" lat="44.718244924" lon="-93.211038768" visible="true"/>
+<node id="-20" lat="44.718300983" lon="-93.21113748" visible="true"/>
+<node id="-21" lat="44.718353555" lon="-93.211078963" visible="true"/>
+<node id="-22" lat="44.718330204" lon="-93.21103837" visible="true"/>
+<node id="-23" lat="44.718385558" lon="-93.210976721" visible="true"/>
+<node id="-25" lat="44.722327341" lon="-93.20856418" visible="true"/>
+<node id="-26" lat="44.722327401" lon="-93.208627656" visible="true"/>
+<node id="-27" lat="44.722302461" lon="-93.208627703" visible="true"/>
+<node id="-28" lat="44.722302594" lon="-93.2087674" visible="true"/>
+<node id="-29" lat="44.722311078" lon="-93.208767384" visible="true"/>
+<node id="-30" lat="44.722373348" lon="-93.208767268" visible="true"/>
+<node id="-31" lat="44.722373293" lon="-93.208708839" visible="true"/>
+<node id="-32" lat="44.722442974" lon="-93.208708709" visible="true"/>
+<node id="-33" lat="44.722442837" lon="-93.208563964" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="15935"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Garrett Path"/></way>
+<way id="-10" visible="true"><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-11"/><tag k="building" v="house"/><tag k="addr:housenumber" v="15981"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Garrett Court"/></way>
+<way id="-24" visible="true"><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-25"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7055"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Upper 157th Street West"/></way>
+</osm>

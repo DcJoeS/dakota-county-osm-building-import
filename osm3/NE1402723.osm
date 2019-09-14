@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.826959796" lon="-93.126843898" visible="true"/>
+<node id="-3" lat="44.826966784" lon="-93.126842168" visible="true"/>
+<node id="-4" lat="44.826958933" lon="-93.126780968" visible="true"/>
+<node id="-5" lat="44.826837074" lon="-93.126828779" visible="true"/>
+<node id="-6" lat="44.826830532" lon="-93.126790046" visible="true"/>
+<node id="-7" lat="44.826838258" lon="-93.126788696" visible="true"/>
+<node id="-8" lat="44.826828841" lon="-93.126731447" visible="true"/>
+<node id="-9" lat="44.826837788" lon="-93.126727748" visible="true"/>
+<node id="-10" lat="44.826826629" lon="-93.126669258" visible="true"/>
+<node id="-11" lat="44.826817156" lon="-93.126671067" visible="true"/>
+<node id="-12" lat="44.826809737" lon="-93.126633079" visible="true"/>
+<node id="-13" lat="44.826773762" lon="-93.126646255" visible="true"/>
+<node id="-14" lat="44.826766539" lon="-93.126612224" visible="true"/>
+<node id="-15" lat="44.826761626" lon="-93.126580288" visible="true"/>
+<node id="-16" lat="44.826674846" lon="-93.126613118" visible="true"/>
+<node id="-17" lat="44.826692031" lon="-93.126714506" visible="true"/>
+<node id="-18" lat="44.826704063" lon="-93.126711122" visible="true"/>
+<node id="-19" lat="44.826715667" lon="-93.126789429" visible="true"/>
+<node id="-20" lat="44.826681564" lon="-93.126804697" visible="true"/>
+<node id="-21" lat="44.826699532" lon="-93.12688664" visible="true"/>
+<node id="-22" lat="44.826724287" lon="-93.126875062" visible="true"/>
+<node id="-23" lat="44.826735196" lon="-93.12694459" visible="true"/>
+<node id="-24" lat="44.82684127" lon="-93.126897491" visible="true"/>
+<node id="-25" lat="44.826849507" lon="-93.12693294" visible="true"/>
+<node id="-26" lat="44.826968264" lon="-93.126887745" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="820"/><tag k="addr:city" v="Eagan"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55123"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Great Oaks Lane"/></way>
+</osm>

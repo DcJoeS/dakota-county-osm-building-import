@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.892615427" lon="-93.133457145" visible="true"/>
+<node id="-3" lat="44.892609439" lon="-93.133457213" visible="true"/>
+<node id="-4" lat="44.892607708" lon="-93.133398628" visible="true"/>
+<node id="-5" lat="44.892524494" lon="-93.133406812" visible="true"/>
+<node id="-6" lat="44.89252598" lon="-93.13343574" visible="true"/>
+<node id="-7" lat="44.89242034" lon="-93.133445059" visible="true"/>
+<node id="-8" lat="44.892425742" lon="-93.133518171" visible="true"/>
+<node id="-9" lat="44.892437032" lon="-93.133517629" visible="true"/>
+<node id="-10" lat="44.892438358" lon="-93.133574203" visible="true"/>
+<node id="-11" lat="44.892466245" lon="-93.133573386" visible="true"/>
+<node id="-12" lat="44.8924705" lon="-93.133709881" visible="true"/>
+<node id="-13" lat="44.892583191" lon="-93.133700674" visible="true"/>
+<node id="-14" lat="44.892580093" lon="-93.133645005" visible="true"/>
+<node id="-15" lat="44.892586942" lon="-93.133644059" visible="true"/>
+<node id="-16" lat="44.892584611" lon="-93.133595344" visible="true"/>
+<node id="-17" lat="44.892563943" lon="-93.133597705" visible="true"/>
+<node id="-18" lat="44.892562176" lon="-93.133564257" visible="true"/>
+<node id="-19" lat="44.892618978" lon="-93.133559829" visible="true"/>
+<node id="-21" lat="44.893743146" lon="-93.134397929" visible="true"/>
+<node id="-22" lat="44.893596917" lon="-93.134441486" visible="true"/>
+<node id="-23" lat="44.893613112" lon="-93.134540162" visible="true"/>
+<node id="-24" lat="44.893631741" lon="-93.134534347" visible="true"/>
+<node id="-25" lat="44.893638435" lon="-93.134581308" visible="true"/>
+<node id="-26" lat="44.893671831" lon="-93.134571564" visible="true"/>
+<node id="-27" lat="44.893678221" lon="-93.134616848" visible="true"/>
+<node id="-28" lat="44.893770696" lon="-93.134587128" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="897"/><tag k="addr:city" v="Mendota Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Douglas Road"/></way>
+<way id="-20" visible="true"><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-21"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1722"/><tag k="addr:city" v="Mendota Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Diane Road"/></way>
+</osm>

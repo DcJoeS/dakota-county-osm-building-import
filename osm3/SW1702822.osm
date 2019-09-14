@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.906432939" lon="-93.08156778" visible="true"/>
+<node id="-3" lat="44.906272431" lon="-93.081567224" visible="true"/>
+<node id="-4" lat="44.906274197" lon="-93.081743495" visible="true"/>
+<node id="-5" lat="44.906437015" lon="-93.081742571" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1322"/><tag k="addr:city" v="West St Paul"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Livingston Avenue"/></way>
+</osm>

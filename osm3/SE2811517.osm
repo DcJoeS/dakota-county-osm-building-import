@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.731757756" lon="-92.862312296" visible="true"/>
+<node id="-3" lat="44.731739069" lon="-92.862369563" visible="true"/>
+<node id="-4" lat="44.731770358" lon="-92.862392043" visible="true"/>
+<node id="-5" lat="44.731788154" lon="-92.862336031" visible="true"/>
+<node id="-7" lat="44.734482858" lon="-92.853243394" visible="true"/>
+<node id="-8" lat="44.734358931" lon="-92.853244453" visible="true"/>
+<node id="-9" lat="44.734361043" lon="-92.853765501" visible="true"/>
+<node id="-10" lat="44.734539221" lon="-92.85376408" visible="true"/>
+<node id="-11" lat="44.734539078" lon="-92.853728773" visible="true"/>
+<node id="-12" lat="44.734653911" lon="-92.853727857" visible="true"/>
+<node id="-13" lat="44.734654066" lon="-92.853766003" visible="true"/>
+<node id="-14" lat="44.73470266" lon="-92.853765615" visible="true"/>
+<node id="-15" lat="44.734702528" lon="-92.853733152" visible="true"/>
+<node id="-16" lat="44.734957646" lon="-92.853731116" visible="true"/>
+<node id="-17" lat="44.734957801" lon="-92.85376926" visible="true"/>
+<node id="-18" lat="44.735005527" lon="-92.853768879" visible="true"/>
+<node id="-19" lat="44.735005373" lon="-92.853730736" visible="true"/>
+<node id="-20" lat="44.735054254" lon="-92.853730346" visible="true"/>
+<node id="-21" lat="44.735052286" lon="-92.853244994" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-6" visible="true"><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-7"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="1110"/><tag k="addr:city" v="Hastings"/><tag k="addr:postcode" v="55033"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Vermillion Street"/></way>
+</osm>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.746508104" lon="-93.255420876" visible="true"/>
+<node id="-3" lat="44.746500215" lon="-93.25543684" visible="true"/>
+<node id="-4" lat="44.746450485" lon="-93.255409049" visible="true"/>
+<node id="-5" lat="44.746374227" lon="-93.255677741" visible="true"/>
+<node id="-6" lat="44.746463384" lon="-93.255727564" visible="true"/>
+<node id="-7" lat="44.746490927" lon="-93.255630515" visible="true"/>
+<node id="-8" lat="44.746506846" lon="-93.255639412" visible="true"/>
+<node id="-9" lat="44.74653048" lon="-93.255646587" visible="true"/>
+<node id="-10" lat="44.746565301" lon="-93.255535267" visible="true"/>
+<node id="-11" lat="44.746554913" lon="-93.255531394" visible="true"/>
+<node id="-12" lat="44.746577094" lon="-93.255460553" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="14121"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Frontier Lane"/></way>
+</osm>

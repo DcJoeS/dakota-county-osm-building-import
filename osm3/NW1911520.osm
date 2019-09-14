@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.760784513" lon="-93.271145742" visible="true"/>
+<node id="-3" lat="44.760767201" lon="-93.271117172" visible="true"/>
+<node id="-4" lat="44.760641891" lon="-93.271266801" visible="true"/>
+<node id="-5" lat="44.76070266" lon="-93.271367057" visible="true"/>
+<node id="-6" lat="44.760785508" lon="-93.271266856" visible="true"/>
+<node id="-7" lat="44.760829936" lon="-93.271208655" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="316"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Hillcrest Lane"/></way>
+</osm>

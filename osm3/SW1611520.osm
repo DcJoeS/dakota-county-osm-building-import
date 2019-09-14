@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.761048861" lon="-93.236229372" visible="true"/>
+<node id="-3" lat="44.761035153" lon="-93.236276345" visible="true"/>
+<node id="-4" lat="44.760920014" lon="-93.236197548" visible="true"/>
+<node id="-5" lat="44.760883843" lon="-93.236286561" visible="true"/>
+<node id="-6" lat="44.760921175" lon="-93.236311319" visible="true"/>
+<node id="-7" lat="44.760972042" lon="-93.236349069" visible="true"/>
+<node id="-8" lat="44.761075455" lon="-93.236426063" visible="true"/>
+<node id="-9" lat="44.761130751" lon="-93.236274696" visible="true"/>
+<node id="-11" lat="44.760957989" lon="-93.235397459" visible="true"/>
+<node id="-12" lat="44.76092056" lon="-93.235372727" visible="true"/>
+<node id="-13" lat="44.760880471" lon="-93.235348042" visible="true"/>
+<node id="-14" lat="44.760877549" lon="-93.235357397" visible="true"/>
+<node id="-15" lat="44.760799578" lon="-93.23530941" visible="true"/>
+<node id="-16" lat="44.760768292" lon="-93.235409551" visible="true"/>
+<node id="-17" lat="44.76085096" lon="-93.235460431" visible="true"/>
+<node id="-18" lat="44.760845544" lon="-93.235477765" visible="true"/>
+<node id="-19" lat="44.760920655" lon="-93.235522757" visible="true"/>
+<node id="-20" lat="44.760997436" lon="-93.235554649" visible="true"/>
+<node id="-21" lat="44.761032318" lon="-93.235443354" visible="true"/>
+<node id="-23" lat="44.761036415" lon="-93.232069254" visible="true"/>
+<node id="-24" lat="44.760942394" lon="-93.232131346" visible="true"/>
+<node id="-25" lat="44.760947064" lon="-93.232145279" visible="true"/>
+<node id="-26" lat="44.760923759" lon="-93.23216067" visible="true"/>
+<node id="-27" lat="44.760929142" lon="-93.23217673" visible="true"/>
+<node id="-28" lat="44.760918404" lon="-93.232183817" visible="true"/>
+<node id="-29" lat="44.760899469" lon="-93.232196321" visible="true"/>
+<node id="-30" lat="44.760918452" lon="-93.232252921" visible="true"/>
+<node id="-31" lat="44.760938579" lon="-93.232312915" visible="true"/>
+<node id="-32" lat="44.761052666" lon="-93.232237523" visible="true"/>
+<node id="-33" lat="44.761040582" lon="-93.232201498" visible="true"/>
+<node id="-34" lat="44.761048672" lon="-93.232196155" visible="true"/>
+<node id="-35" lat="44.761040873" lon="-93.23217289" visible="true"/>
+<node id="-36" lat="44.761065666" lon="-93.232156518" visible="true"/>
+<node id="-38" lat="44.760935582" lon="-93.231600868" visible="true"/>
+<node id="-39" lat="44.760921624" lon="-93.231614899" visible="true"/>
+<node id="-40" lat="44.760918007" lon="-93.231607812" visible="true"/>
+<node id="-41" lat="44.760897348" lon="-93.231567323" visible="true"/>
+<node id="-42" lat="44.76077832" lon="-93.231686966" visible="true"/>
+<node id="-43" lat="44.760827946" lon="-93.23178423" visible="true"/>
+<node id="-44" lat="44.760888742" lon="-93.231723117" visible="true"/>
+<node id="-45" lat="44.76090549" lon="-93.231755936" visible="true"/>
+<node id="-46" lat="44.760918099" lon="-93.23174326" visible="true"/>
+<node id="-47" lat="44.76097768" lon="-93.231683374" visible="true"/>
+<node id="-49" lat="44.76104166" lon="-93.230079735" visible="true"/>
+<node id="-50" lat="44.760955021" lon="-93.230086458" visible="true"/>
+<node id="-51" lat="44.760954476" lon="-93.230072603" visible="true"/>
+<node id="-52" lat="44.760916933" lon="-93.230075514" visible="true"/>
+<node id="-53" lat="44.760891896" lon="-93.230077449" visible="true"/>
+<node id="-54" lat="44.760898068" lon="-93.230234288" visible="true"/>
+<node id="-55" lat="44.760917043" lon="-93.230232819" visible="true"/>
+<node id="-56" lat="44.760965647" lon="-93.230229052" visible="true"/>
+<node id="-57" lat="44.760964876" lon="-93.230209458" visible="true"/>
+<node id="-58" lat="44.761046521" lon="-93.230203123" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="12989"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Hialeah Path"/></way>
+<way id="-10" visible="true"><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-11"/><tag k="building" v="house"/><tag k="addr:housenumber" v="13010"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Hialeah Path"/></way>
+<way id="-22" visible="true"><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-35"/><nd ref="-36"/><nd ref="-23"/><tag k="building" v="house"/><tag k="addr:housenumber" v="13081"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Herald Circle"/></way>
+<way id="-37" visible="true"><nd ref="-38"/><nd ref="-39"/><nd ref="-40"/><nd ref="-41"/><nd ref="-42"/><nd ref="-43"/><nd ref="-44"/><nd ref="-45"/><nd ref="-46"/><nd ref="-47"/><nd ref="-38"/><tag k="building" v="house"/><tag k="addr:housenumber" v="13086"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Herald Circle"/></way>
+<way id="-48" visible="true"><nd ref="-49"/><nd ref="-50"/><nd ref="-51"/><nd ref="-52"/><nd ref="-53"/><nd ref="-54"/><nd ref="-55"/><nd ref="-56"/><nd ref="-57"/><nd ref="-58"/><nd ref="-49"/><tag k="building" v="house"/><tag k="addr:housenumber" v="13054"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Herald Court"/></way>
+</osm>

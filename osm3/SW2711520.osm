@@ -1,0 +1,1688 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.732334766" lon="-93.215234777" visible="true"/>
+<node id="-3" lat="44.732334948" lon="-93.215142328" visible="true"/>
+<node id="-4" lat="44.732216705" lon="-93.215141865" visible="true"/>
+<node id="-5" lat="44.732216071" lon="-93.215471194" visible="true"/>
+<node id="-6" lat="44.732335569" lon="-93.215471648" visible="true"/>
+<node id="-7" lat="44.732335931" lon="-93.215283634" visible="true"/>
+<node id="-8" lat="44.732342857" lon="-93.215283659" visible="true"/>
+<node id="-9" lat="44.732342952" lon="-93.215234809" visible="true"/>
+<node id="-11" lat="44.732344088" lon="-93.212191059" visible="true"/>
+<node id="-12" lat="44.732323257" lon="-93.212166559" visible="true"/>
+<node id="-13" lat="44.732308865" lon="-93.212144527" visible="true"/>
+<node id="-14" lat="44.732310005" lon="-93.21202945" visible="true"/>
+<node id="-15" lat="44.73218852" lon="-93.21202708" visible="true"/>
+<node id="-16" lat="44.732186214" lon="-93.21225951" visible="true"/>
+<node id="-17" lat="44.732216637" lon="-93.212298793" visible="true"/>
+<node id="-18" lat="44.732248065" lon="-93.212343463" visible="true"/>
+<node id="-19" lat="44.732407529" lon="-93.212346581" visible="true"/>
+<node id="-20" lat="44.732409062" lon="-93.212192326" visible="true"/>
+<node id="-22" lat="44.733273812" lon="-93.217152968" visible="true"/>
+<node id="-23" lat="44.733208544" lon="-93.217153752" visible="true"/>
+<node id="-24" lat="44.733207996" lon="-93.217064477" visible="true"/>
+<node id="-25" lat="44.733174508" lon="-93.217064877" visible="true"/>
+<node id="-26" lat="44.733174291" lon="-93.217029637" visible="true"/>
+<node id="-27" lat="44.733105482" lon="-93.217030471" visible="true"/>
+<node id="-28" lat="44.73310568" lon="-93.217062391" visible="true"/>
+<node id="-29" lat="44.733072581" lon="-93.217062793" visible="true"/>
+<node id="-30" lat="44.733073938" lon="-93.217284499" visible="true"/>
+<node id="-31" lat="44.73310683" lon="-93.217284104" visible="true"/>
+<node id="-32" lat="44.73310694" lon="-93.21730202" visible="true"/>
+<node id="-33" lat="44.7331752" lon="-93.217301203" visible="true"/>
+<node id="-34" lat="44.733175091" lon="-93.217283522" visible="true"/>
+<node id="-35" lat="44.733209227" lon="-93.217283111" visible="true"/>
+<node id="-36" lat="44.733208923" lon="-93.217233401" visible="true"/>
+<node id="-37" lat="44.733274297" lon="-93.217232619" visible="true"/>
+<node id="-39" lat="44.733429825" lon="-93.214840051" visible="true"/>
+<node id="-40" lat="44.733427461" lon="-93.214960314" visible="true"/>
+<node id="-41" lat="44.733459346" lon="-93.214961751" visible="true"/>
+<node id="-42" lat="44.733461713" lon="-93.214841284" visible="true"/>
+<node id="-44" lat="44.733520145" lon="-93.209435058" visible="true"/>
+<node id="-45" lat="44.733271071" lon="-93.209436243" visible="true"/>
+<node id="-46" lat="44.733269435" lon="-93.209425422" visible="true"/>
+<node id="-47" lat="44.733244737" lon="-93.2094108" visible="true"/>
+<node id="-48" lat="44.733218924" lon="-93.209397861" visible="true"/>
+<node id="-49" lat="44.733187118" lon="-93.209388539" visible="true"/>
+<node id="-50" lat="44.733164917" lon="-93.209386418" visible="true"/>
+<node id="-51" lat="44.733142113" lon="-93.209382131" visible="true"/>
+<node id="-52" lat="44.733141266" lon="-93.209347503" visible="true"/>
+<node id="-53" lat="44.733085857" lon="-93.209349287" visible="true"/>
+<node id="-54" lat="44.733085072" lon="-93.209381513" visible="true"/>
+<node id="-55" lat="44.733052464" lon="-93.209384701" visible="true"/>
+<node id="-56" lat="44.733018191" lon="-93.209396546" visible="true"/>
+<node id="-57" lat="44.73298636" lon="-93.209409354" visible="true"/>
+<node id="-58" lat="44.732965241" lon="-93.209417808" visible="true"/>
+<node id="-59" lat="44.732957452" lon="-93.209428403" visible="true"/>
+<node id="-60" lat="44.732946612" lon="-93.209432271" visible="true"/>
+<node id="-61" lat="44.732944992" lon="-93.209168704" visible="true"/>
+<node id="-62" lat="44.732924422" lon="-93.20916778" visible="true"/>
+<node id="-63" lat="44.732921319" lon="-93.20905548" visible="true"/>
+<node id="-64" lat="44.732697234" lon="-93.209060462" visible="true"/>
+<node id="-65" lat="44.732689059" lon="-93.209116269" visible="true"/>
+<node id="-66" lat="44.732656146" lon="-93.209116092" visible="true"/>
+<node id="-67" lat="44.732654735" lon="-93.209074008" visible="true"/>
+<node id="-68" lat="44.732413123" lon="-93.209079989" visible="true"/>
+<node id="-69" lat="44.732409328" lon="-93.209144927" visible="true"/>
+<node id="-70" lat="44.732345134" lon="-93.209150095" visible="true"/>
+<node id="-71" lat="44.732345529" lon="-93.209249653" visible="true"/>
+<node id="-72" lat="44.73236966" lon="-93.209252014" visible="true"/>
+<node id="-73" lat="44.732368556" lon="-93.209265964" visible="true"/>
+<node id="-74" lat="44.732358143" lon="-93.209266225" visible="true"/>
+<node id="-75" lat="44.732349375" lon="-93.209285238" visible="true"/>
+<node id="-76" lat="44.732342293" lon="-93.209316275" visible="true"/>
+<node id="-77" lat="44.732338463" lon="-93.209347544" visible="true"/>
+<node id="-78" lat="44.732338499" lon="-93.20938626" visible="true"/>
+<node id="-79" lat="44.732342389" lon="-93.209418959" visible="true"/>
+<node id="-80" lat="44.732347638" lon="-93.209442034" visible="true"/>
+<node id="-81" lat="44.732350651" lon="-93.209454053" visible="true"/>
+<node id="-82" lat="44.732353956" lon="-93.209461023" visible="true"/>
+<node id="-83" lat="44.732361883" lon="-93.209461728" visible="true"/>
+<node id="-84" lat="44.732362457" lon="-93.209479041" visible="true"/>
+<node id="-85" lat="44.732343003" lon="-93.209480281" visible="true"/>
+<node id="-86" lat="44.732345281" lon="-93.209577913" visible="true"/>
+<node id="-87" lat="44.73241248" lon="-93.209580194" visible="true"/>
+<node id="-88" lat="44.732412285" lon="-93.209648248" visible="true"/>
+<node id="-89" lat="44.732466838" lon="-93.209647667" visible="true"/>
+<node id="-90" lat="44.73246854" lon="-93.209677484" visible="true"/>
+<node id="-91" lat="44.732475121" lon="-93.209706329" visible="true"/>
+<node id="-92" lat="44.732490216" lon="-93.209717364" visible="true"/>
+<node id="-93" lat="44.732511347" lon="-93.209717806" visible="true"/>
+<node id="-94" lat="44.732525051" lon="-93.209708161" visible="true"/>
+<node id="-95" lat="44.73253133" lon="-93.20968843" visible="true"/>
+<node id="-96" lat="44.73253298" lon="-93.20966414" visible="true"/>
+<node id="-97" lat="44.732535407" lon="-93.209649225" visible="true"/>
+<node id="-98" lat="44.732655016" lon="-93.20964732" visible="true"/>
+<node id="-99" lat="44.732657427" lon="-93.209615572" visible="true"/>
+<node id="-100" lat="44.732692828" lon="-93.209616468" visible="true"/>
+<node id="-101" lat="44.732693114" lon="-93.209648935" visible="true"/>
+<node id="-102" lat="44.73276417" lon="-93.209650247" visible="true"/>
+<node id="-103" lat="44.732767202" lon="-93.20995878" visible="true"/>
+<node id="-104" lat="44.732809159" lon="-93.209960389" visible="true"/>
+<node id="-105" lat="44.732806951" lon="-93.210260755" visible="true"/>
+<node id="-106" lat="44.733415842" lon="-93.210267096" visible="true"/>
+<node id="-107" lat="44.733417483" lon="-93.209960472" visible="true"/>
+<node id="-108" lat="44.733457555" lon="-93.209960398" visible="true"/>
+<node id="-109" lat="44.73345727" lon="-93.209656422" visible="true"/>
+<node id="-110" lat="44.733525533" lon="-93.209653411" visible="true"/>
+<node id="-112" lat="44.732331537" lon="-93.215771253" visible="true"/>
+<node id="-113" lat="44.73221451" lon="-93.215771573" visible="true"/>
+<node id="-114" lat="44.732214907" lon="-93.216063608" visible="true"/>
+<node id="-115" lat="44.732331936" lon="-93.216063295" visible="true"/>
+<node id="-117" lat="44.732352996" lon="-93.213399602" visible="true"/>
+<node id="-118" lat="44.732336214" lon="-93.21340009" visible="true"/>
+<node id="-119" lat="44.73233546" lon="-93.213348962" visible="true"/>
+<node id="-120" lat="44.732353534" lon="-93.213348434" visible="true"/>
+<node id="-121" lat="44.732352482" lon="-93.213277056" visible="true"/>
+<node id="-122" lat="44.732337178" lon="-93.213277503" visible="true"/>
+<node id="-123" lat="44.732336105" lon="-93.213204541" visible="true"/>
+<node id="-124" lat="44.732208405" lon="-93.213208239" visible="true"/>
+<node id="-125" lat="44.732213354" lon="-93.213545386" visible="true"/>
+<node id="-126" lat="44.732339627" lon="-93.213541737" visible="true"/>
+<node id="-127" lat="44.732338596" lon="-93.21347156" visible="true"/>
+<node id="-128" lat="44.732354047" lon="-93.213471113" visible="true"/>
+<node id="-130" lat="44.732403713" lon="-93.212850365" visible="true"/>
+<node id="-131" lat="44.732217536" lon="-93.212851953" visible="true"/>
+<node id="-132" lat="44.732218768" lon="-93.213136745" visible="true"/>
+<node id="-133" lat="44.732293713" lon="-93.213136112" visible="true"/>
+<node id="-134" lat="44.732292959" lon="-93.212962108" visible="true"/>
+<node id="-135" lat="44.732404193" lon="-93.212961159" visible="true"/>
+<node id="-137" lat="44.732467244" lon="-93.214127707" visible="true"/>
+<node id="-138" lat="44.732432274" lon="-93.214125057" visible="true"/>
+<node id="-139" lat="44.732384146" lon="-93.214122417" visible="true"/>
+<node id="-140" lat="44.732383898" lon="-93.213846505" visible="true"/>
+<node id="-141" lat="44.732190435" lon="-93.213846847" visible="true"/>
+<node id="-142" lat="44.732190857" lon="-93.214237288" visible="true"/>
+<node id="-143" lat="44.732373697" lon="-93.214236901" visible="true"/>
+<node id="-144" lat="44.732373714" lon="-93.214252652" visible="true"/>
+<node id="-145" lat="44.732428777" lon="-93.214252541" visible="true"/>
+<node id="-146" lat="44.732428683" lon="-93.21416524" visible="true"/>
+<node id="-147" lat="44.732467287" lon="-93.214165153" visible="true"/>
+<node id="-149" lat="44.732524449" lon="-93.211187879" visible="true"/>
+<node id="-150" lat="44.732333132" lon="-93.211188618" visible="true"/>
+<node id="-151" lat="44.732333886" lon="-93.211575381" visible="true"/>
+<node id="-152" lat="44.732525204" lon="-93.211574648" visible="true"/>
+<node id="-154" lat="44.732727348" lon="-93.216208203" visible="true"/>
+<node id="-155" lat="44.732727322" lon="-93.216179146" visible="true"/>
+<node id="-156" lat="44.732650789" lon="-93.216179278" visible="true"/>
+<node id="-157" lat="44.732650762" lon="-93.216147758" visible="true"/>
+<node id="-158" lat="44.73256791" lon="-93.216147901" visible="true"/>
+<node id="-159" lat="44.732567933" lon="-93.216174003" visible="true"/>
+<node id="-160" lat="44.732462964" lon="-93.216174184" visible="true"/>
+<node id="-161" lat="44.732462923" lon="-93.216128383" visible="true"/>
+<node id="-162" lat="44.732184526" lon="-93.216128864" visible="true"/>
+<node id="-163" lat="44.732184771" lon="-93.216407622" visible="true"/>
+<node id="-164" lat="44.732305539" lon="-93.216407414" visible="true"/>
+<node id="-165" lat="44.732305661" lon="-93.216546793" visible="true"/>
+<node id="-166" lat="44.732356917" lon="-93.216546705" visible="true"/>
+<node id="-167" lat="44.732356785" lon="-93.21639649" visible="true"/>
+<node id="-168" lat="44.732379604" lon="-93.216396451" visible="true"/>
+<node id="-169" lat="44.732566021" lon="-93.216396129" visible="true"/>
+<node id="-170" lat="44.732566047" lon="-93.216425186" visible="true"/>
+<node id="-171" lat="44.732653111" lon="-93.216425035" visible="true"/>
+<node id="-172" lat="44.732653085" lon="-93.216394993" visible="true"/>
+<node id="-173" lat="44.732727512" lon="-93.216394864" visible="true"/>
+<node id="-174" lat="44.73272749" lon="-93.216370238" visible="true"/>
+<node id="-175" lat="44.73275066" lon="-93.216370199" visible="true"/>
+<node id="-176" lat="44.732750518" lon="-93.216208163" visible="true"/>
+<node id="-178" lat="44.733020874" lon="-93.216846731" visible="true"/>
+<node id="-179" lat="44.733020866" lon="-93.21683688" visible="true"/>
+<node id="-180" lat="44.733012435" lon="-93.216832955" visible="true"/>
+<node id="-181" lat="44.733012217" lon="-93.21658276" visible="true"/>
+<node id="-182" lat="44.732870386" lon="-93.216583004" visible="true"/>
+<node id="-183" lat="44.732870588" lon="-93.216813498" visible="true"/>
+<node id="-184" lat="44.732883226" lon="-93.216813476" visible="true"/>
+<node id="-185" lat="44.732883254" lon="-93.216844998" visible="true"/>
+<node id="-186" lat="44.732856573" lon="-93.216845044" visible="true"/>
+<node id="-187" lat="44.732856949" lon="-93.217276483" visible="true"/>
+<node id="-188" lat="44.733021248" lon="-93.217276202" visible="true"/>
+<node id="-189" lat="44.733020915" lon="-93.216894012" visible="true"/>
+<node id="-190" lat="44.733049" lon="-93.216893963" visible="true"/>
+<node id="-191" lat="44.733048958" lon="-93.216846682" visible="true"/>
+<node id="-193" lat="44.734383214" lon="-93.211428816" visible="true"/>
+<node id="-194" lat="44.734382959" lon="-93.211480762" visible="true"/>
+<node id="-195" lat="44.734362134" lon="-93.2114808" visible="true"/>
+<node id="-196" lat="44.734361684" lon="-93.211597436" visible="true"/>
+<node id="-197" lat="44.734333999" lon="-93.211597486" visible="true"/>
+<node id="-198" lat="44.73431097" lon="-93.211625667" visible="true"/>
+<node id="-199" lat="44.734287938" lon="-93.211654808" visible="true"/>
+<node id="-200" lat="44.734287587" lon="-93.211830366" visible="true"/>
+<node id="-201" lat="44.734287247" lon="-93.211927286" visible="true"/>
+<node id="-202" lat="44.734289024" lon="-93.212231742" visible="true"/>
+<node id="-203" lat="44.734329608" lon="-93.212231669" visible="true"/>
+<node id="-204" lat="44.734345573" lon="-93.212254727" visible="true"/>
+<node id="-205" lat="44.734358447" lon="-93.212275146" visible="true"/>
+<node id="-206" lat="44.734358238" lon="-93.212325891" visible="true"/>
+<node id="-207" lat="44.734605339" lon="-93.21232737" visible="true"/>
+<node id="-208" lat="44.734606143" lon="-93.211985148" visible="true"/>
+<node id="-209" lat="44.734631941" lon="-93.211985582" visible="true"/>
+<node id="-210" lat="44.734632532" lon="-93.211742446" visible="true"/>
+<node id="-211" lat="44.734652546" lon="-93.21174241" visible="true"/>
+<node id="-212" lat="44.734653372" lon="-93.21143025" visible="true"/>
+<node id="-214" lat="44.733226984" lon="-93.213182959" visible="true"/>
+<node id="-215" lat="44.733226369" lon="-93.213438996" visible="true"/>
+<node id="-216" lat="44.733322726" lon="-93.213439451" visible="true"/>
+<node id="-217" lat="44.733321146" lon="-93.214096574" visible="true"/>
+<node id="-218" lat="44.733504287" lon="-93.214097439" visible="true"/>
+<node id="-219" lat="44.733505868" lon="-93.213439907" visible="true"/>
+<node id="-220" lat="44.733698318" lon="-93.213440819" visible="true"/>
+<node id="-221" lat="44.733698932" lon="-93.213185193" visible="true"/>
+<node id="-223" lat="44.734132693" lon="-93.215379391" visible="true"/>
+<node id="-224" lat="44.734133055" lon="-93.21522774" visible="true"/>
+<node id="-225" lat="44.733910419" lon="-93.21522669" visible="true"/>
+<node id="-226" lat="44.733910652" lon="-93.215129925" visible="true"/>
+<node id="-227" lat="44.733826318" lon="-93.21512953" visible="true"/>
+<node id="-228" lat="44.733826082" lon="-93.215228311" visible="true"/>
+<node id="-229" lat="44.733594417" lon="-93.215223826" visible="true"/>
+<node id="-230" lat="44.733593457" lon="-93.215623883" visible="true"/>
+<node id="-231" lat="44.7341334" lon="-93.215626433" visible="true"/>
+<node id="-232" lat="44.734133761" lon="-93.215475763" visible="true"/>
+<node id="-233" lat="44.734266766" lon="-93.215476393" visible="true"/>
+<node id="-234" lat="44.734266996" lon="-93.215380026" visible="true"/>
+<node id="-236" lat="44.734252119" lon="-93.213829069" visible="true"/>
+<node id="-237" lat="44.734251939" lon="-93.214024648" visible="true"/>
+<node id="-238" lat="44.734295965" lon="-93.214024724" visible="true"/>
+<node id="-239" lat="44.734296145" lon="-93.213829149" visible="true"/>
+<node id="-241" lat="44.734833689" lon="-93.210030335" visible="true"/>
+<node id="-242" lat="44.734908157" lon="-93.209969217" visible="true"/>
+<node id="-243" lat="44.734865717" lon="-93.209867441" visible="true"/>
+<node id="-244" lat="44.734793763" lon="-93.2099265" visible="true"/>
+<node id="-245" lat="44.734710914" lon="-93.209727833" visible="true"/>
+<node id="-246" lat="44.734526802" lon="-93.209878916" visible="true"/>
+<node id="-247" lat="44.734608892" lon="-93.210075806" visible="true"/>
+<node id="-248" lat="44.734536284" lon="-93.210135389" visible="true"/>
+<node id="-249" lat="44.734577457" lon="-93.210234138" visible="true"/>
+<node id="-250" lat="44.734648595" lon="-93.210175759" visible="true"/>
+<node id="-251" lat="44.734724623" lon="-93.210358104" visible="true"/>
+<node id="-252" lat="44.734791813" lon="-93.210302968" visible="true"/>
+<node id="-253" lat="44.734810565" lon="-93.210347939" visible="true"/>
+<node id="-254" lat="44.734858564" lon="-93.210308544" visible="true"/>
+<node id="-255" lat="44.734840892" lon="-93.210266161" visible="true"/>
+<node id="-256" lat="44.734908788" lon="-93.210210443" visible="true"/>
+<node id="-258" lat="44.733943703" lon="-93.210431402" visible="true"/>
+<node id="-259" lat="44.733896827" lon="-93.210432043" visible="true"/>
+<node id="-260" lat="44.733897591" lon="-93.210540582" visible="true"/>
+<node id="-261" lat="44.733944443" lon="-93.210539239" visible="true"/>
+<node id="-263" lat="44.733954386" lon="-93.216901027" visible="true"/>
+<node id="-264" lat="44.733870317" lon="-93.216901441" visible="true"/>
+<node id="-265" lat="44.733870343" lon="-93.216912129" visible="true"/>
+<node id="-266" lat="44.733856481" lon="-93.216912196" visible="true"/>
+<node id="-267" lat="44.733856345" lon="-93.216856299" visible="true"/>
+<node id="-268" lat="44.733765803" lon="-93.216856739" visible="true"/>
+<node id="-269" lat="44.733765897" lon="-93.216895029" visible="true"/>
+<node id="-270" lat="44.733704356" lon="-93.216895327" visible="true"/>
+<node id="-271" lat="44.733704517" lon="-93.216961471" visible="true"/>
+<node id="-272" lat="44.733722484" lon="-93.216961382" visible="true"/>
+<node id="-273" lat="44.733722641" lon="-93.217027088" visible="true"/>
+<node id="-274" lat="44.73368424" lon="-93.217027268" visible="true"/>
+<node id="-275" lat="44.733684667" lon="-93.217205844" visible="true"/>
+<node id="-276" lat="44.733779153" lon="-93.217205396" visible="true"/>
+<node id="-277" lat="44.733779256" lon="-93.217248146" visible="true"/>
+<node id="-278" lat="44.733911614" lon="-93.217247504" visible="true"/>
+<node id="-279" lat="44.733911228" lon="-93.21709064" visible="true"/>
+<node id="-280" lat="44.733954855" lon="-93.217090423" visible="true"/>
+<node id="-282" lat="44.733898883" lon="-93.211710338" visible="true"/>
+<node id="-283" lat="44.733899232" lon="-93.211633717" visible="true"/>
+<node id="-284" lat="44.733854397" lon="-93.211633314" visible="true"/>
+<node id="-285" lat="44.733855513" lon="-93.211389018" visible="true"/>
+<node id="-286" lat="44.733629181" lon="-93.21138698" visible="true"/>
+<node id="-287" lat="44.733628645" lon="-93.211504115" visible="true"/>
+<node id="-288" lat="44.733566303" lon="-93.211503555" visible="true"/>
+<node id="-289" lat="44.733566145" lon="-93.211537858" visible="true"/>
+<node id="-290" lat="44.733628022" lon="-93.211538424" visible="true"/>
+<node id="-291" lat="44.733627244" lon="-93.211707274" visible="true"/>
+<node id="-292" lat="44.733555982" lon="-93.21170663" visible="true"/>
+<node id="-293" lat="44.733553386" lon="-93.21227079" visible="true"/>
+<node id="-294" lat="44.733954155" lon="-93.212274379" visible="true"/>
+<node id="-295" lat="44.733956719" lon="-93.211710857" visible="true"/>
+<node id="-297" lat="44.735227172" lon="-93.214428068" visible="true"/>
+<node id="-298" lat="44.735225006" lon="-93.214414446" visible="true"/>
+<node id="-299" lat="44.735223006" lon="-93.214406966" visible="true"/>
+<node id="-300" lat="44.73522037" lon="-93.214399884" visible="true"/>
+<node id="-301" lat="44.735216435" lon="-93.214391568" visible="true"/>
+<node id="-302" lat="44.735211715" lon="-93.214384101" visible="true"/>
+<node id="-303" lat="44.73520522" lon="-93.214376336" visible="true"/>
+<node id="-304" lat="44.735196643" lon="-93.214369267" visible="true"/>
+<node id="-305" lat="44.73518593" lon="-93.214363967" visible="true"/>
+<node id="-306" lat="44.735177513" lon="-93.214362005" visible="true"/>
+<node id="-307" lat="44.735172293" lon="-93.214361789" visible="true"/>
+<node id="-308" lat="44.73516614" lon="-93.214362442" visible="true"/>
+<node id="-309" lat="44.735159169" lon="-93.214364446" visible="true"/>
+<node id="-310" lat="44.735152426" lon="-93.214367626" visible="true"/>
+<node id="-311" lat="44.735146061" lon="-93.214372091" visible="true"/>
+<node id="-312" lat="44.735139036" lon="-93.214378885" visible="true"/>
+<node id="-313" lat="44.735133795" lon="-93.214385638" visible="true"/>
+<node id="-314" lat="44.735128494" lon="-93.214395014" visible="true"/>
+<node id="-315" lat="44.735124173" lon="-93.214405336" visible="true"/>
+<node id="-316" lat="44.735121572" lon="-93.214414628" visible="true"/>
+<node id="-317" lat="44.735119432" lon="-93.214428258" visible="true"/>
+<node id="-318" lat="44.735119011" lon="-93.214442202" visible="true"/>
+<node id="-319" lat="44.735119826" lon="-93.214452118" visible="true"/>
+<node id="-320" lat="44.735121616" lon="-93.21446178" visible="true"/>
+<node id="-321" lat="44.73512489" lon="-93.214472835" visible="true"/>
+<node id="-322" lat="44.735129359" lon="-93.214483032" visible="true"/>
+<node id="-323" lat="44.735135961" lon="-93.214493473" visible="true"/>
+<node id="-324" lat="44.735144981" lon="-93.214503157" visible="true"/>
+<node id="-325" lat="44.735152555" lon="-93.214508671" visible="true"/>
+<node id="-326" lat="44.735159304" lon="-93.214511826" visible="true"/>
+<node id="-327" lat="44.735166279" lon="-93.214513804" visible="true"/>
+<node id="-328" lat="44.735172431" lon="-93.214514438" visible="true"/>
+<node id="-329" lat="44.735177647" lon="-93.214514201" visible="true"/>
+<node id="-330" lat="44.735183292" lon="-93.214513149" visible="true"/>
+<node id="-331" lat="44.735190177" lon="-93.214510637" visible="true"/>
+<node id="-332" lat="44.735198057" lon="-93.214506044" visible="true"/>
+<node id="-333" lat="44.735204184" lon="-93.214500967" visible="true"/>
+<node id="-334" lat="44.735209746" lon="-93.214494744" visible="true"/>
+<node id="-335" lat="44.735214727" lon="-93.214487614" visible="true"/>
+<node id="-336" lat="44.735218952" lon="-93.214479584" visible="true"/>
+<node id="-337" lat="44.735222447" lon="-93.214470889" visible="true"/>
+<node id="-338" lat="44.735225049" lon="-93.214461597" visible="true"/>
+<node id="-339" lat="44.735226821" lon="-93.214451929" visible="true"/>
+<node id="-340" lat="44.735227617" lon="-93.214442011" visible="true"/>
+<node id="-342" lat="44.735502709" lon="-93.212730416" visible="true"/>
+<node id="-343" lat="44.735502205" lon="-93.2130942" visible="true"/>
+<node id="-344" lat="44.735560816" lon="-93.21309436" visible="true"/>
+<node id="-345" lat="44.735561325" lon="-93.212730581" visible="true"/>
+<node id="-347" lat="44.733837806" lon="-93.213612929" visible="true"/>
+<node id="-348" lat="44.733837926" lon="-93.214007716" visible="true"/>
+<node id="-349" lat="44.734119225" lon="-93.214007549" visible="true"/>
+<node id="-350" lat="44.734119105" lon="-93.213612761" visible="true"/>
+<node id="-352" lat="44.734936641" lon="-93.212267851" visible="true"/>
+<node id="-353" lat="44.734920999" lon="-93.212268361" visible="true"/>
+<node id="-354" lat="44.734921015" lon="-93.212285918" visible="true"/>
+<node id="-355" lat="44.734936915" lon="-93.21228589" visible="true"/>
+<node id="-357" lat="44.736367608" lon="-93.212727909" visible="true"/>
+<node id="-358" lat="44.736306434" lon="-93.212728114" visible="true"/>
+<node id="-359" lat="44.736307059" lon="-93.213093341" visible="true"/>
+<node id="-360" lat="44.73636823" lon="-93.213093135" visible="true"/>
+<node id="-362" lat="44.736486454" lon="-93.216377277" visible="true"/>
+<node id="-363" lat="44.736325165" lon="-93.216377197" visible="true"/>
+<node id="-364" lat="44.736325826" lon="-93.216953511" visible="true"/>
+<node id="-365" lat="44.736371451" lon="-93.21695341" visible="true"/>
+<node id="-366" lat="44.736371623" lon="-93.217103824" visible="true"/>
+<node id="-367" lat="44.736487287" lon="-93.217103563" visible="true"/>
+<node id="-369" lat="44.734971149" lon="-93.208742611" visible="true"/>
+<node id="-370" lat="44.734747701" lon="-93.208747338" visible="true"/>
+<node id="-371" lat="44.734727483" lon="-93.208710606" visible="true"/>
+<node id="-372" lat="44.734625379" lon="-93.208712351" visible="true"/>
+<node id="-373" lat="44.734583274" lon="-93.20874327" visible="true"/>
+<node id="-374" lat="44.734519367" lon="-93.208743882" visible="true"/>
+<node id="-375" lat="44.734519842" lon="-93.208841904" visible="true"/>
+<node id="-376" lat="44.734458642" lon="-93.208842488" visible="true"/>
+<node id="-377" lat="44.734458788" lon="-93.208872185" visible="true"/>
+<node id="-378" lat="44.734385644" lon="-93.208872886" visible="true"/>
+<node id="-379" lat="44.734386035" lon="-93.20895377" visible="true"/>
+<node id="-380" lat="44.734416194" lon="-93.20895348" visible="true"/>
+<node id="-381" lat="44.734416316" lon="-93.208978222" visible="true"/>
+<node id="-382" lat="44.734342535" lon="-93.208978928" visible="true"/>
+<node id="-383" lat="44.734343787" lon="-93.20923632" visible="true"/>
+<node id="-384" lat="44.734330784" lon="-93.209236444" visible="true"/>
+<node id="-385" lat="44.734331303" lon="-93.209343647" visible="true"/>
+<node id="-386" lat="44.734805458" lon="-93.20933912" visible="true"/>
+<node id="-387" lat="44.734804753" lon="-93.209193483" visible="true"/>
+<node id="-388" lat="44.734819004" lon="-93.209193348" visible="true"/>
+<node id="-389" lat="44.734818878" lon="-93.209167229" visible="true"/>
+<node id="-390" lat="44.734941214" lon="-93.20916606" visible="true"/>
+<node id="-391" lat="44.734939355" lon="-93.208988949" visible="true"/>
+<node id="-392" lat="44.734971991" lon="-93.208990224" visible="true"/>
+<node id="-394" lat="44.735207506" lon="-93.212700769" visible="true"/>
+<node id="-395" lat="44.734953377" lon="-93.212701545" visible="true"/>
+<node id="-396" lat="44.734953938" lon="-93.21306217" visible="true"/>
+<node id="-397" lat="44.7350373" lon="-93.213061917" visible="true"/>
+<node id="-398" lat="44.735037391" lon="-93.21311932" visible="true"/>
+<node id="-399" lat="44.73512135" lon="-93.213119063" visible="true"/>
+<node id="-400" lat="44.735121437" lon="-93.213174877" visible="true"/>
+<node id="-401" lat="44.735208241" lon="-93.213174606" visible="true"/>
+<node id="-404" lat="44.735373941" lon="-93.214076677" visible="true"/>
+<node id="-405" lat="44.734968544" lon="-93.214080903" visible="true"/>
+<node id="-406" lat="44.734968629" lon="-93.214096906" visible="true"/>
+<node id="-407" lat="44.734957557" lon="-93.214097023" visible="true"/>
+<node id="-408" lat="44.734960866" lon="-93.214720485" visible="true"/>
+<node id="-409" lat="44.734970323" lon="-93.214720384" visible="true"/>
+<node id="-410" lat="44.734970617" lon="-93.214776328" visible="true"/>
+<node id="-411" lat="44.735270487" lon="-93.214773228" visible="true"/>
+<node id="-412" lat="44.735270573" lon="-93.214789886" visible="true"/>
+<node id="-413" lat="44.735308902" lon="-93.214789495" visible="true"/>
+<node id="-414" lat="44.735308829" lon="-93.214775214" visible="true"/>
+<node id="-415" lat="44.735377638" lon="-93.214774517" visible="true"/>
+<node id="-418" lat="44.735377472" lon="-93.215966959" visible="true"/>
+<node id="-419" lat="44.735241299" lon="-93.215967949" visible="true"/>
+<node id="-420" lat="44.735242457" lon="-93.216282014" visible="true"/>
+<node id="-421" lat="44.735233943" lon="-93.216282074" visible="true"/>
+<node id="-422" lat="44.735234171" lon="-93.216344641" visible="true"/>
+<node id="-423" lat="44.735244778" lon="-93.216344564" visible="true"/>
+<node id="-424" lat="44.735245346" lon="-93.216500346" visible="true"/>
+<node id="-425" lat="44.735379429" lon="-93.216499383" visible="true"/>
+<node id="-427" lat="44.736714956" lon="-93.216113233" visible="true"/>
+<node id="-428" lat="44.736714973" lon="-93.216091758" visible="true"/>
+<node id="-429" lat="44.736741881" lon="-93.216091798" visible="true"/>
+<node id="-430" lat="44.73674192" lon="-93.216042039" visible="true"/>
+<node id="-431" lat="44.73663344" lon="-93.216041871" visible="true"/>
+<node id="-432" lat="44.736633407" lon="-93.216084972" visible="true"/>
+<node id="-433" lat="44.736616961" lon="-93.216084947" visible="true"/>
+<node id="-434" lat="44.736616896" lon="-93.216167648" visible="true"/>
+<node id="-435" lat="44.736610344" lon="-93.216167632" visible="true"/>
+<node id="-436" lat="44.73660737" lon="-93.216249528" visible="true"/>
+<node id="-437" lat="44.736604323" lon="-93.216497708" visible="true"/>
+<node id="-438" lat="44.736693487" lon="-93.216497811" visible="true"/>
+<node id="-439" lat="44.736693467" lon="-93.216529499" visible="true"/>
+<node id="-440" lat="44.736734197" lon="-93.216529553" visible="true"/>
+<node id="-441" lat="44.736734216" lon="-93.216497854" visible="true"/>
+<node id="-442" lat="44.736754871" lon="-93.216497879" visible="true"/>
+<node id="-443" lat="44.736754903" lon="-93.216447325" visible="true"/>
+<node id="-444" lat="44.736701694" lon="-93.216447258" visible="true"/>
+<node id="-445" lat="44.736701736" lon="-93.216382592" visible="true"/>
+<node id="-446" lat="44.736756333" lon="-93.216382667" visible="true"/>
+<node id="-447" lat="44.7367564" lon="-93.216281507" visible="true"/>
+<node id="-448" lat="44.736702583" lon="-93.216281431" visible="true"/>
+<node id="-449" lat="44.736702627" lon="-93.216219051" visible="true"/>
+<node id="-450" lat="44.736761376" lon="-93.216219138" visible="true"/>
+<node id="-451" lat="44.736761454" lon="-93.216113298" visible="true"/>
+<node id="-453" lat="44.736740606" lon="-93.213477117" visible="true"/>
+<node id="-454" lat="44.736740654" lon="-93.213561769" visible="true"/>
+<node id="-455" lat="44.736726867" lon="-93.213561786" visible="true"/>
+<node id="-456" lat="44.736726882" lon="-93.213584704" visible="true"/>
+<node id="-457" lat="44.736704921" lon="-93.213584731" visible="true"/>
+<node id="-458" lat="44.736704991" lon="-93.213695061" visible="true"/>
+<node id="-459" lat="44.736796265" lon="-93.213694964" visible="true"/>
+<node id="-460" lat="44.736796257" lon="-93.213678912" visible="true"/>
+<node id="-461" lat="44.736816116" lon="-93.213678887" visible="true"/>
+<node id="-462" lat="44.736815994" lon="-93.21347703" visible="true"/>
+<node id="-464" lat="44.736822381" lon="-93.214047777" visible="true"/>
+<node id="-465" lat="44.736814407" lon="-93.214047911" visible="true"/>
+<node id="-466" lat="44.736813555" lon="-93.213947494" visible="true"/>
+<node id="-467" lat="44.736741156" lon="-93.213948705" visible="true"/>
+<node id="-468" lat="44.736741997" lon="-93.214047624" visible="true"/>
+<node id="-469" lat="44.73671343" lon="-93.214048098" visible="true"/>
+<node id="-470" lat="44.736714435" lon="-93.214166171" visible="true"/>
+<node id="-471" lat="44.736823368" lon="-93.214164356" visible="true"/>
+<node id="-473" lat="44.73669574" lon="-93.212843658" visible="true"/>
+<node id="-474" lat="44.736693864" lon="-93.213019037" visible="true"/>
+<node id="-475" lat="44.736791127" lon="-93.213021084" visible="true"/>
+<node id="-476" lat="44.736791838" lon="-93.212954658" visible="true"/>
+<node id="-477" lat="44.736856592" lon="-93.212956021" visible="true"/>
+<node id="-478" lat="44.736857758" lon="-93.212847066" visible="true"/>
+<node id="-480" lat="44.736899911" lon="-93.215171242" visible="true"/>
+<node id="-481" lat="44.736826786" lon="-93.215214637" visible="true"/>
+<node id="-482" lat="44.736895242" lon="-93.215441711" visible="true"/>
+<node id="-483" lat="44.736968368" lon="-93.215398312" visible="true"/>
+<node id="-485" lat="44.735676417" lon="-93.21315641" visible="true"/>
+<node id="-486" lat="44.73550066" lon="-93.21315798" visible="true"/>
+<node id="-487" lat="44.735501238" lon="-93.213284735" visible="true"/>
+<node id="-488" lat="44.735513635" lon="-93.213284624" visible="true"/>
+<node id="-489" lat="44.735516776" lon="-93.213978337" visible="true"/>
+<node id="-490" lat="44.735505536" lon="-93.213978438" visible="true"/>
+<node id="-491" lat="44.735506127" lon="-93.214107862" visible="true"/>
+<node id="-492" lat="44.735680741" lon="-93.214106295" visible="true"/>
+<node id="-494" lat="44.73562634" lon="-93.216681072" visible="true"/>
+<node id="-495" lat="44.735626057" lon="-93.21673148" visible="true"/>
+<node id="-496" lat="44.735576957" lon="-93.216730938" visible="true"/>
+<node id="-497" lat="44.73557491" lon="-93.217095344" visible="true"/>
+<node id="-498" lat="44.735599644" lon="-93.217095617" visible="true"/>
+<node id="-499" lat="44.735599498" lon="-93.217121925" visible="true"/>
+<node id="-500" lat="44.735632915" lon="-93.217122295" visible="true"/>
+<node id="-501" lat="44.735633076" lon="-93.217093313" visible="true"/>
+<node id="-502" lat="44.735737326" lon="-93.217095757" visible="true"/>
+<node id="-503" lat="44.735739648" lon="-93.216682324" visible="true"/>
+<node id="-505" lat="44.735787671" lon="-93.214317293" visible="true"/>
+<node id="-506" lat="44.735666375" lon="-93.214317987" visible="true"/>
+<node id="-507" lat="44.735668217" lon="-93.214952496" visible="true"/>
+<node id="-508" lat="44.735789517" lon="-93.214951804" visible="true"/>
+<node id="-510" lat="44.735885074" lon="-93.213784049" visible="true"/>
+<node id="-511" lat="44.735842908" lon="-93.213784424" visible="true"/>
+<node id="-512" lat="44.735843058" lon="-93.213817809" visible="true"/>
+<node id="-513" lat="44.735885225" lon="-93.213817434" visible="true"/>
+<node id="-515" lat="44.736743258" lon="-93.217364466" visible="true"/>
+<node id="-516" lat="44.736742713" lon="-93.217418506" visible="true"/>
+<node id="-517" lat="44.736996065" lon="-93.217420899" visible="true"/>
+<node id="-518" lat="44.736996546" lon="-93.217370745" visible="true"/>
+<node id="-520" lat="44.737039882" lon="-93.215463701" visible="true"/>
+<node id="-521" lat="44.736970547" lon="-93.215517694" visible="true"/>
+<node id="-522" lat="44.737002976" lon="-93.215599889" visible="true"/>
+<node id="-523" lat="44.736966229" lon="-93.215628575" visible="true"/>
+<node id="-524" lat="44.73699677" lon="-93.215705" visible="true"/>
+<node id="-525" lat="44.73704966" lon="-93.215664262" visible="true"/>
+<node id="-526" lat="44.737039737" lon="-93.215639509" visible="true"/>
+<node id="-527" lat="44.737093183" lon="-93.215598289" visible="true"/>
+<node id="-529" lat="44.737060356" lon="-93.216489736" visible="true"/>
+<node id="-530" lat="44.737060536" lon="-93.216454381" visible="true"/>
+<node id="-531" lat="44.736965826" lon="-93.216453427" visible="true"/>
+<node id="-532" lat="44.736962323" lon="-93.216613195" visible="true"/>
+<node id="-533" lat="44.73696158" lon="-93.216782577" visible="true"/>
+<node id="-534" lat="44.736963535" lon="-93.216946856" visible="true"/>
+<node id="-535" lat="44.7370585" lon="-93.216947804" visible="true"/>
+<node id="-536" lat="44.737058681" lon="-93.216912398" visible="true"/>
+<node id="-537" lat="44.737113041" lon="-93.21691294" visible="true"/>
+<node id="-538" lat="44.73711354" lon="-93.21681505" visible="true"/>
+<node id="-539" lat="44.737059176" lon="-93.216814504" visible="true"/>
+<node id="-540" lat="44.737059496" lon="-93.216751443" visible="true"/>
+<node id="-541" lat="44.737109943" lon="-93.216751948" visible="true"/>
+<node id="-542" lat="44.737110449" lon="-93.216652591" visible="true"/>
+<node id="-543" lat="44.737058732" lon="-93.216652074" visible="true"/>
+<node id="-544" lat="44.737059055" lon="-93.216588655" visible="true"/>
+<node id="-545" lat="44.737116321" lon="-93.216589231" visible="true"/>
+<node id="-546" lat="44.737116823" lon="-93.216490302" visible="true"/>
+<node id="-548" lat="44.737047886" lon="-93.210101019" visible="true"/>
+<node id="-549" lat="44.737020612" lon="-93.21007716" visible="true"/>
+<node id="-550" lat="44.737076042" lon="-93.209946915" visible="true"/>
+<node id="-551" lat="44.736784927" lon="-93.209715368" visible="true"/>
+<node id="-552" lat="44.736902139" lon="-93.209430853" visible="true"/>
+<node id="-553" lat="44.736831646" lon="-93.209377602" visible="true"/>
+<node id="-554" lat="44.736771414" lon="-93.209336183" visible="true"/>
+<node id="-555" lat="44.736736008" lon="-93.209419836" visible="true"/>
+<node id="-556" lat="44.736710155" lon="-93.209403191" visible="true"/>
+<node id="-557" lat="44.736694156" lon="-93.20943937" visible="true"/>
+<node id="-558" lat="44.736652121" lon="-93.20941009" visible="true"/>
+<node id="-559" lat="44.73659431" lon="-93.209554501" visible="true"/>
+<node id="-560" lat="44.73636595" lon="-93.20937125" visible="true"/>
+<node id="-561" lat="44.736300048" lon="-93.209528582" visible="true"/>
+<node id="-562" lat="44.736320575" lon="-93.209544708" visible="true"/>
+<node id="-563" lat="44.736299466" lon="-93.209601929" visible="true"/>
+<node id="-564" lat="44.736503703" lon="-93.209766527" visible="true"/>
+<node id="-565" lat="44.736440744" lon="-93.209928323" visible="true"/>
+<node id="-566" lat="44.736503131" lon="-93.209979044" visible="true"/>
+<node id="-567" lat="44.736547291" lon="-93.209863458" visible="true"/>
+<node id="-568" lat="44.736560776" lon="-93.209889023" visible="true"/>
+<node id="-569" lat="44.736556208" lon="-93.20990498" visible="true"/>
+<node id="-570" lat="44.73663028" lon="-93.209965743" visible="true"/>
+<node id="-571" lat="44.736639275" lon="-93.209947841" visible="true"/>
+<node id="-572" lat="44.736662058" lon="-93.209948669" visible="true"/>
+<node id="-573" lat="44.736682157" lon="-93.209908801" visible="true"/>
+<node id="-574" lat="44.736948834" lon="-93.210125627" visible="true"/>
+<node id="-575" lat="44.736949127" lon="-93.210892618" visible="true"/>
+<node id="-576" lat="44.736959303" lon="-93.210893054" visible="true"/>
+<node id="-577" lat="44.736959375" lon="-93.210925977" visible="true"/>
+<node id="-578" lat="44.736947369" lon="-93.210958096" visible="true"/>
+<node id="-579" lat="44.736924058" lon="-93.210957556" visible="true"/>
+<node id="-580" lat="44.736922427" lon="-93.211062645" visible="true"/>
+<node id="-581" lat="44.736827942" lon="-93.211063594" visible="true"/>
+<node id="-582" lat="44.736828067" lon="-93.211218904" visible="true"/>
+<node id="-583" lat="44.736923618" lon="-93.211217629" visible="true"/>
+<node id="-584" lat="44.736923631" lon="-93.211320836" visible="true"/>
+<node id="-585" lat="44.736949335" lon="-93.211322984" visible="true"/>
+<node id="-586" lat="44.736959756" lon="-93.211348381" visible="true"/>
+<node id="-587" lat="44.736959162" lon="-93.211385393" visible="true"/>
+<node id="-588" lat="44.736948112" lon="-93.21138577" visible="true"/>
+<node id="-589" lat="44.736949712" lon="-93.211843039" visible="true"/>
+<node id="-590" lat="44.736537227" lon="-93.211843918" visible="true"/>
+<node id="-591" lat="44.736538907" lon="-93.211812262" visible="true"/>
+<node id="-592" lat="44.736454699" lon="-93.211813895" visible="true"/>
+<node id="-593" lat="44.736452949" lon="-93.211861578" visible="true"/>
+<node id="-594" lat="44.736441772" lon="-93.211860832" visible="true"/>
+<node id="-595" lat="44.736439318" lon="-93.211906426" visible="true"/>
+<node id="-596" lat="44.736437718" lon="-93.212004697" visible="true"/>
+<node id="-597" lat="44.736448938" lon="-93.212004049" visible="true"/>
+<node id="-598" lat="44.73644873" lon="-93.212049614" visible="true"/>
+<node id="-599" lat="44.7364624" lon="-93.212049555" visible="true"/>
+<node id="-600" lat="44.736462946" lon="-93.212101247" visible="true"/>
+<node id="-601" lat="44.737131447" lon="-93.212097266" visible="true"/>
+<node id="-602" lat="44.737131727" lon="-93.210099159" visible="true"/>
+<node id="-604" lat="44.737217624" lon="-93.214452735" visible="true"/>
+<node id="-605" lat="44.737194571" lon="-93.214482829" visible="true"/>
+<node id="-606" lat="44.737210624" lon="-93.214507031" visible="true"/>
+<node id="-607" lat="44.737233674" lon="-93.214476934" visible="true"/>
+<node id="-609" lat="44.737244776" lon="-93.213008179" visible="true"/>
+<node id="-610" lat="44.737248215" lon="-93.212998696" visible="true"/>
+<node id="-611" lat="44.737153911" lon="-93.212931385" visible="true"/>
+<node id="-612" lat="44.737115392" lon="-93.213037606" visible="true"/>
+<node id="-613" lat="44.737264994" lon="-93.213144403" visible="true"/>
+<node id="-614" lat="44.73730008" lon="-93.213047666" visible="true"/>
+<node id="-616" lat="44.737381682" lon="-93.21527716" visible="true"/>
+<node id="-617" lat="44.737342625" lon="-93.215278963" visible="true"/>
+<node id="-618" lat="44.737343714" lon="-93.215325453" visible="true"/>
+<node id="-619" lat="44.737382771" lon="-93.215323658" visible="true"/>
+<node id="-621" lat="44.737394754" lon="-93.216668242" visible="true"/>
+<node id="-622" lat="44.737394263" lon="-93.216743039" visible="true"/>
+<node id="-623" lat="44.737434287" lon="-93.216743213" visible="true"/>
+<node id="-624" lat="44.737434524" lon="-93.216668656" visible="true"/>
+<node id="-626" lat="44.737345549" lon="-93.214011805" visible="true"/>
+<node id="-627" lat="44.737285077" lon="-93.214081253" visible="true"/>
+<node id="-628" lat="44.737393542" lon="-93.214260203" visible="true"/>
+<node id="-629" lat="44.737453064" lon="-93.214189186" visible="true"/>
+<node id="-631" lat="44.737478461" lon="-93.215833508" visible="true"/>
+<node id="-632" lat="44.737398859" lon="-93.215834284" visible="true"/>
+<node id="-633" lat="44.737398953" lon="-93.215852982" visible="true"/>
+<node id="-634" lat="44.73732617" lon="-93.215853701" visible="true"/>
+<node id="-635" lat="44.737326726" lon="-93.215965228" visible="true"/>
+<node id="-636" lat="44.737398483" lon="-93.215964526" visible="true"/>
+<node id="-637" lat="44.737398643" lon="-93.215996502" visible="true"/>
+<node id="-638" lat="44.73747927" lon="-93.215995709" visible="true"/>
+<node id="-640" lat="44.737513703" lon="-93.213427519" visible="true"/>
+<node id="-641" lat="44.737521378" lon="-93.213418662" visible="true"/>
+<node id="-642" lat="44.737485087" lon="-93.213356761" visible="true"/>
+<node id="-643" lat="44.737426435" lon="-93.213424445" visible="true"/>
+<node id="-644" lat="44.737463392" lon="-93.213487484" visible="true"/>
+<node id="-645" lat="44.73745831" lon="-93.21349335" visible="true"/>
+<node id="-646" lat="44.737523816" lon="-93.213605054" visible="true"/>
+<node id="-647" lat="44.737579868" lon="-93.213540349" visible="true"/>
+<node id="-649" lat="44.73761871" lon="-93.213087202" visible="true"/>
+<node id="-650" lat="44.737588354" lon="-93.213123396" visible="true"/>
+<node id="-651" lat="44.737604472" lon="-93.213150009" visible="true"/>
+<node id="-652" lat="44.737635094" lon="-93.213113498" visible="true"/>
+<node id="-654" lat="44.737673047" lon="-93.215009006" visible="true"/>
+<node id="-655" lat="44.737643956" lon="-93.215018919" visible="true"/>
+<node id="-656" lat="44.737652227" lon="-93.215068206" visible="true"/>
+<node id="-657" lat="44.737681573" lon="-93.215058054" visible="true"/>
+<node id="-659" lat="44.737616502" lon="-93.211917229" visible="true"/>
+<node id="-660" lat="44.737615577" lon="-93.212011577" visible="true"/>
+<node id="-661" lat="44.737571458" lon="-93.212010726" visible="true"/>
+<node id="-662" lat="44.737570871" lon="-93.212070588" visible="true"/>
+<node id="-663" lat="44.737607021" lon="-93.212071284" visible="true"/>
+<node id="-664" lat="44.737606088" lon="-93.212166487" visible="true"/>
+<node id="-665" lat="44.737685579" lon="-93.212166429" visible="true"/>
+<node id="-666" lat="44.737688009" lon="-93.211918608" visible="true"/>
+<node id="-668" lat="44.737667015" lon="-93.210043004" visible="true"/>
+<node id="-669" lat="44.737673022" lon="-93.210041227" visible="true"/>
+<node id="-670" lat="44.737656088" lon="-93.209928555" visible="true"/>
+<node id="-671" lat="44.737575602" lon="-93.209952372" visible="true"/>
+<node id="-672" lat="44.737587558" lon="-93.210031914" visible="true"/>
+<node id="-673" lat="44.737579064" lon="-93.210034429" visible="true"/>
+<node id="-674" lat="44.737580695" lon="-93.210045281" visible="true"/>
+<node id="-675" lat="44.73755755" lon="-93.210052128" visible="true"/>
+<node id="-676" lat="44.737566608" lon="-93.210112402" visible="true"/>
+<node id="-677" lat="44.737591316" lon="-93.210105089" visible="true"/>
+<node id="-678" lat="44.737605165" lon="-93.21019722" visible="true"/>
+<node id="-679" lat="44.737686584" lon="-93.210173129" visible="true"/>
+<node id="-681" lat="44.737599331" lon="-93.211589643" visible="true"/>
+<node id="-682" lat="44.737599009" lon="-93.211827382" visible="true"/>
+<node id="-683" lat="44.737687975" lon="-93.211827618" visible="true"/>
+<node id="-684" lat="44.737688294" lon="-93.211589879" visible="true"/>
+<node id="-686" lat="44.737693265" lon="-93.211070417" visible="true"/>
+<node id="-687" lat="44.737686768" lon="-93.211070474" visible="true"/>
+<node id="-688" lat="44.737686153" lon="-93.210935046" visible="true"/>
+<node id="-689" lat="44.737603267" lon="-93.210935785" visible="true"/>
+<node id="-690" lat="44.737604031" lon="-93.211104176" visible="true"/>
+<node id="-691" lat="44.737612216" lon="-93.211104103" visible="true"/>
+<node id="-692" lat="44.737612558" lon="-93.211180141" visible="true"/>
+<node id="-693" lat="44.737693755" lon="-93.211179423" visible="true"/>
+<node id="-695" lat="44.737680233" lon="-93.210737512" visible="true"/>
+<node id="-696" lat="44.737680505" lon="-93.210638163" visible="true"/>
+<node id="-697" lat="44.737600599" lon="-93.210637727" visible="true"/>
+<node id="-698" lat="44.73760032" lon="-93.210739464" visible="true"/>
+<node id="-699" lat="44.737580241" lon="-93.210739357" visible="true"/>
+<node id="-700" lat="44.737579966" lon="-93.210840362" visible="true"/>
+<node id="-701" lat="44.737693842" lon="-93.210840983" visible="true"/>
+<node id="-702" lat="44.737694125" lon="-93.210737588" visible="true"/>
+<node id="-704" lat="44.73766224" lon="-93.214606578" visible="true"/>
+<node id="-705" lat="44.737682553" lon="-93.214585085" visible="true"/>
+<node id="-706" lat="44.737636064" lon="-93.214498595" visible="true"/>
+<node id="-707" lat="44.737543355" lon="-93.214596698" visible="true"/>
+<node id="-708" lat="44.737589695" lon="-93.214682902" visible="true"/>
+<node id="-709" lat="44.737600584" lon="-93.21467138" visible="true"/>
+<node id="-710" lat="44.737645085" lon="-93.214754174" visible="true"/>
+<node id="-711" lat="44.737706593" lon="-93.214689104" visible="true"/>
+<node id="-713" lat="44.73764107" lon="-93.208435048" visible="true"/>
+<node id="-714" lat="44.737634058" lon="-93.208528982" visible="true"/>
+<node id="-715" lat="44.737717676" lon="-93.208541266" visible="true"/>
+<node id="-716" lat="44.737724688" lon="-93.208447334" visible="true"/>
+<node id="-718" lat="44.737754458" lon="-93.212700366" visible="true"/>
+<node id="-719" lat="44.737589128" lon="-93.212701898" visible="true"/>
+<node id="-720" lat="44.737589607" lon="-93.212803606" visible="true"/>
+<node id="-721" lat="44.737754937" lon="-93.212802074" visible="true"/>
+<node id="-723" lat="44.737714278" lon="-93.215432333" visible="true"/>
+<node id="-724" lat="44.737712234" lon="-93.215672464" visible="true"/>
+<node id="-725" lat="44.737789513" lon="-93.215673755" visible="true"/>
+<node id="-726" lat="44.737791558" lon="-93.215433629" visible="true"/>
+<node id="-728" lat="44.737834855" lon="-93.208097813" visible="true"/>
+<node id="-729" lat="44.737827844" lon="-93.208193119" visible="true"/>
+<node id="-730" lat="44.737916425" lon="-93.208205945" visible="true"/>
+<node id="-731" lat="44.737923435" lon="-93.208110633" visible="true"/>
+<node id="-733" lat="44.737836997" lon="-93.207930351" visible="true"/>
+<node id="-734" lat="44.737835877" lon="-93.207946465" visible="true"/>
+<node id="-735" lat="44.737725819" lon="-93.207931405" visible="true"/>
+<node id="-736" lat="44.737726972" lon="-93.207914835" visible="true"/>
+<node id="-737" lat="44.737615938" lon="-93.20789963" visible="true"/>
+<node id="-738" lat="44.737606873" lon="-93.208029947" visible="true"/>
+<node id="-739" lat="44.737716982" lon="-93.208045026" visible="true"/>
+<node id="-740" lat="44.737715939" lon="-93.20806005" visible="true"/>
+<node id="-741" lat="44.737827237" lon="-93.208075276" visible="true"/>
+<node id="-742" lat="44.737828427" lon="-93.208058158" visible="true"/>
+<node id="-743" lat="44.737939079" lon="-93.208073309" visible="true"/>
+<node id="-744" lat="44.737947965" lon="-93.207945547" visible="true"/>
+<node id="-746" lat="44.737965455" lon="-93.212698056" visible="true"/>
+<node id="-747" lat="44.737905445" lon="-93.212698841" visible="true"/>
+<node id="-748" lat="44.737905369" lon="-93.212687636" visible="true"/>
+<node id="-749" lat="44.737864572" lon="-93.212688183" visible="true"/>
+<node id="-750" lat="44.737864696" lon="-93.212706446" visible="true"/>
+<node id="-751" lat="44.737814225" lon="-93.212707117" visible="true"/>
+<node id="-752" lat="44.737814897" lon="-93.212806523" visible="true"/>
+<node id="-753" lat="44.737868722" lon="-93.212805807" visible="true"/>
+<node id="-754" lat="44.737868848" lon="-93.212824394" visible="true"/>
+<node id="-755" lat="44.737966291" lon="-93.212823119" visible="true"/>
+<node id="-757" lat="44.735876547" lon="-93.212748964" visible="true"/>
+<node id="-758" lat="44.735874141" lon="-93.213112287" visible="true"/>
+<node id="-759" lat="44.735963728" lon="-93.213113451" visible="true"/>
+<node id="-760" lat="44.735963484" lon="-93.213150399" visible="true"/>
+<node id="-761" lat="44.735996016" lon="-93.213150823" visible="true"/>
+<node id="-762" lat="44.735998664" lon="-93.212750549" visible="true"/>
+<node id="-764" lat="44.736062498" lon="-93.207865346" visible="true"/>
+<node id="-765" lat="44.735980714" lon="-93.207984787" visible="true"/>
+<node id="-766" lat="44.735882783" lon="-93.207852802" visible="true"/>
+<node id="-767" lat="44.735811204" lon="-93.207957341" visible="true"/>
+<node id="-768" lat="44.735909901" lon="-93.208090357" visible="true"/>
+<node id="-769" lat="44.735911307" lon="-93.208198501" visible="true"/>
+<node id="-770" lat="44.735869292" lon="-93.208259862" visible="true"/>
+<node id="-771" lat="44.735907307" lon="-93.2083111" visible="true"/>
+<node id="-772" lat="44.735866619" lon="-93.208370523" visible="true"/>
+<node id="-773" lat="44.735911629" lon="-93.20843119" visible="true"/>
+<node id="-774" lat="44.735911737" lon="-93.208545458" visible="true"/>
+<node id="-775" lat="44.736064998" lon="-93.208752038" visible="true"/>
+<node id="-776" lat="44.736108914" lon="-93.208687904" visible="true"/>
+<node id="-777" lat="44.736109253" lon="-93.207928362" visible="true"/>
+<node id="-779" lat="44.736139335" lon="-93.215881456" visible="true"/>
+<node id="-780" lat="44.735602226" lon="-93.215884873" visible="true"/>
+<node id="-781" lat="44.735603233" lon="-93.21619662" visible="true"/>
+<node id="-782" lat="44.736141345" lon="-93.216193198" visible="true"/>
+<node id="-784" lat="44.736202428" lon="-93.214339542" visible="true"/>
+<node id="-785" lat="44.736083119" lon="-93.214341188" visible="true"/>
+<node id="-786" lat="44.736086672" lon="-93.214849662" visible="true"/>
+<node id="-787" lat="44.736205983" lon="-93.214848025" visible="true"/>
+<node id="-789" lat="44.736191824" lon="-93.213154133" visible="true"/>
+<node id="-790" lat="44.73619221" lon="-93.214104557" visible="true"/>
+<node id="-791" lat="44.736364768" lon="-93.214104421" visible="true"/>
+<node id="-792" lat="44.736364717" lon="-93.2139772" visible="true"/>
+<node id="-793" lat="44.73635541" lon="-93.213977204" visible="true"/>
+<node id="-794" lat="44.736355075" lon="-93.213282798" visible="true"/>
+<node id="-795" lat="44.736366458" lon="-93.213282786" visible="true"/>
+<node id="-796" lat="44.736366385" lon="-93.213153943" visible="true"/>
+<node id="-798" lat="44.736706761" lon="-93.21710749" visible="true"/>
+<node id="-799" lat="44.736707108" lon="-93.217042226" visible="true"/>
+<node id="-800" lat="44.73675699" lon="-93.217042749" visible="true"/>
+<node id="-801" lat="44.736757506" lon="-93.216945874" visible="true"/>
+<node id="-802" lat="44.736702824" lon="-93.216945303" visible="true"/>
+<node id="-803" lat="44.736703003" lon="-93.216911775" visible="true"/>
+<node id="-804" lat="44.736605074" lon="-93.216910746" visible="true"/>
+<node id="-805" lat="44.736604209" lon="-93.217076592" visible="true"/>
+<node id="-806" lat="44.73661018" lon="-93.217076656" visible="true"/>
+<node id="-807" lat="44.736609293" lon="-93.217242429" visible="true"/>
+<node id="-808" lat="44.736707906" lon="-93.217243468" visible="true"/>
+<node id="-809" lat="44.736708106" lon="-93.217205827" visible="true"/>
+<node id="-810" lat="44.73676154" lon="-93.217206385" visible="true"/>
+<node id="-811" lat="44.736762064" lon="-93.217108064" visible="true"/>
+<node id="-813" lat="44.736820564" lon="-93.214359115" visible="true"/>
+<node id="-814" lat="44.736808609" lon="-93.214359175" visible="true"/>
+<node id="-815" lat="44.736808367" lon="-93.214263583" visible="true"/>
+<node id="-816" lat="44.736734397" lon="-93.214263956" visible="true"/>
+<node id="-817" lat="44.736734638" lon="-93.214359433" visible="true"/>
+<node id="-818" lat="44.736711503" lon="-93.214359545" visible="true"/>
+<node id="-819" lat="44.736711801" lon="-93.21447686" visible="true"/>
+<node id="-820" lat="44.73682087" lon="-93.214476301" visible="true"/>
+<node id="-822" lat="44.736856989" lon="-93.214593811" visible="true"/>
+<node id="-823" lat="44.736739951" lon="-93.214621038" visible="true"/>
+<node id="-824" lat="44.736745164" lon="-93.214665139" visible="true"/>
+<node id="-825" lat="44.736728905" lon="-93.214668914" visible="true"/>
+<node id="-826" lat="44.736741505" lon="-93.214775567" visible="true"/>
+<node id="-827" lat="44.736818727" lon="-93.214757608" visible="true"/>
+<node id="-828" lat="44.736815526" lon="-93.214730519" visible="true"/>
+<node id="-829" lat="44.736871601" lon="-93.214717479" visible="true"/>
+<node id="-831" lat="44.73685825" lon="-93.213864688" visible="true"/>
+<node id="-832" lat="44.736858017" lon="-93.213892105" visible="true"/>
+<node id="-833" lat="44.736879101" lon="-93.213892791" visible="true"/>
+<node id="-834" lat="44.736879633" lon="-93.213865612" visible="true"/>
+<node id="-836" lat="44.736899441" lon="-93.214962476" visible="true"/>
+<node id="-837" lat="44.736886202" lon="-93.21496803" visible="true"/>
+<node id="-838" lat="44.736865525" lon="-93.214870988" visible="true"/>
+<node id="-839" lat="44.736790663" lon="-93.214902384" visible="true"/>
+<node id="-840" lat="44.736811281" lon="-93.214999152" visible="true"/>
+<node id="-841" lat="44.736782478" lon="-93.215011234" visible="true"/>
+<node id="-842" lat="44.736804927" lon="-93.215116589" visible="true"/>
+<node id="-843" lat="44.736921833" lon="-93.215067549" visible="true"/>
+<node id="-845" lat="44.738063243" lon="-93.209760438" visible="true"/>
+<node id="-846" lat="44.738041955" lon="-93.209769759" visible="true"/>
+<node id="-847" lat="44.738020906" lon="-93.20967513" visible="true"/>
+<node id="-848" lat="44.737947593" lon="-93.209707232" visible="true"/>
+<node id="-849" lat="44.7379679" lon="-93.209798528" visible="true"/>
+<node id="-850" lat="44.7379524" lon="-93.209805313" visible="true"/>
+<node id="-851" lat="44.737974828" lon="-93.209906112" visible="true"/>
+<node id="-852" lat="44.738084925" lon="-93.209857896" visible="true"/>
+<node id="-854" lat="44.738097536" lon="-93.211029706" visible="true"/>
+<node id="-855" lat="44.738093996" lon="-93.21093173" visible="true"/>
+<node id="-856" lat="44.738018567" lon="-93.210933067" visible="true"/>
+<node id="-857" lat="44.738020824" lon="-93.211182865" visible="true"/>
+<node id="-858" lat="44.738098908" lon="-93.211181476" visible="true"/>
+<node id="-860" lat="44.738099043" lon="-93.211259523" visible="true"/>
+<node id="-861" lat="44.738016813" lon="-93.211260994" visible="true"/>
+<node id="-862" lat="44.738018064" lon="-93.211402223" visible="true"/>
+<node id="-863" lat="44.738011759" lon="-93.211402334" visible="true"/>
+<node id="-864" lat="44.738012688" lon="-93.211505632" visible="true"/>
+<node id="-865" lat="44.738091177" lon="-93.211504242" visible="true"/>
+<node id="-866" lat="44.738090506" lon="-93.211429385" visible="true"/>
+<node id="-867" lat="44.738100582" lon="-93.211429206" visible="true"/>
+<node id="-869" lat="44.738117229" lon="-93.21357904" visible="true"/>
+<node id="-870" lat="44.738091585" lon="-93.213601029" visible="true"/>
+<node id="-871" lat="44.738098764" lon="-93.213617509" visible="true"/>
+<node id="-872" lat="44.738125" lon="-93.213595013" visible="true"/>
+<node id="-874" lat="44.738124846" lon="-93.210742885" visible="true"/>
+<node id="-875" lat="44.738102971" lon="-93.210743233" visible="true"/>
+<node id="-876" lat="44.738102183" lon="-93.210645767" visible="true"/>
+<node id="-877" lat="44.738022816" lon="-93.210647026" visible="true"/>
+<node id="-878" lat="44.738023588" lon="-93.210742735" visible="true"/>
+<node id="-879" lat="44.738010237" lon="-93.210742949" visible="true"/>
+<node id="-880" lat="44.738011082" lon="-93.210847656" visible="true"/>
+<node id="-881" lat="44.738125682" lon="-93.210845824" visible="true"/>
+<node id="-883" lat="44.738136467" lon="-93.214381346" visible="true"/>
+<node id="-884" lat="44.73810643" lon="-93.214294959" visible="true"/>
+<node id="-885" lat="44.738038579" lon="-93.214344116" visible="true"/>
+<node id="-886" lat="44.738069856" lon="-93.214429096" visible="true"/>
+<node id="-887" lat="44.738027051" lon="-93.214460111" visible="true"/>
+<node id="-888" lat="44.738067037" lon="-93.214568763" visible="true"/>
+<node id="-889" lat="44.738174922" lon="-93.214490557" visible="true"/>
+<node id="-891" lat="44.738172525" lon="-93.210213399" visible="true"/>
+<node id="-892" lat="44.738128897" lon="-93.210215578" visible="true"/>
+<node id="-893" lat="44.738131673" lon="-93.210246907" visible="true"/>
+<node id="-894" lat="44.738173923" lon="-93.21024298" visible="true"/>
+<node id="-896" lat="44.738108877" lon="-93.208516769" visible="true"/>
+<node id="-897" lat="44.738102421" lon="-93.208613067" visible="true"/>
+<node id="-898" lat="44.738181567" lon="-93.20862351" visible="true"/>
+<node id="-899" lat="44.738188023" lon="-93.208527211" visible="true"/>
+<node id="-901" lat="44.738209195" lon="-93.215555493" visible="true"/>
+<node id="-902" lat="44.738176435" lon="-93.215556277" visible="true"/>
+<node id="-903" lat="44.738175772" lon="-93.21550181" visible="true"/>
+<node id="-904" lat="44.738116407" lon="-93.215503228" visible="true"/>
+<node id="-905" lat="44.738117807" lon="-93.215617949" visible="true"/>
+<node id="-906" lat="44.738144144" lon="-93.215617319" visible="true"/>
+<node id="-907" lat="44.738144647" lon="-93.215658582" visible="true"/>
+<node id="-908" lat="44.738210432" lon="-93.215657004" visible="true"/>
+<node id="-910" lat="44.738186842" lon="-93.214565301" visible="true"/>
+<node id="-911" lat="44.738109956" lon="-93.21458991" visible="true"/>
+<node id="-912" lat="44.738150733" lon="-93.21484072" visible="true"/>
+<node id="-913" lat="44.738227623" lon="-93.21481611" visible="true"/>
+<node id="-915" lat="44.738237065" lon="-93.210608013" visible="true"/>
+<node id="-916" lat="44.738206912" lon="-93.210608255" visible="true"/>
+<node id="-917" lat="44.73820714" lon="-93.210663637" visible="true"/>
+<node id="-918" lat="44.738237292" lon="-93.210663393" visible="true"/>
+<node id="-920" lat="44.738224311" lon="-93.209622224" visible="true"/>
+<node id="-921" lat="44.738210002" lon="-93.209642519" visible="true"/>
+<node id="-922" lat="44.738226867" lon="-93.209665928" visible="true"/>
+<node id="-923" lat="44.738241176" lon="-93.209645637" visible="true"/>
+<node id="-925" lat="44.738256939" lon="-93.211497953" visible="true"/>
+<node id="-926" lat="44.738229205" lon="-93.211498389" visible="true"/>
+<node id="-927" lat="44.738229497" lon="-93.211534956" visible="true"/>
+<node id="-928" lat="44.73825723" lon="-93.211534522" visible="true"/>
+<node id="-930" lat="44.738260619" lon="-93.214430439" visible="true"/>
+<node id="-931" lat="44.738231004" lon="-93.214444135" visible="true"/>
+<node id="-932" lat="44.738237952" lon="-93.214466095" visible="true"/>
+<node id="-933" lat="44.738265955" lon="-93.214453143" visible="true"/>
+<node id="-935" lat="44.738207339" lon="-93.208544679" visible="true"/>
+<node id="-936" lat="44.73820135" lon="-93.208638174" visible="true"/>
+<node id="-937" lat="44.738283548" lon="-93.208648541" visible="true"/>
+<node id="-938" lat="44.738289539" lon="-93.208555044" visible="true"/>
+<node id="-940" lat="44.738320648" lon="-93.21199802" visible="true"/>
+<node id="-941" lat="44.738292267" lon="-93.211999091" visible="true"/>
+<node id="-942" lat="44.738292996" lon="-93.212037151" visible="true"/>
+<node id="-943" lat="44.738321377" lon="-93.212036076" visible="true"/>
+<node id="-945" lat="44.737008327" lon="-93.212877407" visible="true"/>
+<node id="-946" lat="44.737009246" lon="-93.21286543" visible="true"/>
+<node id="-947" lat="44.736986984" lon="-93.21286207" visible="true"/>
+<node id="-948" lat="44.736992209" lon="-93.212793935" visible="true"/>
+<node id="-949" lat="44.736941372" lon="-93.212786261" visible="true"/>
+<node id="-950" lat="44.736924712" lon="-93.213003472" visible="true"/>
+<node id="-951" lat="44.736997758" lon="-93.213014501" visible="true"/>
+<node id="-952" lat="44.737000547" lon="-93.212978136" visible="true"/>
+<node id="-953" lat="44.737072611" lon="-93.212989016" visible="true"/>
+<node id="-954" lat="44.737080789" lon="-93.21288835" visible="true"/>
+<node id="-956" lat="44.737069171" lon="-93.214188752" visible="true"/>
+<node id="-957" lat="44.737039025" lon="-93.214216223" visible="true"/>
+<node id="-958" lat="44.73705633" lon="-93.214252988" visible="true"/>
+<node id="-959" lat="44.73708622" lon="-93.21422576" visible="true"/>
+<node id="-961" lat="44.736987696" lon="-93.207944111" visible="true"/>
+<node id="-962" lat="44.736990862" lon="-93.207878185" visible="true"/>
+<node id="-963" lat="44.736955209" lon="-93.207881614" visible="true"/>
+<node id="-964" lat="44.73670116" lon="-93.20788276" visible="true"/>
+<node id="-965" lat="44.736637126" lon="-93.20796336" visible="true"/>
+<node id="-966" lat="44.736634666" lon="-93.208160699" visible="true"/>
+<node id="-967" lat="44.73659473" lon="-93.208163423" visible="true"/>
+<node id="-968" lat="44.73659053" lon="-93.208308512" visible="true"/>
+<node id="-969" lat="44.736637157" lon="-93.208308601" visible="true"/>
+<node id="-970" lat="44.736641433" lon="-93.208816711" visible="true"/>
+<node id="-971" lat="44.736725272" lon="-93.208821019" visible="true"/>
+<node id="-972" lat="44.736725627" lon="-93.209100626" visible="true"/>
+<node id="-973" lat="44.736635949" lon="-93.209103367" visible="true"/>
+<node id="-974" lat="44.736613751" lon="-93.209105091" visible="true"/>
+<node id="-975" lat="44.736605939" lon="-93.209092619" visible="true"/>
+<node id="-976" lat="44.736602143" lon="-93.20834425" visible="true"/>
+<node id="-977" lat="44.736268078" lon="-93.208354172" visible="true"/>
+<node id="-978" lat="44.736272316" lon="-93.209234339" visible="true"/>
+<node id="-979" lat="44.736603678" lon="-93.209224897" visible="true"/>
+<node id="-980" lat="44.73660331" lon="-93.209211785" visible="true"/>
+<node id="-981" lat="44.736731454" lon="-93.209215123" visible="true"/>
+<node id="-982" lat="44.736727445" lon="-93.20925654" visible="true"/>
+<node id="-983" lat="44.736731246" lon="-93.209287412" visible="true"/>
+<node id="-984" lat="44.736774836" lon="-93.209330217" visible="true"/>
+<node id="-985" lat="44.736842722" lon="-93.209344402" visible="true"/>
+<node id="-986" lat="44.736747868" lon="-93.209269334" visible="true"/>
+<node id="-987" lat="44.736747342" lon="-93.209216852" visible="true"/>
+<node id="-988" lat="44.736887905" lon="-93.209209677" visible="true"/>
+<node id="-989" lat="44.736885583" lon="-93.209094107" visible="true"/>
+<node id="-990" lat="44.736782783" lon="-93.209098256" visible="true"/>
+<node id="-991" lat="44.736785073" lon="-93.208822552" visible="true"/>
+<node id="-992" lat="44.73703157" lon="-93.208819867" visible="true"/>
+<node id="-993" lat="44.737138973" lon="-93.208670229" visible="true"/>
+<node id="-994" lat="44.737144628" lon="-93.20794283" visible="true"/>
+<node id="-996" lat="44.737115459" lon="-93.213635686" visible="true"/>
+<node id="-997" lat="44.737124163" lon="-93.213625334" visible="true"/>
+<node id="-998" lat="44.737087372" lon="-93.213564439" visible="true"/>
+<node id="-999" lat="44.737078169" lon="-93.213575384" visible="true"/>
+<node id="-1000" lat="44.737041293" lon="-93.21351435" visible="true"/>
+<node id="-1001" lat="44.736978023" lon="-93.213589604" visible="true"/>
+<node id="-1002" lat="44.737102114" lon="-93.213795053" visible="true"/>
+<node id="-1003" lat="44.737165906" lon="-93.21371921" visible="true"/>
+<node id="-1005" lat="44.737228648" lon="-93.214634119" visible="true"/>
+<node id="-1006" lat="44.737210832" lon="-93.214648342" visible="true"/>
+<node id="-1007" lat="44.737222946" lon="-93.214677901" visible="true"/>
+<node id="-1008" lat="44.73724076" lon="-93.214663439" visible="true"/>
+<node id="-1010" lat="44.737169438" lon="-93.215768535" visible="true"/>
+<node id="-1011" lat="44.737177244" lon="-93.215746977" visible="true"/>
+<node id="-1012" lat="44.737110774" lon="-93.215699607" visible="true"/>
+<node id="-1013" lat="44.737069747" lon="-93.215812918" visible="true"/>
+<node id="-1014" lat="44.737130023" lon="-93.21585588" visible="true"/>
+<node id="-1015" lat="44.737122737" lon="-93.215875999" visible="true"/>
+<node id="-1016" lat="44.737224462" lon="-93.215948497" visible="true"/>
+<node id="-1017" lat="44.73726497" lon="-93.215836622" visible="true"/>
+<node id="-1019" lat="44.737233975" lon="-93.213900567" visible="true"/>
+<node id="-1020" lat="44.737257935" lon="-93.213870295" visible="true"/>
+<node id="-1021" lat="44.737204632" lon="-93.213787243" visible="true"/>
+<node id="-1022" lat="44.737117814" lon="-93.213896932" visible="true"/>
+<node id="-1023" lat="44.737169977" lon="-93.213978206" visible="true"/>
+<node id="-1024" lat="44.737179637" lon="-93.213965999" visible="true"/>
+<node id="-1025" lat="44.737201167" lon="-93.213999551" visible="true"/>
+<node id="-1026" lat="44.737229122" lon="-93.214043102" visible="true"/>
+<node id="-1027" lat="44.737282322" lon="-93.213975895" visible="true"/>
+<node id="-1029" lat="44.737304929" lon="-93.215232817" visible="true"/>
+<node id="-1030" lat="44.737273565" lon="-93.215251135" visible="true"/>
+<node id="-1031" lat="44.737284627" lon="-93.215288419" visible="true"/>
+<node id="-1032" lat="44.737314198" lon="-93.215271147" visible="true"/>
+<node id="-1034" lat="44.738304905" lon="-93.215639789" visible="true"/>
+<node id="-1035" lat="44.738304603" lon="-93.215732248" visible="true"/>
+<node id="-1036" lat="44.738363341" lon="-93.215732626" visible="true"/>
+<node id="-1037" lat="44.738363644" lon="-93.215640168" visible="true"/>
+<node id="-1039" lat="44.738335717" lon="-93.208679682" visible="true"/>
+<node id="-1040" lat="44.738331943" lon="-93.208712202" visible="true"/>
+<node id="-1041" lat="44.738354427" lon="-93.208717337" visible="true"/>
+<node id="-1042" lat="44.738358201" lon="-93.20868482" visible="true"/>
+<node id="-1044" lat="44.738257262" lon="-93.208018116" visible="true"/>
+<node id="-1045" lat="44.738258339" lon="-93.208002871" visible="true"/>
+<node id="-1046" lat="44.73814593" lon="-93.207987237" visible="true"/>
+<node id="-1047" lat="44.738144897" lon="-93.208001872" visible="true"/>
+<node id="-1048" lat="44.738035901" lon="-93.207986719" visible="true"/>
+<node id="-1049" lat="44.738026353" lon="-93.208121889" visible="true"/>
+<node id="-1050" lat="44.738138265" lon="-93.208137448" visible="true"/>
+<node id="-1051" lat="44.738139472" lon="-93.208120342" visible="true"/>
+<node id="-1052" lat="44.738249576" lon="-93.208135632" visible="true"/>
+<node id="-1053" lat="44.738248597" lon="-93.208149513" visible="true"/>
+<node id="-1054" lat="44.738352915" lon="-93.208164005" visible="true"/>
+<node id="-1055" lat="44.738362182" lon="-93.208032715" visible="true"/>
+<node id="-1057" lat="44.738399177" lon="-93.209745681" visible="true"/>
+<node id="-1058" lat="44.738354481" lon="-93.209747686" visible="true"/>
+<node id="-1059" lat="44.738355597" lon="-93.209798912" visible="true"/>
+<node id="-1060" lat="44.738400294" lon="-93.209796906" visible="true"/>
+<node id="-1062" lat="44.738406207" lon="-93.212688505" visible="true"/>
+<node id="-1063" lat="44.738340157" lon="-93.212694103" visible="true"/>
+<node id="-1064" lat="44.738340798" lon="-93.21270902" visible="true"/>
+<node id="-1065" lat="44.73826149" lon="-93.212715737" visible="true"/>
+<node id="-1066" lat="44.738265089" lon="-93.212799402" visible="true"/>
+<node id="-1067" lat="44.738331638" lon="-93.212793774" visible="true"/>
+<node id="-1068" lat="44.73833126" lon="-93.212785" visible="true"/>
+<node id="-1069" lat="44.73834353" lon="-93.212783963" visible="true"/>
+<node id="-1070" lat="44.738345395" lon="-93.21282725" visible="true"/>
+<node id="-1071" lat="44.738411938" lon="-93.212821603" visible="true"/>
+<node id="-1073" lat="44.738400362" lon="-93.21396537" visible="true"/>
+<node id="-1074" lat="44.738336489" lon="-93.214013672" visible="true"/>
+<node id="-1075" lat="44.738358372" lon="-93.214070635" visible="true"/>
+<node id="-1076" lat="44.738422245" lon="-93.214022337" visible="true"/>
+<node id="-1078" lat="44.738428179" lon="-93.214692007" visible="true"/>
+<node id="-1079" lat="44.738394633" lon="-93.214694559" visible="true"/>
+<node id="-1080" lat="44.73839652" lon="-93.214743385" visible="true"/>
+<node id="-1081" lat="44.738430067" lon="-93.214740832" visible="true"/>
+<node id="-1083" lat="44.738400988" lon="-93.215196931" visible="true"/>
+<node id="-1084" lat="44.738400535" lon="-93.21525084" visible="true"/>
+<node id="-1085" lat="44.738430823" lon="-93.215251341" visible="true"/>
+<node id="-1086" lat="44.738431277" lon="-93.215197432" visible="true"/>
+<node id="-1088" lat="44.738408998" lon="-93.215349999" visible="true"/>
+<node id="-1089" lat="44.738408494" lon="-93.215384578" visible="true"/>
+<node id="-1090" lat="44.73843442" lon="-93.215385322" visible="true"/>
+<node id="-1091" lat="44.738434923" lon="-93.215350738" visible="true"/>
+<node id="-1093" lat="44.738440009" lon="-93.214874952" visible="true"/>
+<node id="-1094" lat="44.738418476" lon="-93.214876626" visible="true"/>
+<node id="-1095" lat="44.738420266" lon="-93.214922011" visible="true"/>
+<node id="-1096" lat="44.738441714" lon="-93.214918244" visible="true"/>
+<node id="-1098" lat="44.738406758" lon="-93.20884473" visible="true"/>
+<node id="-1099" lat="44.738387299" lon="-93.208941458" visible="true"/>
+<node id="-1100" lat="44.738434837" lon="-93.208960284" visible="true"/>
+<node id="-1101" lat="44.738454296" lon="-93.208863559" visible="true"/>
+<node id="-1103" lat="44.738431451" lon="-93.208594346" visible="true"/>
+<node id="-1104" lat="44.738427216" lon="-93.208629345" visible="true"/>
+<node id="-1105" lat="44.738460499" lon="-93.208637271" visible="true"/>
+<node id="-1106" lat="44.738464733" lon="-93.208602265" visible="true"/>
+<node id="-1108" lat="44.738516774" lon="-93.213713039" visible="true"/>
+<node id="-1109" lat="44.738494855" lon="-93.213737741" visible="true"/>
+<node id="-1110" lat="44.738518414" lon="-93.213778896" visible="true"/>
+<node id="-1111" lat="44.738540336" lon="-93.213754188" visible="true"/>
+<node id="-1113" lat="44.73849181" lon="-93.210576676" visible="true"/>
+<node id="-1114" lat="44.738488953" lon="-93.210847267" visible="true"/>
+<node id="-1115" lat="44.738565551" lon="-93.210848863" visible="true"/>
+<node id="-1116" lat="44.73856841" lon="-93.210578265" visible="true"/>
+<node id="-1118" lat="44.738568523" lon="-93.21003725" visible="true"/>
+<node id="-1119" lat="44.738555134" lon="-93.210037388" visible="true"/>
+<node id="-1120" lat="44.73855433" lon="-93.209881761" visible="true"/>
+<node id="-1121" lat="44.738476907" lon="-93.20988255" visible="true"/>
+<node id="-1122" lat="44.738477704" lon="-93.210036561" visible="true"/>
+<node id="-1123" lat="44.738454262" lon="-93.210036802" visible="true"/>
+<node id="-1124" lat="44.738454841" lon="-93.210149257" visible="true"/>
+<node id="-1125" lat="44.738569105" lon="-93.210148082" visible="true"/>
+<node id="-1127" lat="44.73848325" lon="-93.209562725" visible="true"/>
+<node id="-1128" lat="44.738477971" lon="-93.209730651" visible="true"/>
+<node id="-1129" lat="44.738487446" lon="-93.209731237" visible="true"/>
+<node id="-1130" lat="44.738485021" lon="-93.20980832" visible="true"/>
+<node id="-1131" lat="44.738566419" lon="-93.209813358" visible="true"/>
+<node id="-1132" lat="44.738567225" lon="-93.209701879" visible="true"/>
+<node id="-1133" lat="44.738568721" lon="-93.209568001" visible="true"/>
+<node id="-1135" lat="44.738615943" lon="-93.212030534" visible="true"/>
+<node id="-1136" lat="44.738602444" lon="-93.212033811" visible="true"/>
+<node id="-1137" lat="44.738591649" lon="-93.211946154" visible="true"/>
+<node id="-1138" lat="44.738583711" lon="-93.211948074" visible="true"/>
+<node id="-1139" lat="44.738574546" lon="-93.211873579" visible="true"/>
+<node id="-1140" lat="44.738487366" lon="-93.211894693" visible="true"/>
+<node id="-1141" lat="44.738518245" lon="-93.212145173" visible="true"/>
+<node id="-1142" lat="44.738607666" lon="-93.212126615" visible="true"/>
+<node id="-1143" lat="44.738627573" lon="-93.212124923" visible="true"/>
+<node id="-1145" lat="44.738513341" lon="-93.209209507" visible="true"/>
+<node id="-1146" lat="44.738471796" lon="-93.209458913" visible="true"/>
+<node id="-1147" lat="44.738562443" lon="-93.209488642" visible="true"/>
+<node id="-1148" lat="44.738586926" lon="-93.209341658" visible="true"/>
+<node id="-1149" lat="44.738608219" lon="-93.209348646" visible="true"/>
+<node id="-1150" lat="44.738625284" lon="-93.209246216" visible="true"/>
+<node id="-1152" lat="44.738641362" lon="-93.208884574" visible="true"/>
+<node id="-1153" lat="44.738622937" lon="-93.208955949" visible="true"/>
+<node id="-1154" lat="44.738614121" lon="-93.20895147" visible="true"/>
+<node id="-1155" lat="44.738572938" lon="-93.209111024" visible="true"/>
+<node id="-1156" lat="44.738648418" lon="-93.209149372" visible="true"/>
+<node id="-1157" lat="44.738681086" lon="-93.20902282" visible="true"/>
+<node id="-1158" lat="44.738691815" lon="-93.209028276" visible="true"/>
+<node id="-1159" lat="44.738718756" lon="-93.2089239" visible="true"/>
+<node id="-1161" lat="44.738704789" lon="-93.212639946" visible="true"/>
+<node id="-1162" lat="44.738632677" lon="-93.212665285" visible="true"/>
+<node id="-1163" lat="44.738645851" lon="-93.212752337" visible="true"/>
+<node id="-1164" lat="44.738671481" lon="-93.212909279" visible="true"/>
+<node id="-1165" lat="44.738748066" lon="-93.212882381" visible="true"/>
+<node id="-1167" lat="44.738695976" lon="-93.208573008" visible="true"/>
+<node id="-1168" lat="44.738681004" lon="-93.208667431" visible="true"/>
+<node id="-1169" lat="44.738657482" lon="-93.20866009" visible="true"/>
+<node id="-1170" lat="44.738647846" lon="-93.208720865" visible="true"/>
+<node id="-1171" lat="44.738610112" lon="-93.208709084" visible="true"/>
+<node id="-1172" lat="44.738603965" lon="-93.208747865" visible="true"/>
+<node id="-1173" lat="44.738640505" lon="-93.208759265" visible="true"/>
+<node id="-1174" lat="44.738638727" lon="-93.208770484" visible="true"/>
+<node id="-1175" lat="44.738750019" lon="-93.208805212" visible="true"/>
+<node id="-1176" lat="44.738766697" lon="-93.208700007" visible="true"/>
+<node id="-1177" lat="44.738754219" lon="-93.208696117" visible="true"/>
+<node id="-1178" lat="44.73877007" lon="-93.208596131" visible="true"/>
+<node id="-1180" lat="44.738782749" lon="-93.208103427" visible="true"/>
+<node id="-1181" lat="44.738780767" lon="-93.208229238" visible="true"/>
+<node id="-1182" lat="44.738841057" lon="-93.208231107" visible="true"/>
+<node id="-1183" lat="44.738843039" lon="-93.2081053" visible="true"/>
+<node id="-1185" lat="44.73886943" lon="-93.213549468" visible="true"/>
+<node id="-1186" lat="44.738824576" lon="-93.213369339" visible="true"/>
+<node id="-1187" lat="44.738726646" lon="-93.213419731" visible="true"/>
+<node id="-1188" lat="44.738746917" lon="-93.213497273" visible="true"/>
+<node id="-1189" lat="44.738765615" lon="-93.213487651" visible="true"/>
+<node id="-1190" lat="44.73879087" lon="-93.213584255" visible="true"/>
+<node id="-1191" lat="44.738728618" lon="-93.213616292" visible="true"/>
+<node id="-1192" lat="44.738748387" lon="-93.213691913" visible="true"/>
+<node id="-1193" lat="44.738819557" lon="-93.213655288" visible="true"/>
+<node id="-1194" lat="44.738885003" lon="-93.213617532" visible="true"/>
+<node id="-1196" lat="44.73739314" lon="-93.211503459" visible="true"/>
+<node id="-1197" lat="44.737353705" lon="-93.211504789" visible="true"/>
+<node id="-1198" lat="44.73735436" lon="-93.211543073" visible="true"/>
+<node id="-1199" lat="44.737393793" lon="-93.211541747" visible="true"/>
+<node id="-1201" lat="44.737432785" lon="-93.211821214" visible="true"/>
+<node id="-1202" lat="44.737391635" lon="-93.211822277" visible="true"/>
+<node id="-1203" lat="44.737392139" lon="-93.211860729" visible="true"/>
+<node id="-1204" lat="44.737433291" lon="-93.211859666" visible="true"/>
+<node id="-1206" lat="44.737420526" lon="-93.213174367" visible="true"/>
+<node id="-1207" lat="44.737428128" lon="-93.213161524" visible="true"/>
+<node id="-1208" lat="44.737362002" lon="-93.213084482" visible="true"/>
+<node id="-1209" lat="44.737291948" lon="-93.213202864" visible="true"/>
+<node id="-1210" lat="44.737354735" lon="-93.213276" visible="true"/>
+<node id="-1211" lat="44.737367189" lon="-93.213254957" visible="true"/>
+<node id="-1212" lat="44.737424498" lon="-93.213321722" visible="true"/>
+<node id="-1213" lat="44.737474496" lon="-93.213237249" visible="true"/>
+<node id="-1215" lat="44.737538386" lon="-93.214371422" visible="true"/>
+<node id="-1216" lat="44.737556394" lon="-93.214349368" visible="true"/>
+<node id="-1217" lat="44.73750446" lon="-93.214265899" visible="true"/>
+<node id="-1218" lat="44.737416494" lon="-93.214373643" visible="true"/>
+<node id="-1219" lat="44.737468114" lon="-93.214456599" visible="true"/>
+<node id="-1220" lat="44.737482252" lon="-93.214439289" visible="true"/>
+<node id="-1221" lat="44.73752606" lon="-93.214509698" visible="true"/>
+<node id="-1222" lat="44.737581882" lon="-93.214441331" visible="true"/>
+<node id="-1224" lat="44.737577511" lon="-93.209696738" visible="true"/>
+<node id="-1225" lat="44.737564511" lon="-93.209705689" visible="true"/>
+<node id="-1226" lat="44.737534117" lon="-93.2096188" visible="true"/>
+<node id="-1227" lat="44.737462616" lon="-93.209668032" visible="true"/>
+<node id="-1228" lat="44.7374927" lon="-93.209754038" visible="true"/>
+<node id="-1229" lat="44.737474982" lon="-93.209766239" visible="true"/>
+<node id="-1230" lat="44.737509492" lon="-93.209864892" visible="true"/>
+<node id="-1231" lat="44.737611711" lon="-93.209794516" visible="true"/>
+<node id="-1233" lat="44.737633205" lon="-93.213128077" visible="true"/>
+<node id="-1234" lat="44.737605375" lon="-93.213163301" visible="true"/>
+<node id="-1235" lat="44.737619932" lon="-93.21318594" visible="true"/>
+<node id="-1236" lat="44.737647687" lon="-93.213150816" visible="true"/>
+<node id="-1238" lat="44.737689871" lon="-93.210341167" visible="true"/>
+<node id="-1239" lat="44.737686981" lon="-93.210260807" visible="true"/>
+<node id="-1240" lat="44.737611179" lon="-93.210261972" visible="true"/>
+<node id="-1241" lat="44.737613342" lon="-93.210534615" visible="true"/>
+<node id="-1242" lat="44.737691396" lon="-93.210533395" visible="true"/>
+<node id="-1244" lat="44.737692172" lon="-93.211423571" visible="true"/>
+<node id="-1245" lat="44.737677705" lon="-93.211423892" visible="true"/>
+<node id="-1246" lat="44.737676689" lon="-93.211334338" visible="true"/>
+<node id="-1247" lat="44.737667582" lon="-93.211334543" visible="true"/>
+<node id="-1248" lat="44.737666696" lon="-93.211257076" visible="true"/>
+<node id="-1249" lat="44.737579589" lon="-93.211259035" visible="true"/>
+<node id="-1250" lat="44.737582493" lon="-93.211516993" visible="true"/>
+<node id="-1251" lat="44.737693197" lon="-93.211514537" visible="true"/>
+<node id="-1253" lat="44.737616947" lon="-93.208066895" visible="true"/>
+<node id="-1254" lat="44.737609683" lon="-93.208164142" visible="true"/>
+<node id="-1255" lat="44.737697909" lon="-93.208177111" visible="true"/>
+<node id="-1256" lat="44.737705174" lon="-93.208079868" visible="true"/>
+<node id="-1258" lat="44.737697913" lon="-93.213656764" visible="true"/>
+<node id="-1259" lat="44.73768157" lon="-93.213676301" visible="true"/>
+<node id="-1260" lat="44.737637391" lon="-93.21360356" visible="true"/>
+<node id="-1261" lat="44.737583" lon="-93.213668585" visible="true"/>
+<node id="-1262" lat="44.737626747" lon="-93.213740611" visible="true"/>
+<node id="-1263" lat="44.737611585" lon="-93.213758736" visible="true"/>
+<node id="-1264" lat="44.737665952" lon="-93.213848254" visible="true"/>
+<node id="-1265" lat="44.737751846" lon="-93.213745569" visible="true"/>
+<node id="-1267" lat="44.737664299" lon="-93.215861687" visible="true"/>
+<node id="-1268" lat="44.737664312" lon="-93.215838987" visible="true"/>
+<node id="-1269" lat="44.73756903" lon="-93.215838888" visible="true"/>
+<node id="-1270" lat="44.737568939" lon="-93.216003676" visible="true"/>
+<node id="-1271" lat="44.737678785" lon="-93.216003793" visible="true"/>
+<node id="-1272" lat="44.737678797" lon="-93.215980017" visible="true"/>
+<node id="-1273" lat="44.737787856" lon="-93.21598012" visible="true"/>
+<node id="-1274" lat="44.737787916" lon="-93.21586181" visible="true"/>
+<node id="-1276" lat="44.737774675" lon="-93.214823678" visible="true"/>
+<node id="-1277" lat="44.737658237" lon="-93.214852631" visible="true"/>
+<node id="-1278" lat="44.737671854" lon="-93.214960434" visible="true"/>
+<node id="-1279" lat="44.737689069" lon="-93.214956151" visible="true"/>
+<node id="-1280" lat="44.737702352" lon="-93.215061272" visible="true"/>
+<node id="-1281" lat="44.73777348" lon="-93.215043581" visible="true"/>
+<node id="-1282" lat="44.737760051" lon="-93.214937294" visible="true"/>
+<node id="-1283" lat="44.737788146" lon="-93.214930308" visible="true"/>
+<node id="-1285" lat="44.737699761" lon="-93.215110617" visible="true"/>
+<node id="-1286" lat="44.737698553" lon="-93.215304586" visible="true"/>
+<node id="-1287" lat="44.737663921" lon="-93.215304161" visible="true"/>
+<node id="-1288" lat="44.737663498" lon="-93.215372372" visible="true"/>
+<node id="-1289" lat="44.737792638" lon="-93.215373954" visible="true"/>
+<node id="-1290" lat="44.73779427" lon="-93.215111777" visible="true"/>
+<node id="-1292" lat="44.737725568" lon="-93.208097261" visible="true"/>
+<node id="-1293" lat="44.737718966" lon="-93.208194615" visible="true"/>
+<node id="-1294" lat="44.737806878" lon="-93.208206352" visible="true"/>
+<node id="-1295" lat="44.737813481" lon="-93.208109" visible="true"/>
+<node id="-1297" lat="44.737744076" lon="-93.208464291" visible="true"/>
+<node id="-1298" lat="44.737737237" lon="-93.208557846" visible="true"/>
+<node id="-1299" lat="44.73781551" lon="-93.208569106" visible="true"/>
+<node id="-1300" lat="44.73782235" lon="-93.208475559" visible="true"/>
+<node id="-1302" lat="44.737842638" lon="-93.213808851" visible="true"/>
+<node id="-1303" lat="44.737786908" lon="-93.213875541" visible="true"/>
+<node id="-1304" lat="44.737771537" lon="-93.213850259" visible="true"/>
+<node id="-1305" lat="44.737714934" lon="-93.213918004" visible="true"/>
+<node id="-1306" lat="44.737777912" lon="-93.214021592" visible="true"/>
+<node id="-1307" lat="44.737825674" lon="-93.213964425" visible="true"/>
+<node id="-1308" lat="44.737852879" lon="-93.214009169" visible="true"/>
+<node id="-1309" lat="44.737917444" lon="-93.213931896" visible="true"/>
+<node id="-1311" lat="44.737821509" lon="-93.20859283" visible="true"/>
+<node id="-1312" lat="44.737820318" lon="-93.20860897" visible="true"/>
+<node id="-1313" lat="44.737724162" lon="-93.208594993" visible="true"/>
+<node id="-1314" lat="44.737725479" lon="-93.208577128" visible="true"/>
+<node id="-1315" lat="44.737620357" lon="-93.208561851" visible="true"/>
+<node id="-1316" lat="44.737610756" lon="-93.20869188" visible="true"/>
+<node id="-1317" lat="44.737720333" lon="-93.208707802" visible="true"/>
+<node id="-1318" lat="44.737719176" lon="-93.208723469" visible="true"/>
+<node id="-1319" lat="44.737815763" lon="-93.208737498" visible="true"/>
+<node id="-1320" lat="44.737816903" lon="-93.208722061" visible="true"/>
+<node id="-1321" lat="44.737916779" lon="-93.208736583" visible="true"/>
+<node id="-1322" lat="44.737926271" lon="-93.208608078" visible="true"/>
+<node id="-1324" lat="44.73784289" lon="-93.208463668" visible="true"/>
+<node id="-1325" lat="44.737836279" lon="-93.20855805" visible="true"/>
+<node id="-1326" lat="44.7379205" lon="-93.208569664" visible="true"/>
+<node id="-1327" lat="44.73792711" lon="-93.208475283" visible="true"/>
+<node id="-1329" lat="44.737792428" lon="-93.216990074" visible="true"/>
+<node id="-1330" lat="44.737792696" lon="-93.216951592" visible="true"/>
+<node id="-1331" lat="44.737781979" lon="-93.21695113" visible="true"/>
+<node id="-1332" lat="44.737782234" lon="-93.216897738" visible="true"/>
+<node id="-1333" lat="44.737710064" lon="-93.216896661" visible="true"/>
+<node id="-1334" lat="44.737709844" lon="-93.216935623" visible="true"/>
+<node id="-1335" lat="44.737693943" lon="-93.216935169" visible="true"/>
+<node id="-1336" lat="44.737693212" lon="-93.217031129" visible="true"/>
+<node id="-1337" lat="44.737707439" lon="-93.217031104" visible="true"/>
+<node id="-1338" lat="44.737707454" lon="-93.21704794" visible="true"/>
+<node id="-1339" lat="44.737700898" lon="-93.217047951" visible="true"/>
+<node id="-1340" lat="44.737699645" lon="-93.217183359" visible="true"/>
+<node id="-1341" lat="44.737716101" lon="-93.217183331" visible="true"/>
+<node id="-1342" lat="44.737715597" lon="-93.217242735" visible="true"/>
+<node id="-1343" lat="44.737933645" lon="-93.217246209" visible="true"/>
+<node id="-1344" lat="44.737935607" lon="-93.216992232" visible="true"/>
+<node id="-1346" lat="44.738888416" lon="-93.210232662" visible="true"/>
+<node id="-1347" lat="44.738888372" lon="-93.210318068" visible="true"/>
+<node id="-1348" lat="44.738905541" lon="-93.210318087" visible="true"/>
+<node id="-1349" lat="44.738905494" lon="-93.210404802" visible="true"/>
+<node id="-1350" lat="44.738913465" lon="-93.210404806" visible="true"/>
+<node id="-1351" lat="44.738913419" lon="-93.210486183" visible="true"/>
+<node id="-1352" lat="44.738999991" lon="-93.210486278" visible="true"/>
+<node id="-1353" lat="44.739000119" lon="-93.210232774" visible="true"/>
+<node id="-1355" lat="44.738970904" lon="-93.213823518" visible="true"/>
+<node id="-1356" lat="44.738915452" lon="-93.213711143" visible="true"/>
+<node id="-1357" lat="44.738846409" lon="-93.213774128" visible="true"/>
+<node id="-1358" lat="44.738912936" lon="-93.213917681" visible="true"/>
+<node id="-1359" lat="44.738920883" lon="-93.213910436" visible="true"/>
+<node id="-1360" lat="44.73895051" lon="-93.213974376" visible="true"/>
+<node id="-1361" lat="44.739016353" lon="-93.21391432" visible="true"/>
+<node id="-1363" lat="44.739022323" lon="-93.211265112" visible="true"/>
+<node id="-1364" lat="44.73889936" lon="-93.211270712" visible="true"/>
+<node id="-1365" lat="44.738905157" lon="-93.211521407" visible="true"/>
+<node id="-1366" lat="44.738983372" lon="-93.211517849" visible="true"/>
+<node id="-1367" lat="44.73897997" lon="-93.211370863" visible="true"/>
+<node id="-1368" lat="44.739024726" lon="-93.211368827" visible="true"/>
+<node id="-1370" lat="44.738994215" lon="-93.209172737" visible="true"/>
+<node id="-1371" lat="44.738970214" lon="-93.209322489" visible="true"/>
+<node id="-1372" lat="44.738949654" lon="-93.209316006" visible="true"/>
+<node id="-1373" lat="44.738933725" lon="-93.209415437" visible="true"/>
+<node id="-1374" lat="44.739046971" lon="-93.209451153" visible="true"/>
+<node id="-1375" lat="44.739086907" lon="-93.209201978" visible="true"/>
+<node id="-1377" lat="44.73908473" lon="-93.208863982" visible="true"/>
+<node id="-1378" lat="44.739059231" lon="-93.208971211" visible="true"/>
+<node id="-1379" lat="44.739028654" lon="-93.209099748" visible="true"/>
+<node id="-1380" lat="44.739107639" lon="-93.209136736" visible="true"/>
+<node id="-1381" lat="44.739146032" lon="-93.208975318" visible="true"/>
+<node id="-1382" lat="44.739137696" lon="-93.208971418" visible="true"/>
+<node id="-1383" lat="44.73915538" lon="-93.208897053" visible="true"/>
+<node id="-1385" lat="44.737973171" lon="-93.209418797" visible="true"/>
+<node id="-1386" lat="44.737951773" lon="-93.209435284" visible="true"/>
+<node id="-1387" lat="44.737915672" lon="-93.20934305" visible="true"/>
+<node id="-1388" lat="44.737936935" lon="-93.209326668" visible="true"/>
+<node id="-1389" lat="44.737909764" lon="-93.209257249" visible="true"/>
+<node id="-1390" lat="44.737899869" lon="-93.209264875" visible="true"/>
+<node id="-1391" lat="44.737873434" lon="-93.209197329" visible="true"/>
+<node id="-1392" lat="44.737850401" lon="-93.209215072" visible="true"/>
+<node id="-1393" lat="44.737813594" lon="-93.209121016" visible="true"/>
+<node id="-1394" lat="44.737836939" lon="-93.209103029" visible="true"/>
+<node id="-1395" lat="44.73781015" lon="-93.209034583" visible="true"/>
+<node id="-1396" lat="44.73772741" lon="-93.209098333" visible="true"/>
+<node id="-1397" lat="44.73781797" lon="-93.20932969" visible="true"/>
+<node id="-1398" lat="44.737828392" lon="-93.209321654" visible="true"/>
+<node id="-1399" lat="44.737917681" lon="-93.209549773" visible="true"/>
+<node id="-1400" lat="44.737999701" lon="-93.209486578" visible="true"/>
+<node id="-1402" lat="44.738003783" lon="-93.213461495" visible="true"/>
+<node id="-1403" lat="44.737982975" lon="-93.213481014" visible="true"/>
+<node id="-1404" lat="44.737998647" lon="-93.213513453" visible="true"/>
+<node id="-1405" lat="44.738019456" lon="-93.213493214" visible="true"/>
+<node id="-1407" lat="44.737974985" lon="-93.214141546" visible="true"/>
+<node id="-1408" lat="44.737989335" lon="-93.214123919" visible="true"/>
+<node id="-1409" lat="44.737933625" lon="-93.214034627" visible="true"/>
+<node id="-1410" lat="44.737846015" lon="-93.214142224" visible="true"/>
+<node id="-1411" lat="44.737901237" lon="-93.214230737" visible="true"/>
+<node id="-1412" lat="44.737915944" lon="-93.214212671" visible="true"/>
+<node id="-1413" lat="44.737965658" lon="-93.214292349" visible="true"/>
+<node id="-1414" lat="44.738024209" lon="-93.214220445" visible="true"/>
+<node id="-1416" lat="44.738004509" lon="-93.208520544" visible="true"/>
+<node id="-1417" lat="44.73799901" lon="-93.208613356" visible="true"/>
+<node id="-1418" lat="44.738081995" lon="-93.208623038" visible="true"/>
+<node id="-1419" lat="44.738087494" lon="-93.208530223" visible="true"/>
+<node id="-1421" lat="44.738087661" lon="-93.210313068" visible="true"/>
+<node id="-1422" lat="44.738013767" lon="-93.210314885" visible="true"/>
+<node id="-1423" lat="44.738016874" lon="-93.210563237" visible="true"/>
+<node id="-1424" lat="44.73809077" lon="-93.210561418" visible="true"/>
+<node id="-1426" lat="44.738037508" lon="-93.211913284" visible="true"/>
+<node id="-1427" lat="44.738037473" lon="-93.211994597" visible="true"/>
+<node id="-1428" lat="44.738029047" lon="-93.211994589" visible="true"/>
+<node id="-1429" lat="44.738029007" lon="-93.212079313" visible="true"/>
+<node id="-1430" lat="44.7380129" lon="-93.212079299" visible="true"/>
+<node id="-1431" lat="44.738012859" lon="-93.212173489" visible="true"/>
+<node id="-1432" lat="44.738034803" lon="-93.212170456" visible="true"/>
+<node id="-1433" lat="44.738124315" lon="-93.21216749" visible="true"/>
+<node id="-1434" lat="44.738124426" lon="-93.211913358" visible="true"/>
+<node id="-1436" lat="44.738038312" lon="-93.208157861" visible="true"/>
+<node id="-1437" lat="44.738031175" lon="-93.208255425" visible="true"/>
+<node id="-1438" lat="44.738119484" lon="-93.208268142" visible="true"/>
+<node id="-1439" lat="44.73812662" lon="-93.208170576" visible="true"/>
+<node id="-1441" lat="44.738098399" lon="-93.209962833" visible="true"/>
+<node id="-1442" lat="44.738020014" lon="-93.209977161" visible="true"/>
+<node id="-1443" lat="44.737987703" lon="-93.209980995" visible="true"/>
+<node id="-1444" lat="44.737998396" lon="-93.210073222" visible="true"/>
+<node id="-1445" lat="44.738012753" lon="-93.210069944" visible="true"/>
+<node id="-1446" lat="44.738023094" lon="-93.2101591" visible="true"/>
+<node id="-1447" lat="44.738031027" lon="-93.210157285" visible="true"/>
+<node id="-1448" lat="44.738039964" lon="-93.210234315" visible="true"/>
+<node id="-1450" lat="44.738139868" lon="-93.2116788" visible="true"/>
+<node id="-1451" lat="44.738127762" lon="-93.211678983" visible="true"/>
+<node id="-1452" lat="44.738127074" lon="-93.211589636" visible="true"/>
+<node id="-1453" lat="44.738012386" lon="-93.211591374" visible="true"/>
+<node id="-1454" lat="44.738013127" lon="-93.211687875" visible="true"/>
+<node id="-1455" lat="44.738033795" lon="-93.211687558" visible="true"/>
+<node id="-1456" lat="44.738034983" lon="-93.211842422" visible="true"/>
+<node id="-1457" lat="44.738129095" lon="-93.211841005" visible="true"/>
+<node id="-1458" lat="44.738128413" lon="-93.211752154" visible="true"/>
+<node id="-1459" lat="44.738140434" lon="-93.21175197" visible="true"/>
+<node id="-1461" lat="44.738112632" lon="-93.215186411" visible="true"/>
+<node id="-1462" lat="44.738111454" lon="-93.215420545" visible="true"/>
+<node id="-1463" lat="44.73818846" lon="-93.215421309" visible="true"/>
+<node id="-1464" lat="44.738189634" lon="-93.215187176" visible="true"/>
+<node id="-1466" lat="44.738209688" lon="-93.212729986" visible="true"/>
+<node id="-1467" lat="44.738033466" lon="-93.21273341" visible="true"/>
+<node id="-1468" lat="44.738034592" lon="-93.212847562" visible="true"/>
+<node id="-1469" lat="44.738150463" lon="-93.212848174" visible="true"/>
+<node id="-1470" lat="44.738210872" lon="-93.212849899" visible="true"/>
+<node id="-1472" lat="44.738148434" lon="-93.208156586" visible="true"/>
+<node id="-1473" lat="44.738142046" lon="-93.208254828" visible="true"/>
+<node id="-1474" lat="44.738230484" lon="-93.208266145" visible="true"/>
+<node id="-1475" lat="44.738236872" lon="-93.208167904" visible="true"/>
+<node id="-1477" lat="44.738244685" lon="-93.215786056" visible="true"/>
+<node id="-1478" lat="44.738165982" lon="-93.215786604" visible="true"/>
+<node id="-1479" lat="44.738166348" lon="-93.215889903" visible="true"/>
+<node id="-1480" lat="44.738112341" lon="-93.215890282" visible="true"/>
+<node id="-1481" lat="44.738112764" lon="-93.21600919" visible="true"/>
+<node id="-1482" lat="44.73824547" lon="-93.216008271" visible="true"/>
+<node id="-1484" lat="44.738248139" lon="-93.214937532" visible="true"/>
+<node id="-1485" lat="44.73817079" lon="-93.214941515" visible="true"/>
+<node id="-1486" lat="44.738172473" lon="-93.215005726" visible="true"/>
+<node id="-1487" lat="44.738141493" lon="-93.215006984" visible="true"/>
+<node id="-1488" lat="44.738142069" lon="-93.215029591" visible="true"/>
+<node id="-1489" lat="44.738117085" lon="-93.215030836" visible="true"/>
+<node id="-1490" lat="44.738119394" lon="-93.215119338" visible="true"/>
+<node id="-1491" lat="44.738252667" lon="-93.215112851" visible="true"/>
+<node id="-1493" lat="44.738258197" lon="-93.210235096" visible="true"/>
+<node id="-1494" lat="44.738235321" lon="-93.210236759" visible="true"/>
+<node id="-1495" lat="44.738237049" lon="-93.210283574" visible="true"/>
+<node id="-1496" lat="44.738259925" lon="-93.210281913" visible="true"/>
+<node id="-1498" lat="44.738285389" lon="-93.211882092" visible="true"/>
+<node id="-1499" lat="44.738257251" lon="-93.211882394" visible="true"/>
+<node id="-1500" lat="44.73825744" lon="-93.211917423" visible="true"/>
+<node id="-1501" lat="44.738285577" lon="-93.211917126" visible="true"/>
+<node id="-1503" lat="44.738190439" lon="-93.208672172" visible="true"/>
+<node id="-1504" lat="44.738191318" lon="-93.208658433" visible="true"/>
+<node id="-1505" lat="44.738090337" lon="-93.208645722" visible="true"/>
+<node id="-1506" lat="44.738089413" lon="-93.208660165" visible="true"/>
+<node id="-1507" lat="44.73798555" lon="-93.208647079" visible="true"/>
+<node id="-1508" lat="44.737977004" lon="-93.208780596" visible="true"/>
+<node id="-1509" lat="44.738083322" lon="-93.208793966" visible="true"/>
+<node id="-1510" lat="44.738084168" lon="-93.20878074" visible="true"/>
+<node id="-1511" lat="44.738183562" lon="-93.208793254" visible="true"/>
+<node id="-1512" lat="44.7381828" lon="-93.20880516" visible="true"/>
+<node id="-1513" lat="44.738283044" lon="-93.208817792" visible="true"/>
+<node id="-1514" lat="44.738291551" lon="-93.20868491" visible="true"/>
+<node id="-1516" lat="44.738254594" lon="-93.208185987" visible="true"/>
+<node id="-1517" lat="44.738247967" lon="-93.208281633" visible="true"/>
+<node id="-1518" lat="44.738338961" lon="-93.208294046" visible="true"/>
+<node id="-1519" lat="44.738345587" lon="-93.208198397" visible="true"/>
+<node id="-1521" lat="44.738352079" lon="-93.211780602" visible="true"/>
+<node id="-1522" lat="44.738318772" lon="-93.211782263" visible="true"/>
+<node id="-1523" lat="44.73831978" lon="-93.211822055" visible="true"/>
+<node id="-1524" lat="44.738353084" lon="-93.211820398" visible="true"/>
+<node id="-1526" lat="44.738367849" lon="-93.216803925" visible="true"/>
+<node id="-1527" lat="44.738286046" lon="-93.216809438" visible="true"/>
+<node id="-1528" lat="44.738282337" lon="-93.216701109" visible="true"/>
+<node id="-1529" lat="44.738256456" lon="-93.216702855" visible="true"/>
+<node id="-1530" lat="44.738259481" lon="-93.216791225" visible="true"/>
+<node id="-1531" lat="44.738181979" lon="-93.21679645" visible="true"/>
+<node id="-1532" lat="44.738188332" lon="-93.216982002" visible="true"/>
+<node id="-1533" lat="44.7382336" lon="-93.21697895" visible="true"/>
+<node id="-1534" lat="44.738247242" lon="-93.21702286" visible="true"/>
+<node id="-1535" lat="44.738298101" lon="-93.217023404" visible="true"/>
+<node id="-1536" lat="44.738321789" lon="-93.216990335" visible="true"/>
+<node id="-1537" lat="44.738323292" lon="-93.21694717" visible="true"/>
+<node id="-1538" lat="44.73837264" lon="-93.216943847" visible="true"/>
+<node id="-1540" lat="44.738418441" lon="-93.215758683" visible="true"/>
+<node id="-1541" lat="44.738390982" lon="-93.215759715" visible="true"/>
+<node id="-1542" lat="44.738391461" lon="-93.215804904" visible="true"/>
+<node id="-1543" lat="44.738418926" lon="-93.215804332" visible="true"/>
+<node id="-1545" lat="44.738429705" lon="-93.208272592" visible="true"/>
+<node id="-1546" lat="44.738429596" lon="-93.208345288" visible="true"/>
+<node id="-1547" lat="44.738541933" lon="-93.208345621" visible="true"/>
+<node id="-1548" lat="44.738542042" lon="-93.208272926" visible="true"/>
+<node id="-1550" lat="44.738567273" lon="-93.211370751" visible="true"/>
+<node id="-1551" lat="44.73854882" lon="-93.211371022" visible="true"/>
+<node id="-1552" lat="44.738548248" lon="-93.211294717" visible="true"/>
+<node id="-1553" lat="44.738479124" lon="-93.211295741" visible="true"/>
+<node id="-1554" lat="44.738479709" lon="-93.211373683" visible="true"/>
+<node id="-1555" lat="44.738457708" lon="-93.211374004" visible="true"/>
+<node id="-1556" lat="44.738458466" lon="-93.211474492" visible="true"/>
+<node id="-1557" lat="44.738568036" lon="-93.211472885" visible="true"/>
+<node id="-1559" lat="44.738566456" lon="-93.210938153" visible="true"/>
+<node id="-1560" lat="44.738478517" lon="-93.210939387" visible="true"/>
+<node id="-1561" lat="44.738480223" lon="-93.211178501" visible="true"/>
+<node id="-1562" lat="44.738568161" lon="-93.211177269" visible="true"/>
+<node id="-1564" lat="44.738567609" lon="-93.210395704" visible="true"/>
+<node id="-1565" lat="44.738546834" lon="-93.210395887" visible="true"/>
+<node id="-1566" lat="44.738546133" lon="-93.210240686" visible="true"/>
+<node id="-1567" lat="44.738452672" lon="-93.210241516" visible="true"/>
+<node id="-1568" lat="44.738453893" lon="-93.210497571" visible="true"/>
+<node id="-1569" lat="44.738541998" lon="-93.210499418" visible="true"/>
+<node id="-1570" lat="44.73856809" lon="-93.210501861" visible="true"/>
+<node id="-1572" lat="44.738552965" lon="-93.208134018" visible="true"/>
+<node id="-1573" lat="44.738552266" lon="-93.208156293" visible="true"/>
+<node id="-1574" lat="44.738584081" lon="-93.208158261" visible="true"/>
+<node id="-1575" lat="44.73858478" lon="-93.208135992" visible="true"/>
+<node id="-1577" lat="44.738585423" lon="-93.211676978" visible="true"/>
+<node id="-1578" lat="44.738578156" lon="-93.211677979" visible="true"/>
+<node id="-1579" lat="44.738568749" lon="-93.211543678" visible="true"/>
+<node id="-1580" lat="44.738486691" lon="-93.211554994" visible="true"/>
+<node id="-1581" lat="44.738498406" lon="-93.211722207" visible="true"/>
+<node id="-1582" lat="44.738506228" lon="-93.211721128" visible="true"/>
+<node id="-1583" lat="44.738511652" lon="-93.211798484" visible="true"/>
+<node id="-1584" lat="44.738593144" lon="-93.211787228" visible="true"/>
+<node id="-1586" lat="44.738706002" lon="-93.207849289" visible="true"/>
+<node id="-1587" lat="44.73863144" lon="-93.207850539" visible="true"/>
+<node id="-1588" lat="44.73863201" lon="-93.207917655" visible="true"/>
+<node id="-1589" lat="44.738612072" lon="-93.207917985" visible="true"/>
+<node id="-1590" lat="44.738612684" lon="-93.207990226" visible="true"/>
+<node id="-1591" lat="44.738695013" lon="-93.207988848" visible="true"/>
+<node id="-1592" lat="44.738694427" lon="-93.207919701" visible="true"/>
+<node id="-1593" lat="44.738706598" lon="-93.207919498" visible="true"/>
+<node id="-1595" lat="44.738646041" lon="-93.208299695" visible="true"/>
+<node id="-1596" lat="44.738643608" lon="-93.208380506" visible="true"/>
+<node id="-1597" lat="44.738763734" lon="-93.208387628" visible="true"/>
+<node id="-1598" lat="44.738766168" lon="-93.208306821" visible="true"/>
+<node id="-1600" lat="44.73879928" lon="-93.213156585" visible="true"/>
+<node id="-1601" lat="44.738778255" lon="-93.213163631" visible="true"/>
+<node id="-1602" lat="44.738752415" lon="-93.213011825" visible="true"/>
+<node id="-1603" lat="44.738662009" lon="-93.213042114" visible="true"/>
+<node id="-1604" lat="44.738704559" lon="-93.213292043" visible="true"/>
+<node id="-1605" lat="44.738815984" lon="-93.213254704" visible="true"/>
+<node id="-1607" lat="44.738833268" lon="-93.207936604" visible="true"/>
+<node id="-1608" lat="44.738783661" lon="-93.207937625" visible="true"/>
+<node id="-1609" lat="44.738784184" lon="-93.207987626" visible="true"/>
+<node id="-1610" lat="44.73883379" lon="-93.20798661" visible="true"/>
+<node id="-1612" lat="44.738966507" lon="-93.210643047" visible="true"/>
+<node id="-1613" lat="44.738966627" lon="-93.210564464" visible="true"/>
+<node id="-1614" lat="44.738888234" lon="-93.210564231" visible="true"/>
+<node id="-1615" lat="44.738888055" lon="-93.210681627" visible="true"/>
+<node id="-1616" lat="44.738894797" lon="-93.210681645" visible="true"/>
+<node id="-1617" lat="44.73889461" lon="-93.21081548" visible="true"/>
+<node id="-1618" lat="44.738978239" lon="-93.210815713" visible="true"/>
+<node id="-1619" lat="44.738978496" lon="-93.21064308" visible="true"/>
+<node id="-1621" lat="44.738998696" lon="-93.210024059" visible="true"/>
+<node id="-1622" lat="44.738978601" lon="-93.210024585" visible="true"/>
+<node id="-1623" lat="44.738977275" lon="-93.209924913" visible="true"/>
+<node id="-1624" lat="44.738900613" lon="-93.209926916" visible="true"/>
+<node id="-1625" lat="44.738901902" lon="-93.210023765" visible="true"/>
+<node id="-1626" lat="44.738886602" lon="-93.21002417" visible="true"/>
+<node id="-1627" lat="44.738887986" lon="-93.21012769" visible="true"/>
+<node id="-1628" lat="44.73900003" lon="-93.210124772" visible="true"/>
+<node id="-1630" lat="44.739011613" lon="-93.216567334" visible="true"/>
+<node id="-1631" lat="44.738988746" lon="-93.216569643" visible="true"/>
+<node id="-1632" lat="44.738985109" lon="-93.216550452" visible="true"/>
+<node id="-1633" lat="44.738936229" lon="-93.216551699" visible="true"/>
+<node id="-1634" lat="44.73893572" lon="-93.216596218" visible="true"/>
+<node id="-1635" lat="44.738922816" lon="-93.216597407" visible="true"/>
+<node id="-1636" lat="44.73892319" lon="-93.216632728" visible="true"/>
+<node id="-1637" lat="44.738890345" lon="-93.216634789" visible="true"/>
+<node id="-1638" lat="44.738857457" lon="-93.217033107" visible="true"/>
+<node id="-1639" lat="44.73887697" lon="-93.21703266" visible="true"/>
+<node id="-1640" lat="44.738878227" lon="-93.217140649" visible="true"/>
+<node id="-1641" lat="44.738979012" lon="-93.217138337" visible="true"/>
+<node id="-1642" lat="44.738977818" lon="-93.217035904" visible="true"/>
+<node id="-1643" lat="44.739017062" lon="-93.217035007" visible="true"/>
+<node id="-1645" lat="44.738991998" lon="-93.211610523" visible="true"/>
+<node id="-1646" lat="44.73890512" lon="-93.211625757" visible="true"/>
+<node id="-1647" lat="44.73892629" lon="-93.211863408" visible="true"/>
+<node id="-1648" lat="44.739013167" lon="-93.211848174" visible="true"/>
+<node id="-1650" lat="44.739013558" lon="-93.211938666" visible="true"/>
+<node id="-1651" lat="44.738936898" lon="-93.211961096" visible="true"/>
+<node id="-1652" lat="44.738973822" lon="-93.212209526" visible="true"/>
+<node id="-1653" lat="44.739050483" lon="-93.212187098" visible="true"/>
+<node id="-1655" lat="44.739102433" lon="-93.212328113" visible="true"/>
+<node id="-1656" lat="44.738991542" lon="-93.212364012" visible="true"/>
+<node id="-1657" lat="44.739009325" lon="-93.212472152" visible="true"/>
+<node id="-1658" lat="44.739022333" lon="-93.21246794" visible="true"/>
+<node id="-1659" lat="44.739038082" lon="-93.21256372" visible="true"/>
+<node id="-1660" lat="44.739115395" lon="-93.212538696" visible="true"/>
+<node id="-1661" lat="44.739099468" lon="-93.212441839" visible="true"/>
+<node id="-1662" lat="44.739120043" lon="-93.212435181" visible="true"/>
+<node id="-1664" lat="44.739124114" lon="-93.210585688" visible="true"/>
+<node id="-1665" lat="44.739123735" lon="-93.210630177" visible="true"/>
+<node id="-1666" lat="44.739162068" lon="-93.210630819" visible="true"/>
+<node id="-1667" lat="44.739162447" lon="-93.210586326" visible="true"/>
+<node id="-1669" lat="44.734829015" lon="-93.216806489" visible="true"/>
+<node id="-1670" lat="44.73469424" lon="-93.216809703" visible="true"/>
+<node id="-1671" lat="44.734675183" lon="-93.216732328" visible="true"/>
+<node id="-1672" lat="44.734443581" lon="-93.216851425" visible="true"/>
+<node id="-1673" lat="44.73444623" lon="-93.217071087" visible="true"/>
+<node id="-1674" lat="44.734577796" lon="-93.217067964" visible="true"/>
+<node id="-1675" lat="44.734578385" lon="-93.217116655" visible="true"/>
+<node id="-1676" lat="44.734642143" lon="-93.217115137" visible="true"/>
+<node id="-1677" lat="44.734641599" lon="-93.217070271" visible="true"/>
+<node id="-1678" lat="44.734793395" lon="-93.217066652" visible="true"/>
+<node id="-1679" lat="44.734792893" lon="-93.217025193" visible="true"/>
+<node id="-1680" lat="44.734831654" lon="-93.217024266" visible="true"/>
+<node id="-1682" lat="44.734783615" lon="-93.216677964" visible="true"/>
+<node id="-1683" lat="44.734753551" lon="-93.21669034" visible="true"/>
+<node id="-1684" lat="44.734764362" lon="-93.216742025" visible="true"/>
+<node id="-1685" lat="44.734794425" lon="-93.21672965" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-2"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="15010"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Glazier Avenue"/></way>
+<way id="-10" visible="true"><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-11"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="15000"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Garrett Avenue"/></way>
+<way id="-21" visible="true"><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-35"/><nd ref="-36"/><nd ref="-37"/><nd ref="-22"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="14994"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Glazier Avenue"/></way>
+<way id="-38" visible="true"><nd ref="-39"/><nd ref="-40"/><nd ref="-41"/><nd ref="-42"/><nd ref="-39"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-43" visible="true"><nd ref="-44"/><nd ref="-45"/><nd ref="-46"/><nd ref="-47"/><nd ref="-48"/><nd ref="-49"/><nd ref="-50"/><nd ref="-51"/><nd ref="-52"/><nd ref="-53"/><nd ref="-54"/><nd ref="-55"/><nd ref="-56"/><nd ref="-57"/><nd ref="-58"/><nd ref="-59"/><nd ref="-60"/><nd ref="-61"/><nd ref="-62"/><nd ref="-63"/><nd ref="-64"/><nd ref="-65"/><nd ref="-66"/><nd ref="-67"/><nd ref="-68"/><nd ref="-69"/><nd ref="-70"/><nd ref="-71"/><nd ref="-72"/><nd ref="-73"/><nd ref="-74"/><nd ref="-75"/><nd ref="-76"/><nd ref="-77"/><nd ref="-78"/><nd ref="-79"/><nd ref="-80"/><nd ref="-81"/><nd ref="-82"/><nd ref="-83"/><nd ref="-84"/><nd ref="-85"/><nd ref="-86"/><nd ref="-87"/><nd ref="-88"/><nd ref="-89"/><nd ref="-90"/><nd ref="-91"/><nd ref="-92"/><nd ref="-93"/><nd ref="-94"/><nd ref="-95"/><nd ref="-96"/><nd ref="-97"/><nd ref="-98"/><nd ref="-99"/><nd ref="-100"/><nd ref="-101"/><nd ref="-102"/><nd ref="-103"/><nd ref="-104"/><nd ref="-105"/><nd ref="-106"/><nd ref="-107"/><nd ref="-108"/><nd ref="-109"/><nd ref="-110"/><nd ref="-44"/><tag k="building" v="civic"/><tag k="addr:housenumber" v="14955"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Galaxie Avenue"/></way>
+<way id="-111" visible="true"><nd ref="-112"/><nd ref="-113"/><nd ref="-114"/><nd ref="-115"/><nd ref="-112"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="15004"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Glazier Avenue"/></way>
+<way id="-116" visible="true"><nd ref="-117"/><nd ref="-118"/><nd ref="-119"/><nd ref="-120"/><nd ref="-121"/><nd ref="-122"/><nd ref="-123"/><nd ref="-124"/><nd ref="-125"/><nd ref="-126"/><nd ref="-127"/><nd ref="-128"/><nd ref="-117"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="15026"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Glazier Avenue"/></way>
+<way id="-129" visible="true"><nd ref="-130"/><nd ref="-131"/><nd ref="-132"/><nd ref="-133"/><nd ref="-134"/><nd ref="-135"/><nd ref="-130"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="15030"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Glazier Avenue"/></way>
+<way id="-136" visible="true"><nd ref="-137"/><nd ref="-138"/><nd ref="-139"/><nd ref="-140"/><nd ref="-141"/><nd ref="-142"/><nd ref="-143"/><nd ref="-144"/><nd ref="-145"/><nd ref="-146"/><nd ref="-147"/><nd ref="-137"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="15020"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Glazier Avenue"/></way>
+<way id="-148" visible="true"><nd ref="-149"/><nd ref="-150"/><nd ref="-151"/><nd ref="-152"/><nd ref="-149"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="14980"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Garrett Avenue"/></way>
+<way id="-153" visible="true"><nd ref="-154"/><nd ref="-155"/><nd ref="-156"/><nd ref="-157"/><nd ref="-158"/><nd ref="-159"/><nd ref="-160"/><nd ref="-161"/><nd ref="-162"/><nd ref="-163"/><nd ref="-164"/><nd ref="-165"/><nd ref="-166"/><nd ref="-167"/><nd ref="-168"/><nd ref="-169"/><nd ref="-170"/><nd ref="-171"/><nd ref="-172"/><nd ref="-173"/><nd ref="-174"/><nd ref="-175"/><nd ref="-176"/><nd ref="-154"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="15000"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Glazier Avenue"/></way>
+<way id="-177" visible="true"><nd ref="-178"/><nd ref="-179"/><nd ref="-180"/><nd ref="-181"/><nd ref="-182"/><nd ref="-183"/><nd ref="-184"/><nd ref="-185"/><nd ref="-186"/><nd ref="-187"/><nd ref="-188"/><nd ref="-189"/><nd ref="-190"/><nd ref="-191"/><nd ref="-178"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="14998"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Glazier Avenue"/></way>
+<way id="-192" visible="true"><nd ref="-193"/><nd ref="-194"/><nd ref="-195"/><nd ref="-196"/><nd ref="-197"/><nd ref="-198"/><nd ref="-199"/><nd ref="-200"/><nd ref="-201"/><nd ref="-202"/><nd ref="-203"/><nd ref="-204"/><nd ref="-205"/><nd ref="-206"/><nd ref="-207"/><nd ref="-208"/><nd ref="-209"/><nd ref="-210"/><nd ref="-211"/><nd ref="-212"/><nd ref="-193"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="7200"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="147th Street West"/></way>
+<way id="-213" visible="true"><nd ref="-214"/><nd ref="-215"/><nd ref="-216"/><nd ref="-217"/><nd ref="-218"/><nd ref="-219"/><nd ref="-220"/><nd ref="-221"/><nd ref="-214"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="15025"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Glazier Avenue"/></way>
+<way id="-222" visible="true"><nd ref="-223"/><nd ref="-224"/><nd ref="-225"/><nd ref="-226"/><nd ref="-227"/><nd ref="-228"/><nd ref="-229"/><nd ref="-230"/><nd ref="-231"/><nd ref="-232"/><nd ref="-233"/><nd ref="-234"/><nd ref="-223"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="14985"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Glazier Avenue"/></way>
+<way id="-235" visible="true"><nd ref="-236"/><nd ref="-237"/><nd ref="-238"/><nd ref="-239"/><nd ref="-236"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-240" visible="true"><nd ref="-241"/><nd ref="-242"/><nd ref="-243"/><nd ref="-244"/><nd ref="-245"/><nd ref="-246"/><nd ref="-247"/><nd ref="-248"/><nd ref="-249"/><nd ref="-250"/><nd ref="-251"/><nd ref="-252"/><nd ref="-253"/><nd ref="-254"/><nd ref="-255"/><nd ref="-256"/><nd ref="-241"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="14850"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Garrett Avenue"/></way>
+<way id="-257" visible="true"><nd ref="-258"/><nd ref="-259"/><nd ref="-260"/><nd ref="-261"/><nd ref="-258"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-262" visible="true"><nd ref="-263"/><nd ref="-264"/><nd ref="-265"/><nd ref="-266"/><nd ref="-267"/><nd ref="-268"/><nd ref="-269"/><nd ref="-270"/><nd ref="-271"/><nd ref="-272"/><nd ref="-273"/><nd ref="-274"/><nd ref="-275"/><nd ref="-276"/><nd ref="-277"/><nd ref="-278"/><nd ref="-279"/><nd ref="-280"/><nd ref="-263"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="14990"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Glazier Avenue"/></way>
+<way id="-281" visible="true"><nd ref="-282"/><nd ref="-283"/><nd ref="-284"/><nd ref="-285"/><nd ref="-286"/><nd ref="-287"/><nd ref="-288"/><nd ref="-289"/><nd ref="-290"/><nd ref="-291"/><nd ref="-292"/><nd ref="-293"/><nd ref="-294"/><nd ref="-295"/><nd ref="-282"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="14917"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Garrett Avenue"/></way>
+<way id="-296" visible="true"><nd ref="-297"/><nd ref="-298"/><nd ref="-299"/><nd ref="-300"/><nd ref="-301"/><nd ref="-302"/><nd ref="-303"/><nd ref="-304"/><nd ref="-305"/><nd ref="-306"/><nd ref="-307"/><nd ref="-308"/><nd ref="-309"/><nd ref="-310"/><nd ref="-311"/><nd ref="-312"/><nd ref="-313"/><nd ref="-314"/><nd ref="-315"/><nd ref="-316"/><nd ref="-317"/><nd ref="-318"/><nd ref="-319"/><nd ref="-320"/><nd ref="-321"/><nd ref="-322"/><nd ref="-323"/><nd ref="-324"/><nd ref="-325"/><nd ref="-326"/><nd ref="-327"/><nd ref="-328"/><nd ref="-329"/><nd ref="-330"/><nd ref="-331"/><nd ref="-332"/><nd ref="-333"/><nd ref="-334"/><nd ref="-335"/><nd ref="-336"/><nd ref="-337"/><nd ref="-338"/><nd ref="-339"/><nd ref="-340"/><nd ref="-297"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="7373"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="147th Street West"/></way>
+<way id="-341" visible="true"><nd ref="-342"/><nd ref="-343"/><nd ref="-344"/><nd ref="-345"/><nd ref="-342"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-346" visible="true"><nd ref="-347"/><nd ref="-348"/><nd ref="-349"/><nd ref="-350"/><nd ref="-347"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="7300"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="147th Street West"/></way>
+<way id="-351" visible="true"><nd ref="-352"/><nd ref="-353"/><nd ref="-354"/><nd ref="-355"/><nd ref="-352"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-356" visible="true"><nd ref="-357"/><nd ref="-358"/><nd ref="-359"/><nd ref="-360"/><nd ref="-357"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-361" visible="true"><nd ref="-362"/><nd ref="-363"/><nd ref="-364"/><nd ref="-365"/><nd ref="-366"/><nd ref="-367"/><nd ref="-362"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="14638"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Cedar Avenue"/></way>
+<way id="-368" visible="true"><nd ref="-369"/><nd ref="-370"/><nd ref="-371"/><nd ref="-372"/><nd ref="-373"/><nd ref="-374"/><nd ref="-375"/><nd ref="-376"/><nd ref="-377"/><nd ref="-378"/><nd ref="-379"/><nd ref="-380"/><nd ref="-381"/><nd ref="-382"/><nd ref="-383"/><nd ref="-384"/><nd ref="-385"/><nd ref="-386"/><nd ref="-387"/><nd ref="-388"/><nd ref="-389"/><nd ref="-390"/><nd ref="-391"/><nd ref="-392"/><nd ref="-369"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-393" visible="true"><nd ref="-394"/><nd ref="-395"/><nd ref="-396"/><nd ref="-397"/><nd ref="-398"/><nd ref="-399"/><nd ref="-400"/><nd ref="-401"/><nd ref="-394"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="7275"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="147th Street West"/></way>
+<way id="-403" visible="true"><nd ref="-404"/><nd ref="-405"/><nd ref="-406"/><nd ref="-407"/><nd ref="-408"/><nd ref="-409"/><nd ref="-410"/><nd ref="-411"/><nd ref="-412"/><nd ref="-413"/><nd ref="-414"/><nd ref="-415"/><nd ref="-404"/></way>
+<way id="-416" visible="true"><nd ref="-339"/><nd ref="-338"/><nd ref="-337"/><nd ref="-336"/><nd ref="-335"/><nd ref="-334"/><nd ref="-333"/><nd ref="-332"/><nd ref="-331"/><nd ref="-330"/><nd ref="-329"/><nd ref="-328"/><nd ref="-327"/><nd ref="-326"/><nd ref="-325"/><nd ref="-324"/><nd ref="-323"/><nd ref="-322"/><nd ref="-321"/><nd ref="-320"/><nd ref="-319"/><nd ref="-318"/><nd ref="-317"/><nd ref="-316"/><nd ref="-315"/><nd ref="-314"/><nd ref="-313"/><nd ref="-312"/><nd ref="-311"/><nd ref="-310"/><nd ref="-309"/><nd ref="-308"/><nd ref="-307"/><nd ref="-306"/><nd ref="-305"/><nd ref="-304"/><nd ref="-303"/><nd ref="-302"/><nd ref="-301"/><nd ref="-300"/><nd ref="-299"/><nd ref="-298"/><nd ref="-297"/><nd ref="-340"/><nd ref="-339"/></way>
+<way id="-417" visible="true"><nd ref="-418"/><nd ref="-419"/><nd ref="-420"/><nd ref="-421"/><nd ref="-422"/><nd ref="-423"/><nd ref="-424"/><nd ref="-425"/><nd ref="-418"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="7493"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="147th Street West"/></way>
+<way id="-426" visible="true"><nd ref="-427"/><nd ref="-428"/><nd ref="-429"/><nd ref="-430"/><nd ref="-431"/><nd ref="-432"/><nd ref="-433"/><nd ref="-434"/><nd ref="-435"/><nd ref="-436"/><nd ref="-437"/><nd ref="-438"/><nd ref="-439"/><nd ref="-440"/><nd ref="-441"/><nd ref="-442"/><nd ref="-443"/><nd ref="-444"/><nd ref="-445"/><nd ref="-446"/><nd ref="-447"/><nd ref="-448"/><nd ref="-449"/><nd ref="-450"/><nd ref="-451"/><nd ref="-427"/><tag k="building" v="house"/><tag k="addr:housenumber" v="14653"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Glazier Avenue"/></way>
+<way id="-452" visible="true"><nd ref="-453"/><nd ref="-454"/><nd ref="-455"/><nd ref="-456"/><nd ref="-457"/><nd ref="-458"/><nd ref="-459"/><nd ref="-460"/><nd ref="-461"/><nd ref="-462"/><nd ref="-453"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7299"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Upper 146th Street West"/></way>
+<way id="-463" visible="true"><nd ref="-464"/><nd ref="-465"/><nd ref="-466"/><nd ref="-467"/><nd ref="-468"/><nd ref="-469"/><nd ref="-470"/><nd ref="-471"/><nd ref="-464"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7319"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Upper 146th Street West"/></way>
+<way id="-472" visible="true"><nd ref="-473"/><nd ref="-474"/><nd ref="-475"/><nd ref="-476"/><nd ref="-477"/><nd ref="-478"/><nd ref="-473"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7265"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Way West"/></way>
+<way id="-479" visible="true"><nd ref="-480"/><nd ref="-481"/><nd ref="-482"/><nd ref="-483"/><nd ref="-480"/><tag k="building" v="house"/><tag k="addr:housenumber" v="14660"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Glazier Avenue"/></way>
+<way id="-484" visible="true"><nd ref="-485"/><nd ref="-486"/><nd ref="-487"/><nd ref="-488"/><nd ref="-489"/><nd ref="-490"/><nd ref="-491"/><nd ref="-492"/><nd ref="-485"/><tag k="building" v="garage"/><tag k="addr:housenumber" v="14630"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Garrett Avenue"/></way>
+<way id="-493" visible="true"><nd ref="-494"/><nd ref="-495"/><nd ref="-496"/><nd ref="-497"/><nd ref="-498"/><nd ref="-499"/><nd ref="-500"/><nd ref="-501"/><nd ref="-502"/><nd ref="-503"/><nd ref="-494"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="14678"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Cedar Avenue"/></way>
+<way id="-504" visible="true"><nd ref="-505"/><nd ref="-506"/><nd ref="-507"/><nd ref="-508"/><nd ref="-505"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-509" visible="true"><nd ref="-510"/><nd ref="-511"/><nd ref="-512"/><nd ref="-513"/><nd ref="-510"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-514" visible="true"><nd ref="-515"/><nd ref="-516"/><nd ref="-517"/><nd ref="-518"/><nd ref="-515"/><tag k="building" v="house"/><tag k="addr:housenumber" v="14614"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Cedar Avenue"/></way>
+<way id="-519" visible="true"><nd ref="-520"/><nd ref="-521"/><nd ref="-522"/><nd ref="-523"/><nd ref="-524"/><nd ref="-525"/><nd ref="-526"/><nd ref="-527"/><nd ref="-520"/><tag k="building" v="house"/><tag k="addr:housenumber" v="14650"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Glazier Avenue"/></way>
+<way id="-528" visible="true"><nd ref="-529"/><nd ref="-530"/><nd ref="-531"/><nd ref="-532"/><nd ref="-533"/><nd ref="-534"/><nd ref="-535"/><nd ref="-536"/><nd ref="-537"/><nd ref="-538"/><nd ref="-539"/><nd ref="-540"/><nd ref="-541"/><nd ref="-542"/><nd ref="-543"/><nd ref="-544"/><nd ref="-545"/><nd ref="-546"/><nd ref="-529"/><tag k="building" v="house"/><tag k="addr:housenumber" v="14637"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Glazier Avenue"/></way>
+<way id="-547" visible="true"><nd ref="-548"/><nd ref="-549"/><nd ref="-550"/><nd ref="-551"/><nd ref="-552"/><nd ref="-553"/><nd ref="-554"/><nd ref="-555"/><nd ref="-556"/><nd ref="-557"/><nd ref="-558"/><nd ref="-559"/><nd ref="-560"/><nd ref="-561"/><nd ref="-562"/><nd ref="-563"/><nd ref="-564"/><nd ref="-565"/><nd ref="-566"/><nd ref="-567"/><nd ref="-568"/><nd ref="-569"/><nd ref="-570"/><nd ref="-571"/><nd ref="-572"/><nd ref="-573"/><nd ref="-574"/><nd ref="-575"/><nd ref="-576"/><nd ref="-577"/><nd ref="-578"/><nd ref="-579"/><nd ref="-580"/><nd ref="-581"/><nd ref="-582"/><nd ref="-583"/><nd ref="-584"/><nd ref="-585"/><nd ref="-586"/><nd ref="-587"/><nd ref="-588"/><nd ref="-589"/><nd ref="-590"/><nd ref="-591"/><nd ref="-592"/><nd ref="-593"/><nd ref="-594"/><nd ref="-595"/><nd ref="-596"/><nd ref="-597"/><nd ref="-598"/><nd ref="-599"/><nd ref="-600"/><nd ref="-601"/><nd ref="-602"/><nd ref="-548"/><tag k="building" v="apartments"/><tag k="addr:housenumber" v="14610"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Garrett Avenue"/></way>
+<way id="-603" visible="true"><nd ref="-604"/><nd ref="-605"/><nd ref="-606"/><nd ref="-607"/><nd ref="-604"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-608" visible="true"><nd ref="-609"/><nd ref="-610"/><nd ref="-611"/><nd ref="-612"/><nd ref="-613"/><nd ref="-614"/><nd ref="-609"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7271"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Way West"/></way>
+<way id="-615" visible="true"><nd ref="-616"/><nd ref="-617"/><nd ref="-618"/><nd ref="-619"/><nd ref="-616"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-620" visible="true"><nd ref="-621"/><nd ref="-622"/><nd ref="-623"/><nd ref="-624"/><nd ref="-621"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-625" visible="true"><nd ref="-626"/><nd ref="-627"/><nd ref="-628"/><nd ref="-629"/><nd ref="-626"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7320"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Way West"/></way>
+<way id="-630" visible="true"><nd ref="-631"/><nd ref="-632"/><nd ref="-633"/><nd ref="-634"/><nd ref="-635"/><nd ref="-636"/><nd ref="-637"/><nd ref="-638"/><nd ref="-631"/><tag k="building" v="house"/><tag k="addr:housenumber" v="14620"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Glazier Avenue"/></way>
+<way id="-639" visible="true"><nd ref="-640"/><nd ref="-641"/><nd ref="-642"/><nd ref="-643"/><nd ref="-644"/><nd ref="-645"/><nd ref="-646"/><nd ref="-647"/><nd ref="-640"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7291"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Way West"/></way>
+<way id="-648" visible="true"><nd ref="-649"/><nd ref="-650"/><nd ref="-651"/><nd ref="-652"/><nd ref="-649"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-653" visible="true"><nd ref="-654"/><nd ref="-655"/><nd ref="-656"/><nd ref="-657"/><nd ref="-654"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-658" visible="true"><nd ref="-659"/><nd ref="-660"/><nd ref="-661"/><nd ref="-662"/><nd ref="-663"/><nd ref="-664"/><nd ref="-665"/><nd ref="-666"/><nd ref="-659"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7202"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Street West"/></way>
+<way id="-667" visible="true"><nd ref="-668"/><nd ref="-669"/><nd ref="-670"/><nd ref="-671"/><nd ref="-672"/><nd ref="-673"/><nd ref="-674"/><nd ref="-675"/><nd ref="-676"/><nd ref="-677"/><nd ref="-678"/><nd ref="-679"/><nd ref="-668"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7102"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Street West"/></way>
+<way id="-680" visible="true"><nd ref="-681"/><nd ref="-682"/><nd ref="-683"/><nd ref="-684"/><nd ref="-681"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7190"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Street West"/></way>
+<way id="-685" visible="true"><nd ref="-686"/><nd ref="-687"/><nd ref="-688"/><nd ref="-689"/><nd ref="-690"/><nd ref="-691"/><nd ref="-692"/><nd ref="-693"/><nd ref="-686"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7150"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Street West"/></way>
+<way id="-694" visible="true"><nd ref="-695"/><nd ref="-696"/><nd ref="-697"/><nd ref="-698"/><nd ref="-699"/><nd ref="-700"/><nd ref="-701"/><nd ref="-702"/><nd ref="-695"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7130"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Street West"/></way>
+<way id="-703" visible="true"><nd ref="-704"/><nd ref="-705"/><nd ref="-706"/><nd ref="-707"/><nd ref="-708"/><nd ref="-709"/><nd ref="-710"/><nd ref="-711"/><nd ref="-704"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7342"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Way West"/></way>
+<way id="-712" visible="true"><nd ref="-713"/><nd ref="-714"/><nd ref="-715"/><nd ref="-716"/><nd ref="-713"/><tag k="building" v="house"/><tag k="source" v="DCGIS"/></way>
+<way id="-717" visible="true"><nd ref="-718"/><nd ref="-719"/><nd ref="-720"/><nd ref="-721"/><nd ref="-718"/><tag k="building" v="house"/><tag k="addr:housenumber" v="14605"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Garrett Avenue"/></way>
+<way id="-722" visible="true"><nd ref="-723"/><nd ref="-724"/><nd ref="-725"/><nd ref="-726"/><nd ref="-723"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7392"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Way West"/></way>
+<way id="-727" visible="true"><nd ref="-728"/><nd ref="-729"/><nd ref="-730"/><nd ref="-731"/><nd ref="-728"/><tag k="building" v="house"/><tag k="source" v="DCGIS"/></way>
+<way id="-732" visible="true"><nd ref="-733"/><nd ref="-734"/><nd ref="-735"/><nd ref="-736"/><nd ref="-737"/><nd ref="-738"/><nd ref="-739"/><nd ref="-740"/><nd ref="-741"/><nd ref="-742"/><nd ref="-743"/><nd ref="-744"/><nd ref="-733"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7015"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146Th Street Court"/></way>
+<way id="-745" visible="true"><nd ref="-746"/><nd ref="-747"/><nd ref="-748"/><nd ref="-749"/><nd ref="-750"/><nd ref="-751"/><nd ref="-752"/><nd ref="-753"/><nd ref="-754"/><nd ref="-755"/><nd ref="-746"/><tag k="building" v="house"/><tag k="addr:housenumber" v="14587"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Garrett Avenue"/></way>
+<way id="-756" visible="true"><nd ref="-757"/><nd ref="-758"/><nd ref="-759"/><nd ref="-760"/><nd ref="-761"/><nd ref="-762"/><nd ref="-757"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-763" visible="true"><nd ref="-764"/><nd ref="-765"/><nd ref="-766"/><nd ref="-767"/><nd ref="-768"/><nd ref="-769"/><nd ref="-770"/><nd ref="-771"/><nd ref="-772"/><nd ref="-773"/><nd ref="-774"/><nd ref="-775"/><nd ref="-776"/><nd ref="-777"/><nd ref="-764"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="14665"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Galaxie Avenue"/></way>
+<way id="-778" visible="true"><nd ref="-779"/><nd ref="-780"/><nd ref="-781"/><nd ref="-782"/><nd ref="-779"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="14658"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Cedar Avenue"/></way>
+<way id="-783" visible="true"><nd ref="-784"/><nd ref="-785"/><nd ref="-786"/><nd ref="-787"/><nd ref="-784"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-788" visible="true"><nd ref="-789"/><nd ref="-790"/><nd ref="-791"/><nd ref="-792"/><nd ref="-793"/><nd ref="-794"/><nd ref="-795"/><nd ref="-796"/><nd ref="-789"/><tag k="building" v="garage"/><tag k="addr:housenumber" v="14620"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Garrett Avenue"/></way>
+<way id="-797" visible="true"><nd ref="-798"/><nd ref="-799"/><nd ref="-800"/><nd ref="-801"/><nd ref="-802"/><nd ref="-803"/><nd ref="-804"/><nd ref="-805"/><nd ref="-806"/><nd ref="-807"/><nd ref="-808"/><nd ref="-809"/><nd ref="-810"/><nd ref="-811"/><nd ref="-798"/><tag k="building" v="house"/><tag k="addr:housenumber" v="14643"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Glazier Avenue"/></way>
+<way id="-812" visible="true"><nd ref="-813"/><nd ref="-814"/><nd ref="-815"/><nd ref="-816"/><nd ref="-817"/><nd ref="-818"/><nd ref="-819"/><nd ref="-820"/><nd ref="-813"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7335"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Upper 146th Street West"/></way>
+<way id="-821" visible="true"><nd ref="-822"/><nd ref="-823"/><nd ref="-824"/><nd ref="-825"/><nd ref="-826"/><nd ref="-827"/><nd ref="-828"/><nd ref="-829"/><nd ref="-822"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7351"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Upper 146th Street West"/></way>
+<way id="-830" visible="true"><nd ref="-831"/><nd ref="-832"/><nd ref="-833"/><nd ref="-834"/><nd ref="-831"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-835" visible="true"><nd ref="-836"/><nd ref="-837"/><nd ref="-838"/><nd ref="-839"/><nd ref="-840"/><nd ref="-841"/><nd ref="-842"/><nd ref="-843"/><nd ref="-836"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7367"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Upper 146th Street West"/></way>
+<way id="-844" visible="true"><nd ref="-845"/><nd ref="-846"/><nd ref="-847"/><nd ref="-848"/><nd ref="-849"/><nd ref="-850"/><nd ref="-851"/><nd ref="-852"/><nd ref="-845"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7095"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Street West"/></way>
+<way id="-853" visible="true"><nd ref="-854"/><nd ref="-855"/><nd ref="-856"/><nd ref="-857"/><nd ref="-858"/><nd ref="-854"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7151"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Street West"/></way>
+<way id="-859" visible="true"><nd ref="-860"/><nd ref="-861"/><nd ref="-862"/><nd ref="-863"/><nd ref="-864"/><nd ref="-865"/><nd ref="-866"/><nd ref="-867"/><nd ref="-860"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7173"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Street West"/></way>
+<way id="-868" visible="true"><nd ref="-869"/><nd ref="-870"/><nd ref="-871"/><nd ref="-872"/><nd ref="-869"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-873" visible="true"><nd ref="-874"/><nd ref="-875"/><nd ref="-876"/><nd ref="-877"/><nd ref="-878"/><nd ref="-879"/><nd ref="-880"/><nd ref="-881"/><nd ref="-874"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7137"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Street West"/></way>
+<way id="-882" visible="true"><nd ref="-883"/><nd ref="-884"/><nd ref="-885"/><nd ref="-886"/><nd ref="-887"/><nd ref="-888"/><nd ref="-889"/><nd ref="-883"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7341"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Way West"/></way>
+<way id="-890" visible="true"><nd ref="-891"/><nd ref="-892"/><nd ref="-893"/><nd ref="-894"/><nd ref="-891"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-895" visible="true"><nd ref="-896"/><nd ref="-897"/><nd ref="-898"/><nd ref="-899"/><nd ref="-896"/><tag k="building" v="house"/><tag k="source" v="DCGIS"/></way>
+<way id="-900" visible="true"><nd ref="-901"/><nd ref="-902"/><nd ref="-903"/><nd ref="-904"/><nd ref="-905"/><nd ref="-906"/><nd ref="-907"/><nd ref="-908"/><nd ref="-901"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-909" visible="true"><nd ref="-910"/><nd ref="-911"/><nd ref="-912"/><nd ref="-913"/><nd ref="-910"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7351"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Way West"/></way>
+<way id="-914" visible="true"><nd ref="-915"/><nd ref="-916"/><nd ref="-917"/><nd ref="-918"/><nd ref="-915"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-919" visible="true"><nd ref="-920"/><nd ref="-921"/><nd ref="-922"/><nd ref="-923"/><nd ref="-920"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-924" visible="true"><nd ref="-925"/><nd ref="-926"/><nd ref="-927"/><nd ref="-928"/><nd ref="-925"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-929" visible="true"><nd ref="-930"/><nd ref="-931"/><nd ref="-932"/><nd ref="-933"/><nd ref="-930"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-934" visible="true"><nd ref="-935"/><nd ref="-936"/><nd ref="-937"/><nd ref="-938"/><nd ref="-935"/><tag k="building" v="house"/><tag k="source" v="DCGIS"/></way>
+<way id="-939" visible="true"><nd ref="-940"/><nd ref="-941"/><nd ref="-942"/><nd ref="-943"/><nd ref="-940"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-944" visible="true"><nd ref="-945"/><nd ref="-946"/><nd ref="-947"/><nd ref="-948"/><nd ref="-949"/><nd ref="-950"/><nd ref="-951"/><nd ref="-952"/><nd ref="-953"/><nd ref="-954"/><nd ref="-945"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7269"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Way West"/></way>
+<way id="-955" visible="true"><nd ref="-956"/><nd ref="-957"/><nd ref="-958"/><nd ref="-959"/><nd ref="-956"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-960" visible="true"><nd ref="-961"/><nd ref="-962"/><nd ref="-963"/><nd ref="-964"/><nd ref="-965"/><nd ref="-966"/><nd ref="-967"/><nd ref="-968"/><nd ref="-969"/><nd ref="-970"/><nd ref="-971"/><nd ref="-972"/><nd ref="-973"/><nd ref="-974"/><nd ref="-975"/><nd ref="-976"/><nd ref="-977"/><nd ref="-978"/><nd ref="-979"/><nd ref="-980"/><nd ref="-981"/><nd ref="-982"/><nd ref="-983"/><nd ref="-984"/><nd ref="-554"/><nd ref="-553"/><nd ref="-985"/><nd ref="-986"/><nd ref="-987"/><nd ref="-988"/><nd ref="-989"/><nd ref="-990"/><nd ref="-991"/><nd ref="-992"/><nd ref="-993"/><nd ref="-994"/><nd ref="-961"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="14655"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Galaxie Avenue"/></way>
+<way id="-995" visible="true"><nd ref="-996"/><nd ref="-997"/><nd ref="-998"/><nd ref="-999"/><nd ref="-1000"/><nd ref="-1001"/><nd ref="-1002"/><nd ref="-1003"/><nd ref="-996"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7294"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Way West"/></way>
+<way id="-1004" visible="true"><nd ref="-1005"/><nd ref="-1006"/><nd ref="-1007"/><nd ref="-1008"/><nd ref="-1005"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1009" visible="true"><nd ref="-1010"/><nd ref="-1011"/><nd ref="-1012"/><nd ref="-1013"/><nd ref="-1014"/><nd ref="-1015"/><nd ref="-1016"/><nd ref="-1017"/><nd ref="-1010"/><tag k="building" v="house"/><tag k="addr:housenumber" v="14640"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Glazier Avenue"/></way>
+<way id="-1018" visible="true"><nd ref="-1019"/><nd ref="-1020"/><nd ref="-1021"/><nd ref="-1022"/><nd ref="-1023"/><nd ref="-1024"/><nd ref="-1025"/><nd ref="-1026"/><nd ref="-1027"/><nd ref="-1019"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7308"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Way West"/></way>
+<way id="-1028" visible="true"><nd ref="-1029"/><nd ref="-1030"/><nd ref="-1031"/><nd ref="-1032"/><nd ref="-1029"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1033" visible="true"><nd ref="-1034"/><nd ref="-1035"/><nd ref="-1036"/><nd ref="-1037"/><nd ref="-1034"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-1038" visible="true"><nd ref="-1039"/><nd ref="-1040"/><nd ref="-1041"/><nd ref="-1042"/><nd ref="-1039"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1043" visible="true"><nd ref="-1044"/><nd ref="-1045"/><nd ref="-1046"/><nd ref="-1047"/><nd ref="-1048"/><nd ref="-1049"/><nd ref="-1050"/><nd ref="-1051"/><nd ref="-1052"/><nd ref="-1053"/><nd ref="-1054"/><nd ref="-1055"/><nd ref="-1044"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7027"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146Th Street Court"/></way>
+<way id="-1056" visible="true"><nd ref="-1057"/><nd ref="-1058"/><nd ref="-1059"/><nd ref="-1060"/><nd ref="-1057"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1061" visible="true"><nd ref="-1062"/><nd ref="-1063"/><nd ref="-1064"/><nd ref="-1065"/><nd ref="-1066"/><nd ref="-1067"/><nd ref="-1068"/><nd ref="-1069"/><nd ref="-1070"/><nd ref="-1071"/><nd ref="-1062"/><tag k="building" v="house"/><tag k="addr:housenumber" v="14559"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Garrett Avenue"/></way>
+<way id="-1072" visible="true"><nd ref="-1073"/><nd ref="-1074"/><nd ref="-1075"/><nd ref="-1076"/><nd ref="-1073"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1077" visible="true"><nd ref="-1078"/><nd ref="-1079"/><nd ref="-1080"/><nd ref="-1081"/><nd ref="-1078"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1082" visible="true"><nd ref="-1083"/><nd ref="-1084"/><nd ref="-1085"/><nd ref="-1086"/><nd ref="-1083"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1087" visible="true"><nd ref="-1088"/><nd ref="-1089"/><nd ref="-1090"/><nd ref="-1091"/><nd ref="-1088"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1092" visible="true"><nd ref="-1093"/><nd ref="-1094"/><nd ref="-1095"/><nd ref="-1096"/><nd ref="-1093"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1097" visible="true"><nd ref="-1098"/><nd ref="-1099"/><nd ref="-1100"/><nd ref="-1101"/><nd ref="-1098"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1102" visible="true"><nd ref="-1103"/><nd ref="-1104"/><nd ref="-1105"/><nd ref="-1106"/><nd ref="-1103"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1107" visible="true"><nd ref="-1108"/><nd ref="-1109"/><nd ref="-1110"/><nd ref="-1111"/><nd ref="-1108"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1112" visible="true"><nd ref="-1113"/><nd ref="-1114"/><nd ref="-1115"/><nd ref="-1116"/><nd ref="-1113"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7136"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="145th Street West"/></way>
+<way id="-1117" visible="true"><nd ref="-1118"/><nd ref="-1119"/><nd ref="-1120"/><nd ref="-1121"/><nd ref="-1122"/><nd ref="-1123"/><nd ref="-1124"/><nd ref="-1125"/><nd ref="-1118"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7100"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="145th Street West"/></way>
+<way id="-1126" visible="true"><nd ref="-1127"/><nd ref="-1128"/><nd ref="-1129"/><nd ref="-1130"/><nd ref="-1131"/><nd ref="-1132"/><nd ref="-1133"/><nd ref="-1127"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7080"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="145th Street West"/></way>
+<way id="-1134" visible="true"><nd ref="-1135"/><nd ref="-1136"/><nd ref="-1137"/><nd ref="-1138"/><nd ref="-1139"/><nd ref="-1140"/><nd ref="-1141"/><nd ref="-1142"/><nd ref="-1143"/><nd ref="-1135"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7204"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="145th Street West"/></way>
+<way id="-1144" visible="true"><nd ref="-1145"/><nd ref="-1146"/><nd ref="-1147"/><nd ref="-1148"/><nd ref="-1149"/><nd ref="-1150"/><nd ref="-1145"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7060"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="145th Street West"/></way>
+<way id="-1151" visible="true"><nd ref="-1152"/><nd ref="-1153"/><nd ref="-1154"/><nd ref="-1155"/><nd ref="-1156"/><nd ref="-1157"/><nd ref="-1158"/><nd ref="-1159"/><nd ref="-1152"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7040"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="145th Street West"/></way>
+<way id="-1160" visible="true"><nd ref="-1161"/><nd ref="-1162"/><nd ref="-1163"/><nd ref="-1164"/><nd ref="-1165"/><nd ref="-1161"/><tag k="building" v="house"/><tag k="addr:housenumber" v="14555"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Genesee Avenue"/></way>
+<way id="-1166" visible="true"><nd ref="-1167"/><nd ref="-1168"/><nd ref="-1169"/><nd ref="-1170"/><nd ref="-1171"/><nd ref="-1172"/><nd ref="-1173"/><nd ref="-1174"/><nd ref="-1175"/><nd ref="-1176"/><nd ref="-1177"/><nd ref="-1178"/><nd ref="-1167"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7020"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="145th Street West"/></way>
+<way id="-1179" visible="true"><nd ref="-1180"/><nd ref="-1181"/><nd ref="-1182"/><nd ref="-1183"/><nd ref="-1180"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-1184" visible="true"><nd ref="-1185"/><nd ref="-1186"/><nd ref="-1187"/><nd ref="-1188"/><nd ref="-1189"/><nd ref="-1190"/><nd ref="-1191"/><nd ref="-1192"/><nd ref="-1193"/><nd ref="-1194"/><nd ref="-1185"/><tag k="building" v="house"/><tag k="addr:housenumber" v="14539"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Genesee Avenue"/></way>
+<way id="-1195" visible="true"><nd ref="-1196"/><nd ref="-1197"/><nd ref="-1198"/><nd ref="-1199"/><nd ref="-1196"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1200" visible="true"><nd ref="-1201"/><nd ref="-1202"/><nd ref="-1203"/><nd ref="-1204"/><nd ref="-1201"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1205" visible="true"><nd ref="-1206"/><nd ref="-1207"/><nd ref="-1208"/><nd ref="-1209"/><nd ref="-1210"/><nd ref="-1211"/><nd ref="-1212"/><nd ref="-1213"/><nd ref="-1206"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7281"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Way West"/></way>
+<way id="-1214" visible="true"><nd ref="-1215"/><nd ref="-1216"/><nd ref="-1217"/><nd ref="-1218"/><nd ref="-1219"/><nd ref="-1220"/><nd ref="-1221"/><nd ref="-1222"/><nd ref="-1215"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7332"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Way West"/></way>
+<way id="-1223" visible="true"><nd ref="-1224"/><nd ref="-1225"/><nd ref="-1226"/><nd ref="-1227"/><nd ref="-1228"/><nd ref="-1229"/><nd ref="-1230"/><nd ref="-1231"/><nd ref="-1224"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7090"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Street West"/></way>
+<way id="-1232" visible="true"><nd ref="-1233"/><nd ref="-1234"/><nd ref="-1235"/><nd ref="-1236"/><nd ref="-1233"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1237" visible="true"><nd ref="-1238"/><nd ref="-1239"/><nd ref="-1240"/><nd ref="-1241"/><nd ref="-1242"/><nd ref="-1238"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7120"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Street West"/></way>
+<way id="-1243" visible="true"><nd ref="-1244"/><nd ref="-1245"/><nd ref="-1246"/><nd ref="-1247"/><nd ref="-1248"/><nd ref="-1249"/><nd ref="-1250"/><nd ref="-1251"/><nd ref="-1244"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7170"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Street West"/></way>
+<way id="-1252" visible="true"><nd ref="-1253"/><nd ref="-1254"/><nd ref="-1255"/><nd ref="-1256"/><nd ref="-1253"/><tag k="building" v="house"/><tag k="source" v="DCGIS"/></way>
+<way id="-1257" visible="true"><nd ref="-1258"/><nd ref="-1259"/><nd ref="-1260"/><nd ref="-1261"/><nd ref="-1262"/><nd ref="-1263"/><nd ref="-1264"/><nd ref="-1265"/><nd ref="-1258"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7311"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Way West"/></way>
+<way id="-1266" visible="true"><nd ref="-1267"/><nd ref="-1268"/><nd ref="-1269"/><nd ref="-1270"/><nd ref="-1271"/><nd ref="-1272"/><nd ref="-1273"/><nd ref="-1274"/><nd ref="-1267"/><tag k="building" v="house"/><tag k="addr:housenumber" v="14600"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Glazier Avenue"/></way>
+<way id="-1275" visible="true"><nd ref="-1276"/><nd ref="-1277"/><nd ref="-1278"/><nd ref="-1279"/><nd ref="-1280"/><nd ref="-1281"/><nd ref="-1282"/><nd ref="-1283"/><nd ref="-1276"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7362"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Way West"/></way>
+<way id="-1284" visible="true"><nd ref="-1285"/><nd ref="-1286"/><nd ref="-1287"/><nd ref="-1288"/><nd ref="-1289"/><nd ref="-1290"/><nd ref="-1285"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7378"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Way West"/></way>
+<way id="-1291" visible="true"><nd ref="-1292"/><nd ref="-1293"/><nd ref="-1294"/><nd ref="-1295"/><nd ref="-1292"/><tag k="building" v="house"/><tag k="source" v="DCGIS"/></way>
+<way id="-1296" visible="true"><nd ref="-1297"/><nd ref="-1298"/><nd ref="-1299"/><nd ref="-1300"/><nd ref="-1297"/><tag k="building" v="house"/><tag k="source" v="DCGIS"/></way>
+<way id="-1301" visible="true"><nd ref="-1302"/><nd ref="-1303"/><nd ref="-1304"/><nd ref="-1305"/><nd ref="-1306"/><nd ref="-1307"/><nd ref="-1308"/><nd ref="-1309"/><nd ref="-1302"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7321"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Way West"/></way>
+<way id="-1310" visible="true"><nd ref="-1311"/><nd ref="-1312"/><nd ref="-1313"/><nd ref="-1314"/><nd ref="-1315"/><nd ref="-1316"/><nd ref="-1317"/><nd ref="-1318"/><nd ref="-1319"/><nd ref="-1320"/><nd ref="-1321"/><nd ref="-1322"/><nd ref="-1311"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7049"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146Th Street Court"/></way>
+<way id="-1323" visible="true"><nd ref="-1324"/><nd ref="-1325"/><nd ref="-1326"/><nd ref="-1327"/><nd ref="-1324"/><tag k="building" v="house"/><tag k="source" v="DCGIS"/></way>
+<way id="-1328" visible="true"><nd ref="-1329"/><nd ref="-1330"/><nd ref="-1331"/><nd ref="-1332"/><nd ref="-1333"/><nd ref="-1334"/><nd ref="-1335"/><nd ref="-1336"/><nd ref="-1337"/><nd ref="-1338"/><nd ref="-1339"/><nd ref="-1340"/><nd ref="-1341"/><nd ref="-1342"/><nd ref="-1343"/><nd ref="-1344"/><nd ref="-1329"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="14605"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Glazier Avenue"/></way>
+<way id="-1345" visible="true"><nd ref="-1346"/><nd ref="-1347"/><nd ref="-1348"/><nd ref="-1349"/><nd ref="-1350"/><nd ref="-1351"/><nd ref="-1352"/><nd ref="-1353"/><nd ref="-1346"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7115"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="145th Street West"/></way>
+<way id="-1354" visible="true"><nd ref="-1355"/><nd ref="-1356"/><nd ref="-1357"/><nd ref="-1358"/><nd ref="-1359"/><nd ref="-1360"/><nd ref="-1361"/><nd ref="-1355"/><tag k="building" v="house"/><tag k="addr:housenumber" v="14531"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Genesee Avenue"/></way>
+<way id="-1362" visible="true"><nd ref="-1363"/><nd ref="-1364"/><nd ref="-1365"/><nd ref="-1366"/><nd ref="-1367"/><nd ref="-1368"/><nd ref="-1363"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7175"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="145th Street West"/></way>
+<way id="-1369" visible="true"><nd ref="-1370"/><nd ref="-1371"/><nd ref="-1372"/><nd ref="-1373"/><nd ref="-1374"/><nd ref="-1375"/><nd ref="-1370"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7065"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="145th Street West"/></way>
+<way id="-1376" visible="true"><nd ref="-1377"/><nd ref="-1378"/><nd ref="-1379"/><nd ref="-1380"/><nd ref="-1381"/><nd ref="-1382"/><nd ref="-1383"/><nd ref="-1377"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7045"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="145th Street West"/></way>
+<way id="-1384" visible="true"><nd ref="-1385"/><nd ref="-1386"/><nd ref="-1387"/><nd ref="-1388"/><nd ref="-1389"/><nd ref="-1390"/><nd ref="-1391"/><nd ref="-1392"/><nd ref="-1393"/><nd ref="-1394"/><nd ref="-1395"/><nd ref="-1396"/><nd ref="-1397"/><nd ref="-1398"/><nd ref="-1399"/><nd ref="-1400"/><nd ref="-1385"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7089"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Street West"/></way>
+<way id="-1401" visible="true"><nd ref="-1402"/><nd ref="-1403"/><nd ref="-1404"/><nd ref="-1405"/><nd ref="-1402"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1406" visible="true"><nd ref="-1407"/><nd ref="-1408"/><nd ref="-1409"/><nd ref="-1410"/><nd ref="-1411"/><nd ref="-1412"/><nd ref="-1413"/><nd ref="-1414"/><nd ref="-1407"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7331"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Way West"/></way>
+<way id="-1415" visible="true"><nd ref="-1416"/><nd ref="-1417"/><nd ref="-1418"/><nd ref="-1419"/><nd ref="-1416"/><tag k="building" v="house"/><tag k="source" v="DCGIS"/></way>
+<way id="-1420" visible="true"><nd ref="-1421"/><nd ref="-1422"/><nd ref="-1423"/><nd ref="-1424"/><nd ref="-1421"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7121"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Street West"/></way>
+<way id="-1425" visible="true"><nd ref="-1426"/><nd ref="-1427"/><nd ref="-1428"/><nd ref="-1429"/><nd ref="-1430"/><nd ref="-1431"/><nd ref="-1432"/><nd ref="-1433"/><nd ref="-1434"/><nd ref="-1426"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7203"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Street West"/></way>
+<way id="-1435" visible="true"><nd ref="-1436"/><nd ref="-1437"/><nd ref="-1438"/><nd ref="-1439"/><nd ref="-1436"/><tag k="building" v="house"/><tag k="source" v="DCGIS"/></way>
+<way id="-1440" visible="true"><nd ref="-1441"/><nd ref="-1442"/><nd ref="-1443"/><nd ref="-1444"/><nd ref="-1445"/><nd ref="-1446"/><nd ref="-1447"/><nd ref="-1448"/><nd ref="-892"/><nd ref="-1441"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7105"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Street West"/></way>
+<way id="-1449" visible="true"><nd ref="-1450"/><nd ref="-1451"/><nd ref="-1452"/><nd ref="-1453"/><nd ref="-1454"/><nd ref="-1455"/><nd ref="-1456"/><nd ref="-1457"/><nd ref="-1458"/><nd ref="-1459"/><nd ref="-1450"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7191"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Street West"/></way>
+<way id="-1460" visible="true"><nd ref="-1461"/><nd ref="-1462"/><nd ref="-1463"/><nd ref="-1464"/><nd ref="-1461"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7381"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Way West"/></way>
+<way id="-1465" visible="true"><nd ref="-1466"/><nd ref="-1467"/><nd ref="-1468"/><nd ref="-1469"/><nd ref="-1470"/><nd ref="-1466"/><tag k="building" v="house"/><tag k="addr:housenumber" v="14573"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Garrett Avenue"/></way>
+<way id="-1471" visible="true"><nd ref="-1472"/><nd ref="-1473"/><nd ref="-1474"/><nd ref="-1475"/><nd ref="-1472"/><tag k="building" v="house"/><tag k="source" v="DCGIS"/></way>
+<way id="-1476" visible="true"><nd ref="-1477"/><nd ref="-1478"/><nd ref="-1479"/><nd ref="-1480"/><nd ref="-1481"/><nd ref="-1482"/><nd ref="-1477"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7411"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Way West"/></way>
+<way id="-1483" visible="true"><nd ref="-1484"/><nd ref="-1485"/><nd ref="-1486"/><nd ref="-1487"/><nd ref="-1488"/><nd ref="-1489"/><nd ref="-1490"/><nd ref="-1491"/><nd ref="-1484"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7361"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146th Way West"/></way>
+<way id="-1492" visible="true"><nd ref="-1493"/><nd ref="-1494"/><nd ref="-1495"/><nd ref="-1496"/><nd ref="-1493"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1497" visible="true"><nd ref="-1498"/><nd ref="-1499"/><nd ref="-1500"/><nd ref="-1501"/><nd ref="-1498"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1502" visible="true"><nd ref="-1503"/><nd ref="-1504"/><nd ref="-1505"/><nd ref="-1506"/><nd ref="-1507"/><nd ref="-1508"/><nd ref="-1509"/><nd ref="-1510"/><nd ref="-1511"/><nd ref="-1512"/><nd ref="-1513"/><nd ref="-1514"/><nd ref="-1503"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7037"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="146Th Street Court"/></way>
+<way id="-1515" visible="true"><nd ref="-1516"/><nd ref="-1517"/><nd ref="-1518"/><nd ref="-1519"/><nd ref="-1516"/><tag k="building" v="house"/><tag k="source" v="DCGIS"/></way>
+<way id="-1520" visible="true"><nd ref="-1521"/><nd ref="-1522"/><nd ref="-1523"/><nd ref="-1524"/><nd ref="-1521"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1525" visible="true"><nd ref="-1526"/><nd ref="-1527"/><nd ref="-1528"/><nd ref="-1529"/><nd ref="-1530"/><nd ref="-1531"/><nd ref="-1532"/><nd ref="-1533"/><nd ref="-1534"/><nd ref="-1535"/><nd ref="-1536"/><nd ref="-1537"/><nd ref="-1538"/><nd ref="-1526"/><tag k="building" v="church"/><tag k="addr:housenumber" v="14515"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Glazier Avenue"/></way>
+<way id="-1539" visible="true"><nd ref="-1540"/><nd ref="-1541"/><nd ref="-1542"/><nd ref="-1543"/><nd ref="-1540"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1544" visible="true"><nd ref="-1545"/><nd ref="-1546"/><nd ref="-1547"/><nd ref="-1548"/><nd ref="-1545"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-1549" visible="true"><nd ref="-1550"/><nd ref="-1551"/><nd ref="-1552"/><nd ref="-1553"/><nd ref="-1554"/><nd ref="-1555"/><nd ref="-1556"/><nd ref="-1557"/><nd ref="-1550"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7172"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="145th Street West"/></way>
+<way id="-1558" visible="true"><nd ref="-1559"/><nd ref="-1560"/><nd ref="-1561"/><nd ref="-1562"/><nd ref="-1559"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7154"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="145th Street West"/></way>
+<way id="-1563" visible="true"><nd ref="-1564"/><nd ref="-1565"/><nd ref="-1566"/><nd ref="-1567"/><nd ref="-1568"/><nd ref="-1569"/><nd ref="-1570"/><nd ref="-1564"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7118"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="145th Street West"/></way>
+<way id="-1571" visible="true"><nd ref="-1572"/><nd ref="-1573"/><nd ref="-1574"/><nd ref="-1575"/><nd ref="-1572"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1576" visible="true"><nd ref="-1577"/><nd ref="-1578"/><nd ref="-1579"/><nd ref="-1580"/><nd ref="-1581"/><nd ref="-1582"/><nd ref="-1583"/><nd ref="-1584"/><nd ref="-1577"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7196"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="145th Street West"/></way>
+<way id="-1585" visible="true"><nd ref="-1586"/><nd ref="-1587"/><nd ref="-1588"/><nd ref="-1589"/><nd ref="-1590"/><nd ref="-1591"/><nd ref="-1592"/><nd ref="-1593"/><nd ref="-1586"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-1594" visible="true"><nd ref="-1595"/><nd ref="-1596"/><nd ref="-1597"/><nd ref="-1598"/><nd ref="-1595"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-1599" visible="true"><nd ref="-1600"/><nd ref="-1601"/><nd ref="-1602"/><nd ref="-1603"/><nd ref="-1604"/><nd ref="-1605"/><nd ref="-1600"/><tag k="building" v="house"/><tag k="addr:housenumber" v="14547"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Genesee Avenue"/></way>
+<way id="-1606" visible="true"><nd ref="-1607"/><nd ref="-1608"/><nd ref="-1609"/><nd ref="-1610"/><nd ref="-1607"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1611" visible="true"><nd ref="-1612"/><nd ref="-1613"/><nd ref="-1614"/><nd ref="-1615"/><nd ref="-1616"/><nd ref="-1617"/><nd ref="-1618"/><nd ref="-1619"/><nd ref="-1612"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7135"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="145th Street West"/></way>
+<way id="-1620" visible="true"><nd ref="-1621"/><nd ref="-1622"/><nd ref="-1623"/><nd ref="-1624"/><nd ref="-1625"/><nd ref="-1626"/><nd ref="-1627"/><nd ref="-1628"/><nd ref="-1621"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7103"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="145th Street West"/></way>
+<way id="-1629" visible="true"><nd ref="-1630"/><nd ref="-1631"/><nd ref="-1632"/><nd ref="-1633"/><nd ref="-1634"/><nd ref="-1635"/><nd ref="-1636"/><nd ref="-1637"/><nd ref="-1638"/><nd ref="-1639"/><nd ref="-1640"/><nd ref="-1641"/><nd ref="-1642"/><nd ref="-1643"/><nd ref="-1630"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="14505"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Glazier Avenue"/></way>
+<way id="-1644" visible="true"><nd ref="-1645"/><nd ref="-1646"/><nd ref="-1647"/><nd ref="-1648"/><nd ref="-1645"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7195"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="145th Street West"/></way>
+<way id="-1649" visible="true"><nd ref="-1650"/><nd ref="-1651"/><nd ref="-1652"/><nd ref="-1653"/><nd ref="-1650"/><tag k="building" v="house"/><tag k="addr:housenumber" v="7205"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="145th Street West"/></way>
+<way id="-1654" visible="true"><nd ref="-1655"/><nd ref="-1656"/><nd ref="-1657"/><nd ref="-1658"/><nd ref="-1659"/><nd ref="-1660"/><nd ref="-1661"/><nd ref="-1662"/><nd ref="-1655"/><tag k="building" v="house"/><tag k="addr:housenumber" v="14560"/><tag k="addr:city" v="Apple Valley"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Genesee Avenue"/></way>
+<way id="-1663" visible="true"><nd ref="-1664"/><nd ref="-1665"/><nd ref="-1666"/><nd ref="-1667"/><nd ref="-1664"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1668" visible="true"><nd ref="-1669"/><nd ref="-1670"/><nd ref="-1671"/><nd ref="-1672"/><nd ref="-1673"/><nd ref="-1674"/><nd ref="-1675"/><nd ref="-1676"/><nd ref="-1677"/><nd ref="-1678"/><nd ref="-1679"/><nd ref="-1680"/><nd ref="-1669"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="14750"/><tag k="addr:city" v="Apple Valley"/><tag k="addr:postcode" v="55124"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Cedar Avenue"/></way>
+<way id="-1681" visible="true"><nd ref="-1682"/><nd ref="-1683"/><nd ref="-1684"/><nd ref="-1685"/><nd ref="-1682"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<relation id="-402" visible="true"><member ref="-403" role="outer" type="way"/><member ref="-416" role="inner" type="way"/><tag k="type" v="multipolygon"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></relation>
+</osm>

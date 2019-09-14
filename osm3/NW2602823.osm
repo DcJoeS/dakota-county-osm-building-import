@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.88802749" lon="-93.136958052" visible="true"/>
+<node id="-3" lat="44.887936203" lon="-93.136961033" visible="true"/>
+<node id="-4" lat="44.88793654" lon="-93.136971933" visible="true"/>
+<node id="-5" lat="44.887844773" lon="-93.136970982" visible="true"/>
+<node id="-6" lat="44.887846861" lon="-93.137136559" visible="true"/>
+<node id="-7" lat="44.887929196" lon="-93.137132622" visible="true"/>
+<node id="-8" lat="44.887963095" lon="-93.137127418" visible="true"/>
+<node id="-9" lat="44.887995347" lon="-93.137124516" visible="true"/>
+<node id="-10" lat="44.887995207" lon="-93.137083945" visible="true"/>
+<node id="-11" lat="44.888029038" lon="-93.137082307" visible="true"/>
+<node id="-13" lat="44.888329449" lon="-93.137001922" visible="true"/>
+<node id="-14" lat="44.888233663" lon="-93.137005073" visible="true"/>
+<node id="-15" lat="44.888233112" lon="-93.136957148" visible="true"/>
+<node id="-16" lat="44.888125384" lon="-93.136961891" visible="true"/>
+<node id="-17" lat="44.888126333" lon="-93.137040265" visible="true"/>
+<node id="-18" lat="44.888107785" lon="-93.137042072" visible="true"/>
+<node id="-19" lat="44.888110098" lon="-93.137233335" visible="true"/>
+<node id="-20" lat="44.888163301" lon="-93.13723329" visible="true"/>
+<node id="-21" lat="44.888163359" lon="-93.137223185" visible="true"/>
+<node id="-22" lat="44.888205507" lon="-93.137221699" visible="true"/>
+<node id="-23" lat="44.888206064" lon="-93.137262562" visible="true"/>
+<node id="-24" lat="44.88833251" lon="-93.137258318" visible="true"/>
+<node id="-26" lat="44.888863834" lon="-93.136963357" visible="true"/>
+<node id="-27" lat="44.88883129" lon="-93.136964388" visible="true"/>
+<node id="-28" lat="44.888830874" lon="-93.136954447" visible="true"/>
+<node id="-29" lat="44.888764257" lon="-93.136955962" visible="true"/>
+<node id="-30" lat="44.888766169" lon="-93.136989296" visible="true"/>
+<node id="-31" lat="44.888673317" lon="-93.136990225" visible="true"/>
+<node id="-32" lat="44.888674051" lon="-93.13703175" visible="true"/>
+<node id="-33" lat="44.888665247" lon="-93.137031846" visible="true"/>
+<node id="-34" lat="44.888666899" lon="-93.137190707" visible="true"/>
+<node id="-35" lat="44.888721213" lon="-93.137191079" visible="true"/>
+<node id="-36" lat="44.88872085" lon="-93.137166978" visible="true"/>
+<node id="-37" lat="44.888764635" lon="-93.137166636" visible="true"/>
+<node id="-38" lat="44.888774599" lon="-93.137178657" visible="true"/>
+<node id="-39" lat="44.888800392" lon="-93.137178321" visible="true"/>
+<node id="-40" lat="44.888809883" lon="-93.137168915" visible="true"/>
+<node id="-41" lat="44.888809869" lon="-93.13715696" visible="true"/>
+<node id="-42" lat="44.888843754" lon="-93.13715655" visible="true"/>
+<node id="-43" lat="44.888842664" lon="-93.137066007" visible="true"/>
+<node id="-44" lat="44.888864747" lon="-93.137065796" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1877"/><tag k="addr:city" v="Mendota Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Victoria Road South"/></way>
+<way id="-12" visible="true"><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-13"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1869"/><tag k="addr:city" v="Mendota Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Victoria Road South"/></way>
+<way id="-25" visible="true"><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-35"/><nd ref="-36"/><nd ref="-37"/><nd ref="-38"/><nd ref="-39"/><nd ref="-40"/><nd ref="-41"/><nd ref="-42"/><nd ref="-43"/><nd ref="-44"/><nd ref="-26"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1853"/><tag k="addr:city" v="Mendota Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Victoria Road South"/></way>
+</osm>

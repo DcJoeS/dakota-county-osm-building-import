@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.669046279" lon="-93.277992254" visible="true"/>
+<node id="-3" lat="44.669050436" lon="-93.277973294" visible="true"/>
+<node id="-4" lat="44.668878716" lon="-93.277892825" visible="true"/>
+<node id="-5" lat="44.668849889" lon="-93.278024322" visible="true"/>
+<node id="-6" lat="44.668915762" lon="-93.278055201" visible="true"/>
+<node id="-7" lat="44.668900748" lon="-93.278114578" visible="true"/>
+<node id="-8" lat="44.668976336" lon="-93.278143744" visible="true"/>
+<node id="-9" lat="44.668980783" lon="-93.278113734" visible="true"/>
+<node id="-10" lat="44.669027533" lon="-93.278132958" visible="true"/>
+<node id="-11" lat="44.669029742" lon="-93.278123162" visible="true"/>
+<node id="-12" lat="44.669038046" lon="-93.278125653" visible="true"/>
+<node id="-13" lat="44.669042925" lon="-93.278098097" visible="true"/>
+<node id="-14" lat="44.669059973" lon="-93.27810063" visible="true"/>
+<node id="-15" lat="44.669076483" lon="-93.278023374" visible="true"/>
+<node id="-16" lat="44.669080113" lon="-93.278006817" visible="true"/>
+<node id="-18" lat="44.669659428" lon="-93.278033205" visible="true"/>
+<node id="-19" lat="44.669627479" lon="-93.278046403" visible="true"/>
+<node id="-20" lat="44.669621215" lon="-93.278075748" visible="true"/>
+<node id="-21" lat="44.669453803" lon="-93.278021796" visible="true"/>
+<node id="-22" lat="44.669428302" lon="-93.278008511" visible="true"/>
+<node id="-23" lat="44.669424746" lon="-93.278021918" visible="true"/>
+<node id="-24" lat="44.669408173" lon="-93.278116786" visible="true"/>
+<node id="-25" lat="44.669545717" lon="-93.278170181" visible="true"/>
+<node id="-26" lat="44.669543267" lon="-93.278198209" visible="true"/>
+<node id="-27" lat="44.66955607" lon="-93.278222302" visible="true"/>
+<node id="-28" lat="44.669583675" lon="-93.278232449" visible="true"/>
+<node id="-29" lat="44.669609953" lon="-93.278200531" visible="true"/>
+<node id="-30" lat="44.669612851" lon="-93.278184522" visible="true"/>
+<node id="-31" lat="44.669696159" lon="-93.278208953" visible="true"/>
+<node id="-32" lat="44.669731489" lon="-93.278061783" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="19371"/><tag k="addr:city" v="Lakeville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55044"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Jersey Avenue"/></way>
+<way id="-17" visible="true"><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-18"/><tag k="building" v="house"/><tag k="addr:housenumber" v="19355"/><tag k="addr:city" v="Lakeville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55044"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Jersey Avenue"/></way>
+</osm>

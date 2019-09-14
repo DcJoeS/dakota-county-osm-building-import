@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.804314888" lon="-93.084744161" visible="true"/>
+<node id="-3" lat="44.80427733" lon="-93.084456585" visible="true"/>
+<node id="-4" lat="44.804180432" lon="-93.084481523" visible="true"/>
+<node id="-5" lat="44.804186414" lon="-93.084527369" visible="true"/>
+<node id="-6" lat="44.804175804" lon="-93.084530096" visible="true"/>
+<node id="-7" lat="44.804186435" lon="-93.08461153" visible="true"/>
+<node id="-8" lat="44.804121172" lon="-93.084628326" visible="true"/>
+<node id="-9" lat="44.804134589" lon="-93.084731234" visible="true"/>
+<node id="-10" lat="44.804153459" lon="-93.084726377" visible="true"/>
+<node id="-11" lat="44.804167714" lon="-93.084835628" visible="true"/>
+<node id="-12" lat="44.80419615" lon="-93.084828316" visible="true"/>
+<node id="-13" lat="44.804199139" lon="-93.084851233" visible="true"/>
+<node id="-14" lat="44.80422638" lon="-93.084844225" visible="true"/>
+<node id="-15" lat="44.804229071" lon="-93.084864866" visible="true"/>
+<node id="-16" lat="44.804292016" lon="-93.08484866" visible="true"/>
+<node id="-17" lat="44.804289008" lon="-93.084825583" visible="true"/>
+<node id="-18" lat="44.80432433" lon="-93.084816503" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="10130"/><tag k="addr:city" v="Inver Grove Heights"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55077"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Adam Avenue"/></way>
+</osm>

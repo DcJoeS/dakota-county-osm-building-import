@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.659789314" lon="-93.175228047" visible="true"/>
+<node id="-3" lat="44.659781714" lon="-93.175228368" visible="true"/>
+<node id="-4" lat="44.659780605" lon="-93.175176745" visible="true"/>
+<node id="-5" lat="44.659755241" lon="-93.175177814" visible="true"/>
+<node id="-6" lat="44.659752426" lon="-93.175162501" visible="true"/>
+<node id="-7" lat="44.659602376" lon="-93.175159745" visible="true"/>
+<node id="-8" lat="44.659602233" lon="-93.175252353" visible="true"/>
+<node id="-9" lat="44.659654636" lon="-93.175251679" visible="true"/>
+<node id="-10" lat="44.659655189" lon="-93.175279212" visible="true"/>
+<node id="-11" lat="44.659753536" lon="-93.175279893" visible="true"/>
+<node id="-12" lat="44.659780509" lon="-93.175278757" visible="true"/>
+<node id="-13" lat="44.659779947" lon="-93.175252687" visible="true"/>
+<node id="-14" lat="44.659789832" lon="-93.175252271" visible="true"/>
+<node id="-16" lat="44.660263899" lon="-93.176632844" visible="true"/>
+<node id="-17" lat="44.660256475" lon="-93.176650783" visible="true"/>
+<node id="-18" lat="44.660177699" lon="-93.176604371" visible="true"/>
+<node id="-19" lat="44.660160212" lon="-93.176659399" visible="true"/>
+<node id="-20" lat="44.660173982" lon="-93.176666655" visible="true"/>
+<node id="-21" lat="44.660152105" lon="-93.176738157" visible="true"/>
+<node id="-22" lat="44.660240175" lon="-93.17678845" visible="true"/>
+<node id="-23" lat="44.660252461" lon="-93.176752343" visible="true"/>
+<node id="-24" lat="44.660292826" lon="-93.17677496" visible="true"/>
+<node id="-25" lat="44.660318338" lon="-93.176683927" visible="true"/>
+<node id="-26" lat="44.660321567" lon="-93.176667834" visible="true"/>
+<node id="-28" lat="44.660428727" lon="-93.176440635" visible="true"/>
+<node id="-29" lat="44.660415838" lon="-93.176447167" visible="true"/>
+<node id="-30" lat="44.660391694" lon="-93.176362584" visible="true"/>
+<node id="-31" lat="44.660297253" lon="-93.176417935" visible="true"/>
+<node id="-32" lat="44.660357743" lon="-93.176604689" visible="true"/>
+<node id="-33" lat="44.660459576" lon="-93.176539898" visible="true"/>
+<node id="-35" lat="44.660602042" lon="-93.176343657" visible="true"/>
+<node id="-36" lat="44.66050202" lon="-93.17635988" visible="true"/>
+<node id="-37" lat="44.66051748" lon="-93.176546465" visible="true"/>
+<node id="-38" lat="44.660553812" lon="-93.176539401" visible="true"/>
+<node id="-39" lat="44.66055465" lon="-93.176549339" visible="true"/>
+<node id="-40" lat="44.660617057" lon="-93.176538959" visible="true"/>
+<node id="-42" lat="44.660781671" lon="-93.176557534" visible="true"/>
+<node id="-43" lat="44.660770303" lon="-93.176560955" visible="true"/>
+<node id="-44" lat="44.660760121" lon="-93.176439261" visible="true"/>
+<node id="-45" lat="44.660711307" lon="-93.176447063" visible="true"/>
+<node id="-46" lat="44.660712716" lon="-93.176465572" visible="true"/>
+<node id="-47" lat="44.660659281" lon="-93.176474799" visible="true"/>
+<node id="-48" lat="44.660673201" lon="-93.17660708" visible="true"/>
+<node id="-49" lat="44.660703967" lon="-93.176601209" visible="true"/>
+<node id="-50" lat="44.66070984" lon="-93.176662241" visible="true"/>
+<node id="-51" lat="44.660778793" lon="-93.176649347" visible="true"/>
+<node id="-52" lat="44.660789623" lon="-93.176644562" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-2"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-15" visible="true"><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-16"/><tag k="building" v="house"/><tag k="addr:housenumber" v="19896"/><tag k="addr:city" v="Farmington"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55024"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Escalade Way"/></way>
+<way id="-27" visible="true"><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-28"/><tag k="building" v="house"/><tag k="addr:housenumber" v="19872"/><tag k="addr:city" v="Farmington"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55024"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Escalade Way"/></way>
+<way id="-34" visible="true"><nd ref="-35"/><nd ref="-36"/><nd ref="-37"/><nd ref="-38"/><nd ref="-39"/><nd ref="-40"/><nd ref="-35"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-41" visible="true"><nd ref="-42"/><nd ref="-43"/><nd ref="-44"/><nd ref="-45"/><nd ref="-46"/><nd ref="-47"/><nd ref="-48"/><nd ref="-49"/><nd ref="-50"/><nd ref="-51"/><nd ref="-52"/><nd ref="-42"/><tag k="building" v="house"/><tag k="addr:housenumber" v="19824"/><tag k="addr:city" v="Farmington"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55024"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Escalade Way"/></way>
+</osm>

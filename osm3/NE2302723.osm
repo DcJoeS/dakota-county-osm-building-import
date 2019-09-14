@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.812256089" lon="-93.126229884" visible="true"/>
+<node id="-3" lat="44.81222385" lon="-93.126259472" visible="true"/>
+<node id="-4" lat="44.812175001" lon="-93.126154439" visible="true"/>
+<node id="-5" lat="44.81209764" lon="-93.126224578" visible="true"/>
+<node id="-6" lat="44.812115141" lon="-93.126262212" visible="true"/>
+<node id="-7" lat="44.812106925" lon="-93.126269752" visible="true"/>
+<node id="-8" lat="44.812127065" lon="-93.126313059" visible="true"/>
+<node id="-9" lat="44.812113986" lon="-93.126325062" visible="true"/>
+<node id="-10" lat="44.812161534" lon="-93.126427303" visible="true"/>
+<node id="-11" lat="44.812177399" lon="-93.126456778" visible="true"/>
+<node id="-12" lat="44.812211713" lon="-93.126427139" visible="true"/>
+<node id="-13" lat="44.812240306" lon="-93.126400895" visible="true"/>
+<node id="-14" lat="44.812223381" lon="-93.126364501" visible="true"/>
+<node id="-15" lat="44.812257472" lon="-93.126333208" visible="true"/>
+<node id="-16" lat="44.812245923" lon="-93.126308374" visible="true"/>
+<node id="-17" lat="44.812278629" lon="-93.126278354" visible="true"/>
+<node id="-19" lat="44.815989524" lon="-93.127193537" visible="true"/>
+<node id="-20" lat="44.815954421" lon="-93.127321608" visible="true"/>
+<node id="-21" lat="44.815913265" lon="-93.127299097" visible="true"/>
+<node id="-22" lat="44.815865121" lon="-93.12727379" visible="true"/>
+<node id="-23" lat="44.815842007" lon="-93.127348138" visible="true"/>
+<node id="-24" lat="44.815848947" lon="-93.127351667" visible="true"/>
+<node id="-25" lat="44.815828419" lon="-93.127434156" visible="true"/>
+<node id="-26" lat="44.815866399" lon="-93.127459637" visible="true"/>
+<node id="-27" lat="44.815922644" lon="-93.1274919" visible="true"/>
+<node id="-28" lat="44.815918388" lon="-93.127509948" visible="true"/>
+<node id="-29" lat="44.815959246" lon="-93.127530258" visible="true"/>
+<node id="-30" lat="44.816000296" lon="-93.127368273" visible="true"/>
+<node id="-31" lat="44.816018126" lon="-93.12737609" visible="true"/>
+<node id="-32" lat="44.816056657" lon="-93.127231431" visible="true"/>
+<node id="-34" lat="44.815666118" lon="-93.126878767" visible="true"/>
+<node id="-35" lat="44.815621849" lon="-93.126884417" visible="true"/>
+<node id="-36" lat="44.81562101" lon="-93.126856353" visible="true"/>
+<node id="-37" lat="44.815574743" lon="-93.126862839" visible="true"/>
+<node id="-38" lat="44.815571899" lon="-93.126813675" visible="true"/>
+<node id="-39" lat="44.815550547" lon="-93.126818037" visible="true"/>
+<node id="-40" lat="44.815549698" lon="-93.126794225" visible="true"/>
+<node id="-41" lat="44.815443139" lon="-93.126807442" visible="true"/>
+<node id="-42" lat="44.815448952" lon="-93.126878902" visible="true"/>
+<node id="-43" lat="44.815414601" lon="-93.126883599" visible="true"/>
+<node id="-44" lat="44.815421173" lon="-93.126966966" visible="true"/>
+<node id="-45" lat="44.815453352" lon="-93.12696013" visible="true"/>
+<node id="-46" lat="44.815456692" lon="-93.127004194" visible="true"/>
+<node id="-47" lat="44.815628694" lon="-93.126979521" visible="true"/>
+<node id="-48" lat="44.815628287" lon="-93.126965675" visible="true"/>
+<node id="-49" lat="44.81567052" lon="-93.12695872" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-2"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-18" visible="true"><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-19"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-33" visible="true"><nd ref="-34"/><nd ref="-35"/><nd ref="-36"/><nd ref="-37"/><nd ref="-38"/><nd ref="-39"/><nd ref="-40"/><nd ref="-41"/><nd ref="-42"/><nd ref="-43"/><nd ref="-44"/><nd ref="-45"/><nd ref="-46"/><nd ref="-47"/><nd ref="-48"/><nd ref="-49"/><nd ref="-34"/><tag k="building" v="house"/><tag k="addr:housenumber" v="3860"/><tag k="addr:city" v="Eagan"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55123"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bridgewater Drive"/></way>
+</osm>

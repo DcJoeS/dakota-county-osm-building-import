@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.760724218" lon="-93.316674924" visible="true"/>
+<node id="-3" lat="44.760579128" lon="-93.316668834" visible="true"/>
+<node id="-4" lat="44.760576659" lon="-93.316784811" visible="true"/>
+<node id="-5" lat="44.760722657" lon="-93.316790904" visible="true"/>
+<node id="-6" lat="44.760722838" lon="-93.316777401" visible="true"/>
+<node id="-7" lat="44.760778117" lon="-93.316779715" visible="true"/>
+<node id="-8" lat="44.760780298" lon="-93.316677268" visible="true"/>
+<node id="-10" lat="44.760876714" lon="-93.317976201" visible="true"/>
+<node id="-11" lat="44.760818647" lon="-93.317973638" visible="true"/>
+<node id="-12" lat="44.760706772" lon="-93.317971593" visible="true"/>
+<node id="-13" lat="44.760669746" lon="-93.317969672" visible="true"/>
+<node id="-14" lat="44.760670068" lon="-93.318089003" visible="true"/>
+<node id="-15" lat="44.760705177" lon="-93.318089987" visible="true"/>
+<node id="-16" lat="44.760818092" lon="-93.318085222" visible="true"/>
+<node id="-17" lat="44.76087726" lon="-93.318081041" visible="true"/>
+<node id="-19" lat="44.760777834" lon="-93.312683013" visible="true"/>
+<node id="-20" lat="44.76070842" lon="-93.31287586" visible="true"/>
+<node id="-21" lat="44.760774608" lon="-93.312923586" visible="true"/>
+<node id="-22" lat="44.760802159" lon="-93.312943445" visible="true"/>
+<node id="-23" lat="44.760873007" lon="-93.312749859" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="13402"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Washburn Avenue South"/></way>
+<way id="-9" visible="true"><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-10"/><tag k="building" v="house"/><tag k="addr:housenumber" v="13404"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Xerxes Avenue South"/></way>
+<way id="-18" visible="true"><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-19"/><tag k="building" v="house"/><tag k="addr:housenumber" v="2601"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Dana Drive"/></way>
+</osm>

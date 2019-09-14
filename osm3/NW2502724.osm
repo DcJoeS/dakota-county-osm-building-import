@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.799352882" lon="-93.241808156" visible="true"/>
+<node id="-3" lat="44.79934093" lon="-93.24184296" visible="true"/>
+<node id="-4" lat="44.79936638" lon="-93.241860127" visible="true"/>
+<node id="-5" lat="44.799380348" lon="-93.241826747" visible="true"/>
+<node id="-7" lat="44.80492378" lon="-93.246226187" visible="true"/>
+<node id="-8" lat="44.804831019" lon="-93.246310181" visible="true"/>
+<node id="-9" lat="44.804820696" lon="-93.246320329" visible="true"/>
+<node id="-10" lat="44.804810373" lon="-93.246330478" visible="true"/>
+<node id="-11" lat="44.80480005" lon="-93.246340626" visible="true"/>
+<node id="-12" lat="44.804789728" lon="-93.246350775" visible="true"/>
+<node id="-13" lat="44.804779405" lon="-93.246360923" visible="true"/>
+<node id="-14" lat="44.804769082" lon="-93.246371071" visible="true"/>
+<node id="-15" lat="44.804776302" lon="-93.24638556" visible="true"/>
+<node id="-16" lat="44.804783521" lon="-93.246400048" visible="true"/>
+<node id="-17" lat="44.804790742" lon="-93.246414536" visible="true"/>
+<node id="-18" lat="44.804797961" lon="-93.246429025" visible="true"/>
+<node id="-19" lat="44.804805182" lon="-93.246443513" visible="true"/>
+<node id="-20" lat="44.804812402" lon="-93.246458002" visible="true"/>
+<node id="-21" lat="44.804819621" lon="-93.246472489" visible="true"/>
+<node id="-22" lat="44.804825516" lon="-93.246466697" visible="true"/>
+<node id="-23" lat="44.804831409" lon="-93.246460904" visible="true"/>
+<node id="-24" lat="44.804899369" lon="-93.246413904" visible="true"/>
+<node id="-25" lat="44.804941021" lon="-93.24642169" visible="true"/>
+<node id="-26" lat="44.804948143" lon="-93.246356647" visible="true"/>
+<node id="-27" lat="44.80492585" lon="-93.246351024" visible="true"/>
+<node id="-28" lat="44.804966353" lon="-93.246309669" visible="true"/>
+<node id="-30" lat="44.801520849" lon="-93.237670821" visible="true"/>
+<node id="-31" lat="44.801485833" lon="-93.237867575" visible="true"/>
+<node id="-32" lat="44.801572275" lon="-93.237897868" visible="true"/>
+<node id="-33" lat="44.801590407" lon="-93.237795849" visible="true"/>
+<node id="-34" lat="44.8016354" lon="-93.23781161" visible="true"/>
+<node id="-35" lat="44.801652237" lon="-93.237716976" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-6" visible="true"><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-7"/><tag k="building" v="house"/><tag k="addr:housenumber" v="10923"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Territorial Drive"/></way>
+<way id="-29" visible="true"><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-35"/><nd ref="-30"/><tag k="building" v="house"/><tag k="addr:housenumber" v="11211"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Carver Court"/></way>
+</osm>

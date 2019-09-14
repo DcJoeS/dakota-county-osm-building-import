@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.715998441" lon="-93.248621996" visible="true"/>
+<node id="-3" lat="44.715998915" lon="-93.24861066" visible="true"/>
+<node id="-4" lat="44.716000021" lon="-93.248558036" visible="true"/>
+<node id="-5" lat="44.715998617" lon="-93.248521426" visible="true"/>
+<node id="-6" lat="44.715938193" lon="-93.248517936" visible="true"/>
+<node id="-7" lat="44.71593884" lon="-93.248471385" visible="true"/>
+<node id="-8" lat="44.71586607" lon="-93.248466539" visible="true"/>
+<node id="-9" lat="44.715862232" lon="-93.248601404" visible="true"/>
+<node id="-10" lat="44.715873858" lon="-93.248601323" visible="true"/>
+<node id="-11" lat="44.715873726" lon="-93.248614255" visible="true"/>
+<node id="-12" lat="44.715859366" lon="-93.248614737" visible="true"/>
+<node id="-13" lat="44.715859791" lon="-93.248673718" visible="true"/>
+<node id="-14" lat="44.71586196" lon="-93.248719914" visible="true"/>
+<node id="-15" lat="44.715992627" lon="-93.248724429" visible="true"/>
+<node id="-16" lat="44.715994443" lon="-93.248645831" visible="true"/>
+<node id="-17" lat="44.716000371" lon="-93.248646045" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="9017"/><tag k="addr:city" v="Lakeville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55044"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="161st Street West"/></way>
+</osm>

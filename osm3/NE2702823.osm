@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.886486526" lon="-93.15397885" visible="true"/>
+<node id="-3" lat="44.886480354" lon="-93.153979076" visible="true"/>
+<node id="-4" lat="44.886479581" lon="-93.153885756" visible="true"/>
+<node id="-5" lat="44.886407025" lon="-93.153886067" visible="true"/>
+<node id="-6" lat="44.886406205" lon="-93.153822679" visible="true"/>
+<node id="-7" lat="44.886345097" lon="-93.15382023" visible="true"/>
+<node id="-8" lat="44.886343908" lon="-93.153865231" visible="true"/>
+<node id="-9" lat="44.886343675" lon="-93.153968805" visible="true"/>
+<node id="-10" lat="44.886361135" lon="-93.153968643" visible="true"/>
+<node id="-11" lat="44.886364366" lon="-93.154109053" visible="true"/>
+<node id="-12" lat="44.886479861" lon="-93.154108215" visible="true"/>
+<node id="-13" lat="44.886479365" lon="-93.154063688" visible="true"/>
+<node id="-14" lat="44.886487266" lon="-93.154063429" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1205"/><tag k="addr:city" v="Mendota Heights"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55118"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Culligan Lane"/></way>
+</osm>

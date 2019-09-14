@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.648091374" lon="-93.168054694" visible="true"/>
+<node id="-3" lat="44.647739601" lon="-93.168363517" visible="true"/>
+<node id="-4" lat="44.647866543" lon="-93.168638192" visible="true"/>
+<node id="-5" lat="44.648216153" lon="-93.168330211" visible="true"/>
+<node id="-7" lat="44.650042171" lon="-93.167301913" visible="true"/>
+<node id="-8" lat="44.649979381" lon="-93.167322285" visible="true"/>
+<node id="-9" lat="44.649975749" lon="-93.167298307" visible="true"/>
+<node id="-10" lat="44.650030519" lon="-93.16728209" visible="true"/>
+<node id="-11" lat="44.650005239" lon="-93.1671039" visible="true"/>
+<node id="-12" lat="44.649947245" lon="-93.167121169" visible="true"/>
+<node id="-13" lat="44.649942876" lon="-93.167095168" visible="true"/>
+<node id="-14" lat="44.650003838" lon="-93.167078142" visible="true"/>
+<node id="-15" lat="44.649990378" lon="-93.166984069" visible="true"/>
+<node id="-16" lat="44.649927502" lon="-93.167000746" visible="true"/>
+<node id="-17" lat="44.649922017" lon="-93.166963857" visible="true"/>
+<node id="-18" lat="44.64977496" lon="-93.167008069" visible="true"/>
+<node id="-19" lat="44.649789759" lon="-93.167128917" visible="true"/>
+<node id="-20" lat="44.649823644" lon="-93.167382388" visible="true"/>
+<node id="-21" lat="44.649830227" lon="-93.167380283" visible="true"/>
+<node id="-22" lat="44.649848191" lon="-93.167501188" visible="true"/>
+<node id="-23" lat="44.650000256" lon="-93.167456367" visible="true"/>
+<node id="-24" lat="44.649994902" lon="-93.167419291" visible="true"/>
+<node id="-25" lat="44.650056261" lon="-93.167402447" visible="true"/>
+<node id="-27" lat="44.650401851" lon="-93.166920194" visible="true"/>
+<node id="-28" lat="44.650248566" lon="-93.16694716" visible="true"/>
+<node id="-29" lat="44.650251827" lon="-93.166984905" visible="true"/>
+<node id="-30" lat="44.650195322" lon="-93.166995294" visible="true"/>
+<node id="-31" lat="44.650212075" lon="-93.167176063" visible="true"/>
+<node id="-32" lat="44.650272785" lon="-93.167166019" visible="true"/>
+<node id="-33" lat="44.650275691" lon="-93.167202982" visible="true"/>
+<node id="-34" lat="44.650426924" lon="-93.167172164" visible="true"/>
+<node id="-36" lat="44.650621932" lon="-93.167374364" visible="true"/>
+<node id="-37" lat="44.650540176" lon="-93.167318057" visible="true"/>
+<node id="-38" lat="44.650459484" lon="-93.167268937" visible="true"/>
+<node id="-39" lat="44.650391788" lon="-93.167461689" visible="true"/>
+<node id="-40" lat="44.650413675" lon="-93.167476814" visible="true"/>
+<node id="-41" lat="44.650388454" lon="-93.167551381" visible="true"/>
+<node id="-42" lat="44.650506938" lon="-93.167631373" visible="true"/>
+<node id="-43" lat="44.650532367" lon="-93.167555461" visible="true"/>
+<node id="-44" lat="44.650547707" lon="-93.167565722" visible="true"/>
+<node id="-45" lat="44.650521155" lon="-93.167643475" visible="true"/>
+<node id="-46" lat="44.650586189" lon="-93.167685513" visible="true"/>
+<node id="-47" lat="44.65061184" lon="-93.167610025" visible="true"/>
+<node id="-48" lat="44.650633962" lon="-93.167626249" visible="true"/>
+<node id="-49" lat="44.650700593" lon="-93.167430093" visible="true"/>
+<node id="-51" lat="44.650799239" lon="-93.1668739" visible="true"/>
+<node id="-52" lat="44.650773581" lon="-93.166876196" visible="true"/>
+<node id="-53" lat="44.650769712" lon="-93.166793367" visible="true"/>
+<node id="-54" lat="44.650638967" lon="-93.166805267" visible="true"/>
+<node id="-55" lat="44.650643689" lon="-93.166890637" visible="true"/>
+<node id="-56" lat="44.65061761" lon="-93.166892987" visible="true"/>
+<node id="-57" lat="44.650630663" lon="-93.167106869" visible="true"/>
+<node id="-58" lat="44.65081149" lon="-93.167088135" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-2"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-6" visible="true"><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-7"/><tag k="building" v="house"/><tag k="source" v="DCGIS"/></way>
+<way id="-26" visible="true"><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-27"/><tag k="building" v="house"/><tag k="addr:housenumber" v="20696"/><tag k="addr:city" v="Farmington"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55024"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Cypress Drive"/></way>
+<way id="-35" visible="true"><nd ref="-36"/><nd ref="-37"/><nd ref="-38"/><nd ref="-39"/><nd ref="-40"/><nd ref="-41"/><nd ref="-42"/><nd ref="-43"/><nd ref="-44"/><nd ref="-45"/><nd ref="-46"/><nd ref="-47"/><nd ref="-48"/><nd ref="-49"/><nd ref="-36"/><tag k="building" v="house"/><tag k="addr:housenumber" v="20652"/><tag k="addr:city" v="Farmington"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55024"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Cypress Drive"/></way>
+<way id="-50" visible="true"><nd ref="-51"/><nd ref="-52"/><nd ref="-53"/><nd ref="-54"/><nd ref="-55"/><nd ref="-56"/><nd ref="-57"/><nd ref="-58"/><nd ref="-51"/><tag k="building" v="house"/><tag k="addr:housenumber" v="20651"/><tag k="addr:city" v="Farmington"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55024"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Eastview Avenue"/></way>
+</osm>

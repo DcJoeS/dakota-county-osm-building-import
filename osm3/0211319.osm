@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.62949845" lon="-93.074604002" visible="true"/>
+<node id="-3" lat="44.629484088" lon="-93.074624905" visible="true"/>
+<node id="-4" lat="44.629466127" lon="-93.074600383" visible="true"/>
+<node id="-5" lat="44.629383863" lon="-93.074713533" visible="true"/>
+<node id="-6" lat="44.629360524" lon="-93.074682301" visible="true"/>
+<node id="-7" lat="44.629289223" lon="-93.074782178" visible="true"/>
+<node id="-8" lat="44.629312065" lon="-93.074815383" visible="true"/>
+<node id="-9" lat="44.629253702" lon="-93.07489813" visible="true"/>
+<node id="-10" lat="44.6293217" lon="-93.074990107" visible="true"/>
+<node id="-11" lat="44.629393813" lon="-93.074885339" visible="true"/>
+<node id="-12" lat="44.629406764" lon="-93.074903665" visible="true"/>
+<node id="-13" lat="44.629416133" lon="-93.074889785" visible="true"/>
+<node id="-14" lat="44.629421804" lon="-93.074900792" visible="true"/>
+<node id="-15" lat="44.629458977" lon="-93.074844762" visible="true"/>
+<node id="-16" lat="44.629465517" lon="-93.074852938" visible="true"/>
+<node id="-17" lat="44.629486904" lon="-93.074822185" visible="true"/>
+<node id="-18" lat="44.629502303" lon="-93.074841977" visible="true"/>
+<node id="-19" lat="44.629584951" lon="-93.074723763" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="22030"/><tag k="addr:city" v="Farmington"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55024"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Annette Avenue"/></way>
+</osm>

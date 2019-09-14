@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.787589381" lon="-93.107777293" visible="true"/>
+<node id="-3" lat="44.787554582" lon="-93.107850676" visible="true"/>
+<node id="-4" lat="44.787547444" lon="-93.107843969" visible="true"/>
+<node id="-5" lat="44.787491456" lon="-93.1079625" visible="true"/>
+<node id="-6" lat="44.787549701" lon="-93.108021459" visible="true"/>
+<node id="-7" lat="44.787557058" lon="-93.108028647" visible="true"/>
+<node id="-8" lat="44.787576011" lon="-93.107999954" visible="true"/>
+<node id="-9" lat="44.787592974" lon="-93.108019075" visible="true"/>
+<node id="-10" lat="44.787610596" lon="-93.107979081" visible="true"/>
+<node id="-11" lat="44.787597384" lon="-93.107959169" visible="true"/>
+<node id="-12" lat="44.787616592" lon="-93.107917644" visible="true"/>
+<node id="-13" lat="44.787607671" lon="-93.107900225" visible="true"/>
+<node id="-14" lat="44.787642749" lon="-93.107831389" visible="true"/>
+<node id="-16" lat="44.788755591" lon="-93.10857628" visible="true"/>
+<node id="-17" lat="44.788761588" lon="-93.108574669" visible="true"/>
+<node id="-18" lat="44.788742711" lon="-93.108496609" visible="true"/>
+<node id="-19" lat="44.788678471" lon="-93.108524782" visible="true"/>
+<node id="-20" lat="44.788679099" lon="-93.108538256" visible="true"/>
+<node id="-21" lat="44.788666881" lon="-93.108543388" visible="true"/>
+<node id="-22" lat="44.788666019" lon="-93.10855607" visible="true"/>
+<node id="-23" lat="44.788629961" lon="-93.10857338" visible="true"/>
+<node id="-24" lat="44.78864204" lon="-93.108636424" visible="true"/>
+<node id="-25" lat="44.788631856" lon="-93.108642353" visible="true"/>
+<node id="-26" lat="44.788643845" lon="-93.108700241" visible="true"/>
+<node id="-27" lat="44.78865512" lon="-93.108693945" visible="true"/>
+<node id="-28" lat="44.788664793" lon="-93.108735923" visible="true"/>
+<node id="-29" lat="44.788711808" lon="-93.108709641" visible="true"/>
+<node id="-30" lat="44.788737431" lon="-93.108697405" visible="true"/>
+<node id="-31" lat="44.788777315" lon="-93.108678358" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="4655"/><tag k="addr:city" v="Eagan"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55123"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bristol Boulevard"/></way>
+<way id="-15" visible="true"><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-16"/><tag k="building" v="house"/><tag k="addr:housenumber" v="537"/><tag k="addr:city" v="Eagan"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55123"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Weston Hills Court"/></way>
+</osm>

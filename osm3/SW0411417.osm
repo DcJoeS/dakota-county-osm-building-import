@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.702702713" lon="-92.863410156" visible="true"/>
+<node id="-3" lat="44.702702763" lon="-92.863492455" visible="true"/>
+<node id="-4" lat="44.702686855" lon="-92.863492579" visible="true"/>
+<node id="-5" lat="44.702686888" lon="-92.863639104" visible="true"/>
+<node id="-6" lat="44.702810038" lon="-92.863638914" visible="true"/>
+<node id="-7" lat="44.702809953" lon="-92.863410087" visible="true"/>
+<node id="-9" lat="44.70313491" lon="-92.866008919" visible="true"/>
+<node id="-10" lat="44.702934668" lon="-92.86600752" visible="true"/>
+<node id="-11" lat="44.702936523" lon="-92.866123279" visible="true"/>
+<node id="-12" lat="44.703025373" lon="-92.866121778" visible="true"/>
+<node id="-13" lat="44.703025651" lon="-92.866211815" visible="true"/>
+<node id="-14" lat="44.703116598" lon="-92.86620958" visible="true"/>
+<node id="-15" lat="44.703116584" lon="-92.866122483" visible="true"/>
+<node id="-16" lat="44.703135453" lon="-92.866120271" visible="true"/>
+<node id="-18" lat="44.702346405" lon="-92.866163457" visible="true"/>
+<node id="-19" lat="44.702196833" lon="-92.866173154" visible="true"/>
+<node id="-20" lat="44.70220267" lon="-92.866276006" visible="true"/>
+<node id="-21" lat="44.702188379" lon="-92.866276037" visible="true"/>
+<node id="-22" lat="44.702189372" lon="-92.866310769" visible="true"/>
+<node id="-23" lat="44.702206525" lon="-92.866313401" visible="true"/>
+<node id="-24" lat="44.702207535" lon="-92.866362828" visible="true"/>
+<node id="-25" lat="44.70227327" lon="-92.866357332" visible="true"/>
+<node id="-26" lat="44.702275087" lon="-92.866282518" visible="true"/>
+<node id="-27" lat="44.702349398" lon="-92.866278339" visible="true"/>
+<node id="-29" lat="44.702441262" lon="-92.86672342" visible="true"/>
+<node id="-30" lat="44.70243867" lon="-92.866761512" visible="true"/>
+<node id="-31" lat="44.702479558" lon="-92.86676658" visible="true"/>
+<node id="-32" lat="44.702481876" lon="-92.866728488" visible="true"/>
+<node id="-34" lat="44.702747119" lon="-92.866142135" visible="true"/>
+<node id="-35" lat="44.70271753" lon="-92.866145723" visible="true"/>
+<node id="-36" lat="44.702722724" lon="-92.866213496" visible="true"/>
+<node id="-37" lat="44.702752246" lon="-92.866209049" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="11985"/><tag k="addr:city" v="Hastings"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55033"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="170th Street East"/></way>
+<way id="-8" visible="true"><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-9"/><tag k="building" v="house"/><tag k="addr:housenumber" v="11890"/><tag k="addr:city" v="Hastings"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55033"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="170th Street East"/></way>
+<way id="-17" visible="true"><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-18"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-28" visible="true"><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-29"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-33" visible="true"><nd ref="-34"/><nd ref="-35"/><nd ref="-36"/><nd ref="-37"/><nd ref="-34"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+</osm>

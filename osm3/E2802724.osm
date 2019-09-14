@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.794013763" lon="-93.290578742" visible="true"/>
+<node id="-3" lat="44.79405791" lon="-93.290494993" visible="true"/>
+<node id="-4" lat="44.793976389" lon="-93.29042164" visible="true"/>
+<node id="-5" lat="44.793911907" lon="-93.290547631" visible="true"/>
+<node id="-6" lat="44.793980937" lon="-93.290622508" visible="true"/>
+<node id="-7" lat="44.793924843" lon="-93.290956158" visible="true"/>
+<node id="-8" lat="44.79384006" lon="-93.291117113" visible="true"/>
+<node id="-9" lat="44.794086933" lon="-93.291360727" visible="true"/>
+<node id="-10" lat="44.794171263" lon="-93.291198883" visible="true"/>
+<node id="-11" lat="44.79437891" lon="-93.291001588" visible="true"/>
+<node id="-12" lat="44.794400075" lon="-93.290940498" visible="true"/>
+<node id="-14" lat="44.798120056" lon="-93.293450884" visible="true"/>
+<node id="-15" lat="44.797945284" lon="-93.294100393" visible="true"/>
+<node id="-16" lat="44.798315244" lon="-93.29429665" visible="true"/>
+<node id="-17" lat="44.798489939" lon="-93.293647225" visible="true"/>
+<node id="-19" lat="44.798536618" lon="-93.292375358" visible="true"/>
+<node id="-20" lat="44.798524508" lon="-93.292369651" visible="true"/>
+<node id="-21" lat="44.798512396" lon="-93.292363943" visible="true"/>
+<node id="-22" lat="44.798500286" lon="-93.292358235" visible="true"/>
+<node id="-23" lat="44.798488174" lon="-93.292352529" visible="true"/>
+<node id="-24" lat="44.798476064" lon="-93.29234682" visible="true"/>
+<node id="-25" lat="44.798463952" lon="-93.292341112" visible="true"/>
+<node id="-26" lat="44.798451841" lon="-93.292335404" visible="true"/>
+<node id="-27" lat="44.798439729" lon="-93.292329697" visible="true"/>
+<node id="-28" lat="44.798427618" lon="-93.292323988" visible="true"/>
+<node id="-29" lat="44.798415507" lon="-93.292318281" visible="true"/>
+<node id="-30" lat="44.798411627" lon="-93.292334522" visible="true"/>
+<node id="-31" lat="44.798407747" lon="-93.292350763" visible="true"/>
+<node id="-32" lat="44.798403867" lon="-93.292367002" visible="true"/>
+<node id="-33" lat="44.798399988" lon="-93.292383243" visible="true"/>
+<node id="-34" lat="44.798396108" lon="-93.292399484" visible="true"/>
+<node id="-35" lat="44.798392228" lon="-93.292415723" visible="true"/>
+<node id="-36" lat="44.798388349" lon="-93.292431964" visible="true"/>
+<node id="-37" lat="44.798384469" lon="-93.292448204" visible="true"/>
+<node id="-38" lat="44.798380588" lon="-93.292464443" visible="true"/>
+<node id="-39" lat="44.798392699" lon="-93.292470152" visible="true"/>
+<node id="-40" lat="44.798404811" lon="-93.29247586" visible="true"/>
+<node id="-41" lat="44.798416922" lon="-93.292481567" visible="true"/>
+<node id="-42" lat="44.798429033" lon="-93.292487275" visible="true"/>
+<node id="-43" lat="44.798441144" lon="-93.292492984" visible="true"/>
+<node id="-44" lat="44.798453255" lon="-93.292498691" visible="true"/>
+<node id="-45" lat="44.798465366" lon="-93.292504398" visible="true"/>
+<node id="-46" lat="44.798477478" lon="-93.292510106" visible="true"/>
+<node id="-47" lat="44.798489589" lon="-93.292515813" visible="true"/>
+<node id="-48" lat="44.7985017" lon="-93.292521521" visible="true"/>
+<node id="-49" lat="44.798513811" lon="-93.292527229" visible="true"/>
+<node id="-50" lat="44.798517691" lon="-93.292510988" visible="true"/>
+<node id="-51" lat="44.798521571" lon="-93.292494748" visible="true"/>
+<node id="-52" lat="44.798525451" lon="-93.292478508" visible="true"/>
+<node id="-53" lat="44.798529331" lon="-93.292462267" visible="true"/>
+<node id="-54" lat="44.79853321" lon="-93.292446027" visible="true"/>
+<node id="-55" lat="44.798537089" lon="-93.292429786" visible="true"/>
+<node id="-56" lat="44.79854097" lon="-93.292413546" visible="true"/>
+<node id="-57" lat="44.79854485" lon="-93.292397307" visible="true"/>
+<node id="-58" lat="44.79854873" lon="-93.292381066" visible="true"/>
+<node id="-60" lat="44.798615454" lon="-93.291634866" visible="true"/>
+<node id="-61" lat="44.798435657" lon="-93.292293185" visible="true"/>
+<node id="-62" lat="44.798852994" lon="-93.292492511" visible="true"/>
+<node id="-63" lat="44.799026716" lon="-93.291856436" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-2"/><tag k="building" v="industrial"/><tag k="addr:housenumber" v="11501"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Embassy Road"/></way>
+<way id="-13" visible="true"><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-14"/><tag k="building" v="industrial"/><tag k="addr:housenumber" v="1020"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Black Dog Road West"/></way>
+<way id="-18" visible="true"><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-35"/><nd ref="-36"/><nd ref="-37"/><nd ref="-38"/><nd ref="-39"/><nd ref="-40"/><nd ref="-41"/><nd ref="-42"/><nd ref="-43"/><nd ref="-44"/><nd ref="-45"/><nd ref="-46"/><nd ref="-47"/><nd ref="-48"/><nd ref="-49"/><nd ref="-50"/><nd ref="-51"/><nd ref="-52"/><nd ref="-53"/><nd ref="-54"/><nd ref="-55"/><nd ref="-56"/><nd ref="-57"/><nd ref="-58"/><nd ref="-19"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-59" visible="true"><nd ref="-60"/><nd ref="-61"/><nd ref="-62"/><nd ref="-63"/><nd ref="-60"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+</osm>

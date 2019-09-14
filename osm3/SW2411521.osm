@@ -1,0 +1,1433 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.747104316" lon="-93.288502024" visible="true"/>
+<node id="-3" lat="44.747096379" lon="-93.288514942" visible="true"/>
+<node id="-4" lat="44.746900074" lon="-93.288513142" visible="true"/>
+<node id="-5" lat="44.746899675" lon="-93.2887113" visible="true"/>
+<node id="-6" lat="44.747118445" lon="-93.28870226" visible="true"/>
+<node id="-7" lat="44.747120481" lon="-93.288551842" visible="true"/>
+<node id="-8" lat="44.747130185" lon="-93.288538453" visible="true"/>
+<node id="-10" lat="44.747183188" lon="-93.294010432" visible="true"/>
+<node id="-11" lat="44.747071283" lon="-93.294007233" visible="true"/>
+<node id="-12" lat="44.747024174" lon="-93.294005379" visible="true"/>
+<node id="-13" lat="44.746955958" lon="-93.29400279" visible="true"/>
+<node id="-14" lat="44.746924253" lon="-93.294004943" visible="true"/>
+<node id="-15" lat="44.746908094" lon="-93.294010794" visible="true"/>
+<node id="-16" lat="44.746897351" lon="-93.294020655" visible="true"/>
+<node id="-17" lat="44.746888274" lon="-93.294034491" visible="true"/>
+<node id="-18" lat="44.746881917" lon="-93.29405296" visible="true"/>
+<node id="-19" lat="44.746880254" lon="-93.294075024" visible="true"/>
+<node id="-20" lat="44.746880103" lon="-93.294103567" visible="true"/>
+<node id="-21" lat="44.746866083" lon="-93.294105406" visible="true"/>
+<node id="-22" lat="44.746865772" lon="-93.294169628" visible="true"/>
+<node id="-23" lat="44.746922306" lon="-93.294171618" visible="true"/>
+<node id="-24" lat="44.746922601" lon="-93.294160804" visible="true"/>
+<node id="-25" lat="44.746998222" lon="-93.294159074" visible="true"/>
+<node id="-26" lat="44.746997423" lon="-93.294173166" visible="true"/>
+<node id="-27" lat="44.747039474" lon="-93.29417455" visible="true"/>
+<node id="-28" lat="44.74704002" lon="-93.29415896" visible="true"/>
+<node id="-29" lat="44.747146114" lon="-93.294158411" visible="true"/>
+<node id="-30" lat="44.747146467" lon="-93.294167285" visible="true"/>
+<node id="-31" lat="44.747184162" lon="-93.294168219" visible="true"/>
+<node id="-32" lat="44.747185216" lon="-93.294149038" visible="true"/>
+<node id="-33" lat="44.747221203" lon="-93.294148429" visible="true"/>
+<node id="-34" lat="44.747221256" lon="-93.294014163" visible="true"/>
+<node id="-36" lat="44.747402143" lon="-93.292237017" visible="true"/>
+<node id="-37" lat="44.747300278" lon="-93.292240128" visible="true"/>
+<node id="-38" lat="44.747301472" lon="-93.292303815" visible="true"/>
+<node id="-39" lat="44.747403098" lon="-93.292302341" visible="true"/>
+<node id="-41" lat="44.747081785" lon="-93.29164552" visible="true"/>
+<node id="-42" lat="44.747045009" lon="-93.291701007" visible="true"/>
+<node id="-43" lat="44.747045732" lon="-93.292044298" visible="true"/>
+<node id="-44" lat="44.747421389" lon="-93.292043633" visible="true"/>
+<node id="-45" lat="44.747421877" lon="-93.291646478" visible="true"/>
+<node id="-47" lat="44.747691998" lon="-93.292298151" visible="true"/>
+<node id="-48" lat="44.746937001" lon="-93.292309102" visible="true"/>
+<node id="-49" lat="44.746939946" lon="-93.292709041" visible="true"/>
+<node id="-50" lat="44.747694943" lon="-93.292698091" visible="true"/>
+<node id="-52" lat="44.747670441" lon="-93.293911381" visible="true"/>
+<node id="-53" lat="44.747543202" lon="-93.293981393" visible="true"/>
+<node id="-54" lat="44.74756077" lon="-93.294049495" visible="true"/>
+<node id="-55" lat="44.747556558" lon="-93.294058721" visible="true"/>
+<node id="-56" lat="44.747555615" lon="-93.294071353" visible="true"/>
+<node id="-57" lat="44.747592091" lon="-93.294192124" visible="true"/>
+<node id="-58" lat="44.74759627" lon="-93.294197916" visible="true"/>
+<node id="-59" lat="44.747603578" lon="-93.294198658" visible="true"/>
+<node id="-60" lat="44.747624373" lon="-93.294266212" visible="true"/>
+<node id="-61" lat="44.747751868" lon="-93.294195697" visible="true"/>
+<node id="-63" lat="44.748139819" lon="-93.292318512" visible="true"/>
+<node id="-64" lat="44.748139251" lon="-93.292396424" visible="true"/>
+<node id="-65" lat="44.748175638" lon="-93.292396666" visible="true"/>
+<node id="-66" lat="44.748176203" lon="-93.292319033" visible="true"/>
+<node id="-68" lat="44.746946874" lon="-93.295389076" visible="true"/>
+<node id="-69" lat="44.746946906" lon="-93.295269163" visible="true"/>
+<node id="-70" lat="44.746884256" lon="-93.29527153" visible="true"/>
+<node id="-71" lat="44.74688386" lon="-93.295340611" visible="true"/>
+<node id="-72" lat="44.746869604" lon="-93.295339933" visible="true"/>
+<node id="-73" lat="44.746868829" lon="-93.295382103" visible="true"/>
+<node id="-74" lat="44.746885212" lon="-93.29538269" visible="true"/>
+<node id="-75" lat="44.746884538" lon="-93.295540308" visible="true"/>
+<node id="-76" lat="44.746947729" lon="-93.295542349" visible="true"/>
+<node id="-77" lat="44.746948127" lon="-93.295479621" visible="true"/>
+<node id="-78" lat="44.746956682" lon="-93.295479965" visible="true"/>
+<node id="-79" lat="44.746957389" lon="-93.295389325" visible="true"/>
+<node id="-81" lat="44.74706926" lon="-93.297044764" visible="true"/>
+<node id="-82" lat="44.746963164" lon="-93.297046381" visible="true"/>
+<node id="-83" lat="44.746963482" lon="-93.297087188" visible="true"/>
+<node id="-84" lat="44.746955856" lon="-93.297087306" visible="true"/>
+<node id="-85" lat="44.746960304" lon="-93.29765326" visible="true"/>
+<node id="-86" lat="44.747019898" lon="-93.29765234" visible="true"/>
+<node id="-87" lat="44.747019817" lon="-93.297641959" visible="true"/>
+<node id="-88" lat="44.747073881" lon="-93.297641115" visible="true"/>
+<node id="-90" lat="44.747157692" lon="-93.296207973" visible="true"/>
+<node id="-91" lat="44.747106523" lon="-93.296209255" visible="true"/>
+<node id="-92" lat="44.747104777" lon="-93.296069489" visible="true"/>
+<node id="-93" lat="44.747009479" lon="-93.296071913" visible="true"/>
+<node id="-94" lat="44.74701119" lon="-93.296208448" visible="true"/>
+<node id="-95" lat="44.746961598" lon="-93.296209673" visible="true"/>
+<node id="-96" lat="44.746962539" lon="-93.296285173" visible="true"/>
+<node id="-97" lat="44.746940859" lon="-93.296285702" visible="true"/>
+<node id="-98" lat="44.746942241" lon="-93.296394709" visible="true"/>
+<node id="-99" lat="44.746963316" lon="-93.296394203" visible="true"/>
+<node id="-100" lat="44.746964224" lon="-93.296464765" visible="true"/>
+<node id="-101" lat="44.747119055" lon="-93.296460885" visible="true"/>
+<node id="-102" lat="44.747119438" lon="-93.29649168" visible="true"/>
+<node id="-103" lat="44.747150591" lon="-93.296490887" visible="true"/>
+<node id="-104" lat="44.747150229" lon="-93.29646268" visible="true"/>
+<node id="-105" lat="44.747160862" lon="-93.296462414" visible="true"/>
+<node id="-107" lat="44.747202828" lon="-93.290850563" visible="true"/>
+<node id="-108" lat="44.746969293" lon="-93.290850948" visible="true"/>
+<node id="-109" lat="44.746969524" lon="-93.291096448" visible="true"/>
+<node id="-110" lat="44.746997575" lon="-93.291096425" visible="true"/>
+<node id="-111" lat="44.746997738" lon="-93.291251831" visible="true"/>
+<node id="-112" lat="44.747097007" lon="-93.2912516" visible="true"/>
+<node id="-113" lat="44.747096903" lon="-93.291097638" visible="true"/>
+<node id="-114" lat="44.747202985" lon="-93.291097492" visible="true"/>
+<node id="-116" lat="44.747410284" lon="-93.289701589" visible="true"/>
+<node id="-117" lat="44.747336425" lon="-93.289707003" visible="true"/>
+<node id="-118" lat="44.747333945" lon="-93.289695489" visible="true"/>
+<node id="-119" lat="44.747253035" lon="-93.289704614" visible="true"/>
+<node id="-120" lat="44.747210215" lon="-93.289679468" visible="true"/>
+<node id="-121" lat="44.747164268" lon="-93.289676513" visible="true"/>
+<node id="-122" lat="44.747116049" lon="-93.289701383" visible="true"/>
+<node id="-123" lat="44.747031897" lon="-93.289699286" visible="true"/>
+<node id="-124" lat="44.747032871" lon="-93.289712997" visible="true"/>
+<node id="-125" lat="44.746950367" lon="-93.289829263" visible="true"/>
+<node id="-126" lat="44.746952687" lon="-93.290287147" visible="true"/>
+<node id="-127" lat="44.747413229" lon="-93.290282554" visible="true"/>
+<node id="-129" lat="44.747187172" lon="-93.288616084" visible="true"/>
+<node id="-130" lat="44.747186679" lon="-93.288855265" visible="true"/>
+<node id="-131" lat="44.747585605" lon="-93.288856886" visible="true"/>
+<node id="-132" lat="44.747585752" lon="-93.288617704" visible="true"/>
+<node id="-134" lat="44.749672965" lon="-93.293725278" visible="true"/>
+<node id="-135" lat="44.749675011" lon="-93.293343939" visible="true"/>
+<node id="-136" lat="44.749191304" lon="-93.293340057" visible="true"/>
+<node id="-137" lat="44.748843021" lon="-93.293337613" visible="true"/>
+<node id="-138" lat="44.748459888" lon="-93.293337395" visible="true"/>
+<node id="-139" lat="44.74845627" lon="-93.293483591" visible="true"/>
+<node id="-140" lat="44.748458878" lon="-93.293825638" visible="true"/>
+<node id="-141" lat="44.748459609" lon="-93.294108155" visible="true"/>
+<node id="-142" lat="44.748514415" lon="-93.294233331" visible="true"/>
+<node id="-143" lat="44.748383161" lon="-93.294338576" visible="true"/>
+<node id="-144" lat="44.748458245" lon="-93.294524488" visible="true"/>
+<node id="-145" lat="44.748609531" lon="-93.294524743" visible="true"/>
+<node id="-146" lat="44.748609968" lon="-93.294599629" visible="true"/>
+<node id="-147" lat="44.748689768" lon="-93.294604583" visible="true"/>
+<node id="-148" lat="44.748990305" lon="-93.294604735" visible="true"/>
+<node id="-149" lat="44.749111911" lon="-93.294605439" visible="true"/>
+<node id="-150" lat="44.749113299" lon="-93.294772238" visible="true"/>
+<node id="-151" lat="44.749389666" lon="-93.294772965" visible="true"/>
+<node id="-152" lat="44.749391697" lon="-93.294745465" visible="true"/>
+<node id="-153" lat="44.749588522" lon="-93.294747665" visible="true"/>
+<node id="-154" lat="44.74963193" lon="-93.294691034" visible="true"/>
+<node id="-155" lat="44.749710097" lon="-93.2945805" visible="true"/>
+<node id="-156" lat="44.749751978" lon="-93.294518033" visible="true"/>
+<node id="-157" lat="44.749752382" lon="-93.294409214" visible="true"/>
+<node id="-158" lat="44.749783418" lon="-93.294406147" visible="true"/>
+<node id="-159" lat="44.749781599" lon="-93.293975454" visible="true"/>
+<node id="-160" lat="44.749784224" lon="-93.293726329" visible="true"/>
+<node id="-162" lat="44.749805812" lon="-93.288816868" visible="true"/>
+<node id="-163" lat="44.749669456" lon="-93.288822691" visible="true"/>
+<node id="-164" lat="44.749668557" lon="-93.288682773" visible="true"/>
+<node id="-165" lat="44.749638929" lon="-93.288683519" visible="true"/>
+<node id="-166" lat="44.749637662" lon="-93.28841935" visible="true"/>
+<node id="-167" lat="44.749534137" lon="-93.288420574" visible="true"/>
+<node id="-168" lat="44.749533951" lon="-93.288364378" visible="true"/>
+<node id="-169" lat="44.749468383" lon="-93.288367323" visible="true"/>
+<node id="-170" lat="44.749467691" lon="-93.28842136" visible="true"/>
+<node id="-171" lat="44.748872298" lon="-93.288428396" visible="true"/>
+<node id="-172" lat="44.748875634" lon="-93.288465393" visible="true"/>
+<node id="-173" lat="44.748807409" lon="-93.288462464" visible="true"/>
+<node id="-174" lat="44.748807877" lon="-93.289941831" visible="true"/>
+<node id="-175" lat="44.748843428" lon="-93.289945839" visible="true"/>
+<node id="-176" lat="44.748842241" lon="-93.290285564" visible="true"/>
+<node id="-177" lat="44.748885489" lon="-93.290287172" visible="true"/>
+<node id="-178" lat="44.748884455" lon="-93.290439944" visible="true"/>
+<node id="-179" lat="44.748606396" lon="-93.290442831" visible="true"/>
+<node id="-180" lat="44.74838848" lon="-93.290738036" visible="true"/>
+<node id="-181" lat="44.748392447" lon="-93.29134699" visible="true"/>
+<node id="-182" lat="44.748363925" lon="-93.291411268" visible="true"/>
+<node id="-183" lat="44.748363997" lon="-93.291524122" visible="true"/>
+<node id="-184" lat="44.748395277" lon="-93.291604289" visible="true"/>
+<node id="-185" lat="44.748404281" lon="-93.291924474" visible="true"/>
+<node id="-186" lat="44.748649447" lon="-93.291920107" visible="true"/>
+<node id="-187" lat="44.748648667" lon="-93.291691274" visible="true"/>
+<node id="-188" lat="44.748780985" lon="-93.291688085" visible="true"/>
+<node id="-189" lat="44.748778216" lon="-93.291335029" visible="true"/>
+<node id="-190" lat="44.748892709" lon="-93.291336674" visible="true"/>
+<node id="-191" lat="44.748920444" lon="-93.291275543" visible="true"/>
+<node id="-192" lat="44.748932537" lon="-93.291290459" visible="true"/>
+<node id="-193" lat="44.749140125" lon="-93.290998264" visible="true"/>
+<node id="-194" lat="44.749141435" lon="-93.290880542" visible="true"/>
+<node id="-195" lat="44.749342613" lon="-93.290599273" visible="true"/>
+<node id="-196" lat="44.749339868" lon="-93.2904306" visible="true"/>
+<node id="-197" lat="44.749676513" lon="-93.290418255" visible="true"/>
+<node id="-198" lat="44.749674482" lon="-93.290185447" visible="true"/>
+<node id="-199" lat="44.749814913" lon="-93.290181559" visible="true"/>
+<node id="-201" lat="44.749814938" lon="-93.290897458" visible="true"/>
+<node id="-202" lat="44.749807745" lon="-93.290925231" visible="true"/>
+<node id="-203" lat="44.749818407" lon="-93.290931022" visible="true"/>
+<node id="-204" lat="44.74982568" lon="-93.290902937" visible="true"/>
+<node id="-206" lat="44.749946602" lon="-93.291079682" visible="true"/>
+<node id="-207" lat="44.749830356" lon="-93.291001343" visible="true"/>
+<node id="-208" lat="44.749814552" lon="-93.291047518" visible="true"/>
+<node id="-209" lat="44.749770892" lon="-93.291013451" visible="true"/>
+<node id="-210" lat="44.74974031" lon="-93.291001311" visible="true"/>
+<node id="-211" lat="44.749713603" lon="-93.290997223" visible="true"/>
+<node id="-212" lat="44.749688819" lon="-93.290993928" visible="true"/>
+<node id="-213" lat="44.74968666" lon="-93.291073169" visible="true"/>
+<node id="-214" lat="44.749644036" lon="-93.291074065" visible="true"/>
+<node id="-215" lat="44.749600709" lon="-93.291090058" visible="true"/>
+<node id="-216" lat="44.749560483" lon="-93.291113029" visible="true"/>
+<node id="-217" lat="44.749527952" lon="-93.291139439" visible="true"/>
+<node id="-218" lat="44.749501579" lon="-93.291168759" visible="true"/>
+<node id="-219" lat="44.749477932" lon="-93.291206951" visible="true"/>
+<node id="-220" lat="44.749580133" lon="-93.29130849" visible="true"/>
+<node id="-221" lat="44.749593879" lon="-93.291289781" visible="true"/>
+<node id="-222" lat="44.749612624" lon="-93.291272918" visible="true"/>
+<node id="-223" lat="44.749622387" lon="-93.29126583" visible="true"/>
+<node id="-224" lat="44.749632116" lon="-93.291295927" visible="true"/>
+<node id="-225" lat="44.749647821" lon="-93.291286906" visible="true"/>
+<node id="-226" lat="44.749660295" lon="-93.291284646" visible="true"/>
+<node id="-227" lat="44.749669699" lon="-93.291284026" visible="true"/>
+<node id="-228" lat="44.749672612" lon="-93.291246548" visible="true"/>
+<node id="-229" lat="44.749695851" lon="-93.29124743" visible="true"/>
+<node id="-230" lat="44.749717595" lon="-93.291258297" visible="true"/>
+<node id="-231" lat="44.749727638" lon="-93.291271954" visible="true"/>
+<node id="-232" lat="44.749851281" lon="-93.29135822" visible="true"/>
+<node id="-233" lat="44.749963585" lon="-93.29142541" visible="true"/>
+<node id="-234" lat="44.750057739" lon="-93.291150858" visible="true"/>
+<node id="-236" lat="44.750441197" lon="-93.296672061" visible="true"/>
+<node id="-237" lat="44.750319634" lon="-93.296622339" visible="true"/>
+<node id="-238" lat="44.750261098" lon="-93.296602107" visible="true"/>
+<node id="-239" lat="44.750223228" lon="-93.296782118" visible="true"/>
+<node id="-240" lat="44.75028024" lon="-93.296809419" visible="true"/>
+<node id="-241" lat="44.750400964" lon="-93.29686313" visible="true"/>
+<node id="-242" lat="44.750402647" lon="-93.296855143" visible="true"/>
+<node id="-243" lat="44.750463032" lon="-93.29688016" visible="true"/>
+<node id="-244" lat="44.750500905" lon="-93.296700129" visible="true"/>
+<node id="-246" lat="44.750513985" lon="-93.298167747" visible="true"/>
+<node id="-247" lat="44.750518123" lon="-93.298160486" visible="true"/>
+<node id="-248" lat="44.750433923" lon="-93.298065979" visible="true"/>
+<node id="-249" lat="44.750421563" lon="-93.298052108" visible="true"/>
+<node id="-250" lat="44.750417209" lon="-93.298059746" visible="true"/>
+<node id="-251" lat="44.750367421" lon="-93.298003856" visible="true"/>
+<node id="-252" lat="44.750332222" lon="-93.298065586" visible="true"/>
+<node id="-253" lat="44.750283751" lon="-93.298150596" visible="true"/>
+<node id="-254" lat="44.750330404" lon="-93.29820715" visible="true"/>
+<node id="-255" lat="44.750427562" lon="-93.298317003" visible="true"/>
+<node id="-256" lat="44.750477144" lon="-93.298369283" visible="true"/>
+<node id="-257" lat="44.75056156" lon="-93.298221124" visible="true"/>
+<node id="-259" lat="44.750695773" lon="-93.296430921" visible="true"/>
+<node id="-260" lat="44.750658579" lon="-93.296261068" visible="true"/>
+<node id="-261" lat="44.750638461" lon="-93.296181316" visible="true"/>
+<node id="-262" lat="44.750510477" lon="-93.296235828" visible="true"/>
+<node id="-263" lat="44.750525551" lon="-93.296317676" visible="true"/>
+<node id="-264" lat="44.750559906" lon="-93.296488738" visible="true"/>
+<node id="-265" lat="44.750565587" lon="-93.296486319" visible="true"/>
+<node id="-266" lat="44.750583874" lon="-93.29657087" visible="true"/>
+<node id="-267" lat="44.750711869" lon="-93.296516351" visible="true"/>
+<node id="-269" lat="44.748202607" lon="-93.292304985" visible="true"/>
+<node id="-270" lat="44.74820208" lon="-93.292329328" visible="true"/>
+<node id="-271" lat="44.748216016" lon="-93.292329175" visible="true"/>
+<node id="-272" lat="44.748216526" lon="-93.292305579" visible="true"/>
+<node id="-274" lat="44.748236485" lon="-93.292307148" visible="true"/>
+<node id="-275" lat="44.748236335" lon="-93.292329421" visible="true"/>
+<node id="-276" lat="44.74824886" lon="-93.29232942" visible="true"/>
+<node id="-277" lat="44.748249009" lon="-93.292307317" visible="true"/>
+<node id="-279" lat="44.748265018" lon="-93.292449603" visible="true"/>
+<node id="-280" lat="44.748264694" lon="-93.292553803" visible="true"/>
+<node id="-281" lat="44.748308622" lon="-93.292554076" visible="true"/>
+<node id="-282" lat="44.748308948" lon="-93.292449872" visible="true"/>
+<node id="-284" lat="44.748506039" lon="-93.292357952" visible="true"/>
+<node id="-285" lat="44.748467085" lon="-93.292359206" visible="true"/>
+<node id="-286" lat="44.748468841" lon="-93.29246643" visible="true"/>
+<node id="-287" lat="44.748507793" lon="-93.292465174" visible="true"/>
+<node id="-289" lat="44.748610649" lon="-93.292564799" visible="true"/>
+<node id="-290" lat="44.748593156" lon="-93.292565726" visible="true"/>
+<node id="-291" lat="44.748593206" lon="-93.292593619" visible="true"/>
+<node id="-292" lat="44.748610789" lon="-93.292593499" visible="true"/>
+<node id="-294" lat="44.748907381" lon="-93.296508934" visible="true"/>
+<node id="-295" lat="44.748860357" lon="-93.296509082" visible="true"/>
+<node id="-296" lat="44.748859889" lon="-93.296217365" visible="true"/>
+<node id="-297" lat="44.748645242" lon="-93.29621804" visible="true"/>
+<node id="-298" lat="44.748644929" lon="-93.296021803" visible="true"/>
+<node id="-299" lat="44.748621897" lon="-93.296021877" visible="true"/>
+<node id="-300" lat="44.748621411" lon="-93.295720102" visible="true"/>
+<node id="-301" lat="44.748548777" lon="-93.2956241" visible="true"/>
+<node id="-302" lat="44.748429313" lon="-93.295625014" visible="true"/>
+<node id="-303" lat="44.748427302" lon="-93.295453396" visible="true"/>
+<node id="-304" lat="44.748406598" lon="-93.29542925" visible="true"/>
+<node id="-305" lat="44.748448879" lon="-93.295362029" visible="true"/>
+<node id="-306" lat="44.748310056" lon="-93.295195141" visible="true"/>
+<node id="-307" lat="44.748172695" lon="-93.29519952" visible="true"/>
+<node id="-308" lat="44.748172069" lon="-93.295142525" visible="true"/>
+<node id="-309" lat="44.748143273" lon="-93.295066296" visible="true"/>
+<node id="-310" lat="44.748129571" lon="-93.295074783" visible="true"/>
+<node id="-311" lat="44.747847115" lon="-93.294397477" visible="true"/>
+<node id="-312" lat="44.747676311" lon="-93.29453774" visible="true"/>
+<node id="-313" lat="44.747733739" lon="-93.294675448" visible="true"/>
+<node id="-314" lat="44.74774552" lon="-93.294665772" visible="true"/>
+<node id="-315" lat="44.747906384" lon="-93.295051513" visible="true"/>
+<node id="-316" lat="44.747905208" lon="-93.295251714" visible="true"/>
+<node id="-317" lat="44.747957896" lon="-93.295256093" visible="true"/>
+<node id="-318" lat="44.747961931" lon="-93.295551887" visible="true"/>
+<node id="-319" lat="44.747911254" lon="-93.295553249" visible="true"/>
+<node id="-320" lat="44.747913416" lon="-93.295711777" visible="true"/>
+<node id="-321" lat="44.747901346" lon="-93.2957121" visible="true"/>
+<node id="-322" lat="44.747903926" lon="-93.295901259" visible="true"/>
+<node id="-323" lat="44.747917995" lon="-93.295900879" visible="true"/>
+<node id="-324" lat="44.747919288" lon="-93.295995662" visible="true"/>
+<node id="-325" lat="44.74795205" lon="-93.295994781" visible="true"/>
+<node id="-326" lat="44.747954591" lon="-93.296181143" visible="true"/>
+<node id="-327" lat="44.747912591" lon="-93.296182271" visible="true"/>
+<node id="-328" lat="44.747913659" lon="-93.296260489" visible="true"/>
+<node id="-329" lat="44.747902622" lon="-93.296260785" visible="true"/>
+<node id="-330" lat="44.747904889" lon="-93.296427299" visible="true"/>
+<node id="-331" lat="44.747919695" lon="-93.296426901" visible="true"/>
+<node id="-332" lat="44.74792073" lon="-93.29650285" visible="true"/>
+<node id="-333" lat="44.747938888" lon="-93.296502362" visible="true"/>
+<node id="-334" lat="44.747942478" lon="-93.296765772" visible="true"/>
+<node id="-335" lat="44.747922473" lon="-93.29676631" visible="true"/>
+<node id="-336" lat="44.747924564" lon="-93.296919913" visible="true"/>
+<node id="-337" lat="44.747942409" lon="-93.296919433" visible="true"/>
+<node id="-338" lat="44.747943603" lon="-93.297007219" visible="true"/>
+<node id="-339" lat="44.748908172" lon="-93.297004194" visible="true"/>
+<node id="-341" lat="44.748831308" lon="-93.292116791" visible="true"/>
+<node id="-342" lat="44.748768289" lon="-93.292267922" visible="true"/>
+<node id="-343" lat="44.748660226" lon="-93.292179188" visible="true"/>
+<node id="-344" lat="44.74858719" lon="-93.292354341" visible="true"/>
+<node id="-345" lat="44.748758113" lon="-93.292494698" visible="true"/>
+<node id="-346" lat="44.748855131" lon="-93.29246011" visible="true"/>
+<node id="-347" lat="44.74895645" lon="-93.292219552" visible="true"/>
+<node id="-349" lat="44.751162418" lon="-93.296838668" visible="true"/>
+<node id="-350" lat="44.751110421" lon="-93.296881356" visible="true"/>
+<node id="-351" lat="44.75100253" lon="-93.296974426" visible="true"/>
+<node id="-352" lat="44.751005737" lon="-93.296981436" visible="true"/>
+<node id="-353" lat="44.750952768" lon="-93.297029201" visible="true"/>
+<node id="-354" lat="44.751025076" lon="-93.297187122" visible="true"/>
+<node id="-355" lat="44.751079246" lon="-93.297142074" visible="true"/>
+<node id="-356" lat="44.751185536" lon="-93.297045503" visible="true"/>
+<node id="-357" lat="44.751234718" lon="-93.296996574" visible="true"/>
+<node id="-359" lat="44.75131202" lon="-93.293872008" visible="true"/>
+<node id="-360" lat="44.751070767" lon="-93.293869803" visible="true"/>
+<node id="-361" lat="44.751072147" lon="-93.293994603" visible="true"/>
+<node id="-362" lat="44.751312152" lon="-93.293995136" visible="true"/>
+<node id="-364" lat="44.74925183" lon="-93.291925615" visible="true"/>
+<node id="-365" lat="44.749319852" lon="-93.291826137" visible="true"/>
+<node id="-366" lat="44.749215074" lon="-93.291685048" visible="true"/>
+<node id="-367" lat="44.749150976" lon="-93.291778786" visible="true"/>
+<node id="-368" lat="44.749080335" lon="-93.291683666" visible="true"/>
+<node id="-369" lat="44.748977445" lon="-93.291834138" visible="true"/>
+<node id="-370" lat="44.749046406" lon="-93.291926996" visible="true"/>
+<node id="-371" lat="44.748961331" lon="-93.292051387" visible="true"/>
+<node id="-372" lat="44.749066351" lon="-93.292192825" visible="true"/>
+<node id="-373" lat="44.749137713" lon="-93.292088484" visible="true"/>
+<node id="-374" lat="44.749162547" lon="-93.292086777" visible="true"/>
+<node id="-375" lat="44.749239561" lon="-93.292191209" visible="true"/>
+<node id="-376" lat="44.749340486" lon="-93.292045" visible="true"/>
+<node id="-378" lat="44.749429981" lon="-93.291857249" visible="true"/>
+<node id="-379" lat="44.749415046" lon="-93.29189044" visible="true"/>
+<node id="-380" lat="44.749438963" lon="-93.29191153" visible="true"/>
+<node id="-381" lat="44.749453529" lon="-93.291878111" visible="true"/>
+<node id="-383" lat="44.749629779" lon="-93.292262036" visible="true"/>
+<node id="-384" lat="44.749507597" lon="-93.292266534" visible="true"/>
+<node id="-385" lat="44.749504312" lon="-93.292090681" visible="true"/>
+<node id="-386" lat="44.749360318" lon="-93.292095975" visible="true"/>
+<node id="-387" lat="44.749365509" lon="-93.292373909" visible="true"/>
+<node id="-388" lat="44.749433944" lon="-93.2924706" visible="true"/>
+<node id="-389" lat="44.749633538" lon="-93.292463129" visible="true"/>
+<node id="-391" lat="44.751337404" lon="-93.297229514" visible="true"/>
+<node id="-392" lat="44.751280327" lon="-93.297256558" visible="true"/>
+<node id="-393" lat="44.751161254" lon="-93.29731709" visible="true"/>
+<node id="-394" lat="44.751163385" lon="-93.29732486" visible="true"/>
+<node id="-395" lat="44.751104622" lon="-93.297356607" visible="true"/>
+<node id="-396" lat="44.75115268" lon="-93.297531787" visible="true"/>
+<node id="-397" lat="44.751212222" lon="-93.297503037" visible="true"/>
+<node id="-398" lat="44.751330235" lon="-93.297438634" visible="true"/>
+<node id="-399" lat="44.75138545" lon="-93.29740468" visible="true"/>
+<node id="-401" lat="44.751417803" lon="-93.295588241" visible="true"/>
+<node id="-402" lat="44.75136358" lon="-93.295615184" visible="true"/>
+<node id="-403" lat="44.75137435" lon="-93.295657866" visible="true"/>
+<node id="-404" lat="44.751287444" lon="-93.295701048" visible="true"/>
+<node id="-405" lat="44.751316118" lon="-93.295814702" visible="true"/>
+<node id="-406" lat="44.751399673" lon="-93.295773188" visible="true"/>
+<node id="-407" lat="44.751410423" lon="-93.295815804" visible="true"/>
+<node id="-408" lat="44.751467998" lon="-93.295787196" visible="true"/>
+<node id="-410" lat="44.750811382" lon="-93.289181603" visible="true"/>
+<node id="-411" lat="44.750808523" lon="-93.289849972" visible="true"/>
+<node id="-412" lat="44.750797078" lon="-93.289849873" visible="true"/>
+<node id="-413" lat="44.750795543" lon="-93.290208202" visible="true"/>
+<node id="-414" lat="44.750813319" lon="-93.290208352" visible="true"/>
+<node id="-415" lat="44.750811176" lon="-93.290708367" visible="true"/>
+<node id="-416" lat="44.751254054" lon="-93.290712103" visible="true"/>
+<node id="-417" lat="44.751256237" lon="-93.29020218" visible="true"/>
+<node id="-418" lat="44.751643457" lon="-93.290205411" visible="true"/>
+<node id="-419" lat="44.751647805" lon="-93.289188639" visible="true"/>
+<node id="-421" lat="44.751626" lon="-93.296523348" visible="true"/>
+<node id="-422" lat="44.75159318" lon="-93.296449666" visible="true"/>
+<node id="-423" lat="44.751536027" lon="-93.296503733" visible="true"/>
+<node id="-424" lat="44.751547633" lon="-93.296527896" visible="true"/>
+<node id="-425" lat="44.751478713" lon="-93.296593088" visible="true"/>
+<node id="-426" lat="44.751525946" lon="-93.296691427" visible="true"/>
+<node id="-427" lat="44.751556671" lon="-93.296665992" visible="true"/>
+<node id="-428" lat="44.751650861" lon="-93.296580503" visible="true"/>
+<node id="-430" lat="44.751595163" lon="-93.295615382" visible="true"/>
+<node id="-431" lat="44.751554185" lon="-93.295780084" visible="true"/>
+<node id="-432" lat="44.75162049" lon="-93.295812571" visible="true"/>
+<node id="-433" lat="44.751630554" lon="-93.295772127" visible="true"/>
+<node id="-434" lat="44.751690847" lon="-93.295801673" visible="true"/>
+<node id="-435" lat="44.75169333" lon="-93.295791695" visible="true"/>
+<node id="-436" lat="44.751745539" lon="-93.295817284" visible="true"/>
+<node id="-437" lat="44.751773979" lon="-93.295702999" visible="true"/>
+<node id="-439" lat="44.751780635" lon="-93.297234349" visible="true"/>
+<node id="-440" lat="44.751704549" lon="-93.297264581" visible="true"/>
+<node id="-441" lat="44.751753918" lon="-93.297509285" visible="true"/>
+<node id="-442" lat="44.751830004" lon="-93.297479052" visible="true"/>
+<node id="-444" lat="44.75183387" lon="-93.295902142" visible="true"/>
+<node id="-445" lat="44.751754218" lon="-93.295903667" visible="true"/>
+<node id="-446" lat="44.751756785" lon="-93.296167284" visible="true"/>
+<node id="-447" lat="44.751836433" lon="-93.296165759" visible="true"/>
+<node id="-449" lat="44.751858461" lon="-93.297638781" visible="true"/>
+<node id="-450" lat="44.751845942" lon="-93.297641013" visible="true"/>
+<node id="-451" lat="44.751839256" lon="-93.297567196" visible="true"/>
+<node id="-452" lat="44.751762123" lon="-93.297580954" visible="true"/>
+<node id="-453" lat="44.751784893" lon="-93.29783237" visible="true"/>
+<node id="-454" lat="44.751874547" lon="-93.29781638" visible="true"/>
+<node id="-456" lat="44.75215816" lon="-93.296910408" visible="true"/>
+<node id="-457" lat="44.7520967" lon="-93.296915933" visible="true"/>
+<node id="-458" lat="44.752099447" lon="-93.296976081" visible="true"/>
+<node id="-459" lat="44.752161782" lon="-93.296970474" visible="true"/>
+<node id="-461" lat="44.749759213" lon="-93.290818515" visible="true"/>
+<node id="-462" lat="44.749738009" lon="-93.290889475" visible="true"/>
+<node id="-463" lat="44.749766713" lon="-93.290904877" visible="true"/>
+<node id="-464" lat="44.749787538" lon="-93.290835184" visible="true"/>
+<node id="-466" lat="44.749785235" lon="-93.29092297" visible="true"/>
+<node id="-467" lat="44.749778627" lon="-93.290945704" visible="true"/>
+<node id="-468" lat="44.74978989" lon="-93.290953358" visible="true"/>
+<node id="-469" lat="44.7497968" lon="-93.290929589" visible="true"/>
+<node id="-471" lat="44.750073727" lon="-93.29674204" visible="true"/>
+<node id="-472" lat="44.749900462" lon="-93.296745245" visible="true"/>
+<node id="-473" lat="44.74990137" lon="-93.296842054" visible="true"/>
+<node id="-474" lat="44.749991397" lon="-93.296840392" visible="true"/>
+<node id="-475" lat="44.749991495" lon="-93.296850885" visible="true"/>
+<node id="-476" lat="44.749931874" lon="-93.296851985" visible="true"/>
+<node id="-477" lat="44.749933503" lon="-93.297025371" visible="true"/>
+<node id="-478" lat="44.749993666" lon="-93.297024392" visible="true"/>
+<node id="-479" lat="44.749993789" lon="-93.297037712" visible="true"/>
+<node id="-480" lat="44.749933294" lon="-93.29703883" visible="true"/>
+<node id="-481" lat="44.749934906" lon="-93.297210396" visible="true"/>
+<node id="-482" lat="44.74999384" lon="-93.297209306" visible="true"/>
+<node id="-483" lat="44.749993958" lon="-93.297221757" visible="true"/>
+<node id="-484" lat="44.74990358" lon="-93.297223427" visible="true"/>
+<node id="-485" lat="44.749904485" lon="-93.297319857" visible="true"/>
+<node id="-486" lat="44.750079122" lon="-93.297316631" visible="true"/>
+<node id="-488" lat="44.750084628" lon="-93.292168224" visible="true"/>
+<node id="-489" lat="44.749913725" lon="-93.292171138" visible="true"/>
+<node id="-490" lat="44.749914747" lon="-93.29247315" visible="true"/>
+<node id="-491" lat="44.749894749" lon="-93.292505636" visible="true"/>
+<node id="-492" lat="44.749930742" lon="-93.292552331" visible="true"/>
+<node id="-493" lat="44.749951103" lon="-93.29252045" visible="true"/>
+<node id="-494" lat="44.750088837" lon="-93.29251717" visible="true"/>
+<node id="-496" lat="44.75010068" lon="-93.292096494" visible="true"/>
+<node id="-497" lat="44.750078826" lon="-93.292097342" visible="true"/>
+<node id="-498" lat="44.750079525" lon="-93.292132832" visible="true"/>
+<node id="-499" lat="44.750101379" lon="-93.292131985" visible="true"/>
+<node id="-501" lat="44.750495733" lon="-93.297038709" visible="true"/>
+<node id="-502" lat="44.750450005" lon="-93.297093745" visible="true"/>
+<node id="-503" lat="44.750355695" lon="-93.297212369" visible="true"/>
+<node id="-504" lat="44.750359745" lon="-93.297218456" visible="true"/>
+<node id="-505" lat="44.750313704" lon="-93.297278732" visible="true"/>
+<node id="-506" lat="44.750404954" lon="-93.297415986" visible="true"/>
+<node id="-507" lat="44.750452518" lon="-93.297358082" visible="true"/>
+<node id="-508" lat="44.750544807" lon="-93.297236422" visible="true"/>
+<node id="-509" lat="44.750586971" lon="-93.297175953" visible="true"/>
+<node id="-511" lat="44.750870325" lon="-93.297449461" visible="true"/>
+<node id="-512" lat="44.750848171" lon="-93.297274511" visible="true"/>
+<node id="-513" lat="44.750835134" lon="-93.297191913" visible="true"/>
+<node id="-514" lat="44.750703368" lon="-93.29722411" visible="true"/>
+<node id="-515" lat="44.750711217" lon="-93.297307929" visible="true"/>
+<node id="-516" lat="44.75073045" lon="-93.297483595" visible="true"/>
+<node id="-517" lat="44.750736297" lon="-93.297482167" visible="true"/>
+<node id="-518" lat="44.750747102" lon="-93.297569214" visible="true"/>
+<node id="-519" lat="44.750878878" lon="-93.297537008" visible="true"/>
+<node id="-521" lat="44.752339888" lon="-93.292928739" visible="true"/>
+<node id="-522" lat="44.752318" lon="-93.292950614" visible="true"/>
+<node id="-523" lat="44.75233274" lon="-93.292979665" visible="true"/>
+<node id="-524" lat="44.752355524" lon="-93.292956895" visible="true"/>
+<node id="-526" lat="44.752249455" lon="-93.294384083" visible="true"/>
+<node id="-527" lat="44.75226025" lon="-93.294321593" visible="true"/>
+<node id="-528" lat="44.752243261" lon="-93.29431581" visible="true"/>
+<node id="-529" lat="44.752249937" lon="-93.294277171" visible="true"/>
+<node id="-530" lat="44.752206522" lon="-93.294262401" visible="true"/>
+<node id="-531" lat="44.752199383" lon="-93.294303734" visible="true"/>
+<node id="-532" lat="44.752188465" lon="-93.294300021" visible="true"/>
+<node id="-533" lat="44.752160716" lon="-93.294460662" visible="true"/>
+<node id="-534" lat="44.75222148" lon="-93.294484301" visible="true"/>
+<node id="-535" lat="44.752347355" lon="-93.294529122" visible="true"/>
+<node id="-536" lat="44.752365584" lon="-93.29442359" visible="true"/>
+<node id="-538" lat="44.752368344" lon="-93.297724079" visible="true"/>
+<node id="-539" lat="44.752371286" lon="-93.297708369" visible="true"/>
+<node id="-540" lat="44.752334467" lon="-93.297696975" visible="true"/>
+<node id="-541" lat="44.752336348" lon="-93.297674316" visible="true"/>
+<node id="-542" lat="44.752291952" lon="-93.297663874" visible="true"/>
+<node id="-543" lat="44.752250479" lon="-93.297954403" visible="true"/>
+<node id="-544" lat="44.75233693" lon="-93.297979105" visible="true"/>
+<node id="-545" lat="44.752353637" lon="-93.297863956" visible="true"/>
+<node id="-546" lat="44.752373989" lon="-93.297869774" visible="true"/>
+<node id="-547" lat="44.752388312" lon="-93.297771091" visible="true"/>
+<node id="-548" lat="44.752392831" lon="-93.297731194" visible="true"/>
+<node id="-550" lat="44.752393819" lon="-93.297215211" visible="true"/>
+<node id="-551" lat="44.752371416" lon="-93.297216088" visible="true"/>
+<node id="-552" lat="44.752360182" lon="-93.297245699" visible="true"/>
+<node id="-553" lat="44.752373242" lon="-93.297271394" visible="true"/>
+<node id="-554" lat="44.75239546" lon="-93.297269905" visible="true"/>
+<node id="-555" lat="44.752405744" lon="-93.297241566" visible="true"/>
+<node id="-557" lat="44.752438315" lon="-93.295064605" visible="true"/>
+<node id="-558" lat="44.75244313" lon="-93.29503085" visible="true"/>
+<node id="-559" lat="44.752371466" lon="-93.295010721" visible="true"/>
+<node id="-560" lat="44.752349672" lon="-93.295163515" visible="true"/>
+<node id="-561" lat="44.752502038" lon="-93.295206323" visible="true"/>
+<node id="-562" lat="44.75251902" lon="-93.29508728" visible="true"/>
+<node id="-564" lat="44.752526661" lon="-93.288141129" visible="true"/>
+<node id="-565" lat="44.752501893" lon="-93.288157718" visible="true"/>
+<node id="-566" lat="44.752510765" lon="-93.2881838" visible="true"/>
+<node id="-567" lat="44.752538359" lon="-93.288165314" visible="true"/>
+<node id="-569" lat="44.752460839" lon="-93.297408168" visible="true"/>
+<node id="-570" lat="44.752397276" lon="-93.297482556" visible="true"/>
+<node id="-571" lat="44.752401945" lon="-93.297490414" visible="true"/>
+<node id="-572" lat="44.752349776" lon="-93.297551466" visible="true"/>
+<node id="-573" lat="44.752399227" lon="-93.297634689" visible="true"/>
+<node id="-574" lat="44.752451605" lon="-93.29757339" visible="true"/>
+<node id="-575" lat="44.752485448" lon="-93.297630346" visible="true"/>
+<node id="-576" lat="44.752548804" lon="-93.2975562" visible="true"/>
+<node id="-578" lat="44.752581855" lon="-93.297320862" visible="true"/>
+<node id="-579" lat="44.75254762" lon="-93.297321346" visible="true"/>
+<node id="-580" lat="44.752547941" lon="-93.297365803" visible="true"/>
+<node id="-581" lat="44.752582175" lon="-93.297365318" visible="true"/>
+<node id="-583" lat="44.752608395" lon="-93.288767834" visible="true"/>
+<node id="-584" lat="44.752577639" lon="-93.28878398" visible="true"/>
+<node id="-585" lat="44.752569499" lon="-93.288753437" visible="true"/>
+<node id="-586" lat="44.752562345" lon="-93.288757194" visible="true"/>
+<node id="-587" lat="44.752546003" lon="-93.28869589" visible="true"/>
+<node id="-588" lat="44.75250963" lon="-93.288718528" visible="true"/>
+<node id="-589" lat="44.75244796" lon="-93.288754451" visible="true"/>
+<node id="-590" lat="44.752485478" lon="-93.288895242" visible="true"/>
+<node id="-591" lat="44.752501897" lon="-93.288886624" visible="true"/>
+<node id="-592" lat="44.752514289" lon="-93.288933114" visible="true"/>
+<node id="-593" lat="44.752635491" lon="-93.28886949" visible="true"/>
+<node id="-595" lat="44.7526011" lon="-93.293908061" visible="true"/>
+<node id="-596" lat="44.752600662" lon="-93.293981856" visible="true"/>
+<node id="-597" lat="44.752533688" lon="-93.293981075" visible="true"/>
+<node id="-598" lat="44.752533077" lon="-93.294084202" visible="true"/>
+<node id="-599" lat="44.752599037" lon="-93.294084969" visible="true"/>
+<node id="-600" lat="44.752598949" lon="-93.294099723" visible="true"/>
+<node id="-601" lat="44.752684292" lon="-93.294100709" visible="true"/>
+<node id="-602" lat="44.752685427" lon="-93.293909045" visible="true"/>
+<node id="-604" lat="44.752694239" lon="-93.291862085" visible="true"/>
+<node id="-605" lat="44.752704486" lon="-93.291838824" visible="true"/>
+<node id="-606" lat="44.752646111" lon="-93.291788176" visible="true"/>
+<node id="-607" lat="44.752601662" lon="-93.291889072" visible="true"/>
+<node id="-608" lat="44.752649578" lon="-93.291930644" visible="true"/>
+<node id="-609" lat="44.752615207" lon="-93.292008663" visible="true"/>
+<node id="-610" lat="44.752686355" lon="-93.292070396" visible="true"/>
+<node id="-611" lat="44.75275493" lon="-93.291914749" visible="true"/>
+<node id="-613" lat="44.752717582" lon="-93.292577662" visible="true"/>
+<node id="-614" lat="44.752663936" lon="-93.292636113" visible="true"/>
+<node id="-615" lat="44.752654333" lon="-93.292618753" visible="true"/>
+<node id="-616" lat="44.752592455" lon="-93.292686173" visible="true"/>
+<node id="-617" lat="44.752669093" lon="-93.292824711" visible="true"/>
+<node id="-618" lat="44.752730412" lon="-93.292757904" visible="true"/>
+<node id="-619" lat="44.752708769" lon="-93.292718779" visible="true"/>
+<node id="-620" lat="44.752762977" lon="-93.292659721" visible="true"/>
+<node id="-622" lat="44.752656261" lon="-93.295073797" visible="true"/>
+<node id="-623" lat="44.752655513" lon="-93.295081944" visible="true"/>
+<node id="-624" lat="44.752590569" lon="-93.295070218" visible="true"/>
+<node id="-625" lat="44.752579703" lon="-93.295188735" visible="true"/>
+<node id="-626" lat="44.752772579" lon="-93.295223561" visible="true"/>
+<node id="-627" lat="44.752784196" lon="-93.295096862" visible="true"/>
+<node id="-629" lat="44.752711174" lon="-93.297419199" visible="true"/>
+<node id="-630" lat="44.752708653" lon="-93.297438935" visible="true"/>
+<node id="-631" lat="44.752644157" lon="-93.297422714" visible="true"/>
+<node id="-632" lat="44.752631343" lon="-93.297523044" visible="true"/>
+<node id="-633" lat="44.752695147" lon="-93.297539092" visible="true"/>
+<node id="-634" lat="44.752688603" lon="-93.297590327" visible="true"/>
+<node id="-635" lat="44.75276747" lon="-93.297610161" visible="true"/>
+<node id="-636" lat="44.752789348" lon="-93.297438863" visible="true"/>
+<node id="-638" lat="44.752764265" lon="-93.289014518" visible="true"/>
+<node id="-639" lat="44.752752231" lon="-93.289008537" visible="true"/>
+<node id="-640" lat="44.752744702" lon="-93.289005371" visible="true"/>
+<node id="-641" lat="44.752754112" lon="-93.288985621" visible="true"/>
+<node id="-642" lat="44.752676462" lon="-93.288920081" visible="true"/>
+<node id="-643" lat="44.752640098" lon="-93.289007179" visible="true"/>
+<node id="-644" lat="44.752699047" lon="-93.28905171" visible="true"/>
+<node id="-645" lat="44.752711595" lon="-93.289063522" visible="true"/>
+<node id="-646" lat="44.752668305" lon="-93.289159666" visible="true"/>
+<node id="-647" lat="44.752740768" lon="-93.289220537" visible="true"/>
+<node id="-648" lat="44.752814713" lon="-93.289052026" visible="true"/>
+<node id="-650" lat="44.752861384" lon="-93.289330728" visible="true"/>
+<node id="-651" lat="44.752845909" lon="-93.289408763" visible="true"/>
+<node id="-652" lat="44.752839482" lon="-93.289406251" visible="true"/>
+<node id="-653" lat="44.752820785" lon="-93.289500517" visible="true"/>
+<node id="-654" lat="44.752910256" lon="-93.289535466" visible="true"/>
+<node id="-655" lat="44.752925567" lon="-93.289458275" visible="true"/>
+<node id="-656" lat="44.752964673" lon="-93.289473551" visible="true"/>
+<node id="-657" lat="44.752983539" lon="-93.289378436" visible="true"/>
+<node id="-659" lat="44.752828325" lon="-93.296134735" visible="true"/>
+<node id="-660" lat="44.752801323" lon="-93.296304604" visible="true"/>
+<node id="-661" lat="44.752867497" lon="-93.29632532" visible="true"/>
+<node id="-662" lat="44.752873859" lon="-93.296285299" visible="true"/>
+<node id="-663" lat="44.752935038" lon="-93.29630445" visible="true"/>
+<node id="-664" lat="44.752936657" lon="-93.296294269" visible="true"/>
+<node id="-665" lat="44.752988635" lon="-93.296310546" visible="true"/>
+<node id="-666" lat="44.753007661" lon="-93.29619088" visible="true"/>
+<node id="-668" lat="44.75300863" lon="-93.295904527" visible="true"/>
+<node id="-669" lat="44.753020861" lon="-93.295836075" visible="true"/>
+<node id="-670" lat="44.752944029" lon="-93.295809036" visible="true"/>
+<node id="-671" lat="44.752915431" lon="-93.295968917" visible="true"/>
+<node id="-672" lat="44.752965202" lon="-93.295989523" visible="true"/>
+<node id="-673" lat="44.7530319" lon="-93.296016066" visible="true"/>
+<node id="-674" lat="44.753049274" lon="-93.295918831" visible="true"/>
+<node id="-676" lat="44.753041379" lon="-93.295151328" visible="true"/>
+<node id="-677" lat="44.752984184" lon="-93.295160129" visible="true"/>
+<node id="-678" lat="44.752984834" lon="-93.295168469" visible="true"/>
+<node id="-679" lat="44.752934889" lon="-93.295176144" visible="true"/>
+<node id="-680" lat="44.75295094" lon="-93.29538184" visible="true"/>
+<node id="-681" lat="44.753034694" lon="-93.295368957" visible="true"/>
+<node id="-682" lat="44.753025768" lon="-93.295254657" visible="true"/>
+<node id="-683" lat="44.75304917" lon="-93.295251059" visible="true"/>
+<node id="-685" lat="44.753010478" lon="-93.29377899" visible="true"/>
+<node id="-686" lat="44.753013703" lon="-93.294034647" visible="true"/>
+<node id="-687" lat="44.753090588" lon="-93.294032738" visible="true"/>
+<node id="-688" lat="44.753091465" lon="-93.293937226" visible="true"/>
+<node id="-689" lat="44.753091555" lon="-93.293777008" visible="true"/>
+<node id="-691" lat="44.751034192" lon="-93.293897326" visible="true"/>
+<node id="-692" lat="44.751018765" lon="-93.293896119" visible="true"/>
+<node id="-693" lat="44.751018093" lon="-93.293943663" visible="true"/>
+<node id="-694" lat="44.751034255" lon="-93.293944156" visible="true"/>
+<node id="-696" lat="44.751210578" lon="-93.295797393" visible="true"/>
+<node id="-697" lat="44.75115749" lon="-93.295853552" visible="true"/>
+<node id="-698" lat="44.751148329" lon="-93.295836497" visible="true"/>
+<node id="-699" lat="44.751085768" lon="-93.295902672" visible="true"/>
+<node id="-700" lat="44.751159427" lon="-93.296039783" visible="true"/>
+<node id="-701" lat="44.751220265" lon="-93.295975419" visible="true"/>
+<node id="-702" lat="44.751199572" lon="-93.295936898" visible="true"/>
+<node id="-703" lat="44.751254375" lon="-93.295878924" visible="true"/>
+<node id="-705" lat="44.753012691" lon="-93.294439985" visible="true"/>
+<node id="-706" lat="44.753005764" lon="-93.294534433" visible="true"/>
+<node id="-707" lat="44.75302063" lon="-93.294536579" visible="true"/>
+<node id="-708" lat="44.753017931" lon="-93.294573401" visible="true"/>
+<node id="-709" lat="44.753026282" lon="-93.294574607" visible="true"/>
+<node id="-710" lat="44.753021683" lon="-93.294637341" visible="true"/>
+<node id="-711" lat="44.753120487" lon="-93.294651605" visible="true"/>
+<node id="-712" lat="44.7531266" lon="-93.294599406" visible="true"/>
+<node id="-713" lat="44.753139234" lon="-93.294458259" visible="true"/>
+<node id="-715" lat="44.753206142" lon="-93.294371321" visible="true"/>
+<node id="-716" lat="44.753202431" lon="-93.294408716" visible="true"/>
+<node id="-717" lat="44.75323323" lon="-93.294414736" visible="true"/>
+<node id="-718" lat="44.753236941" lon="-93.294377344" visible="true"/>
+<node id="-720" lat="44.753166179" lon="-93.297506393" visible="true"/>
+<node id="-721" lat="44.753152516" lon="-93.297592691" visible="true"/>
+<node id="-722" lat="44.753120614" lon="-93.297582744" visible="true"/>
+<node id="-723" lat="44.753103175" lon="-93.29769289" visible="true"/>
+<node id="-724" lat="44.753220768" lon="-93.297729546" visible="true"/>
+<node id="-725" lat="44.753237874" lon="-93.297621473" visible="true"/>
+<node id="-726" lat="44.753224014" lon="-93.29761715" visible="true"/>
+<node id="-727" lat="44.753238003" lon="-93.29752879" visible="true"/>
+<node id="-729" lat="44.753278337" lon="-93.291297469" visible="true"/>
+<node id="-730" lat="44.753264011" lon="-93.291330997" visible="true"/>
+<node id="-731" lat="44.753284623" lon="-93.291348344" visible="true"/>
+<node id="-732" lat="44.753298949" lon="-93.291314816" visible="true"/>
+<node id="-734" lat="44.753291949" lon="-93.296989441" visible="true"/>
+<node id="-735" lat="44.753303312" lon="-93.29691299" visible="true"/>
+<node id="-736" lat="44.753226472" lon="-93.296890495" visible="true"/>
+<node id="-737" lat="44.753205888" lon="-93.297041738" visible="true"/>
+<node id="-738" lat="44.753192769" lon="-93.29714266" visible="true"/>
+<node id="-739" lat="44.75327893" lon="-93.297167908" visible="true"/>
+<node id="-740" lat="44.753304885" lon="-93.296993227" visible="true"/>
+<node id="-742" lat="44.753296803" lon="-93.290066473" visible="true"/>
+<node id="-743" lat="44.753331709" lon="-93.289922101" visible="true"/>
+<node id="-744" lat="44.753255109" lon="-93.289888476" visible="true"/>
+<node id="-745" lat="44.753226691" lon="-93.290006017" visible="true"/>
+<node id="-746" lat="44.753181351" lon="-93.289984429" visible="true"/>
+<node id="-747" lat="44.753158141" lon="-93.290080423" visible="true"/>
+<node id="-748" lat="44.753315499" lon="-93.290155356" visible="true"/>
+<node id="-749" lat="44.753332842" lon="-93.290083636" visible="true"/>
+<node id="-751" lat="44.753359491" lon="-93.289186139" visible="true"/>
+<node id="-752" lat="44.753340143" lon="-93.289276391" visible="true"/>
+<node id="-753" lat="44.753388466" lon="-93.289296903" visible="true"/>
+<node id="-754" lat="44.753337449" lon="-93.289329939" visible="true"/>
+<node id="-755" lat="44.753354404" lon="-93.289387653" visible="true"/>
+<node id="-756" lat="44.753375929" lon="-93.289372816" visible="true"/>
+<node id="-757" lat="44.753386448" lon="-93.289399933" visible="true"/>
+<node id="-758" lat="44.753430186" lon="-93.289369246" visible="true"/>
+<node id="-759" lat="44.753455762" lon="-93.289225943" visible="true"/>
+<node id="-761" lat="44.751320937" lon="-93.291299799" visible="true"/>
+<node id="-762" lat="44.750976198" lon="-93.291299996" visible="true"/>
+<node id="-763" lat="44.750976174" lon="-93.291216586" visible="true"/>
+<node id="-764" lat="44.750873786" lon="-93.291216642" visible="true"/>
+<node id="-765" lat="44.75087381" lon="-93.291299582" visible="true"/>
+<node id="-766" lat="44.750612877" lon="-93.291299732" visible="true"/>
+<node id="-767" lat="44.750612968" lon="-93.291615811" visible="true"/>
+<node id="-768" lat="44.750695725" lon="-93.291615766" visible="true"/>
+<node id="-769" lat="44.750695746" lon="-93.291690681" visible="true"/>
+<node id="-770" lat="44.75087742" lon="-93.29169058" visible="true"/>
+<node id="-771" lat="44.750877449" lon="-93.291792662" visible="true"/>
+<node id="-772" lat="44.750884041" lon="-93.291791911" visible="true"/>
+<node id="-773" lat="44.75088343" lon="-93.291837034" visible="true"/>
+<node id="-774" lat="44.750956672" lon="-93.291837922" visible="true"/>
+<node id="-775" lat="44.750956712" lon="-93.291808522" visible="true"/>
+<node id="-776" lat="44.750956687" lon="-93.291792618" visible="true"/>
+<node id="-777" lat="44.750973552" lon="-93.291792608" visible="true"/>
+<node id="-778" lat="44.75097353" lon="-93.291709728" visible="true"/>
+<node id="-779" lat="44.750995707" lon="-93.291707074" visible="true"/>
+<node id="-780" lat="44.751037622" lon="-93.291720473" visible="true"/>
+<node id="-781" lat="44.751068102" lon="-93.291741885" visible="true"/>
+<node id="-782" lat="44.751089051" lon="-93.291776664" visible="true"/>
+<node id="-783" lat="44.751098695" lon="-93.291804658" visible="true"/>
+<node id="-784" lat="44.751107258" lon="-93.291836753" visible="true"/>
+<node id="-785" lat="44.751109152" lon="-93.291874189" visible="true"/>
+<node id="-786" lat="44.75110914" lon="-93.291908952" visible="true"/>
+<node id="-787" lat="44.751082463" lon="-93.291907598" visible="true"/>
+<node id="-788" lat="44.751083392" lon="-93.291975786" visible="true"/>
+<node id="-789" lat="44.751136746" lon="-93.291974485" visible="true"/>
+<node id="-790" lat="44.751135767" lon="-93.292050696" visible="true"/>
+<node id="-791" lat="44.751181498" lon="-93.292050727" visible="true"/>
+<node id="-792" lat="44.751182447" lon="-93.292061423" visible="true"/>
+<node id="-793" lat="44.751254856" lon="-93.292061474" visible="true"/>
+<node id="-794" lat="44.751254859" lon="-93.292052114" visible="true"/>
+<node id="-795" lat="44.751312977" lon="-93.292050816" visible="true"/>
+<node id="-796" lat="44.751313925" lon="-93.292062851" visible="true"/>
+<node id="-797" lat="44.751382396" lon="-93.292062986" visible="true"/>
+<node id="-798" lat="44.7513824" lon="-93.292049616" visible="true"/>
+<node id="-799" lat="44.751405266" lon="-93.292049632" visible="true"/>
+<node id="-800" lat="44.751405315" lon="-93.291907907" visible="true"/>
+<node id="-801" lat="44.751407312" lon="-93.291645852" visible="true"/>
+<node id="-802" lat="44.751428272" lon="-93.291645865" visible="true"/>
+<node id="-803" lat="44.751430295" lon="-93.291300913" visible="true"/>
+<node id="-805" lat="44.751438632" lon="-93.297671538" visible="true"/>
+<node id="-806" lat="44.751371919" lon="-93.297683403" visible="true"/>
+<node id="-807" lat="44.751370967" lon="-93.297672866" visible="true"/>
+<node id="-808" lat="44.75125268" lon="-93.297693924" visible="true"/>
+<node id="-809" lat="44.751253659" lon="-93.297704754" visible="true"/>
+<node id="-810" lat="44.751189646" lon="-93.297716141" visible="true"/>
+<node id="-811" lat="44.751206063" lon="-93.297897913" visible="true"/>
+<node id="-812" lat="44.751269325" lon="-93.297886663" visible="true"/>
+<node id="-813" lat="44.751270611" lon="-93.297900891" visible="true"/>
+<node id="-814" lat="44.751393102" lon="-93.297879089" visible="true"/>
+<node id="-815" lat="44.751391936" lon="-93.297866188" visible="true"/>
+<node id="-816" lat="44.751455196" lon="-93.297854936" visible="true"/>
+<node id="-818" lat="44.7515694" lon="-93.295462436" visible="true"/>
+<node id="-819" lat="44.751559278" lon="-93.295498921" visible="true"/>
+<node id="-820" lat="44.751591085" lon="-93.295516303" visible="true"/>
+<node id="-821" lat="44.751601208" lon="-93.295479815" visible="true"/>
+<node id="-823" lat="44.751754799" lon="-93.296982052" visible="true"/>
+<node id="-824" lat="44.751743632" lon="-93.296989023" visible="true"/>
+<node id="-825" lat="44.751715661" lon="-93.296900783" visible="true"/>
+<node id="-826" lat="44.75164924" lon="-93.296942251" visible="true"/>
+<node id="-827" lat="44.751677192" lon="-93.297030426" visible="true"/>
+<node id="-828" lat="44.751644475" lon="-93.297050852" visible="true"/>
+<node id="-829" lat="44.751676116" lon="-93.297150665" visible="true"/>
+<node id="-830" lat="44.751786415" lon="-93.297081804" visible="true"/>
+<node id="-832" lat="44.751760923" lon="-93.296284134" visible="true"/>
+<node id="-833" lat="44.751727942" lon="-93.296364021" visible="true"/>
+<node id="-834" lat="44.75169159" lon="-93.296334466" visible="true"/>
+<node id="-835" lat="44.751652579" lon="-93.296428963" visible="true"/>
+<node id="-836" lat="44.75175918" lon="-93.296515672" visible="true"/>
+<node id="-837" lat="44.751797074" lon="-93.296423917" visible="true"/>
+<node id="-838" lat="44.751786754" lon="-93.296415526" visible="true"/>
+<node id="-839" lat="44.751820875" lon="-93.296332881" visible="true"/>
+<node id="-841" lat="44.751868002" lon="-93.296778936" visible="true"/>
+<node id="-842" lat="44.751846411" lon="-93.296793828" visible="true"/>
+<node id="-843" lat="44.75186219" lon="-93.29683888" visible="true"/>
+<node id="-844" lat="44.751883778" lon="-93.296823987" visible="true"/>
+<node id="-846" lat="44.751937627" lon="-93.296579492" visible="true"/>
+<node id="-847" lat="44.751916381" lon="-93.296619208" visible="true"/>
+<node id="-848" lat="44.751944535" lon="-93.296651717" visible="true"/>
+<node id="-849" lat="44.751966997" lon="-93.296613403" visible="true"/>
+<node id="-851" lat="44.751885728" lon="-93.294820553" visible="true"/>
+<node id="-852" lat="44.75185972" lon="-93.294932011" visible="true"/>
+<node id="-853" lat="44.75203426" lon="-93.295012217" visible="true"/>
+<node id="-854" lat="44.752060267" lon="-93.294900759" visible="true"/>
+<node id="-856" lat="44.752038009" lon="-93.2952352" visible="true"/>
+<node id="-857" lat="44.752029879" lon="-93.295259295" visible="true"/>
+<node id="-858" lat="44.752055043" lon="-93.295272571" visible="true"/>
+<node id="-859" lat="44.752061707" lon="-93.2952477" visible="true"/>
+<node id="-861" lat="44.751961663" lon="-93.2942175" visible="true"/>
+<node id="-862" lat="44.751948826" lon="-93.294278627" visible="true"/>
+<node id="-863" lat="44.751942826" lon="-93.294276147" visible="true"/>
+<node id="-864" lat="44.751925265" lon="-93.294359793" visible="true"/>
+<node id="-865" lat="44.751989645" lon="-93.294386411" visible="true"/>
+<node id="-866" lat="44.751996015" lon="-93.29435607" visible="true"/>
+<node id="-867" lat="44.75207711" lon="-93.294389607" visible="true"/>
+<node id="-868" lat="44.752101136" lon="-93.294275193" visible="true"/>
+<node id="-870" lat="44.752134182" lon="-93.297930019" visible="true"/>
+<node id="-871" lat="44.752101085" lon="-93.297962918" visible="true"/>
+<node id="-872" lat="44.752116346" lon="-93.297993148" visible="true"/>
+<node id="-873" lat="44.752149771" lon="-93.29795992" visible="true"/>
+<node id="-875" lat="44.752216986" lon="-93.293851059" visible="true"/>
+<node id="-876" lat="44.75217047" lon="-93.293892139" visible="true"/>
+<node id="-877" lat="44.752186632" lon="-93.293928177" visible="true"/>
+<node id="-878" lat="44.752233148" lon="-93.293887097" visible="true"/>
+<node id="-880" lat="44.75224705" lon="-93.296510738" visible="true"/>
+<node id="-881" lat="44.75220915" lon="-93.296520127" visible="true"/>
+<node id="-882" lat="44.752200419" lon="-93.296450724" visible="true"/>
+<node id="-883" lat="44.752135548" lon="-93.296466797" visible="true"/>
+<node id="-884" lat="44.752144499" lon="-93.29653794" visible="true"/>
+<node id="-885" lat="44.75212809" lon="-93.296542005" visible="true"/>
+<node id="-886" lat="44.752144369" lon="-93.296671417" visible="true"/>
+<node id="-887" lat="44.752263549" lon="-93.296641892" visible="true"/>
+<node id="-889" lat="44.75351" lon="-93.288894171" visible="true"/>
+<node id="-890" lat="44.753477212" lon="-93.288896631" visible="true"/>
+<node id="-891" lat="44.753475683" lon="-93.288856488" visible="true"/>
+<node id="-892" lat="44.753379868" lon="-93.288863698" visible="true"/>
+<node id="-893" lat="44.753382112" lon="-93.288922469" visible="true"/>
+<node id="-894" lat="44.753406689" lon="-93.288920621" visible="true"/>
+<node id="-895" lat="44.753407206" lon="-93.288934162" visible="true"/>
+<node id="-896" lat="44.753375864" lon="-93.288936513" visible="true"/>
+<node id="-897" lat="44.753381085" lon="-93.289073542" visible="true"/>
+<node id="-898" lat="44.753450517" lon="-93.289068332" visible="true"/>
+<node id="-899" lat="44.753448864" lon="-93.289024907" visible="true"/>
+<node id="-900" lat="44.75351479" lon="-93.289019965" visible="true"/>
+<node id="-902" lat="44.753610732" lon="-93.296997366" visible="true"/>
+<node id="-903" lat="44.753604882" lon="-93.297025755" visible="true"/>
+<node id="-904" lat="44.753634074" lon="-93.297038644" visible="true"/>
+<node id="-905" lat="44.753640391" lon="-93.297010457" visible="true"/>
+<node id="-907" lat="44.753696882" lon="-93.297836404" visible="true"/>
+<node id="-908" lat="44.753704457" lon="-93.297737586" visible="true"/>
+<node id="-909" lat="44.753632868" lon="-93.297726778" visible="true"/>
+<node id="-910" lat="44.753625263" lon="-93.297825996" visible="true"/>
+<node id="-911" lat="44.753609196" lon="-93.297823567" visible="true"/>
+<node id="-912" lat="44.753600741" lon="-93.29793379" visible="true"/>
+<node id="-913" lat="44.753720755" lon="-93.29795192" visible="true"/>
+<node id="-914" lat="44.753729239" lon="-93.297841289" visible="true"/>
+<node id="-916" lat="44.753714607" lon="-93.296151154" visible="true"/>
+<node id="-917" lat="44.753692306" lon="-93.296201136" visible="true"/>
+<node id="-918" lat="44.753716991" lon="-93.296222827" visible="true"/>
+<node id="-919" lat="44.753738749" lon="-93.296174054" visible="true"/>
+<node id="-921" lat="44.753694254" lon="-93.296022208" visible="true"/>
+<node id="-922" lat="44.753685385" lon="-93.296071965" visible="true"/>
+<node id="-923" lat="44.753744853" lon="-93.296093126" visible="true"/>
+<node id="-924" lat="44.753753835" lon="-93.296043407" visible="true"/>
+<node id="-926" lat="44.752207311" lon="-93.294972153" visible="true"/>
+<node id="-927" lat="44.752195911" lon="-93.295037943" visible="true"/>
+<node id="-928" lat="44.75212904" lon="-93.295015126" visible="true"/>
+<node id="-929" lat="44.75211398" lon="-93.295102057" visible="true"/>
+<node id="-930" lat="44.752099258" lon="-93.295097035" visible="true"/>
+<node id="-931" lat="44.752084777" lon="-93.295180058" visible="true"/>
+<node id="-932" lat="44.752159674" lon="-93.295205615" visible="true"/>
+<node id="-933" lat="44.75217354" lon="-93.295125587" visible="true"/>
+<node id="-934" lat="44.752180273" lon="-93.295127886" visible="true"/>
+<node id="-935" lat="44.752176459" lon="-93.29514989" visible="true"/>
+<node id="-936" lat="44.752257943" lon="-93.295177692" visible="true"/>
+<node id="-937" lat="44.752288739" lon="-93.294999939" visible="true"/>
+<node id="-939" lat="44.752260855" lon="-93.295766134" visible="true"/>
+<node id="-940" lat="44.752222215" lon="-93.29579684" visible="true"/>
+<node id="-941" lat="44.752250321" lon="-93.295866497" visible="true"/>
+<node id="-942" lat="44.752288963" lon="-93.295835791" visible="true"/>
+<node id="-944" lat="44.75217583" lon="-93.293474251" visible="true"/>
+<node id="-945" lat="44.752155016" lon="-93.293732429" visible="true"/>
+<node id="-946" lat="44.752241194" lon="-93.293746113" visible="true"/>
+<node id="-947" lat="44.752247657" lon="-93.293665946" visible="true"/>
+<node id="-948" lat="44.752256333" lon="-93.293667324" visible="true"/>
+<node id="-949" lat="44.752263476" lon="-93.293578779" visible="true"/>
+<node id="-950" lat="44.752289554" lon="-93.293582921" visible="true"/>
+<node id="-951" lat="44.752296768" lon="-93.29349346" visible="true"/>
+<node id="-953" lat="44.752206879" lon="-93.296057794" visible="true"/>
+<node id="-954" lat="44.752165682" lon="-93.296159919" visible="true"/>
+<node id="-955" lat="44.752174315" lon="-93.29616678" visible="true"/>
+<node id="-956" lat="44.752140927" lon="-93.296249525" visible="true"/>
+<node id="-957" lat="44.752206133" lon="-93.296301341" visible="true"/>
+<node id="-958" lat="44.752239738" lon="-93.296218055" visible="true"/>
+<node id="-959" lat="44.752285691" lon="-93.296254575" visible="true"/>
+<node id="-960" lat="44.752326687" lon="-93.296152976" visible="true"/>
+<node id="-962" lat="44.752327528" lon="-93.297439932" visible="true"/>
+<node id="-963" lat="44.752284457" lon="-93.297498414" visible="true"/>
+<node id="-964" lat="44.752321898" lon="-93.29754579" visible="true"/>
+<node id="-965" lat="44.752362499" lon="-93.297490658" visible="true"/>
+<node id="-967" lat="44.752305922" lon="-93.293153594" visible="true"/>
+<node id="-968" lat="44.752222109" lon="-93.293333185" visible="true"/>
+<node id="-969" lat="44.752316004" lon="-93.293419485" visible="true"/>
+<node id="-970" lat="44.752351312" lon="-93.29334383" visible="true"/>
+<node id="-971" lat="44.75233352" lon="-93.293327478" visible="true"/>
+<node id="-972" lat="44.752382025" lon="-93.293223532" visible="true"/>
+<node id="-974" lat="44.752390061" lon="-93.296844722" visible="true"/>
+<node id="-975" lat="44.75239501" lon="-93.296835788" visible="true"/>
+<node id="-976" lat="44.752345346" lon="-93.296781614" visible="true"/>
+<node id="-977" lat="44.752366869" lon="-93.296742754" visible="true"/>
+<node id="-978" lat="44.752314094" lon="-93.296685183" visible="true"/>
+<node id="-979" lat="44.75220255" lon="-93.296886571" visible="true"/>
+<node id="-980" lat="44.752255852" lon="-93.296944716" visible="true"/>
+<node id="-981" lat="44.75228743" lon="-93.296887701" visible="true"/>
+<node id="-982" lat="44.752381504" lon="-93.296990316" visible="true"/>
+<node id="-983" lat="44.752434997" lon="-93.296893744" visible="true"/>
+<node id="-985" lat="44.752333267" lon="-93.293772851" visible="true"/>
+<node id="-986" lat="44.752272711" lon="-93.293843808" visible="true"/>
+<node id="-987" lat="44.752319882" lon="-93.29392309" visible="true"/>
+<node id="-988" lat="44.752291841" lon="-93.293955946" visible="true"/>
+<node id="-989" lat="44.752325539" lon="-93.294012587" visible="true"/>
+<node id="-990" lat="44.752358716" lon="-93.293973714" visible="true"/>
+<node id="-991" lat="44.752396182" lon="-93.294036689" visible="true"/>
+<node id="-992" lat="44.752451602" lon="-93.293971754" visible="true"/>
+<node id="-994" lat="44.752523739" lon="-93.291929128" visible="true"/>
+<node id="-995" lat="44.752450775" lon="-93.291943672" visible="true"/>
+<node id="-996" lat="44.752456998" lon="-93.29200514" visible="true"/>
+<node id="-997" lat="44.752421067" lon="-93.292012303" visible="true"/>
+<node id="-998" lat="44.75242367" lon="-93.292038006" visible="true"/>
+<node id="-999" lat="44.752392771" lon="-93.29204417" visible="true"/>
+<node id="-1000" lat="44.752405438" lon="-93.292169245" visible="true"/>
+<node id="-1001" lat="44.752528117" lon="-93.292144799" visible="true"/>
+<node id="-1002" lat="44.752516993" lon="-93.292034875" visible="true"/>
+<node id="-1003" lat="44.752534099" lon="-93.292031465" visible="true"/>
+<node id="-1005" lat="44.752524953" lon="-93.29593191" visible="true"/>
+<node id="-1006" lat="44.752403441" lon="-93.295986051" visible="true"/>
+<node id="-1007" lat="44.752407432" lon="-93.296003689" visible="true"/>
+<node id="-1008" lat="44.752354461" lon="-93.296027296" visible="true"/>
+<node id="-1009" lat="44.752378806" lon="-93.296134875" visible="true"/>
+<node id="-1010" lat="44.752466313" lon="-93.296095885" visible="true"/>
+<node id="-1011" lat="44.7524637" lon="-93.296084334" visible="true"/>
+<node id="-1012" lat="44.752550669" lon="-93.296045582" visible="true"/>
+<node id="-1014" lat="44.752606261" lon="-93.289855139" visible="true"/>
+<node id="-1015" lat="44.752442512" lon="-93.289864736" visible="true"/>
+<node id="-1016" lat="44.752446055" lon="-93.289983832" visible="true"/>
+<node id="-1017" lat="44.752530929" lon="-93.289978858" visible="true"/>
+<node id="-1018" lat="44.752532556" lon="-93.290033521" visible="true"/>
+<node id="-1019" lat="44.752608583" lon="-93.290029034" visible="true"/>
+<node id="-1021" lat="44.752608576" lon="-93.297410786" visible="true"/>
+<node id="-1022" lat="44.752600077" lon="-93.297461112" visible="true"/>
+<node id="-1023" lat="44.752624017" lon="-93.297469071" visible="true"/>
+<node id="-1024" lat="44.752632513" lon="-93.297418745" visible="true"/>
+<node id="-1026" lat="44.75252174" lon="-93.291044892" visible="true"/>
+<node id="-1027" lat="44.752483107" lon="-93.291148289" visible="true"/>
+<node id="-1028" lat="44.75253992" lon="-93.291190096" visible="true"/>
+<node id="-1029" lat="44.75251268" lon="-93.291263004" visible="true"/>
+<node id="-1030" lat="44.752588333" lon="-93.291318675" visible="true"/>
+<node id="-1031" lat="44.752638101" lon="-93.291185476" visible="true"/>
+<node id="-1032" lat="44.752623965" lon="-93.291175074" visible="true"/>
+<node id="-1033" lat="44.752640074" lon="-93.291131966" visible="true"/>
+<node id="-1035" lat="44.752642067" lon="-93.296784356" visible="true"/>
+<node id="-1036" lat="44.752562602" lon="-93.296787586" visible="true"/>
+<node id="-1037" lat="44.75256364" lon="-93.296837905" visible="true"/>
+<node id="-1038" lat="44.75249376" lon="-93.296840742" visible="true"/>
+<node id="-1039" lat="44.752495906" lon="-93.296944869" visible="true"/>
+<node id="-1040" lat="44.752565147" lon="-93.296942059" visible="true"/>
+<node id="-1041" lat="44.752565549" lon="-93.296961632" visible="true"/>
+<node id="-1042" lat="44.752645657" lon="-93.296958391" visible="true"/>
+<node id="-1044" lat="44.752538934" lon="-93.28830692" visible="true"/>
+<node id="-1045" lat="44.752481436" lon="-93.288469402" visible="true"/>
+<node id="-1046" lat="44.752576151" lon="-93.288535139" visible="true"/>
+<node id="-1047" lat="44.75260068" lon="-93.288456707" visible="true"/>
+<node id="-1048" lat="44.752623632" lon="-93.288472804" visible="true"/>
+<node id="-1049" lat="44.752654245" lon="-93.288393206" visible="true"/>
+<node id="-1051" lat="44.7526551" lon="-93.290450207" visible="true"/>
+<node id="-1052" lat="44.752576021" lon="-93.290453256" visible="true"/>
+<node id="-1053" lat="44.752577778" lon="-93.290543046" visible="true"/>
+<node id="-1054" lat="44.752506721" lon="-93.290545783" visible="true"/>
+<node id="-1055" lat="44.752508923" lon="-93.290658364" visible="true"/>
+<node id="-1056" lat="44.752643395" lon="-93.290653191" visible="true"/>
+<node id="-1057" lat="44.752641416" lon="-93.290551905" visible="true"/>
+<node id="-1058" lat="44.75265708" lon="-93.290551301" visible="true"/>
+<node id="-1060" lat="44.752509889" lon="-93.293072824" visible="true"/>
+<node id="-1061" lat="44.75250881" lon="-93.293226501" visible="true"/>
+<node id="-1062" lat="44.752577845" lon="-93.293227454" visible="true"/>
+<node id="-1063" lat="44.752578087" lon="-93.293192724" visible="true"/>
+<node id="-1064" lat="44.752660105" lon="-93.293193855" visible="true"/>
+<node id="-1065" lat="44.752660935" lon="-93.293074914" visible="true"/>
+<node id="-1067" lat="44.752605711" lon="-93.294358142" visible="true"/>
+<node id="-1068" lat="44.752597856" lon="-93.294437862" visible="true"/>
+<node id="-1069" lat="44.752546623" lon="-93.294427916" visible="true"/>
+<node id="-1070" lat="44.752538964" lon="-93.294505621" visible="true"/>
+<node id="-1071" lat="44.752574192" lon="-93.294512458" visible="true"/>
+<node id="-1072" lat="44.752566572" lon="-93.294589778" visible="true"/>
+<node id="-1073" lat="44.752655907" lon="-93.294607118" visible="true"/>
+<node id="-1074" lat="44.752679572" lon="-93.294367028" visible="true"/>
+<node id="-1076" lat="44.752761185" lon="-93.291469822" visible="true"/>
+<node id="-1077" lat="44.752750263" lon="-93.291468364" visible="true"/>
+<node id="-1078" lat="44.752740994" lon="-93.291471858" visible="true"/>
+<node id="-1079" lat="44.752723299" lon="-93.291362126" visible="true"/>
+<node id="-1080" lat="44.75265261" lon="-93.291385513" visible="true"/>
+<node id="-1081" lat="44.752671662" lon="-93.291487883" visible="true"/>
+<node id="-1082" lat="44.752683366" lon="-93.291645684" visible="true"/>
+<node id="-1083" lat="44.752766997" lon="-93.291635758" visible="true"/>
+<node id="-1085" lat="44.752640319" lon="-93.296005305" visible="true"/>
+<node id="-1086" lat="44.752620607" lon="-93.296060877" visible="true"/>
+<node id="-1087" lat="44.752612939" lon="-93.296055522" visible="true"/>
+<node id="-1088" lat="44.752585227" lon="-93.296133654" visible="true"/>
+<node id="-1089" lat="44.752646913" lon="-93.296176743" visible="true"/>
+<node id="-1090" lat="44.752657168" lon="-93.296147833" visible="true"/>
+<node id="-1091" lat="44.75273339" lon="-93.296201085" visible="true"/>
+<node id="-1092" lat="44.752770562" lon="-93.296096296" visible="true"/>
+<node id="-1094" lat="44.752833519" lon="-93.28815672" visible="true"/>
+<node id="-1095" lat="44.752775142" lon="-93.288175979" visible="true"/>
+<node id="-1096" lat="44.752771399" lon="-93.288162697" visible="true"/>
+<node id="-1097" lat="44.752662384" lon="-93.288200804" visible="true"/>
+<node id="-1098" lat="44.752685603" lon="-93.28835032" visible="true"/>
+<node id="-1099" lat="44.752797251" lon="-93.288317313" visible="true"/>
+<node id="-1100" lat="44.752791406" lon="-93.288278282" visible="true"/>
+<node id="-1101" lat="44.752852689" lon="-93.288260274" visible="true"/>
+<node id="-1103" lat="44.752828759" lon="-93.289792099" visible="true"/>
+<node id="-1104" lat="44.752820327" lon="-93.289801584" visible="true"/>
+<node id="-1105" lat="44.752773545" lon="-93.289719674" visible="true"/>
+<node id="-1106" lat="44.752675102" lon="-93.289830423" visible="true"/>
+<node id="-1107" lat="44.752727616" lon="-93.289922357" visible="true"/>
+<node id="-1108" lat="44.752733267" lon="-93.289919058" visible="true"/>
+<node id="-1109" lat="44.752757097" lon="-93.289895322" visible="true"/>
+<node id="-1110" lat="44.752770638" lon="-93.289919037" visible="true"/>
+<node id="-1111" lat="44.752795491" lon="-93.289891089" visible="true"/>
+<node id="-1112" lat="44.752825789" lon="-93.28994415" visible="true"/>
+<node id="-1113" lat="44.752880469" lon="-93.289882658" visible="true"/>
+<node id="-1115" lat="44.752898953" lon="-93.290515311" visible="true"/>
+<node id="-1116" lat="44.752823135" lon="-93.290512225" visible="true"/>
+<node id="-1117" lat="44.752797256" lon="-93.290511574" visible="true"/>
+<node id="-1118" lat="44.75279807" lon="-93.29049618" visible="true"/>
+<node id="-1119" lat="44.752803249" lon="-93.290491378" visible="true"/>
+<node id="-1120" lat="44.752802129" lon="-93.290452454" visible="true"/>
+<node id="-1121" lat="44.75272915" lon="-93.290454645" visible="true"/>
+<node id="-1122" lat="44.752730578" lon="-93.290548246" visible="true"/>
+<node id="-1123" lat="44.752763858" lon="-93.290543316" visible="true"/>
+<node id="-1124" lat="44.752765453" lon="-93.290630656" visible="true"/>
+<node id="-1125" lat="44.7529028" lon="-93.290629749" visible="true"/>
+<node id="-1127" lat="44.752859511" lon="-93.296825093" visible="true"/>
+<node id="-1128" lat="44.75286103" lon="-93.296815447" visible="true"/>
+<node id="-1129" lat="44.752833331" lon="-93.296806847" visible="true"/>
+<node id="-1130" lat="44.752836454" lon="-93.296787039" visible="true"/>
+<node id="-1131" lat="44.752738496" lon="-93.296756622" visible="true"/>
+<node id="-1132" lat="44.752721842" lon="-93.296862253" visible="true"/>
+<node id="-1133" lat="44.752757315" lon="-93.296873269" visible="true"/>
+<node id="-1134" lat="44.752750504" lon="-93.296916464" visible="true"/>
+<node id="-1135" lat="44.752892654" lon="-93.296960613" visible="true"/>
+<node id="-1136" lat="44.752911473" lon="-93.296841222" visible="true"/>
+<node id="-1138" lat="44.752944604" lon="-93.292216493" visible="true"/>
+<node id="-1139" lat="44.752918032" lon="-93.292225369" visible="true"/>
+<node id="-1140" lat="44.752935503" lon="-93.29232837" visible="true"/>
+<node id="-1141" lat="44.752962263" lon="-93.292320592" visible="true"/>
+<node id="-1143" lat="44.752962076" lon="-93.29245078" visible="true"/>
+<node id="-1144" lat="44.752822219" lon="-93.292509955" visible="true"/>
+<node id="-1145" lat="44.752846685" lon="-93.292623844" visible="true"/>
+<node id="-1146" lat="44.752925775" lon="-93.292590377" visible="true"/>
+<node id="-1147" lat="44.752932293" lon="-93.292620714" visible="true"/>
+<node id="-1148" lat="44.752993061" lon="-93.292595" visible="true"/>
+<node id="-1150" lat="44.752973981" lon="-93.288989611" visible="true"/>
+<node id="-1151" lat="44.752951403" lon="-93.28911663" visible="true"/>
+<node id="-1152" lat="44.752914796" lon="-93.289103814" visible="true"/>
+<node id="-1153" lat="44.752887542" lon="-93.289257197" visible="true"/>
+<node id="-1154" lat="44.753006177" lon="-93.289298711" visible="true"/>
+<node id="-1155" lat="44.753017947" lon="-93.289232474" visible="true"/>
+<node id="-1156" lat="44.753004117" lon="-93.289227636" visible="true"/>
+<node id="-1157" lat="44.753023889" lon="-93.289103988" visible="true"/>
+<node id="-1158" lat="44.753038036" lon="-93.289012036" visible="true"/>
+<node id="-1160" lat="44.753041999" lon="-93.293190459" visible="true"/>
+<node id="-1161" lat="44.75304559" lon="-93.293114757" visible="true"/>
+<node id="-1162" lat="44.752968302" lon="-93.293107538" visible="true"/>
+<node id="-1163" lat="44.752960893" lon="-93.293263712" visible="true"/>
+<node id="-1164" lat="44.752958731" lon="-93.293366549" visible="true"/>
+<node id="-1165" lat="44.75304352" lon="-93.293374429" visible="true"/>
+<node id="-1166" lat="44.753052211" lon="-93.293191413" visible="true"/>
+<node id="-1168" lat="44.753064448" lon="-93.29344788" visible="true"/>
+<node id="-1169" lat="44.752982587" lon="-93.293448668" visible="true"/>
+<node id="-1170" lat="44.752982961" lon="-93.293525283" visible="true"/>
+<node id="-1171" lat="44.752975357" lon="-93.293525355" visible="true"/>
+<node id="-1172" lat="44.752976207" lon="-93.293701482" visible="true"/>
+<node id="-1173" lat="44.753065682" lon="-93.29370063" visible="true"/>
+<node id="-1175" lat="44.753005819" lon="-93.28817901" visible="true"/>
+<node id="-1176" lat="44.753010702" lon="-93.288164709" visible="true"/>
+<node id="-1177" lat="44.752982508" lon="-93.288145746" visible="true"/>
+<node id="-1178" lat="44.752919001" lon="-93.288331718" visible="true"/>
+<node id="-1179" lat="44.752978643" lon="-93.288371831" visible="true"/>
+<node id="-1180" lat="44.75299823" lon="-93.28831447" visible="true"/>
+<node id="-1181" lat="44.753049509" lon="-93.288348957" visible="true"/>
+<node id="-1182" lat="44.753088544" lon="-93.28823465" visible="true"/>
+<node id="-1184" lat="44.753029295" lon="-93.295466163" visible="true"/>
+<node id="-1185" lat="44.753028704" lon="-93.295474447" visible="true"/>
+<node id="-1186" lat="44.752984808" lon="-93.29546827" visible="true"/>
+<node id="-1187" lat="44.752970351" lon="-93.295670659" visible="true"/>
+<node id="-1188" lat="44.753053506" lon="-93.295682351" visible="true"/>
+<node id="-1189" lat="44.753061853" lon="-93.295565422" visible="true"/>
+<node id="-1190" lat="44.753084138" lon="-93.295568557" visible="true"/>
+<node id="-1191" lat="44.753090827" lon="-93.295474809" visible="true"/>
+<node id="-1193" lat="44.753145687" lon="-93.297906983" visible="true"/>
+<node id="-1194" lat="44.753156874" lon="-93.297835848" visible="true"/>
+<node id="-1195" lat="44.753081752" lon="-93.297812581" visible="true"/>
+<node id="-1196" lat="44.753042758" lon="-93.298060614" visible="true"/>
+<node id="-1197" lat="44.753093437" lon="-93.298076308" visible="true"/>
+<node id="-1198" lat="44.753130527" lon="-93.29808779" visible="true"/>
+<node id="-1199" lat="44.753132306" lon="-93.298076458" visible="true"/>
+<node id="-1200" lat="44.753158337" lon="-93.297910901" visible="true"/>
+<node id="-1202" lat="44.753166228" lon="-93.29424288" visible="true"/>
+<node id="-1203" lat="44.753156414" lon="-93.29424382" visible="true"/>
+<node id="-1204" lat="44.75314964" lon="-93.294104423" visible="true"/>
+<node id="-1205" lat="44.753077863" lon="-93.294111294" visible="true"/>
+<node id="-1206" lat="44.753084613" lon="-93.294250151" visible="true"/>
+<node id="-1207" lat="44.753022202" lon="-93.294256127" visible="true"/>
+<node id="-1208" lat="44.753027858" lon="-93.294372501" visible="true"/>
+<node id="-1209" lat="44.753171849" lon="-93.294358743" visible="true"/>
+<node id="-1211" lat="44.753191029" lon="-93.292349482" visible="true"/>
+<node id="-1212" lat="44.753126843" lon="-93.292368787" visible="true"/>
+<node id="-1213" lat="44.753123586" lon="-93.292347452" visible="true"/>
+<node id="-1214" lat="44.753043986" lon="-93.292371392" visible="true"/>
+<node id="-1215" lat="44.753070108" lon="-93.292542459" visible="true"/>
+<node id="-1216" lat="44.7531494" lon="-93.292518607" visible="true"/>
+<node id="-1217" lat="44.753141582" lon="-93.292467413" visible="true"/>
+<node id="-1218" lat="44.753206075" lon="-93.292448019" visible="true"/>
+<node id="-1220" lat="44.753249063" lon="-93.297241113" visible="true"/>
+<node id="-1221" lat="44.753250326" lon="-93.297232645" visible="true"/>
+<node id="-1222" lat="44.753174349" lon="-93.297210329" visible="true"/>
+<node id="-1223" lat="44.753160744" lon="-93.297301554" visible="true"/>
+<node id="-1224" lat="44.753182193" lon="-93.297307857" visible="true"/>
+<node id="-1225" lat="44.753164995" lon="-93.297423154" visible="true"/>
+<node id="-1226" lat="44.753247091" lon="-93.297447272" visible="true"/>
+<node id="-1227" lat="44.753276612" lon="-93.297249198" visible="true"/>
+<node id="-1229" lat="44.753277663" lon="-93.291238675" visible="true"/>
+<node id="-1230" lat="44.753277139" lon="-93.291231036" visible="true"/>
+<node id="-1231" lat="44.753275808" lon="-93.29122098" visible="true"/>
+<node id="-1232" lat="44.753273738" lon="-93.291211176" visible="true"/>
+<node id="-1233" lat="44.753270946" lon="-93.291201729" visible="true"/>
+<node id="-1234" lat="44.753267467" lon="-93.291192745" visible="true"/>
+<node id="-1235" lat="44.753264447" lon="-93.291186347" visible="true"/>
+<node id="-1236" lat="44.753261043" lon="-93.291180345" visible="true"/>
+<node id="-1237" lat="44.753256025" lon="-93.291172928" visible="true"/>
+<node id="-1238" lat="44.753250483" lon="-93.29116629" visible="true"/>
+<node id="-1239" lat="44.75324603" lon="-93.291161837" visible="true"/>
+<node id="-1240" lat="44.75324132" lon="-93.291157944" visible="true"/>
+<node id="-1241" lat="44.753234743" lon="-93.291153545" visible="true"/>
+<node id="-1242" lat="44.753227873" lon="-93.291150133" visible="true"/>
+<node id="-1243" lat="44.753220785" lon="-93.291147749" visible="true"/>
+<node id="-1244" lat="44.75321356" lon="-93.291146418" visible="true"/>
+<node id="-1245" lat="44.753205367" lon="-93.291146255" visible="true"/>
+<node id="-1246" lat="44.753197204" lon="-93.291147294" visible="true"/>
+<node id="-1247" lat="44.753191847" lon="-93.291148826" visible="true"/>
+<node id="-1248" lat="44.753186579" lon="-93.291150877" visible="true"/>
+<node id="-1249" lat="44.75318146" lon="-93.291153569" visible="true"/>
+<node id="-1250" lat="44.753174883" lon="-93.291157973" visible="true"/>
+<node id="-1251" lat="44.753170173" lon="-93.29116187" visible="true"/>
+<node id="-1252" lat="44.753165724" lon="-93.291166328" visible="true"/>
+<node id="-1253" lat="44.753160183" lon="-93.29117297" visible="true"/>
+<node id="-1254" lat="44.75315517" lon="-93.291180391" visible="true"/>
+<node id="-1255" lat="44.753150737" lon="-93.291188506" visible="true"/>
+<node id="-1256" lat="44.75314693" lon="-93.291197227" visible="true"/>
+<node id="-1257" lat="44.753143794" lon="-93.291206458" visible="true"/>
+<node id="-1258" lat="44.753141882" lon="-93.291213645" visible="true"/>
+<node id="-1259" lat="44.753140423" lon="-93.29122104" visible="true"/>
+<node id="-1260" lat="44.753139097" lon="-93.291231096" visible="true"/>
+<node id="-1261" lat="44.753138575" lon="-93.291238736" visible="true"/>
+<node id="-1262" lat="44.753138529" lon="-93.291246406" visible="true"/>
+<node id="-1263" lat="44.753139103" lon="-93.291256601" visible="true"/>
+<node id="-1264" lat="44.753140433" lon="-93.291266656" visible="true"/>
+<node id="-1265" lat="44.753141896" lon="-93.291274049" visible="true"/>
+<node id="-1266" lat="44.753143811" lon="-93.291281235" visible="true"/>
+<node id="-1267" lat="44.753146951" lon="-93.291290463" visible="true"/>
+<node id="-1268" lat="44.753150762" lon="-93.29129918" visible="true"/>
+<node id="-1269" lat="44.753155199" lon="-93.291307291" visible="true"/>
+<node id="-1270" lat="44.753160215" lon="-93.29131471" visible="true"/>
+<node id="-1271" lat="44.753164311" lon="-93.29131979" visible="true"/>
+<node id="-1272" lat="44.753168707" lon="-93.29132435" visible="true"/>
+<node id="-1273" lat="44.753174922" lon="-93.291329693" visible="true"/>
+<node id="-1274" lat="44.753179815" lon="-93.291333112" visible="true"/>
+<node id="-1275" lat="44.753184903" lon="-93.291335923" visible="true"/>
+<node id="-1276" lat="44.75319189" lon="-93.291338825" visible="true"/>
+<node id="-1277" lat="44.753197247" lon="-93.291340353" visible="true"/>
+<node id="-1278" lat="44.75320541" lon="-93.291341385" visible="true"/>
+<node id="-1279" lat="44.753213603" lon="-93.291341213" visible="true"/>
+<node id="-1280" lat="44.753220828" lon="-93.291339877" visible="true"/>
+<node id="-1281" lat="44.753226166" lon="-93.291338212" visible="true"/>
+<node id="-1282" lat="44.753231381" lon="-93.291335903" visible="true"/>
+<node id="-1283" lat="44.753236466" lon="-93.291333087" visible="true"/>
+<node id="-1284" lat="44.753241358" lon="-93.291329663" visible="true"/>
+<node id="-1285" lat="44.753246067" lon="-93.291325767" visible="true"/>
+<node id="-1286" lat="44.753250518" lon="-93.291321309" visible="true"/>
+<node id="-1287" lat="44.753256057" lon="-93.291314667" visible="true"/>
+<node id="-1288" lat="44.753261071" lon="-93.291307245" visible="true"/>
+<node id="-1289" lat="44.753265506" lon="-93.29129913" visible="true"/>
+<node id="-1290" lat="44.753269312" lon="-93.291290409" visible="true"/>
+<node id="-1291" lat="44.753272445" lon="-93.291281178" visible="true"/>
+<node id="-1292" lat="44.75327436" lon="-93.291273991" visible="true"/>
+<node id="-1293" lat="44.753275818" lon="-93.291266597" visible="true"/>
+<node id="-1294" lat="44.753277145" lon="-93.291256541" visible="true"/>
+<node id="-1295" lat="44.753277713" lon="-93.291246345" visible="true"/>
+<node id="-1297" lat="44.753258045" lon="-93.288436742" visible="true"/>
+<node id="-1298" lat="44.753268188" lon="-93.288408276" visible="true"/>
+<node id="-1299" lat="44.753239906" lon="-93.288388428" visible="true"/>
+<node id="-1300" lat="44.753247954" lon="-93.288365842" visible="true"/>
+<node id="-1301" lat="44.753196547" lon="-93.288332667" visible="true"/>
+<node id="-1302" lat="44.753168956" lon="-93.288316197" visible="true"/>
+<node id="-1303" lat="44.753120924" lon="-93.288450981" visible="true"/>
+<node id="-1304" lat="44.753146421" lon="-93.288468877" visible="true"/>
+<node id="-1305" lat="44.753137903" lon="-93.288492781" visible="true"/>
+<node id="-1306" lat="44.753237481" lon="-93.28856267" visible="true"/>
+<node id="-1307" lat="44.753277494" lon="-93.288450392" visible="true"/>
+<node id="-1309" lat="44.753299347" lon="-93.297543601" visible="true"/>
+<node id="-1310" lat="44.753294696" lon="-93.297584014" visible="true"/>
+<node id="-1311" lat="44.753343529" lon="-93.297595083" visible="true"/>
+<node id="-1312" lat="44.753346775" lon="-93.297554352" visible="true"/>
+<node id="-1314" lat="44.753281825" lon="-93.296567526" visible="true"/>
+<node id="-1315" lat="44.753242677" lon="-93.296821756" visible="true"/>
+<node id="-1316" lat="44.753321756" lon="-93.29684574" visible="true"/>
+<node id="-1317" lat="44.753360904" lon="-93.296591509" visible="true"/>
+<node id="-1319" lat="44.75332123" lon="-93.29089326" visible="true"/>
+<node id="-1320" lat="44.753299348" lon="-93.29101118" visible="true"/>
+<node id="-1321" lat="44.753341317" lon="-93.291026518" visible="true"/>
+<node id="-1322" lat="44.753355132" lon="-93.290952087" visible="true"/>
+<node id="-1323" lat="44.753384176" lon="-93.290962702" visible="true"/>
+<node id="-1324" lat="44.753392354" lon="-93.290919256" visible="true"/>
+<node id="-1326" lat="44.753355211" lon="-93.289596449" visible="true"/>
+<node id="-1327" lat="44.753362044" lon="-93.289564366" visible="true"/>
+<node id="-1328" lat="44.753287018" lon="-93.289532898" visible="true"/>
+<node id="-1329" lat="44.753262448" lon="-93.289648257" visible="true"/>
+<node id="-1330" lat="44.753297235" lon="-93.289662848" visible="true"/>
+<node id="-1331" lat="44.753290931" lon="-93.289692443" visible="true"/>
+<node id="-1332" lat="44.753272512" lon="-93.289684715" visible="true"/>
+<node id="-1333" lat="44.753262913" lon="-93.289719274" visible="true"/>
+<node id="-1334" lat="44.753253478" lon="-93.289753084" visible="true"/>
+<node id="-1335" lat="44.753247586" lon="-93.289785666" visible="true"/>
+<node id="-1336" lat="44.753363586" lon="-93.28983433" visible="true"/>
+<node id="-1337" lat="44.753373641" lon="-93.289787132" visible="true"/>
+<node id="-1338" lat="44.753379253" lon="-93.289789484" visible="true"/>
+<node id="-1339" lat="44.753388973" lon="-93.289743829" visible="true"/>
+<node id="-1340" lat="44.753382977" lon="-93.289741315" visible="true"/>
+<node id="-1341" lat="44.753390983" lon="-93.289703718" visible="true"/>
+<node id="-1342" lat="44.753402385" lon="-93.289708499" visible="true"/>
+<node id="-1343" lat="44.753420422" lon="-93.2896238" visible="true"/>
+<node id="-1345" lat="44.753339646" lon="-93.294738682" visible="true"/>
+<node id="-1346" lat="44.753330261" lon="-93.294753358" visible="true"/>
+<node id="-1347" lat="44.753284874" lon="-93.294696196" visible="true"/>
+<node id="-1348" lat="44.753231528" lon="-93.294779618" visible="true"/>
+<node id="-1349" lat="44.753319879" lon="-93.29489091" visible="true"/>
+<node id="-1350" lat="44.753324104" lon="-93.294884303" visible="true"/>
+<node id="-1351" lat="44.753378093" lon="-93.294952308" visible="true"/>
+<node id="-1352" lat="44.753436607" lon="-93.294860812" visible="true"/>
+<node id="-1354" lat="44.753321282" lon="-93.296295207" visible="true"/>
+<node id="-1355" lat="44.753305267" lon="-93.296407936" visible="true"/>
+<node id="-1356" lat="44.75335414" lon="-93.296421611" visible="true"/>
+<node id="-1357" lat="44.75334067" lon="-93.296516424" visible="true"/>
+<node id="-1358" lat="44.753414307" lon="-93.296537026" visible="true"/>
+<node id="-1359" lat="44.75342665" lon="-93.296450123" visible="true"/>
+<node id="-1360" lat="44.753435675" lon="-93.29645265" visible="true"/>
+<node id="-1361" lat="44.753452817" lon="-93.296332009" visible="true"/>
+<node id="-1363" lat="44.753439332" lon="-93.296074842" visible="true"/>
+<node id="-1364" lat="44.753452915" lon="-93.295988749" visible="true"/>
+<node id="-1365" lat="44.753375536" lon="-93.295964704" visible="true"/>
+<node id="-1366" lat="44.753335178" lon="-93.296220463" visible="true"/>
+<node id="-1367" lat="44.753414889" lon="-93.296245236" visible="true"/>
+<node id="-1368" lat="44.753426252" lon="-93.296173223" visible="true"/>
+<node id="-1369" lat="44.753459992" lon="-93.296183707" visible="true"/>
+<node id="-1370" lat="44.7534754" lon="-93.29608605" visible="true"/>
+<node id="-1372" lat="44.753423567" lon="-93.28858984" visible="true"/>
+<node id="-1373" lat="44.753323053" lon="-93.288675634" visible="true"/>
+<node id="-1374" lat="44.75334512" lon="-93.288726548" visible="true"/>
+<node id="-1375" lat="44.753328536" lon="-93.288740705" visible="true"/>
+<node id="-1376" lat="44.753364647" lon="-93.288824017" visible="true"/>
+<node id="-1377" lat="44.753416463" lon="-93.288779784" visible="true"/>
+<node id="-1378" lat="44.753410351" lon="-93.28876568" visible="true"/>
+<node id="-1379" lat="44.753475631" lon="-93.288709972" visible="true"/>
+<node id="-1381" lat="44.753359802" lon="-93.292378581" visible="true"/>
+<node id="-1382" lat="44.753299705" lon="-93.292452443" visible="true"/>
+<node id="-1383" lat="44.753308906" lon="-93.292467185" visible="true"/>
+<node id="-1384" lat="44.75330425" lon="-93.292472907" visible="true"/>
+<node id="-1385" lat="44.753320736" lon="-93.292499332" visible="true"/>
+<node id="-1386" lat="44.753325456" lon="-93.292493534" visible="true"/>
+<node id="-1387" lat="44.753335439" lon="-93.292509539" visible="true"/>
+<node id="-1388" lat="44.753327784" lon="-93.292518945" visible="true"/>
+<node id="-1389" lat="44.753372077" lon="-93.292589946" visible="true"/>
+<node id="-1390" lat="44.75338899" lon="-93.292569166" visible="true"/>
+<node id="-1391" lat="44.753425738" lon="-93.292628064" visible="true"/>
+<node id="-1392" lat="44.753476525" lon="-93.292565657" visible="true"/>
+<node id="-1394" lat="44.753410292" lon="-93.293071591" visible="true"/>
+<node id="-1395" lat="44.753347963" lon="-93.293200048" visible="true"/>
+<node id="-1396" lat="44.753305714" lon="-93.293288327" visible="true"/>
+<node id="-1397" lat="44.753376013" lon="-93.293357462" visible="true"/>
+<node id="-1398" lat="44.75348305" lon="-93.293143167" visible="true"/>
+<node id="-1400" lat="44.753534265" lon="-93.292697654" visible="true"/>
+<node id="-1401" lat="44.753447367" lon="-93.292721549" visible="true"/>
+<node id="-1402" lat="44.753475011" lon="-93.292919549" visible="true"/>
+<node id="-1403" lat="44.753561908" lon="-93.292895652" visible="true"/>
+<node id="-1405" lat="44.753635688" lon="-93.296001883" visible="true"/>
+<node id="-1406" lat="44.753629812" lon="-93.29604218" visible="true"/>
+<node id="-1407" lat="44.753654901" lon="-93.296049385" visible="true"/>
+<node id="-1408" lat="44.753660777" lon="-93.296009086" visible="true"/>
+<node id="-1410" lat="44.753716194" lon="-93.297500441" visible="true"/>
+<node id="-1411" lat="44.753724687" lon="-93.297418372" visible="true"/>
+<node id="-1412" lat="44.753655439" lon="-93.29740426" visible="true"/>
+<node id="-1413" lat="44.753647268" lon="-93.297483244" visible="true"/>
+<node id="-1414" lat="44.753637087" lon="-93.297481168" visible="true"/>
+<node id="-1415" lat="44.753623566" lon="-93.297611896" visible="true"/>
+<node id="-1416" lat="44.753755991" lon="-93.29763889" visible="true"/>
+<node id="-1417" lat="44.7537692" lon="-93.297511244" visible="true"/>
+<node id="-1419" lat="44.753751244" lon="-93.297108381" visible="true"/>
+<node id="-1420" lat="44.753714327" lon="-93.297104745" visible="true"/>
+<node id="-1421" lat="44.753692853" lon="-93.29730936" visible="true"/>
+<node id="-1422" lat="44.753774333" lon="-93.297326199" visible="true"/>
+<node id="-1423" lat="44.753786173" lon="-93.297213374" visible="true"/>
+<node id="-1424" lat="44.753811507" lon="-93.297218607" visible="true"/>
+<node id="-1425" lat="44.753821955" lon="-93.297118996" visible="true"/>
+<node id="-1427" lat="44.753815108" lon="-93.29676119" visible="true"/>
+<node id="-1428" lat="44.753739546" lon="-93.296997461" visible="true"/>
+<node id="-1429" lat="44.753810996" lon="-93.297042467" visible="true"/>
+<node id="-1430" lat="44.75388656" lon="-93.296806197" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-2"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="700"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="County Road 42"/></way>
+<way id="-9" visible="true"><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-10"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-35" visible="true"><nd ref="-36"/><nd ref="-37"/><nd ref="-38"/><nd ref="-39"/><nd ref="-36"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-40" visible="true"><nd ref="-41"/><nd ref="-42"/><nd ref="-43"/><nd ref="-44"/><nd ref="-45"/><nd ref="-41"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="950"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="County Road 42"/></way>
+<way id="-46" visible="true"><nd ref="-47"/><nd ref="-39"/><nd ref="-38"/><nd ref="-48"/><nd ref="-49"/><nd ref="-50"/><nd ref="-47"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="1002"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="County Road 42"/></way>
+<way id="-51" visible="true"><nd ref="-52"/><nd ref="-53"/><nd ref="-54"/><nd ref="-55"/><nd ref="-56"/><nd ref="-57"/><nd ref="-58"/><nd ref="-59"/><nd ref="-60"/><nd ref="-61"/><nd ref="-52"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="1230"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="County Road 42"/></way>
+<way id="-62" visible="true"><nd ref="-63"/><nd ref="-64"/><nd ref="-65"/><nd ref="-66"/><nd ref="-63"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-67" visible="true"><nd ref="-68"/><nd ref="-69"/><nd ref="-70"/><nd ref="-71"/><nd ref="-72"/><nd ref="-73"/><nd ref="-74"/><nd ref="-75"/><nd ref="-76"/><nd ref="-77"/><nd ref="-78"/><nd ref="-79"/><nd ref="-68"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="1310"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="County Road 42"/></way>
+<way id="-80" visible="true"><nd ref="-81"/><nd ref="-82"/><nd ref="-83"/><nd ref="-84"/><nd ref="-85"/><nd ref="-86"/><nd ref="-87"/><nd ref="-88"/><nd ref="-81"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="1404"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="County Road 42"/></way>
+<way id="-89" visible="true"><nd ref="-90"/><nd ref="-91"/><nd ref="-92"/><nd ref="-93"/><nd ref="-94"/><nd ref="-95"/><nd ref="-96"/><nd ref="-97"/><nd ref="-98"/><nd ref="-99"/><nd ref="-100"/><nd ref="-101"/><nd ref="-102"/><nd ref="-103"/><nd ref="-104"/><nd ref="-105"/><nd ref="-90"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="1400"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="County Road 42"/></way>
+<way id="-106" visible="true"><nd ref="-107"/><nd ref="-108"/><nd ref="-109"/><nd ref="-110"/><nd ref="-111"/><nd ref="-112"/><nd ref="-113"/><nd ref="-114"/><nd ref="-107"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="900"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="County Road 42"/></way>
+<way id="-115" visible="true"><nd ref="-116"/><nd ref="-117"/><nd ref="-118"/><nd ref="-119"/><nd ref="-120"/><nd ref="-121"/><nd ref="-122"/><nd ref="-123"/><nd ref="-124"/><nd ref="-125"/><nd ref="-126"/><nd ref="-127"/><nd ref="-116"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="828"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="County Road 42"/></way>
+<way id="-128" visible="true"><nd ref="-129"/><nd ref="-130"/><nd ref="-131"/><nd ref="-132"/><nd ref="-129"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="728"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="County Road 42"/></way>
+<way id="-133" visible="true"><nd ref="-134"/><nd ref="-135"/><nd ref="-136"/><nd ref="-137"/><nd ref="-138"/><nd ref="-139"/><nd ref="-140"/><nd ref="-141"/><nd ref="-142"/><nd ref="-143"/><nd ref="-144"/><nd ref="-145"/><nd ref="-146"/><nd ref="-147"/><nd ref="-148"/><nd ref="-149"/><nd ref="-150"/><nd ref="-151"/><nd ref="-152"/><nd ref="-153"/><nd ref="-154"/><nd ref="-155"/><nd ref="-156"/><nd ref="-157"/><nd ref="-158"/><nd ref="-159"/><nd ref="-160"/><nd ref="-134"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="14050"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Burnhaven Drive"/></way>
+<way id="-161" visible="true"><nd ref="-162"/><nd ref="-163"/><nd ref="-164"/><nd ref="-165"/><nd ref="-166"/><nd ref="-167"/><nd ref="-168"/><nd ref="-169"/><nd ref="-170"/><nd ref="-171"/><nd ref="-172"/><nd ref="-173"/><nd ref="-174"/><nd ref="-175"/><nd ref="-176"/><nd ref="-177"/><nd ref="-178"/><nd ref="-179"/><nd ref="-180"/><nd ref="-181"/><nd ref="-182"/><nd ref="-183"/><nd ref="-184"/><nd ref="-185"/><nd ref="-186"/><nd ref="-187"/><nd ref="-188"/><nd ref="-189"/><nd ref="-190"/><nd ref="-191"/><nd ref="-192"/><nd ref="-193"/><nd ref="-194"/><nd ref="-195"/><nd ref="-196"/><nd ref="-197"/><nd ref="-198"/><nd ref="-199"/><nd ref="-162"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="810"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="County Road 42"/></way>
+<way id="-200" visible="true"><nd ref="-201"/><nd ref="-202"/><nd ref="-203"/><nd ref="-204"/><nd ref="-201"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-205" visible="true"><nd ref="-206"/><nd ref="-207"/><nd ref="-208"/><nd ref="-209"/><nd ref="-210"/><nd ref="-211"/><nd ref="-212"/><nd ref="-213"/><nd ref="-214"/><nd ref="-215"/><nd ref="-216"/><nd ref="-217"/><nd ref="-218"/><nd ref="-219"/><nd ref="-220"/><nd ref="-221"/><nd ref="-222"/><nd ref="-223"/><nd ref="-224"/><nd ref="-225"/><nd ref="-226"/><nd ref="-227"/><nd ref="-228"/><nd ref="-229"/><nd ref="-230"/><nd ref="-231"/><nd ref="-232"/><nd ref="-233"/><nd ref="-234"/><nd ref="-206"/><tag k="building" v="civic"/><tag k="addr:housenumber" v="911"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="140th Street West"/></way>
+<way id="-235" visible="true"><nd ref="-236"/><nd ref="-237"/><nd ref="-238"/><nd ref="-239"/><nd ref="-240"/><nd ref="-241"/><nd ref="-242"/><nd ref="-243"/><nd ref="-244"/><nd ref="-236"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1309"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="140th Street West"/></way>
+<way id="-245" visible="true"><nd ref="-246"/><nd ref="-247"/><nd ref="-248"/><nd ref="-249"/><nd ref="-250"/><nd ref="-251"/><nd ref="-252"/><nd ref="-253"/><nd ref="-254"/><nd ref="-255"/><nd ref="-256"/><nd ref="-257"/><nd ref="-246"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1627"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="140th Street West"/></way>
+<way id="-258" visible="true"><nd ref="-259"/><nd ref="-260"/><nd ref="-261"/><nd ref="-262"/><nd ref="-263"/><nd ref="-264"/><nd ref="-265"/><nd ref="-266"/><nd ref="-267"/><nd ref="-259"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1305"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="140th Street West"/></way>
+<way id="-268" visible="true"><nd ref="-269"/><nd ref="-270"/><nd ref="-271"/><nd ref="-272"/><nd ref="-269"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-273" visible="true"><nd ref="-274"/><nd ref="-275"/><nd ref="-276"/><nd ref="-277"/><nd ref="-274"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-278" visible="true"><nd ref="-279"/><nd ref="-280"/><nd ref="-281"/><nd ref="-282"/><nd ref="-279"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-283" visible="true"><nd ref="-284"/><nd ref="-285"/><nd ref="-286"/><nd ref="-287"/><nd ref="-284"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-288" visible="true"><nd ref="-289"/><nd ref="-290"/><nd ref="-291"/><nd ref="-292"/><nd ref="-289"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-293" visible="true"><nd ref="-294"/><nd ref="-295"/><nd ref="-296"/><nd ref="-297"/><nd ref="-298"/><nd ref="-299"/><nd ref="-300"/><nd ref="-301"/><nd ref="-302"/><nd ref="-303"/><nd ref="-304"/><nd ref="-305"/><nd ref="-306"/><nd ref="-307"/><nd ref="-308"/><nd ref="-309"/><nd ref="-310"/><nd ref="-311"/><nd ref="-312"/><nd ref="-313"/><nd ref="-314"/><nd ref="-315"/><nd ref="-316"/><nd ref="-317"/><nd ref="-318"/><nd ref="-319"/><nd ref="-320"/><nd ref="-321"/><nd ref="-322"/><nd ref="-323"/><nd ref="-324"/><nd ref="-325"/><nd ref="-326"/><nd ref="-327"/><nd ref="-328"/><nd ref="-329"/><nd ref="-330"/><nd ref="-331"/><nd ref="-332"/><nd ref="-333"/><nd ref="-334"/><nd ref="-335"/><nd ref="-336"/><nd ref="-337"/><nd ref="-338"/><nd ref="-339"/><nd ref="-294"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="1300"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="County Road 42"/></way>
+<way id="-340" visible="true"><nd ref="-341"/><nd ref="-342"/><nd ref="-343"/><nd ref="-344"/><nd ref="-345"/><nd ref="-346"/><nd ref="-347"/><nd ref="-341"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="14051"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Burnhaven Drive"/></way>
+<way id="-348" visible="true"><nd ref="-349"/><nd ref="-350"/><nd ref="-351"/><nd ref="-352"/><nd ref="-353"/><nd ref="-354"/><nd ref="-355"/><nd ref="-356"/><nd ref="-357"/><nd ref="-349"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1415"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="140th Street West"/></way>
+<way id="-358" visible="true"><nd ref="-359"/><nd ref="-360"/><nd ref="-361"/><nd ref="-362"/><nd ref="-359"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-363" visible="true"><nd ref="-364"/><nd ref="-365"/><nd ref="-366"/><nd ref="-367"/><nd ref="-368"/><nd ref="-369"/><nd ref="-370"/><nd ref="-371"/><nd ref="-372"/><nd ref="-373"/><nd ref="-374"/><nd ref="-375"/><nd ref="-376"/><nd ref="-364"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="14041"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Burnhaven Drive"/></way>
+<way id="-377" visible="true"><nd ref="-378"/><nd ref="-379"/><nd ref="-380"/><nd ref="-381"/><nd ref="-378"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-382" visible="true"><nd ref="-383"/><nd ref="-384"/><nd ref="-385"/><nd ref="-386"/><nd ref="-387"/><nd ref="-388"/><nd ref="-389"/><nd ref="-383"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="14031"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Burnhaven Drive"/></way>
+<way id="-390" visible="true"><nd ref="-391"/><nd ref="-392"/><nd ref="-393"/><nd ref="-394"/><nd ref="-395"/><nd ref="-396"/><nd ref="-397"/><nd ref="-398"/><nd ref="-399"/><nd ref="-391"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1503"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="140th Street West"/></way>
+<way id="-400" visible="true"><nd ref="-401"/><nd ref="-402"/><nd ref="-403"/><nd ref="-404"/><nd ref="-405"/><nd ref="-406"/><nd ref="-407"/><nd ref="-408"/><nd ref="-401"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1304"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="140th Street West"/></way>
+<way id="-409" visible="true"><nd ref="-410"/><nd ref="-411"/><nd ref="-412"/><nd ref="-413"/><nd ref="-414"/><nd ref="-415"/><nd ref="-416"/><nd ref="-417"/><nd ref="-418"/><nd ref="-419"/><nd ref="-410"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="13900"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Aldrich Avenue South"/></way>
+<way id="-420" visible="true"><nd ref="-421"/><nd ref="-422"/><nd ref="-423"/><nd ref="-424"/><nd ref="-425"/><nd ref="-426"/><nd ref="-427"/><nd ref="-428"/><nd ref="-421"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1408"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="140th Street West"/></way>
+<way id="-429" visible="true"><nd ref="-430"/><nd ref="-431"/><nd ref="-432"/><nd ref="-433"/><nd ref="-434"/><nd ref="-435"/><nd ref="-436"/><nd ref="-437"/><nd ref="-430"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1308"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="140th Street West"/></way>
+<way id="-438" visible="true"><nd ref="-439"/><nd ref="-440"/><nd ref="-441"/><nd ref="-442"/><nd ref="-439"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1504"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="140th Street West"/></way>
+<way id="-443" visible="true"><nd ref="-444"/><nd ref="-445"/><nd ref="-446"/><nd ref="-447"/><nd ref="-444"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1400"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="140th Street West"/></way>
+<way id="-448" visible="true"><nd ref="-449"/><nd ref="-450"/><nd ref="-451"/><nd ref="-452"/><nd ref="-453"/><nd ref="-454"/><nd ref="-449"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1508"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="140th Street West"/></way>
+<way id="-455" visible="true"><nd ref="-456"/><nd ref="-457"/><nd ref="-458"/><nd ref="-459"/><nd ref="-456"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-460" visible="true"><nd ref="-461"/><nd ref="-462"/><nd ref="-463"/><nd ref="-464"/><nd ref="-461"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-465" visible="true"><nd ref="-466"/><nd ref="-467"/><nd ref="-468"/><nd ref="-469"/><nd ref="-466"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-470" visible="true"><nd ref="-471"/><nd ref="-472"/><nd ref="-473"/><nd ref="-474"/><nd ref="-475"/><nd ref="-476"/><nd ref="-477"/><nd ref="-478"/><nd ref="-479"/><nd ref="-480"/><nd ref="-481"/><nd ref="-482"/><nd ref="-483"/><nd ref="-484"/><nd ref="-485"/><nd ref="-486"/><nd ref="-471"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1432"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Mcandrews Road West"/></way>
+<way id="-487" visible="true"><nd ref="-488"/><nd ref="-489"/><nd ref="-490"/><nd ref="-491"/><nd ref="-492"/><nd ref="-493"/><nd ref="-494"/><nd ref="-488"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="14001"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Burnhaven Drive"/></way>
+<way id="-495" visible="true"><nd ref="-496"/><nd ref="-497"/><nd ref="-498"/><nd ref="-499"/><nd ref="-496"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-500" visible="true"><nd ref="-501"/><nd ref="-502"/><nd ref="-503"/><nd ref="-504"/><nd ref="-505"/><nd ref="-506"/><nd ref="-507"/><nd ref="-508"/><nd ref="-509"/><nd ref="-501"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1403"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="140th Street West"/></way>
+<way id="-510" visible="true"><nd ref="-511"/><nd ref="-512"/><nd ref="-513"/><nd ref="-514"/><nd ref="-515"/><nd ref="-516"/><nd ref="-517"/><nd ref="-518"/><nd ref="-519"/><nd ref="-511"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1407"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="140th Street West"/></way>
+<way id="-520" visible="true"><nd ref="-521"/><nd ref="-522"/><nd ref="-523"/><nd ref="-524"/><nd ref="-521"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-525" visible="true"><nd ref="-526"/><nd ref="-527"/><nd ref="-528"/><nd ref="-529"/><nd ref="-530"/><nd ref="-531"/><nd ref="-532"/><nd ref="-533"/><nd ref="-534"/><nd ref="-535"/><nd ref="-536"/><nd ref="-526"/><tag k="building" v="house"/><tag k="addr:housenumber" v="13905"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Fremont Avenue South"/></way>
+<way id="-537" visible="true"><nd ref="-538"/><nd ref="-539"/><nd ref="-540"/><nd ref="-541"/><nd ref="-542"/><nd ref="-543"/><nd ref="-544"/><nd ref="-545"/><nd ref="-546"/><nd ref="-547"/><nd ref="-548"/><nd ref="-538"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1609"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-549" visible="true"><nd ref="-550"/><nd ref="-551"/><nd ref="-552"/><nd ref="-553"/><nd ref="-554"/><nd ref="-555"/><nd ref="-550"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-556" visible="true"><nd ref="-557"/><nd ref="-558"/><nd ref="-559"/><nd ref="-560"/><nd ref="-561"/><nd ref="-562"/><nd ref="-557"/><tag k="building" v="house"/><tag k="addr:housenumber" v="13904"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Fremont Avenue South"/></way>
+<way id="-563" visible="true"><nd ref="-564"/><nd ref="-565"/><nd ref="-566"/><nd ref="-567"/><nd ref="-564"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-568" visible="true"><nd ref="-569"/><nd ref="-570"/><nd ref="-571"/><nd ref="-572"/><nd ref="-573"/><nd ref="-574"/><nd ref="-575"/><nd ref="-576"/><nd ref="-569"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1605"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-577" visible="true"><nd ref="-578"/><nd ref="-579"/><nd ref="-580"/><nd ref="-581"/><nd ref="-578"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-582" visible="true"><nd ref="-583"/><nd ref="-584"/><nd ref="-585"/><nd ref="-586"/><nd ref="-587"/><nd ref="-588"/><nd ref="-589"/><nd ref="-590"/><nd ref="-591"/><nd ref="-592"/><nd ref="-593"/><nd ref="-583"/><tag k="building" v="house"/><tag k="addr:housenumber" v="809"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bryant Lane"/></way>
+<way id="-594" visible="true"><nd ref="-595"/><nd ref="-596"/><nd ref="-597"/><nd ref="-598"/><nd ref="-599"/><nd ref="-600"/><nd ref="-601"/><nd ref="-602"/><nd ref="-595"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1209"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-603" visible="true"><nd ref="-604"/><nd ref="-605"/><nd ref="-606"/><nd ref="-607"/><nd ref="-608"/><nd ref="-609"/><nd ref="-610"/><nd ref="-611"/><nd ref="-604"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1000"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Mcandrews Road West"/></way>
+<way id="-612" visible="true"><nd ref="-613"/><nd ref="-614"/><nd ref="-615"/><nd ref="-616"/><nd ref="-617"/><nd ref="-618"/><nd ref="-619"/><nd ref="-620"/><nd ref="-613"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1113"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-621" visible="true"><nd ref="-622"/><nd ref="-623"/><nd ref="-624"/><nd ref="-625"/><nd ref="-626"/><nd ref="-627"/><nd ref="-622"/><tag k="building" v="house"/><tag k="addr:housenumber" v="13900"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Fremont Avenue South"/></way>
+<way id="-628" visible="true"><nd ref="-629"/><nd ref="-630"/><nd ref="-631"/><nd ref="-632"/><nd ref="-633"/><nd ref="-634"/><nd ref="-635"/><nd ref="-636"/><nd ref="-629"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1601"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-637" visible="true"><nd ref="-638"/><nd ref="-639"/><nd ref="-640"/><nd ref="-641"/><nd ref="-642"/><nd ref="-643"/><nd ref="-644"/><nd ref="-645"/><nd ref="-646"/><nd ref="-647"/><nd ref="-648"/><nd ref="-638"/><tag k="building" v="house"/><tag k="addr:housenumber" v="813"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bryant Lane"/></way>
+<way id="-649" visible="true"><nd ref="-650"/><nd ref="-651"/><nd ref="-652"/><nd ref="-653"/><nd ref="-654"/><nd ref="-655"/><nd ref="-656"/><nd ref="-657"/><nd ref="-650"/><tag k="building" v="house"/><tag k="addr:housenumber" v="821"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bryant Lane"/></way>
+<way id="-658" visible="true"><nd ref="-659"/><nd ref="-660"/><nd ref="-661"/><nd ref="-662"/><nd ref="-663"/><nd ref="-664"/><nd ref="-665"/><nd ref="-666"/><nd ref="-659"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1401"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-667" visible="true"><nd ref="-668"/><nd ref="-669"/><nd ref="-670"/><nd ref="-671"/><nd ref="-672"/><nd ref="-673"/><nd ref="-674"/><nd ref="-668"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1309"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-675" visible="true"><nd ref="-676"/><nd ref="-677"/><nd ref="-678"/><nd ref="-679"/><nd ref="-680"/><nd ref="-681"/><nd ref="-682"/><nd ref="-683"/><nd ref="-676"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1301"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-684" visible="true"><nd ref="-685"/><nd ref="-686"/><nd ref="-687"/><nd ref="-688"/><nd ref="-689"/><nd ref="-685"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1200"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-690" visible="true"><nd ref="-691"/><nd ref="-692"/><nd ref="-693"/><nd ref="-694"/><nd ref="-691"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-695" visible="true"><nd ref="-696"/><nd ref="-697"/><nd ref="-698"/><nd ref="-699"/><nd ref="-700"/><nd ref="-701"/><nd ref="-702"/><nd ref="-703"/><nd ref="-696"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-704" visible="true"><nd ref="-705"/><nd ref="-706"/><nd ref="-707"/><nd ref="-708"/><nd ref="-709"/><nd ref="-710"/><nd ref="-711"/><nd ref="-712"/><nd ref="-713"/><nd ref="-705"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1208"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-714" visible="true"><nd ref="-715"/><nd ref="-716"/><nd ref="-717"/><nd ref="-718"/><nd ref="-715"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-719" visible="true"><nd ref="-720"/><nd ref="-721"/><nd ref="-722"/><nd ref="-723"/><nd ref="-724"/><nd ref="-725"/><nd ref="-726"/><nd ref="-727"/><nd ref="-720"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1600"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-728" visible="true"><nd ref="-729"/><nd ref="-730"/><nd ref="-731"/><nd ref="-732"/><nd ref="-729"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-733" visible="true"><nd ref="-734"/><nd ref="-735"/><nd ref="-736"/><nd ref="-737"/><nd ref="-738"/><nd ref="-739"/><nd ref="-740"/><nd ref="-734"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1504"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-741" visible="true"><nd ref="-742"/><nd ref="-743"/><nd ref="-744"/><nd ref="-745"/><nd ref="-746"/><nd ref="-747"/><nd ref="-748"/><nd ref="-749"/><nd ref="-742"/><tag k="building" v="house"/><tag k="addr:housenumber" v="824"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bryant Lane"/></way>
+<way id="-750" visible="true"><nd ref="-751"/><nd ref="-752"/><nd ref="-753"/><nd ref="-754"/><nd ref="-755"/><nd ref="-756"/><nd ref="-757"/><nd ref="-758"/><nd ref="-759"/><nd ref="-751"/><tag k="building" v="house"/><tag k="addr:housenumber" v="816"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bryant Lane"/></way>
+<way id="-760" visible="true"><nd ref="-761"/><nd ref="-762"/><nd ref="-763"/><nd ref="-764"/><nd ref="-765"/><nd ref="-766"/><nd ref="-767"/><nd ref="-768"/><nd ref="-769"/><nd ref="-770"/><nd ref="-771"/><nd ref="-772"/><nd ref="-773"/><nd ref="-774"/><nd ref="-775"/><nd ref="-776"/><nd ref="-777"/><nd ref="-778"/><nd ref="-779"/><nd ref="-780"/><nd ref="-781"/><nd ref="-782"/><nd ref="-783"/><nd ref="-784"/><nd ref="-785"/><nd ref="-786"/><nd ref="-787"/><nd ref="-788"/><nd ref="-789"/><nd ref="-790"/><nd ref="-791"/><nd ref="-792"/><nd ref="-793"/><nd ref="-794"/><nd ref="-795"/><nd ref="-796"/><nd ref="-797"/><nd ref="-798"/><nd ref="-799"/><nd ref="-800"/><nd ref="-801"/><nd ref="-802"/><nd ref="-803"/><nd ref="-761"/><tag k="building" v="commercial"/><tag k="addr:housenumber" v="1000"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="140th Street West"/></way>
+<way id="-804" visible="true"><nd ref="-805"/><nd ref="-806"/><nd ref="-807"/><nd ref="-808"/><nd ref="-809"/><nd ref="-810"/><nd ref="-811"/><nd ref="-812"/><nd ref="-813"/><nd ref="-814"/><nd ref="-815"/><nd ref="-816"/><nd ref="-805"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1509"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="140th Street West"/></way>
+<way id="-817" visible="true"><nd ref="-818"/><nd ref="-819"/><nd ref="-820"/><nd ref="-821"/><nd ref="-818"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-822" visible="true"><nd ref="-823"/><nd ref="-824"/><nd ref="-825"/><nd ref="-826"/><nd ref="-827"/><nd ref="-828"/><nd ref="-829"/><nd ref="-830"/><nd ref="-823"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1500"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="140th Street West"/></way>
+<way id="-831" visible="true"><nd ref="-832"/><nd ref="-833"/><nd ref="-834"/><nd ref="-835"/><nd ref="-836"/><nd ref="-837"/><nd ref="-838"/><nd ref="-839"/><nd ref="-832"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1404"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="140th Street West"/></way>
+<way id="-840" visible="true"><nd ref="-841"/><nd ref="-842"/><nd ref="-843"/><nd ref="-844"/><nd ref="-841"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-845" visible="true"><nd ref="-846"/><nd ref="-847"/><nd ref="-848"/><nd ref="-849"/><nd ref="-846"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-850" visible="true"><nd ref="-851"/><nd ref="-852"/><nd ref="-853"/><nd ref="-854"/><nd ref="-851"/><tag k="building" v="house"/><tag k="addr:housenumber" v="13912"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Fremont Avenue South"/></way>
+<way id="-855" visible="true"><nd ref="-856"/><nd ref="-857"/><nd ref="-858"/><nd ref="-859"/><nd ref="-856"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-860" visible="true"><nd ref="-861"/><nd ref="-862"/><nd ref="-863"/><nd ref="-864"/><nd ref="-865"/><nd ref="-866"/><nd ref="-867"/><nd ref="-868"/><nd ref="-861"/><tag k="building" v="house"/><tag k="addr:housenumber" v="13909"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Fremont Avenue South"/></way>
+<way id="-869" visible="true"><nd ref="-870"/><nd ref="-871"/><nd ref="-872"/><nd ref="-873"/><nd ref="-870"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-874" visible="true"><nd ref="-875"/><nd ref="-876"/><nd ref="-877"/><nd ref="-878"/><nd ref="-875"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-879" visible="true"><nd ref="-880"/><nd ref="-881"/><nd ref="-882"/><nd ref="-883"/><nd ref="-884"/><nd ref="-885"/><nd ref="-886"/><nd ref="-887"/><nd ref="-880"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1501"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-888" visible="true"><nd ref="-889"/><nd ref="-890"/><nd ref="-891"/><nd ref="-892"/><nd ref="-893"/><nd ref="-894"/><nd ref="-895"/><nd ref="-896"/><nd ref="-897"/><nd ref="-898"/><nd ref="-899"/><nd ref="-900"/><nd ref="-889"/><tag k="building" v="house"/><tag k="addr:housenumber" v="812"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bryant Lane"/></way>
+<way id="-901" visible="true"><nd ref="-902"/><nd ref="-903"/><nd ref="-904"/><nd ref="-905"/><nd ref="-902"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-906" visible="true"><nd ref="-907"/><nd ref="-908"/><nd ref="-909"/><nd ref="-910"/><nd ref="-911"/><nd ref="-912"/><nd ref="-913"/><nd ref="-914"/><nd ref="-907"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1509"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Irving Lane"/></way>
+<way id="-915" visible="true"><nd ref="-916"/><nd ref="-917"/><nd ref="-918"/><nd ref="-919"/><nd ref="-916"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-920" visible="true"><nd ref="-921"/><nd ref="-922"/><nd ref="-923"/><nd ref="-924"/><nd ref="-921"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-925" visible="true"><nd ref="-926"/><nd ref="-927"/><nd ref="-928"/><nd ref="-929"/><nd ref="-930"/><nd ref="-931"/><nd ref="-932"/><nd ref="-933"/><nd ref="-934"/><nd ref="-935"/><nd ref="-936"/><nd ref="-937"/><nd ref="-926"/><tag k="building" v="house"/><tag k="addr:housenumber" v="13908"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Fremont Avenue South"/></way>
+<way id="-938" visible="true"><nd ref="-939"/><nd ref="-940"/><nd ref="-941"/><nd ref="-942"/><nd ref="-939"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-943" visible="true"><nd ref="-944"/><nd ref="-945"/><nd ref="-946"/><nd ref="-947"/><nd ref="-948"/><nd ref="-949"/><nd ref="-950"/><nd ref="-951"/><nd ref="-944"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1201"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-952" visible="true"><nd ref="-953"/><nd ref="-954"/><nd ref="-955"/><nd ref="-956"/><nd ref="-957"/><nd ref="-958"/><nd ref="-959"/><nd ref="-960"/><nd ref="-953"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1413"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-961" visible="true"><nd ref="-962"/><nd ref="-963"/><nd ref="-964"/><nd ref="-965"/><nd ref="-962"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-966" visible="true"><nd ref="-967"/><nd ref="-968"/><nd ref="-969"/><nd ref="-970"/><nd ref="-971"/><nd ref="-972"/><nd ref="-967"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1121"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-973" visible="true"><nd ref="-974"/><nd ref="-975"/><nd ref="-976"/><nd ref="-977"/><nd ref="-978"/><nd ref="-979"/><nd ref="-980"/><nd ref="-981"/><nd ref="-982"/><nd ref="-983"/><nd ref="-974"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1505"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-984" visible="true"><nd ref="-985"/><nd ref="-986"/><nd ref="-987"/><nd ref="-988"/><nd ref="-989"/><nd ref="-990"/><nd ref="-991"/><nd ref="-992"/><nd ref="-985"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1205"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-993" visible="true"><nd ref="-994"/><nd ref="-995"/><nd ref="-996"/><nd ref="-997"/><nd ref="-998"/><nd ref="-999"/><nd ref="-1000"/><nd ref="-1001"/><nd ref="-1002"/><nd ref="-1003"/><nd ref="-994"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1004"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Mcandrews Road West"/></way>
+<way id="-1004" visible="true"><nd ref="-1005"/><nd ref="-1006"/><nd ref="-1007"/><nd ref="-1008"/><nd ref="-1009"/><nd ref="-1010"/><nd ref="-1011"/><nd ref="-1012"/><nd ref="-1005"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1409"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-1013" visible="true"><nd ref="-1014"/><nd ref="-1015"/><nd ref="-1016"/><nd ref="-1017"/><nd ref="-1018"/><nd ref="-1019"/><nd ref="-1014"/><tag k="building" v="house"/><tag k="addr:housenumber" v="829"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bryant Lane"/></way>
+<way id="-1020" visible="true"><nd ref="-1021"/><nd ref="-1022"/><nd ref="-1023"/><nd ref="-1024"/><nd ref="-1021"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1025" visible="true"><nd ref="-1026"/><nd ref="-1027"/><nd ref="-1028"/><nd ref="-1029"/><nd ref="-1030"/><nd ref="-1031"/><nd ref="-1032"/><nd ref="-1033"/><nd ref="-1026"/><tag k="building" v="house"/><tag k="addr:housenumber" v="904"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Mcandrews Road West"/></way>
+<way id="-1034" visible="true"><nd ref="-1035"/><nd ref="-1036"/><nd ref="-1037"/><nd ref="-1038"/><nd ref="-1039"/><nd ref="-1040"/><nd ref="-1041"/><nd ref="-1042"/><nd ref="-1035"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1509"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-1043" visible="true"><nd ref="-1044"/><nd ref="-1045"/><nd ref="-1046"/><nd ref="-1047"/><nd ref="-1048"/><nd ref="-1049"/><nd ref="-1044"/><tag k="building" v="house"/><tag k="addr:housenumber" v="805"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bryant Lane"/></way>
+<way id="-1050" visible="true"><nd ref="-1051"/><nd ref="-1052"/><nd ref="-1053"/><nd ref="-1054"/><nd ref="-1055"/><nd ref="-1056"/><nd ref="-1057"/><nd ref="-1058"/><nd ref="-1051"/><tag k="building" v="house"/><tag k="addr:housenumber" v="832"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bryant Lane"/></way>
+<way id="-1059" visible="true"><nd ref="-1060"/><nd ref="-1061"/><nd ref="-1062"/><nd ref="-1063"/><nd ref="-1064"/><nd ref="-1065"/><nd ref="-1060"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1117"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-1066" visible="true"><nd ref="-1067"/><nd ref="-1068"/><nd ref="-1069"/><nd ref="-1070"/><nd ref="-1071"/><nd ref="-1072"/><nd ref="-1073"/><nd ref="-1074"/><nd ref="-1067"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1213"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-1075" visible="true"><nd ref="-1076"/><nd ref="-1077"/><nd ref="-1078"/><nd ref="-1079"/><nd ref="-1080"/><nd ref="-1081"/><nd ref="-1082"/><nd ref="-1083"/><nd ref="-1076"/><tag k="building" v="house"/><tag k="addr:housenumber" v="908"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Mcandrews Road West"/></way>
+<way id="-1084" visible="true"><nd ref="-1085"/><nd ref="-1086"/><nd ref="-1087"/><nd ref="-1088"/><nd ref="-1089"/><nd ref="-1090"/><nd ref="-1091"/><nd ref="-1092"/><nd ref="-1085"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1405"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-1093" visible="true"><nd ref="-1094"/><nd ref="-1095"/><nd ref="-1096"/><nd ref="-1097"/><nd ref="-1098"/><nd ref="-1099"/><nd ref="-1100"/><nd ref="-1101"/><nd ref="-1094"/><tag k="building" v="house"/><tag k="addr:housenumber" v="801"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bryant Lane"/></way>
+<way id="-1102" visible="true"><nd ref="-1103"/><nd ref="-1104"/><nd ref="-1105"/><nd ref="-1106"/><nd ref="-1107"/><nd ref="-1108"/><nd ref="-1109"/><nd ref="-1110"/><nd ref="-1111"/><nd ref="-1112"/><nd ref="-1113"/><nd ref="-1103"/><tag k="building" v="house"/><tag k="addr:housenumber" v="825"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bryant Lane"/></way>
+<way id="-1114" visible="true"><nd ref="-1115"/><nd ref="-1116"/><nd ref="-1117"/><nd ref="-1118"/><nd ref="-1119"/><nd ref="-1120"/><nd ref="-1121"/><nd ref="-1122"/><nd ref="-1123"/><nd ref="-1124"/><nd ref="-1125"/><nd ref="-1115"/><tag k="building" v="house"/><tag k="addr:housenumber" v="828"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bryant Lane"/></way>
+<way id="-1126" visible="true"><nd ref="-1127"/><nd ref="-1128"/><nd ref="-1129"/><nd ref="-1130"/><nd ref="-1131"/><nd ref="-1132"/><nd ref="-1133"/><nd ref="-1134"/><nd ref="-1135"/><nd ref="-1136"/><nd ref="-1127"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1513"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-1137" visible="true"><nd ref="-1138"/><nd ref="-1139"/><nd ref="-1140"/><nd ref="-1141"/><nd ref="-1138"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1142" visible="true"><nd ref="-1143"/><nd ref="-1144"/><nd ref="-1145"/><nd ref="-1146"/><nd ref="-1147"/><nd ref="-1148"/><nd ref="-1143"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1109"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-1149" visible="true"><nd ref="-1150"/><nd ref="-1151"/><nd ref="-1152"/><nd ref="-1153"/><nd ref="-1154"/><nd ref="-1155"/><nd ref="-1156"/><nd ref="-1157"/><nd ref="-1158"/><nd ref="-1150"/><tag k="building" v="house"/><tag k="addr:housenumber" v="817"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bryant Lane"/></way>
+<way id="-1159" visible="true"><nd ref="-1160"/><nd ref="-1161"/><nd ref="-1162"/><nd ref="-1163"/><nd ref="-1164"/><nd ref="-1165"/><nd ref="-1166"/><nd ref="-1160"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1108"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-1167" visible="true"><nd ref="-1168"/><nd ref="-1169"/><nd ref="-1170"/><nd ref="-1171"/><nd ref="-1172"/><nd ref="-1173"/><nd ref="-1168"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1112"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-1174" visible="true"><nd ref="-1175"/><nd ref="-1176"/><nd ref="-1177"/><nd ref="-1178"/><nd ref="-1179"/><nd ref="-1180"/><nd ref="-1181"/><nd ref="-1182"/><nd ref="-1175"/><tag k="building" v="house"/><tag k="addr:housenumber" v="800"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bryant Lane"/></way>
+<way id="-1183" visible="true"><nd ref="-1184"/><nd ref="-1185"/><nd ref="-1186"/><nd ref="-1187"/><nd ref="-1188"/><nd ref="-1189"/><nd ref="-1190"/><nd ref="-1191"/><nd ref="-1184"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1305"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-1192" visible="true"><nd ref="-1193"/><nd ref="-1194"/><nd ref="-1195"/><nd ref="-1196"/><nd ref="-1197"/><nd ref="-1198"/><nd ref="-1199"/><nd ref="-1200"/><nd ref="-1193"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1604"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-1201" visible="true"><nd ref="-1202"/><nd ref="-1203"/><nd ref="-1204"/><nd ref="-1205"/><nd ref="-1206"/><nd ref="-1207"/><nd ref="-1208"/><nd ref="-1209"/><nd ref="-1202"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1204"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-1210" visible="true"><nd ref="-1211"/><nd ref="-1212"/><nd ref="-1213"/><nd ref="-1214"/><nd ref="-1215"/><nd ref="-1216"/><nd ref="-1217"/><nd ref="-1218"/><nd ref="-1211"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1105"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-1219" visible="true"><nd ref="-1220"/><nd ref="-1221"/><nd ref="-1222"/><nd ref="-1223"/><nd ref="-1224"/><nd ref="-1225"/><nd ref="-1226"/><nd ref="-1227"/><nd ref="-1220"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1508"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-1228" visible="true"><nd ref="-1229"/><nd ref="-1230"/><nd ref="-1231"/><nd ref="-1232"/><nd ref="-1233"/><nd ref="-1234"/><nd ref="-1235"/><nd ref="-1236"/><nd ref="-1237"/><nd ref="-1238"/><nd ref="-1239"/><nd ref="-1240"/><nd ref="-1241"/><nd ref="-1242"/><nd ref="-1243"/><nd ref="-1244"/><nd ref="-1245"/><nd ref="-1246"/><nd ref="-1247"/><nd ref="-1248"/><nd ref="-1249"/><nd ref="-1250"/><nd ref="-1251"/><nd ref="-1252"/><nd ref="-1253"/><nd ref="-1254"/><nd ref="-1255"/><nd ref="-1256"/><nd ref="-1257"/><nd ref="-1258"/><nd ref="-1259"/><nd ref="-1260"/><nd ref="-1261"/><nd ref="-1262"/><nd ref="-1263"/><nd ref="-1264"/><nd ref="-1265"/><nd ref="-1266"/><nd ref="-1267"/><nd ref="-1268"/><nd ref="-1269"/><nd ref="-1270"/><nd ref="-1271"/><nd ref="-1272"/><nd ref="-1273"/><nd ref="-1274"/><nd ref="-1275"/><nd ref="-1276"/><nd ref="-1277"/><nd ref="-1278"/><nd ref="-1279"/><nd ref="-1280"/><nd ref="-1281"/><nd ref="-1282"/><nd ref="-1283"/><nd ref="-1284"/><nd ref="-1285"/><nd ref="-1286"/><nd ref="-1287"/><nd ref="-1288"/><nd ref="-1289"/><nd ref="-1290"/><nd ref="-1291"/><nd ref="-1292"/><nd ref="-1293"/><nd ref="-1294"/><nd ref="-1295"/><nd ref="-1229"/><tag k="building" v="civic"/><tag k="addr:housenumber" v="13525"/><tag k="addr:city" v="Burnsville"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bryant Lane"/></way>
+<way id="-1296" visible="true"><nd ref="-1297"/><nd ref="-1298"/><nd ref="-1299"/><nd ref="-1300"/><nd ref="-1301"/><nd ref="-1302"/><nd ref="-1303"/><nd ref="-1304"/><nd ref="-1305"/><nd ref="-1306"/><nd ref="-1307"/><nd ref="-1297"/><tag k="building" v="house"/><tag k="addr:housenumber" v="804"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bryant Lane"/></way>
+<way id="-1308" visible="true"><nd ref="-1309"/><nd ref="-1310"/><nd ref="-1311"/><nd ref="-1312"/><nd ref="-1309"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1313" visible="true"><nd ref="-1314"/><nd ref="-1315"/><nd ref="-1316"/><nd ref="-1317"/><nd ref="-1314"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1500"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-1318" visible="true"><nd ref="-1319"/><nd ref="-1320"/><nd ref="-1321"/><nd ref="-1322"/><nd ref="-1323"/><nd ref="-1324"/><nd ref="-1319"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-1325" visible="true"><nd ref="-1326"/><nd ref="-1327"/><nd ref="-1328"/><nd ref="-1329"/><nd ref="-1330"/><nd ref="-1331"/><nd ref="-1332"/><nd ref="-1333"/><nd ref="-1334"/><nd ref="-1335"/><nd ref="-1336"/><nd ref="-1337"/><nd ref="-1338"/><nd ref="-1339"/><nd ref="-1340"/><nd ref="-1341"/><nd ref="-1342"/><nd ref="-1343"/><nd ref="-1326"/><tag k="building" v="house"/><tag k="addr:housenumber" v="820"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bryant Lane"/></way>
+<way id="-1344" visible="true"><nd ref="-1345"/><nd ref="-1346"/><nd ref="-1347"/><nd ref="-1348"/><nd ref="-1349"/><nd ref="-1350"/><nd ref="-1351"/><nd ref="-1352"/><nd ref="-1345"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1212"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-1353" visible="true"><nd ref="-1354"/><nd ref="-1355"/><nd ref="-1356"/><nd ref="-1357"/><nd ref="-1358"/><nd ref="-1359"/><nd ref="-1360"/><nd ref="-1361"/><nd ref="-1354"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1404"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-1362" visible="true"><nd ref="-1363"/><nd ref="-1364"/><nd ref="-1365"/><nd ref="-1366"/><nd ref="-1367"/><nd ref="-1368"/><nd ref="-1369"/><nd ref="-1370"/><nd ref="-1363"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1400"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-1371" visible="true"><nd ref="-1372"/><nd ref="-1373"/><nd ref="-1374"/><nd ref="-1375"/><nd ref="-1376"/><nd ref="-1377"/><nd ref="-1378"/><nd ref="-1379"/><nd ref="-1372"/><tag k="building" v="house"/><tag k="addr:housenumber" v="808"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Bryant Lane"/></way>
+<way id="-1380" visible="true"><nd ref="-1381"/><nd ref="-1382"/><nd ref="-1383"/><nd ref="-1384"/><nd ref="-1385"/><nd ref="-1386"/><nd ref="-1387"/><nd ref="-1388"/><nd ref="-1389"/><nd ref="-1390"/><nd ref="-1391"/><nd ref="-1392"/><nd ref="-1381"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1101"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-1393" visible="true"><nd ref="-1394"/><nd ref="-1395"/><nd ref="-1396"/><nd ref="-1397"/><nd ref="-1398"/><nd ref="-1394"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1104"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="1"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-1399" visible="true"><nd ref="-1400"/><nd ref="-1401"/><nd ref="-1402"/><nd ref="-1403"/><nd ref="-1400"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1100"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="139th Street West"/></way>
+<way id="-1404" visible="true"><nd ref="-1405"/><nd ref="-1406"/><nd ref="-1407"/><nd ref="-1408"/><nd ref="-1405"/><tag k="building" v="shed"/><tag k="source" v="DCGIS"/></way>
+<way id="-1409" visible="true"><nd ref="-1410"/><nd ref="-1411"/><nd ref="-1412"/><nd ref="-1413"/><nd ref="-1414"/><nd ref="-1415"/><nd ref="-1416"/><nd ref="-1417"/><nd ref="-1410"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1505"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Irving Lane"/></way>
+<way id="-1418" visible="true"><nd ref="-1419"/><nd ref="-1420"/><nd ref="-1421"/><nd ref="-1422"/><nd ref="-1423"/><nd ref="-1424"/><nd ref="-1425"/><nd ref="-1419"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1501"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Irving Lane"/></way>
+<way id="-1426" visible="true"><nd ref="-1427"/><nd ref="-1428"/><nd ref="-1429"/><nd ref="-1430"/><nd ref="-1427"/><tag k="building" v="house"/><tag k="addr:housenumber" v="1405"/><tag k="addr:city" v="Burnsville"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55337"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Irving Lane"/></way>
+</osm>

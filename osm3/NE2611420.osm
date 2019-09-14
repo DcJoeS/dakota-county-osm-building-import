@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.658952877" lon="-93.182059393" visible="true"/>
+<node id="-3" lat="44.658931118" lon="-93.182076141" visible="true"/>
+<node id="-4" lat="44.658883169" lon="-93.181962039" visible="true"/>
+<node id="-5" lat="44.658809604" lon="-93.182026178" visible="true"/>
+<node id="-6" lat="44.65888511" lon="-93.182189753" visible="true"/>
+<node id="-7" lat="44.658915371" lon="-93.18215948" visible="true"/>
+<node id="-8" lat="44.658943102" lon="-93.182218102" visible="true"/>
+<node id="-9" lat="44.659000442" lon="-93.182167397" visible="true"/>
+<node id="-11" lat="44.655779925" lon="-93.176942319" visible="true"/>
+<node id="-12" lat="44.655773145" lon="-93.176959256" visible="true"/>
+<node id="-13" lat="44.65572391" lon="-93.176920737" visible="true"/>
+<node id="-14" lat="44.655700603" lon="-93.176987217" visible="true"/>
+<node id="-15" lat="44.65568261" lon="-93.176977759" visible="true"/>
+<node id="-16" lat="44.655704947" lon="-93.176910549" visible="true"/>
+<node id="-17" lat="44.655656902" lon="-93.176873699" visible="true"/>
+<node id="-18" lat="44.655660228" lon="-93.176861784" visible="true"/>
+<node id="-19" lat="44.655601126" lon="-93.176822394" visible="true"/>
+<node id="-20" lat="44.655577426" lon="-93.176889051" visible="true"/>
+<node id="-21" lat="44.655561742" lon="-93.176879435" visible="true"/>
+<node id="-22" lat="44.6555177" lon="-93.177018185" visible="true"/>
+<node id="-23" lat="44.655531519" lon="-93.177025295" visible="true"/>
+<node id="-24" lat="44.655770285" lon="-93.17718861" visible="true"/>
+<node id="-25" lat="44.655835812" lon="-93.176982283" visible="true"/>
+<node id="-27" lat="44.656193482" lon="-93.176949009" visible="true"/>
+<node id="-28" lat="44.656130285" lon="-93.176958363" visible="true"/>
+<node id="-29" lat="44.656131045" lon="-93.176976353" visible="true"/>
+<node id="-30" lat="44.656075872" lon="-93.176983221" visible="true"/>
+<node id="-31" lat="44.65608215" lon="-93.177058304" visible="true"/>
+<node id="-32" lat="44.656062006" lon="-93.17706162" visible="true"/>
+<node id="-33" lat="44.656055251" lon="-93.176986206" visible="true"/>
+<node id="-34" lat="44.65599764" lon="-93.176994613" visible="true"/>
+<node id="-35" lat="44.655996869" lon="-93.176980289" visible="true"/>
+<node id="-36" lat="44.655935437" lon="-93.176989905" visible="true"/>
+<node id="-37" lat="44.655938712" lon="-93.177064261" visible="true"/>
+<node id="-38" lat="44.655948928" lon="-93.177215299" visible="true"/>
+<node id="-39" lat="44.656213659" lon="-93.177172321" visible="true"/>
+<node id="-41" lat="44.659169802" lon="-93.18272835" visible="true"/>
+<node id="-42" lat="44.659139146" lon="-93.182734092" visible="true"/>
+<node id="-43" lat="44.659133135" lon="-93.182661971" visible="true"/>
+<node id="-44" lat="44.659119123" lon="-93.182665434" visible="true"/>
+<node id="-45" lat="44.659114597" lon="-93.182615033" visible="true"/>
+<node id="-46" lat="44.659025531" lon="-93.182631222" visible="true"/>
+<node id="-47" lat="44.659041404" lon="-93.182800018" visible="true"/>
+<node id="-48" lat="44.659104757" lon="-93.18278738" visible="true"/>
+<node id="-49" lat="44.659112016" lon="-93.182873872" visible="true"/>
+<node id="-50" lat="44.65918204" lon="-93.182863529" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-2"/><tag k="building" v="garage"/><tag k="source" v="DCGIS"/></way>
+<way id="-10" visible="true"><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-11"/><tag k="building" v="house"/><tag k="addr:housenumber" v="20041"/><tag k="addr:city" v="Farmington"/><tag k="addr:postcode" v="55024"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Heathrow Way"/></way>
+<way id="-26" visible="true"><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-35"/><nd ref="-36"/><nd ref="-37"/><nd ref="-38"/><nd ref="-39"/><nd ref="-27"/><tag k="building" v="house"/><tag k="addr:housenumber" v="20017"/><tag k="addr:city" v="Farmington"/><tag k="addr:postcode" v="55024"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Heathrow Way"/></way>
+<way id="-40" visible="true"><nd ref="-41"/><nd ref="-42"/><nd ref="-43"/><nd ref="-44"/><nd ref="-45"/><nd ref="-46"/><nd ref="-47"/><nd ref="-48"/><nd ref="-49"/><nd ref="-50"/><nd ref="-41"/><tag k="building" v="house"/><tag k="addr:housenumber" v="5844"/><tag k="addr:city" v="Farmington"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55024"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="200th Street West"/></way>
+</osm>

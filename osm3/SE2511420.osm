@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.650405583" lon="-93.161668201" visible="true"/>
+<node id="-3" lat="44.650417536" lon="-93.161621848" visible="true"/>
+<node id="-4" lat="44.650373696" lon="-93.161600458" visible="true"/>
+<node id="-5" lat="44.650386979" lon="-93.161549905" visible="true"/>
+<node id="-6" lat="44.650333425" lon="-93.161525313" visible="true"/>
+<node id="-7" lat="44.65032144" lon="-93.161578319" visible="true"/>
+<node id="-8" lat="44.650304999" lon="-93.161569873" visible="true"/>
+<node id="-9" lat="44.65029848" lon="-93.161602815" visible="true"/>
+<node id="-10" lat="44.65025992" lon="-93.161585737" visible="true"/>
+<node id="-11" lat="44.650239313" lon="-93.161677193" visible="true"/>
+<node id="-12" lat="44.650245206" lon="-93.161679693" visible="true"/>
+<node id="-13" lat="44.650236584" lon="-93.161717276" visible="true"/>
+<node id="-14" lat="44.650267292" lon="-93.161731793" visible="true"/>
+<node id="-15" lat="44.650265258" lon="-93.161742869" visible="true"/>
+<node id="-16" lat="44.650376884" lon="-93.161791993" visible="true"/>
+<node id="-17" lat="44.650405848" lon="-93.161801782" visible="true"/>
+<node id="-18" lat="44.650434122" lon="-93.161683091" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="20640"/><tag k="addr:city" v="Farmington"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55024"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="Dyers Pass"/></way>
+</osm>

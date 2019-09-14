@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-2" lat="44.566604332" lon="-93.130314206" visible="true"/>
+<node id="-3" lat="44.566604066" lon="-93.130295295" visible="true"/>
+<node id="-4" lat="44.5666038" lon="-93.130276385" visible="true"/>
+<node id="-5" lat="44.566603533" lon="-93.130257475" visible="true"/>
+<node id="-6" lat="44.566603268" lon="-93.130238564" visible="true"/>
+<node id="-7" lat="44.566603001" lon="-93.130219654" visible="true"/>
+<node id="-8" lat="44.566602735" lon="-93.130200744" visible="true"/>
+<node id="-9" lat="44.56660247" lon="-93.130181834" visible="true"/>
+<node id="-10" lat="44.566602204" lon="-93.130162924" visible="true"/>
+<node id="-11" lat="44.566601938" lon="-93.130144015" visible="true"/>
+<node id="-12" lat="44.566601672" lon="-93.130125104" visible="true"/>
+<node id="-13" lat="44.566601406" lon="-93.130106193" visible="true"/>
+<node id="-14" lat="44.566588199" lon="-93.130106557" visible="true"/>
+<node id="-15" lat="44.566574992" lon="-93.13010692" visible="true"/>
+<node id="-16" lat="44.566561786" lon="-93.130107283" visible="true"/>
+<node id="-17" lat="44.566548578" lon="-93.130107646" visible="true"/>
+<node id="-18" lat="44.566535372" lon="-93.13010801" visible="true"/>
+<node id="-19" lat="44.566522165" lon="-93.130108373" visible="true"/>
+<node id="-20" lat="44.566508958" lon="-93.130108735" visible="true"/>
+<node id="-21" lat="44.566495751" lon="-93.1301091" visible="true"/>
+<node id="-22" lat="44.566482544" lon="-93.130109463" visible="true"/>
+<node id="-23" lat="44.566482789" lon="-93.130126867" visible="true"/>
+<node id="-24" lat="44.566483034" lon="-93.130144271" visible="true"/>
+<node id="-25" lat="44.566483278" lon="-93.130161675" visible="true"/>
+<node id="-26" lat="44.566483523" lon="-93.13017908" visible="true"/>
+<node id="-27" lat="44.566483768" lon="-93.130196484" visible="true"/>
+<node id="-28" lat="44.566484013" lon="-93.13021389" visible="true"/>
+<node id="-29" lat="44.566484257" lon="-93.130231293" visible="true"/>
+<node id="-30" lat="44.566495128" lon="-93.130230995" visible="true"/>
+<node id="-31" lat="44.566505998" lon="-93.130230697" visible="true"/>
+<node id="-32" lat="44.566516869" lon="-93.130230398" visible="true"/>
+<node id="-33" lat="44.566527739" lon="-93.130230099" visible="true"/>
+<node id="-34" lat="44.566528006" lon="-93.130249053" visible="true"/>
+<node id="-35" lat="44.566528273" lon="-93.130268007" visible="true"/>
+<node id="-36" lat="44.566528538" lon="-93.130286961" visible="true"/>
+<node id="-37" lat="44.566528806" lon="-93.130305915" visible="true"/>
+<node id="-38" lat="44.566529073" lon="-93.13032487" visible="true"/>
+<node id="-39" lat="44.566529338" lon="-93.130343823" visible="true"/>
+<node id="-40" lat="44.566540481" lon="-93.130343517" visible="true"/>
+<node id="-41" lat="44.566551624" lon="-93.130343209" visible="true"/>
+<node id="-42" lat="44.566562768" lon="-93.130342904" visible="true"/>
+<node id="-43" lat="44.566573911" lon="-93.130342598" visible="true"/>
+<node id="-44" lat="44.566585053" lon="-93.130342291" visible="true"/>
+<node id="-45" lat="44.56660461" lon="-93.130341656" visible="true"/>
+<node id="-46" lat="44.566604598" lon="-93.130333116" visible="true"/>
+<way id="-1" visible="true"><nd ref="-2"/><nd ref="-3"/><nd ref="-4"/><nd ref="-5"/><nd ref="-6"/><nd ref="-7"/><nd ref="-8"/><nd ref="-9"/><nd ref="-10"/><nd ref="-11"/><nd ref="-12"/><nd ref="-13"/><nd ref="-14"/><nd ref="-15"/><nd ref="-16"/><nd ref="-17"/><nd ref="-18"/><nd ref="-19"/><nd ref="-20"/><nd ref="-21"/><nd ref="-22"/><nd ref="-23"/><nd ref="-24"/><nd ref="-25"/><nd ref="-26"/><nd ref="-27"/><nd ref="-28"/><nd ref="-29"/><nd ref="-30"/><nd ref="-31"/><nd ref="-32"/><nd ref="-33"/><nd ref="-34"/><nd ref="-35"/><nd ref="-36"/><nd ref="-37"/><nd ref="-38"/><nd ref="-39"/><nd ref="-40"/><nd ref="-41"/><nd ref="-42"/><nd ref="-43"/><nd ref="-44"/><nd ref="-45"/><nd ref="-46"/><nd ref="-2"/><tag k="building" v="house"/><tag k="addr:housenumber" v="3155"/><tag k="addr:city" v="Northfield"/><tag k="building:levels" v="2"/><tag k="addr:postcode" v="55057"/><tag k="source" v="DCGIS"/><tag k="addr:country" v="US"/><tag k="addr:street" v="264th Street West"/></way>
+</osm>
